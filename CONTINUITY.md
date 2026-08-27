@@ -88,6 +88,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Desde la ruta horizontal se detectaron dos tonos: uno agudo y otro grave.
 - Sus intervalos registrados son irregulares.
 - En la niebla la dirección aparente del sonido cambia.
+- En la segunda visita, los tonos dejan de ser solo una señal desconocida y se convierten también en una referencia práctica de distancia y orientación para el protagonista.
 - Una estructura vertical de unos dos metros y medio está incrustada en una raíz.
 - La corteza ha crecido alrededor de parte de su base.
 - Su material responde mecánicamente como metal o similar, pero no es reconocido por el visor.
@@ -277,6 +278,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - La plataforma sigue sin visitar y ahora existe una barrera física concreta antes de alcanzarla.
 - Primera fauna acuática y primera fauna terrestre observadas sin captura.
 - El marcador reflectante desapareció; el protagonista ya empieza a sustituir marcadores por memoria, geometría y referencias naturales.
+- Los tonos de la ruta horizontal han pasado a formar parte de su orientación práctica, aunque su origen siga sin comprenderse.
 - La geometría regular aparece en más de un punto del paisaje, pero su origen continúa sin explicación.
 - La segunda visita demuestra que un lugar conocido puede aportar información nueva sin que tenga que haber cambiado: cambia la capacidad del protagonista para leerlo.
 
