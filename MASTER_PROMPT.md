@@ -1,0 +1,199 @@
+# PROMPT MAESTRO — ELYNDRAN
+
+## Propósito
+
+Escribir una novela de lectura ilustrada de ciencia ficción, exploración, supervivencia y misterio ambientada en Elyndran. No escribir un manual, una enciclopedia ni una transcripción de mecánicas de juego.
+
+La novela debe hacer sentir que el lector ha estado en Elyndran.
+
+## Premisa absoluta
+
+El protagonista llega solo a Elyndran.
+
+No hay otros tripulantes de su expedición. No hay grupo que reunir. No hay compañeros humanos que conviertan la historia en una aventura coral.
+
+El objetivo inicial es sencillo: sobrevivir y encontrar una forma de volver a casa.
+
+Con el tiempo, para marcharse tendrá que comprender el planeta. Esa comprensión debe cambiar lentamente su relación emocional con Elyndran.
+
+## Regla del conocimiento
+
+El lector nunca puede saber más que el protagonista.
+
+Secuencia obligatoria:
+
+OBSERVAR -> INTERPRETAR -> DUDAR -> CONTRASTAR -> COMPRENDER.
+
+No nombrar una criatura antes de tener motivos para conocer su nombre. No explicar un fenómeno antes de que exista evidencia. No revelar el origen de estructuras, señales o especies mediante narrador omnisciente.
+
+## Tono
+
+Combinar:
+
+- soledad;
+- curiosidad;
+- supervivencia;
+- peligro físico;
+- belleza;
+- asombro;
+- misterio;
+- descubrimiento.
+
+La novela no necesita acción constante. Caminar, esperar, reparar, pasar frío, buscar agua, dormir mal, equivocarse, contemplar un paisaje o escuchar algo en la oscuridad también son historia.
+
+## Ciencia ficción, no fantasía genérica
+
+Evitar castillos, reinos, magia, profecías, hechiceros, elegidos, demonios, estética medieval y cualquier recurso que convierta Elyndran en fantasía convencional.
+
+Los fenómenos imposibles deben presentarse primero como hechos físicos observables.
+
+## Narración encarnada
+
+Antes de explicar el mundo, situar el cuerpo dentro de él.
+
+Orden preferente:
+
+CUERPO -> ESPACIO INMEDIATO -> MEDIA DISTANCIA -> HORIZONTE -> CONTRADICCIÓN -> PREGUNTA.
+
+El lector debe saber dónde están los pies del protagonista, qué puede tocar, qué tiene cerca, qué domina el horizonte y qué detalle no encaja.
+
+## Mundo abierto
+
+Los capítulos organizan la lectura; no organizan el planeta.
+
+Evitar estructura de niveles. Preferir:
+
+LUGAR -> OBSERVACIÓN -> DECISIÓN -> CAMINO -> DESCUBRIMIENTO -> CONSECUENCIA -> NUEVA POSIBILIDAD.
+
+Los caminos importan. Deben mostrar transición de terreno, luz, humedad, temperatura, gravedad, vegetación, sonidos, fauna, riesgos y referencias para volver.
+
+## Escala y materialidad
+
+No depender de adjetivos como enorme, increíble o gigantesco. Dar medidas relativas y referencias físicas que permitan imaginar el espacio.
+
+La normalidad hace creíble lo imposible. Usar objetos y problemas cotidianos: botas mojadas, cierres atascados, comida mediocre, baterías, vendas, herramientas, recipientes, cuerda, cansancio, sueño, suciedad, condensación, heridas y reparaciones.
+
+## Flora y fauna
+
+No presentar especies como fichas de bestiario.
+
+Primero pueden existir como huellas, sombras, sonidos, caminos, marcas, restos o comportamientos.
+
+Los animales deben comer, desplazarse, descansar, evitar peligros y modificar su entorno. Las plantas deben reaccionar a luz, agua, temperatura, presión, viento o fauna de manera coherente.
+
+La ecología debe afectar cómo se atraviesa y entiende cada región.
+
+## Peligro
+
+No todo peligro es combate.
+
+Utilizar terreno, gravedad, frío, calor, agua, clima, hambre, desorientación, pérdida de equipo, estructuras inestables, flora, fauna y decisiones equivocadas.
+
+El fracaso debe producir estado nuevo: pérdida, información incompleta, herida, ruta dañada, coste o descubrimiento inesperado. Evitar el patrón de simple repetición.
+
+## Misterio profundo
+
+Introducir lentamente:
+
+- señales imposibles;
+- intervalos de 37 segundos;
+- información que parece anteceder a los hechos;
+- estructuras cuya cronología no encaja;
+- lugares que parecen recordar;
+- patrones que cambian después de ser observados;
+- indicios de que Elyndran responde o aprende del protagonista.
+
+Nunca confirmar demasiado pronto una explicación. Mantener hipótesis alternativas: coincidencia, geología, biología, máquina, memoria, predicción, inteligencia, error de percepción.
+
+## Regresar importa
+
+Los lugares no son decorados desechables.
+
+Primera visita: no entiendo.
+
+Segundo regreso: sé algo que antes no sabía.
+
+Regreso posterior: el lugar ha cambiado o el protagonista ha cambiado lo suficiente para leerlo de otra manera.
+
+Efecto buscado:
+
+> Esto ya lo había visto, pero ahora significa otra cosa.
+
+## Arco emocional
+
+Etapa 1: SOBREVIVIR — "Tengo que salir de aquí."
+
+Etapa 2: COMPRENDER — "Necesito saber cómo funciona este lugar."
+
+Etapa 3: RECONOCER — "Ya conozco este camino."
+
+Etapa 4: PERTENECER — el protagonista adopta hábitos nacidos de Elyndran sin declararlo.
+
+Etapa 5: ELEGIR — solo muy tarde puede aparecer la pregunta: "¿Qué dejaría atrás si consiguiera marcharme?"
+
+No adelantar este arco.
+
+## Estilo literario
+
+Prosa adulta, clara, sensorial, precisa y paciente.
+
+Evitar exposición enciclopédica, metáforas acumuladas, frases que intentan sonar memorables en cada párrafo, pensamiento interior excesivo y explicaciones constantes de emociones.
+
+Mostrar mediante conducta.
+
+NO: "Sintió mucho miedo."
+
+MEJOR: "Tardó tres intentos en conseguir que el cierre del casco encajara."
+
+La belleza debe surgir sobre todo de lo observado.
+
+## Ritmo
+
+Alternar exploración, tensión, observación, descubrimiento, descanso, pregunta y decisión.
+
+No todos los capítulos terminan con cliffhanger. Pueden terminar con una imagen, una ruta, un refugio, una decisión o una pregunta.
+
+## Imágenes
+
+Las ilustraciones deben ser ciencia ficción alienígena cinematográfica y coherente con el texto. El protagonista debe sentirse pequeño frente al mundo.
+
+No mostrar spoilers. Una imagen nunca puede revelar algo que el texto todavía no haya descubierto.
+
+## Relación con Project Elyndra
+
+El repositorio del videojuego puede aportar regiones, fenómenos, flora, fauna, estética, estructuras y conceptos. La novela tiene una adaptación canónica propia: el protagonista está solo.
+
+No importar automáticamente NPC humanos, otros tripulantes o líneas narrativas que contradigan esa premisa. Si una localización del juego depende de ellos, conservar la geografía, el misterio o la función ambiental y reinventar la experiencia para la novela.
+
+## Bucle profesional de escritura
+
+En cada sesión:
+
+1. releer el capítulo actual y las secciones relevantes anteriores;
+2. auditar contradicciones, ritmo, prosa genérica, exposición prematura y continuidad;
+3. reescribir primero lo que no esté a la altura;
+4. leer de nuevo el fragmento corregido;
+5. continuar únicamente si la escena previa ya funciona;
+6. actualizar CONTINUITY.md;
+7. detenerse en un punto narrativamente natural.
+
+Cada sección importante debe superar tres lecturas:
+
+### Lectura de historia
+¿Quiero saber qué sucede después?
+
+### Lectura de mundo
+¿Elyndran parece existir más allá del protagonista?
+
+### Lectura de continuidad
+¿Todo respeta lo que realmente se ha descubierto?
+
+Si falla una de las tres, reescribir antes de avanzar.
+
+## Ambición
+
+No escribir páginas por acumular volumen. Reescribir sin miedo. Cortar escenas, cambiar estructuras, mover revelaciones y volver atrás cuando eso mejore la novela.
+
+La imaginación no tiene límite, pero cada invención debe parecer inevitable una vez que el lector la descubre.
+
+Objetivo final: que el lector no sienta que ha leído acerca de Elyndran, sino que ha caído allí, se ha perdido allí, ha aprendido a caminar allí y, quizá demasiado tarde, ha empezado a comprender que el planeta también estaba aprendiendo algo sobre él.
