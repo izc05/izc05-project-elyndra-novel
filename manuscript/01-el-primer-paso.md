@@ -299,3 +299,277 @@ Delante, las membranas bajo el borde de la raíz volvieron a tensarse.
 Te agachaste antes de que llegara el viento.
 
 Y seguiste andando.
+
+---
+
+Los destellos no volvieron a aparecer.
+
+Durante casi media hora caminaste hacia el lugar aproximado donde los habías visto y no encontraste nada que te permitiera confirmar que te acercabas. La niebla se cerró poco a poco y la columna de vapor desapareció primero. Después dejaron de verse las raíces más lejanas. Al final, todo el mundo volvió a reducirse a unos pocos metros de corteza mojada delante de tus botas.
+
+Fue entonces cuando encontraste las marcas.
+
+Tres depresiones ovaladas atravesaban la parte superior de la raíz en diagonal. Cada una era más larga que tu antebrazo y lo bastante profunda para acumular agua. Los bordes estaban pulidos.
+
+Te agachaste junto a la primera sin apoyar la rodilla derecha.
+
+Pasaste un dedo enguantado por uno de los surcos.
+
+Arañazos paralelos.
+
+Todos orientados en la misma dirección.
+
+Sacaste la cámara del antebrazo y fotografiaste el patrón con una referencia de escala.
+
+No escribiste *huella*.
+
+No todavía.
+
+**HECHO:** la corteza había sido comprimida o desgastada de forma repetida.
+
+Eso bastaba.
+
+Al incorporarte apagaste durante tres segundos el ventilador secundario del casco.
+
+La diferencia fue inmediata.
+
+La lluvia fina dejó de ser ruido de fondo y se convirtió en miles de pequeños impactos sobre hojas, corteza y membranas. Más abajo corría agua. A tu izquierda, una raíz crujió lentamente con el viento.
+
+Entonces escuchaste otra cosa.
+
+Un golpe seco.
+
+Lejano.
+
+Como dos piedras chocando una sola vez.
+
+Esperaste.
+
+Nada.
+
+Volviste a activar el ventilador.
+
+Treinta pasos después llegó de nuevo.
+
+Dos golpes esta vez.
+
+No procedían de delante.
+
+El sonido subía desde algún punto por debajo de la niebla.
+
+Te acercaste al borde lo suficiente para mirar sin comprometer el equilibrio.
+
+Una raíz inferior apareció durante unos segundos entre las nubes. Era mucho más ancha que aquella sobre la que caminabas y estaba cubierta por manchas pálidas de forma irregular.
+
+No viste movimiento.
+
+La niebla volvió a cubrirla.
+
+Guardaste la ubicación aproximada.
+
+Por primera vez desde la caída, el silencio dejó de significar ausencia.
+
+Solo significaba que todavía no sabías escuchar Elyndran.
+
+---
+
+La ruta se dividió poco después.
+
+Una rama ascendía hacia un entramado más oscuro de vegetación. Otra mantenía la altura y desaparecía dentro de una nube compacta. La tercera descendía hacia una claridad azul que parecía filtrarse desde algún lugar muy por debajo.
+
+Tres caminos.
+
+Ninguna señal.
+
+Ninguna explicación.
+
+Miraste la batería del traje.
+
+Había consumido más de lo previsto manteniendo temperatura, filtrado y análisis ambiental. El costado dolía cada vez que girabas el torso y la rodilla empezaba a sentirse más caliente dentro de la venda.
+
+La lluvia aumentaba.
+
+Las membranas del borde se mantenían tensas durante intervalos más largos, incluso cuando el viento todavía no había llegado.
+
+No sabías qué anunciaban.
+
+Y no querías aprenderlo a varios kilómetros de tu único refugio.
+
+Sacaste una tira reflectante del equipo, limpiaste una pequeña zona de corteza y la pegaste orientada hacia el camino de regreso.
+
+La humedad levantó una esquina.
+
+La presionaste.
+
+Volvió a separarse.
+
+Usaste la herramienta multipropósito para raspar una superficie del tamaño de dos dedos y probaste otra vez.
+
+Esta vez quedó fija.
+
+Te quedaste mirando la marca blanca sobre la corteza oscura.
+
+Era minúscula frente a la raíz.
+
+Pero era la primera cosa de Elyndran que habías cambiado deliberadamente.
+
+Guardaste su posición.
+
+Después diste media vuelta.
+
+No era una retirada.
+
+Era la primera ruta a la que pensabas regresar.
+
+---
+
+Al pasar de nuevo junto a las tres depresiones te detuviste.
+
+La primera conservaba agua.
+
+La segunda también.
+
+La tercera estaba vacía.
+
+Miraste la fotografía de la ida.
+
+Las tres aparecían llenas.
+
+Podía haberla vaciado una ráfaga.
+
+La raíz podía haber cambiado ligeramente de inclinación.
+
+El agua podía haberse filtrado por una grieta que no habías visto.
+
+Tres explicaciones normales.
+
+Entonces observaste el borde.
+
+Había una línea húmeda, ancha y curva, sobre la corteza pulida.
+
+Comparaste la imagen otra vez.
+
+La marca no estaba allí antes.
+
+Te incorporaste demasiado deprisa y el costado te obligó a detenerte.
+
+Miraste hacia la ruta que acababas de abandonar.
+
+Nada.
+
+Miraste hacia abajo.
+
+Niebla.
+
+No corriste de regreso.
+
+Te costó más no hacerlo que cruzar la grieta con viento lateral.
+
+---
+
+La cápsula apareció detrás de la última curva como una pieza de maquinaria abandonada por otra persona.
+
+La sensación duró menos de un segundo.
+
+Después reconociste el retropropulsor aplastado, la tira de cinta junto a la abertura inferior y la escotilla deformada.
+
+Entraste.
+
+Cerraste.
+
+Comprobaste el cierre dos veces.
+
+Solo entonces dejaste la mochila.
+
+La exploración había durado menos de tres horas.
+
+No habías encontrado comida.
+
+No habías encontrado una señal de radio.
+
+No habías encontrado una forma de volver a casa.
+
+Habías encontrado tres rutas, un sistema biológico capaz de advertirte del viento, agua que todavía no podías beber, una columna de vapor, destellos sin origen, marcas sobre la corteza y un sonido procedente de debajo de la niebla.
+
+Era poco para un planeta.
+
+Era demasiado para una tarde.
+
+Calentaste media ración con el módulo térmico de la cápsula. El sistema necesitó tres intentos para encender y dejó un olor leve a aislante recalentado.
+
+Comiste despacio.
+
+La oscuridad llegó sin un atardecer claro. La niebla simplemente fue perdiendo luz hasta convertirse primero en gris y después en negro.
+
+Apagaste los sistemas que no necesitabas.
+
+Intentaste dormir.
+
+Cada crujido de la raíz parecía más cercano cuando no podías verlo.
+
+A los veinte minutos apagaste otra vez el ventilador secundario.
+
+Lluvia.
+
+Goteo.
+
+La estructura cargando con el viento.
+
+Nada más.
+
+Cerraste los ojos.
+
+Entonces llegó el golpe.
+
+Uno.
+
+Seco.
+
+Muy lejos, bajo la cápsula.
+
+Abriste los ojos.
+
+Esperaste.
+
+Segundo golpe.
+
+Más cerca.
+
+No mucho.
+
+Lo suficiente.
+
+Te incorporaste sin hacer ruido.
+
+Esperaste un tercero.
+
+No llegó.
+
+Pasó un minuto.
+
+Después otro.
+
+La raíz crujió bajo ti.
+
+No como antes.
+
+Esta vez el sonido recorrió la corteza de un extremo al otro, profundo y lento, como una tensión liberándose a kilómetros de distancia.
+
+Las membranas pegadas todavía al ventanal se tensaron de golpe.
+
+Un segundo después, una ráfaga barrió la lluvia del cristal.
+
+Durante ese instante viste algo moverse en la niebla inferior.
+
+No una forma completa.
+
+Solo una sombra atravesando el hueco entre dos raíces.
+
+No pudiste calcular su distancia.
+
+Tampoco su tamaño.
+
+Solo supiste que no estaba quieta.
+
+La lluvia volvió a cubrir el ventanal.
+
+Te quedaste mirando la oscuridad mucho después de que ya no hubiera nada que ver.
