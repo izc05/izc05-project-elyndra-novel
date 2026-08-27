@@ -11,8 +11,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo IV cerrado: `manuscript/04-dos-tonos-en-la-niebla.md` — **Dos tonos en la niebla**.
 - Capítulo V cerrado: `manuscript/05-la-ruta-que-sube.md` — **La ruta que sube**.
 - Capítulo VI cerrado: `manuscript/06-la-segunda-visita.md` — **La segunda visita**.
+- Capítulo VII cerrado: `manuscript/07-la-parte-seca.md` — **La parte seca**.
 
-El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, regresado a la estructura de tres brazos y avanzado hasta una rotura desde la que comprende mejor la geometría y dificultad real de acceso a la plataforma lejana. No ha encontrado otra persona ni una forma de abandonar Elyndran.
+El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, regresado a la estructura de tres brazos y avanzado hasta una rotura desde la que comprende mejor la dificultad real de acceso a la plataforma lejana. En el Capítulo VII la tormenta convierte la cápsula en un refugio que ya necesita mantenimiento activo: aparece una filtración sobre una batería auxiliar, el protagonista repara la junta y monta un pequeño desvío de lluvia con restos del paracaídas. No ha encontrado otra persona ni una forma de abandonar Elyndran.
 
 ## HECHOS
 
@@ -38,7 +39,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Se tensan aproximadamente un segundo antes de una ráfaga.
 - El protagonista usa esa reacción como aviso práctico.
 - Durante una tormenta permanecieron tensas durante intervalos más largos antes de cambios bruscos de presión y dirección del aire.
-- El conocimiento ya está incorporado corporalmente: en el Capítulo VI reduce el paso antes de una ráfaga sin detenerse a analizar la reacción.
+- El conocimiento ya está incorporado corporalmente: en el Capítulo VI reduce el paso antes de una ráfaga sin detenerse a analizar la reacción; en el Capítulo VII anticipa una ráfaga mientras trabaja en la reparación exterior.
 
 ### Filamentos azul grisáceos
 - Crecen bajos sobre la corteza.
@@ -88,7 +89,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Desde la ruta horizontal se detectaron dos tonos: uno agudo y otro grave.
 - Sus intervalos registrados son irregulares.
 - En la niebla la dirección aparente del sonido cambia.
-- En la segunda visita, los tonos dejan de ser solo una señal desconocida y se convierten también en una referencia práctica de distancia y orientación para el protagonista.
+- En la segunda visita, los tonos dejan de ser solo una señal desconocida y se convierten también en una referencia práctica de distancia y orientación.
 - Una estructura vertical de unos dos metros y medio está incrustada en una raíz.
 - La corteza ha crecido alrededor de parte de su base.
 - Su material responde mecánicamente como metal o similar, pero no es reconocido por el visor.
@@ -124,6 +125,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Reunió aproximadamente once metros de líneas útiles en tramos desiguales.
 - Fabricó un sistema improvisado de aseguramiento.
 - Registro: `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
+- En el Capítulo VII corta otra pieza de tejido del paracaídas para desviar la lluvia sobre la zona reparada de la cápsula y usa un tramo corto de línea para reforzar el anclaje.
 
 ### Ruta ascendente
 - Entra en una bóveda de vegetación densa donde la lluvia deja de golpear directamente el casco.
@@ -159,15 +161,31 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - La vegetación cobriza cerró parte de sus láminas durante las ráfagas.
 - El marcador reflectante desapareció durante el episodio.
 
-### Equipo y estado físico
-- La cápsula sigue siendo el único refugio seguro conocido.
-- Recursos confirmados: agua, raciones, botiquín, baterías, herramienta multipropósito, manta térmica, cinta, cable fino, filtros y linterna auxiliar.
+### Cápsula, refugio y mantenimiento
+- La cápsula sigue siendo el único refugio seguro conocido, pero ya no puede tratarse como un sistema intacto.
+- Tras la tormenta apareció una filtración que descendía por una junta deformada y goteaba sobre la carcasa de una batería auxiliar.
+- El protagonista aisló la batería antes de trabajar y confirmó después que el aislamiento eléctrico seguía correcto.
+- La filtración procede de la zona de una deformación ya dañada durante el impacto; no se ha demostrado una rotura nueva.
+- La junta fue secada y sellada con aislamiento y cinta de reparación.
+- Para mantener seca la zona, el protagonista construyó un pequeño desvío de lluvia exterior con tejido de paracaídas y línea recuperada.
+- El primer anclaje cedió con una ráfaga; el segundo, reforzado, resistió la siguiente.
+- Al final del Capítulo VII la junta permanece seca.
+- El interior acumula ya barro, material desmontado y reparaciones: la cápsula deja de conservar el aspecto de refugio intacto de los primeros días.
+
+### Recursos y presión de supervivencia
+- Recursos confirmados: agua sellada, raciones, botiquín, baterías, herramienta multipropósito, manta térmica, cinta, cable fino, filtros y linterna auxiliar.
 - La mochila mantiene una cremallera dañada marcada con cinta.
 - La baliza transmite sin respuesta.
+- En el Capítulo VII el protagonista vuelve a contar agua, raciones y filtros en términos de duración, no solo de inventario.
+- Todavía no necesita beber agua de Elyndran de inmediato, pero decide que debe empezar a analizarla antes de que la escasez lo obligue.
+- Próxima intención explícita: recoger una muestra limpia de uno de los discos de agua y analizarla con el equipo disponible antes de considerar cualquier consumo.
+
+### Estado físico
 - Costado izquierdo en mejoría.
-- Rodilla derecha sigue rígida pero la inflamación ha bajado en el Capítulo VI; continúa condicionando posturas y bordes.
+- Rodilla derecha sigue rígida pero la inflamación ha bajado; continúa condicionando posturas y bordes.
 - Cuello con rigidez residual.
-- Capacidad motora conservada.
+- En el Capítulo VII se golpea los nudillos al desmontar un panel; hay hinchazón leve pero conserva movilidad de los dedos.
+- Capacidad motora general conservada.
 - Sigue usando casco y filtrado.
 
 ## HIPÓTESIS ACTIVAS
@@ -188,6 +206,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
 - La criatura terrestre probablemente utiliza el aplanamiento y coloración como camuflaje, pero no está demostrado.
 - La geometría regular vista desde la terraza podría estar relacionada con los destellos observados antes, pero la distancia impide confirmarlo.
+- El agua de los discos no debe considerarse potable hasta obtener análisis suficientes; su apariencia clara no demuestra seguridad.
 
 ## PREGUNTAS ABIERTAS
 
@@ -202,6 +221,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - ¿Qué fue la sombra de la primera noche?
 - ¿Qué son exactamente los discos de agua?
 - ¿Qué detecta la fauna acuática antes que el traje?
+- ¿El agua acumulada en los discos puede procesarse o beberse con seguridad?
 - ¿Qué provocó la inclinación de la raíz inferior?
 - ¿Qué hay por debajo de la capa explorada?
 - ¿Qué inicia las vibraciones de la estructura de tres brazos?
@@ -216,12 +236,13 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
 - ¿Qué es la geometría regular observada desde la terraza alta?
 - ¿Está relacionada con los destellos o la estructura de tres brazos?
+- ¿Cuánto tiempo puede mantenerse operativa la cápsula con reparaciones de campo?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** único refugio seguro conocido.
+- **Cápsula / lugar de caída:** refugio principal conocido, ahora reparado y mantenido activamente.
 - **Primera ruta:** conecta la cápsula con la bifurcación.
 - **Bifurcación principal:** tres ramas; el marcador reflectante ya no está.
 - **Ruta descendente:** conduce a la raíz rota, raíz intermedia y raíz inferior de los discos.
@@ -264,6 +285,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Captura manual de `37`.
 - Mochila de superficie con cremallera dañada.
 - Sistema improvisado de aseguramiento.
+- Pequeño desvío de lluvia exterior hecho con tejido de paracaídas y línea recuperada.
 - Grabación del oscurecimiento nocturno.
 - Grabación de los tonos.
 - Fotografías de la estructura de tres brazos, hendiduras, plataforma, geometría regular de la terraza, borde roto y línea oscura bajo la raíz opuesta.
@@ -271,6 +293,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 ## CONSECUENCIAS PERSISTENTES
 
 - Cápsula inmovilizada y enlace con Aster perdido.
+- La cápsula ya requiere mantenimiento de campo; una reparación de filtración y su pequeño techo de paracaídas deben conservarse en continuidad.
 - Lesión de rodilla condiciona desplazamientos, aunque muestra mejoría.
 - Membranas convertidas en conocimiento práctico incorporado al movimiento.
 - Las tres ramas principales contienen ya rutas y preguntas concretas.
@@ -281,6 +304,8 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Los tonos de la ruta horizontal han pasado a formar parte de su orientación práctica, aunque su origen siga sin comprenderse.
 - La geometría regular aparece en más de un punto del paisaje, pero su origen continúa sin explicación.
 - La segunda visita demuestra que un lugar conocido puede aportar información nueva sin que tenga que haber cambiado: cambia la capacidad del protagonista para leerlo.
+- Agua, filtros y raciones dejan de ser inventario abstracto y pasan a imponer horizonte temporal; el próximo problema de supervivencia es aprender si puede obtener agua local segura antes de agotar la reserva.
+- El protagonista empieza a modificar de forma práctica su zona de caída para seguir viviendo en ella, todavía por necesidad y no por sentimiento de pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
