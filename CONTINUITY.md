@@ -4,293 +4,269 @@ Este archivo registra únicamente lo que la novela ha establecido. Debe actualiz
 
 ## Estado de la novela
 
-Prólogo canónico cerrado en `manuscript/00-prologo.md`: **«Treinta y siete segundos»**.
+- Prólogo cerrado: `manuscript/00-prologo.md` — **«Treinta y siete segundos»**.
+- Capítulo I cerrado: `manuscript/01-el-primer-paso.md` — **«El primer paso»**.
+- Capítulo II abierto/casi cerrado: `manuscript/02-bajo-la-niebla.md` — **«Bajo la niebla»**.
+- Capítulo III iniciado: `manuscript/03-la-ruta-que-respira.md` — **«La ruta que respira»**.
 
-Capítulo I canónico cerrado en `manuscript/01-el-primer-paso.md`: **«El primer paso»**.
-
-Capítulo II iniciado en `manuscript/02-bajo-la-niebla.md`: **«Bajo la niebla»**.
-
-El protagonista ha descendido por primera vez a una capa inferior de la red de raíces, ha confirmado la existencia de fauna pequeña acuática y ha comprobado que existe todavía más profundidad por debajo de la zona explorada.
+El protagonista ha confirmado la primera fauna de Elyndran, ha descendido a una capa inferior de raíces, ha regresado con dificultad y ha detectado un nuevo fenómeno acústico procedente de la rama horizontal de la bifurcación principal.
 
 ## Premisa establecida
 
 - El protagonista llega solo a Elyndran.
 - No hay otros tripulantes de su expedición.
 - No hay rescate confirmado.
-- La misión Aster estaba diseñada con una sola plaza humana y sistemas automáticos.
-- Su objetivo inicial es sobrevivir y encontrar una forma de volver a casa.
-- El lector descubre Elyndran al mismo ritmo que el protagonista.
+- Aster estaba diseñada para una sola plaza humana y sistemas automáticos.
+- Objetivo inicial: sobrevivir y encontrar una forma de volver a casa.
+- El lector nunca sabe más que el protagonista.
 
-## Hechos conocidos por el protagonista
+## Hechos conocidos
 
-### Anomalía y caída
+### Anomalía de entrada
 
-- Antes de entrar en la atmósfera, el sensor de contacto mostró `CONTACTO CON SUPERFICIE: −37,00 s` pese a que la nave seguía físicamente por encima de Elyndran.
-- El valor imposible desapareció del historial ordinario, pero una captura manual parcial conservó los caracteres `37`.
-- La entrada atmosférica sufrió una divergencia de referencia inercial y altitud; el panel llegó a mostrar dos horizontes incompatibles.
-- La cápsula se separó automáticamente de Aster sin que el protagonista autorizara conscientemente la separación.
-- Tras la separación se perdió todo enlace con Aster y cualquier baliza orbital accesible.
-- El paracaídas principal falló; el secundario se dañó pocos segundos después de desplegarse.
-- La cápsula sobrevivió al impacto utilizando retropropulsores de emergencia y quedó encajada de costado sobre una raíz monumental.
+- Antes del contacto real, el sensor mostró `CONTACTO CON SUPERFICIE: −37,00 s`.
+- El valor desapareció del historial ordinario.
+- Una captura manual dañada conserva parcialmente `37`.
+- Durante la entrada hubo divergencia entre referencia inercial, altitud y horizonte visual.
+- La cápsula se separó de Aster sin autorización consciente del protagonista.
+- Tras la separación se perdió todo enlace con Aster y balizas accesibles.
+- El paracaídas principal falló; el secundario se dañó.
+- La cápsula quedó inmovilizada sobre una raíz monumental.
 
 ### Entorno de raíces suspendidas
 
-- El lugar de caída contiene múltiples raíces suspendidas a distintas alturas, con bancos de niebla entre ellas.
-- No se ha visto suelo planetario.
-- Algunas raíces sostienen masas vegetales y depósitos naturales de agua; otras están casi desnudas.
-- Existen cascadas que caen desde unas raíces hacia capas inferiores sin destino visible.
-- La temperatura y humedad cambian con la profundidad: la primera capa inferior explorada es casi cuatro grados más cálida que la zona de la cápsula.
-- La presión exterior es compatible con el traje, pero el oxígeno no permite todavía confiar en respirar sin filtro.
-- Existe al menos una columna de vapor lejana cuyo origen no se conoce.
-- Se observaron tres destellos lejanos en una dirección aproximada; no se conoce su origen.
+- No se ha visto todavía suelo planetario.
+- Existen raíces a múltiples alturas, bancos de niebla, vegetación y cascadas entre capas.
+- Algunas zonas son más cálidas y húmedas a medida que se desciende.
+- La primera capa inferior explorada es aproximadamente cuatro grados más cálida que la zona de la cápsula.
+- La atmósfera exterior no se considera segura para respirar sin filtrado.
+- La visibilidad cambia con rapidez y puede provocar errores de perspectiva.
 
 ### Membranas transparentes
 
-- Bajo varias raíces cuelgan membranas transparentes, flexibles y frías.
-- Se contraen ante contacto físico directo.
-- Después de ser tocadas tardan varios segundos en recuperar su extensión.
-- Se tensan aproximadamente un segundo antes de que llegue una ráfaga de viento.
-- El protagonista ya utiliza ese comportamiento como aviso práctico durante desplazamientos expuestos.
-- No se sabe qué variable detectan ni si son planta, parte de la raíz u organismo independiente.
+- Cuelgan bajo varias raíces.
+- Se contraen al contacto.
+- Se tensan aproximadamente un segundo antes de una ráfaga.
+- El protagonista usa ese comportamiento como aviso práctico de viento.
+- No se conoce qué variable detectan ni su clasificación biológica.
 
-### Bifurcación de tres rutas
+### Primera ruta y bifurcación
 
-- La primera ruta larga desde la cápsula termina en una bifurcación.
-- Una rama asciende hacia vegetación más densa.
-- Otra mantiene aproximadamente la altura y entra en niebla cerrada.
-- La tercera desciende hacia una claridad azul.
-- El protagonista colocó una tira reflectante en la bifurcación para marcar el regreso.
-- En el Capítulo II eligió por primera vez la ruta descendente.
+- Existe una ruta reproducible desde la cápsula hasta una bifurcación principal.
+- El protagonista colocó allí una tira reflectante.
+- Tres ramas: ascendente hacia vegetación densa; horizontal dentro de niebla; descendente hacia capas inferiores.
+- La ruta descendente ya ha sido explorada parcialmente.
+- Las otras dos continúan sin explorar.
 
 ### Marcas, golpes y sombra
 
-- Existen tres depresiones ovaladas de gran tamaño sobre una raíz, con bordes pulidos y arañazos paralelos.
-- Durante la ida estaban llenas de agua; al regreso una estaba vacía y mostraba una marca húmeda nueva.
+- Tres depresiones ovaladas grandes presentan bordes pulidos y arañazos paralelos.
+- Una cambió entre ida y regreso: perdió el agua acumulada y apareció una marca húmeda nueva.
 - Se han oído golpes secos procedentes de niveles inferiores en varias ocasiones.
-- Durante la primera noche se observó una sombra móvil entre raíces inferiores durante unos pocos fotogramas.
-- La grabación no permite identificar anatomía, tamaño ni naturaleza biológica de la sombra.
-- El vídeo queda archivado como `OSCURECIMIENTO MÓVIL. ORIGEN NO DETERMINADO`.
-- Los golpes persisten incluso en la capa inferior explorada y proceden de una profundidad mayor que la raíz donde se encuentra el protagonista.
+- Durante la primera noche se registró un oscurecimiento móvil entre raíces inferiores.
+- La grabación no permite identificar anatomía ni confirmar organismo.
+- Archivo: `OSCURECIMIENTO MÓVIL. ORIGEN NO DETERMINADO`.
 
 ### Descenso bajo la niebla
 
-- La ruta descendente conduce a una raíz rota cuyo extremo expone fibras endurecidas de gran tamaño.
-- Una fibra oblicua permite alcanzar una raíz intermedia, pero el descenso es difícil y no constituye todavía una ruta segura.
-- El cable fino de dos metros no es suficiente para asegurar el descenso completo.
-- Una película elástica y húmeda cubre parte de una de las fibras; recupera lentamente su forma tras presión mecánica. No se ha clasificado.
-- Desde la raíz intermedia se puede descender a otra raíz inferior situada entre nieblas más cálidas.
+- La ruta descendente conduce a una raíz rota y a fibras que permiten bajar con dificultad.
+- El cable fino de dos metros es insuficiente para asegurar la ruta.
+- Parte de las fibras está cubierta por una película húmeda, elástica y no clasificada.
+- El protagonista resbaló durante el regreso y golpeó la rodilla derecha, empeorando temporalmente el dolor.
+- Ha tomado una dosis mínima de analgésico después de valorar que la lesión empezaba a ser un riesgo mayor que ocultar el dolor.
 
 ### Discos de agua
 
-- La raíz inferior contiene decenas de estructuras circulares o cóncavas de aproximadamente un metro o más de diámetro.
-- Tienen bordes translúcidos y centros lechosos.
-- Acumulan agua de lluvia como pequeñas piscinas naturales.
-- No se sabe todavía si forman parte de la raíz, son organismos independientes o estructuras producidas por otra forma de vida.
+- En una raíz inferior existen numerosos discos cóncavos de borde translúcido y centro lechoso.
+- Acumulan agua y sirven de hábitat a fauna pequeña.
+- Tras una inclinación momentánea de la raíz, uno de los discos quedó vacío.
+- Después del movimiento se observó una línea oscura en su centro que no era visible antes; puede ser grieta o estructura previamente cubierta por agua.
+- No se ha comprobado directamente.
 
 ### Primera fauna confirmada
 
-- Dentro de uno de los discos de agua viven al menos dos pequeños animales acuáticos.
-- Son planos y muy finos; al girarse casi desaparecen de perfil.
-- Su superficie superior refleja tonos gris azulados.
-- En la cara inferior presentan puntos pálidos que se encienden y apagan sin patrón conocido.
-- Se desplazan mediante ondulaciones que recorren el cuerpo hacia los bordes.
-- Pasan repetidamente sobre una película verdosa adherida a la pared interior del disco y dejan una franja más clara; esto sugiere alimentación, pero todavía es hipótesis.
-- Reaccionan antes que el visor del protagonista a cambios de compensación térmica del traje: huyen cuando el calentador aumenta potencia, antes de que el protagonista perciba físicamente el cambio.
-- También se adhieren al fondo del disco cuando llegan golpes profundos a través de la raíz.
-- Son la primera fauna confirmada de Elyndran.
-- No han sido capturados ni tocados.
+- Pequeños animales acuáticos planos viven dentro de los discos.
+- Tamaño aproximado: dos dedos.
+- Cuerpo muy fino, gris azulado, con puntos pálidos en la cara inferior.
+- Movimiento por ondulación.
+- Parecen recorrer una película verdosa de la pared del disco dejando franjas claras; posible alimentación, no confirmada.
+- Reaccionan a cambios asociados al calentador del traje antes de que el protagonista perciba el cambio.
+- También se adhieren al fondo ante golpes transmitidos por la raíz.
+- No han sido tocados ni capturados.
 
-### Movimiento estructural inferior
+### Movimiento estructural
 
-- Durante una secuencia de golpes profundos, la raíz inferior cambió de inclinación lo suficiente para que uno de los discos empezara a derramar agua.
+- Una raíz inferior cambió ligeramente de inclinación durante una secuencia de golpes profundos.
 - El movimiento duró pocos segundos.
-- No se sabe si fue flexión natural, transmisión mecánica desde otra raíz, efecto de un organismo grande o fenómeno distinto.
+- No se conoce su causa.
+
+### Error de perspectiva confirmado
+
+- Durante el regreso, la niebla hizo parecer que una raíz se bifurcaba cuando en realidad otra raíz pasaba por debajo.
+- El protagonista comprobó el error desplazándose y comparando la geometría.
+- Registro: `ERROR DE PERSPECTIVA POR NIEBLA`.
+- Este hecho es importante: no toda contradicción visual en Elyndran es una anomalía.
+
+### Nuevo fenómeno acústico — rama horizontal
+
+- Cerca de la bifurcación principal se oyó un tono agudo breve procedente de la rama horizontal cubierta por niebla.
+- El receptor de comunicaciones estaba apagado.
+- El tono volvió varias veces.
+- En una ocasión reapareció aproximadamente diecisiete segundos después; todavía no hay datos suficientes para afirmar periodicidad.
+- En una repetición apareció seguido por un segundo tono más grave.
+- No coincide con alarmas conocidas del traje/Aster ni con los golpes de niveles inferiores.
+- El protagonista grabó el audio y no entró en la niebla por fatiga, lesión y consumo energético.
 
 ### Equipo y supervivencia
 
-- La cápsula conserva agua de emergencia, botiquín, baterías portátiles, herramienta multipropósito y raciones.
-- El protagonista transporta una mochila de superficie con agua, comida limitada, una batería, botiquín reducido, herramienta multipropósito, manta térmica, cinta de reparación y cable fino.
-- En el Capítulo II añade la linterna auxiliar y deja una ración para compensar peso.
-- La cremallera izquierda de la mochila ha perdido dos dientes y está marcada con cinta.
-- La baliza de emergencia transmite pero no recibe respuesta.
-- El receptor se mantiene apagado cuando no es necesario para ahorrar energía.
-- El agua ambiental no se bebe sin clasificación suficiente.
-- El protagonista registra rutas mediante cámara y referencias visuales.
+- La cápsula es el único refugio seguro conocido.
+- Recursos confirmados: agua de emergencia, raciones, botiquín, baterías, herramienta multipropósito, manta térmica, cinta de reparación, cable fino, filtros y linterna auxiliar.
+- La mochila tiene una cremallera dañada marcada con cinta.
+- La baliza transmite sin respuesta.
+- El protagonista registra rutas, audio y vídeo.
+- Ha identificado posibles materiales recuperables en la cápsula/paracaídas: correas, malla de carga y componentes de reparación que podrían servir para fabricar un sistema de descenso mejor.
 
-## Hipótesis del protagonista
+## Hipótesis activas
 
-- El valor `−37,00 s` podría ser un fallo de sensor, navegación o registro, pero su repetición exacta hace insuficiente una explicación simple.
-- Las membranas podrían reaccionar a presión, vibración, campo eléctrico u otra variable previa a las ráfagas.
-- Las depresiones ovaladas podrían deberse a tránsito repetido, erosión o deformación; todavía no se clasifican como huellas.
-- Los golpes y la sombra podrían corresponder a actividad biológica, movimiento estructural u otro fenómeno físico.
-- Los pequeños animales acuáticos parecen alimentarse de la película verdosa de los discos, pero no está demostrado.
-- Los animales acuáticos pueden detectar una consecuencia térmica o una variable asociada a ella antes que los sensores del traje.
-- La similitud entre su anticipación y la anticipación del viento de las membranas es llamativa, pero no existe evidencia suficiente para relacionar ambos comportamientos con la anomalía de 37 segundos.
+- El intervalo de 37 segundos podría ser fallo de sensor, navegación, registro o un fenómeno todavía desconocido; ninguna explicación es suficiente.
+- Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
+- Las grandes depresiones pueden ser erosión, deformación o tránsito repetido; aún no deben llamarse huellas.
+- Los golpes profundos pueden ser estructurales, geológicos o biológicos.
+- La sombra nocturna puede ser niebla, sombra estructural u organismo.
+- Los pequeños animales pueden alimentarse de la película verdosa.
+- Su reacción al sistema térmico podría deberse a calor, vibración, campo eléctrico u otra consecuencia asociada.
+- La similitud entre su anticipación y la de las membranas es sugestiva pero no demuestra conexión.
+- El tono de la ruta horizontal puede ser biológico, aerodinámico, geológico o artificial; no hay base para elegir todavía.
 
 ## Preguntas abiertas
 
 - ¿Qué significa el intervalo de 37 segundos?
 - ¿Por qué desaparece del registro ordinario?
-- ¿Qué provocó la divergencia de navegación y la separación no autorizada?
+- ¿Qué provocó la divergencia de navegación y la separación de Aster?
 - ¿Aster sigue existiendo?
-- ¿Existe una vía tecnológica o física para abandonar Elyndran?
-- ¿Hay una superficie sólida bajo la red de raíces?
-- ¿Qué variable detectan las membranas antes del viento?
-- ¿Qué origina la columna de vapor?
-- ¿Qué produjo los tres destellos?
-- ¿Qué hay al final de las rutas ascendente y horizontal de la bifurcación?
-- ¿Qué produjo las grandes depresiones pulidas?
-- ¿Qué produce los golpes de los niveles inferiores?
-- ¿Qué era la sombra de la primera noche?
-- ¿Qué son exactamente los discos de agua?
-- ¿Qué detectan los pequeños animales antes de los cambios térmicos?
-- ¿Qué provocó la inclinación momentánea de la raíz inferior?
-- ¿Cuántas capas de raíces existen bajo la zona explorada?
-- ¿Está el protagonista realmente solo en todo Elyndran o solo carece de otros miembros de su expedición?
+- ¿Existe una forma de abandonar Elyndran?
+- ¿Hay suelo bajo la red de raíces?
+- ¿Qué detectan las membranas antes del viento?
+- ¿Qué produjo los destellos lejanos y la columna de vapor?
+- ¿Qué produjo las depresiones pulidas?
+- ¿Qué genera los golpes profundos?
+- ¿Qué fue la sombra de la primera noche?
+- ¿Qué son los discos de agua?
+- ¿Qué detecta la fauna acuática antes que el traje?
+- ¿Qué provocó la inclinación de la raíz inferior?
+- ¿Qué hay por debajo de la capa explorada?
+- ¿Qué produce los tonos de la ruta horizontal?
+- ¿Existe un patrón temporal real en esos tonos?
+- ¿Qué hay al final de las rutas horizontal y ascendente?
+- ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## Lugares visitados
 
 ### Aproximación orbital
-- Elyndran visto desde el espacio.
-- Nubes largas, extensiones oscuras y una tormenta espiral de gran escala.
+Elyndran visto desde el espacio: nubes largas, extensiones oscuras y gran tormenta espiral.
 
-### Lugar de caída
-- Cápsula encajada sobre una raíz monumental mojada.
-- Sigue siendo el único refugio seguro conocido.
+### Cápsula / lugar de caída
+Raíz monumental mojada; único refugio seguro conocido.
 
 ### Primera ruta
-- Camino entre la cápsula y la bifurcación.
-- Incluye agua no clasificada, filamentos azul grisáceos, un estrechamiento con viento lateral y las grandes depresiones pulidas.
+Conecta la cápsula con la bifurcación. Incluye agua no clasificada, filamentos azul grisáceos, tramo de viento lateral y depresiones pulidas.
 
-### Bifurcación
-- Tres rutas: ascendente, horizontal entre niebla y descendente hacia claridad azul.
-- Marcador reflectante instalado por el protagonista.
+### Bifurcación principal
+Marca reflectante. Tres rutas: ascendente, horizontal, descendente.
 
 ### Ruta descendente
-- Raíz que se curva hacia niveles más cálidos.
-- Termina en una rotura y un sistema de fibras que permite descender con dificultad.
+Conduce a una rotura y sistema de fibras; difícil y todavía no asegurada.
 
 ### Raíz intermedia
-- Plataforma estrecha utilizada como etapa del descenso.
-- Permite observar la capa inferior y los discos pálidos.
+Punto de apoyo durante el descenso.
 
 ### Raíz inferior de los discos
-- Más cálida y húmeda que la capa de la cápsula.
-- Contiene numerosos discos cóncavos llenos de agua.
-- Primer lugar donde se confirma fauna de Elyndran.
+Zona más cálida y húmeda; contiene discos de agua y primera fauna confirmada.
 
 ## Caminos conocidos
 
-- Ruta reproducible entre cápsula y bifurcación.
-- Ruta descendente parcialmente reproducible hasta la raíz inferior, aunque todavía es físicamente difícil y carece de aseguramiento adecuado.
-- Las rutas ascendente y horizontal siguen sin explorar.
+- Cápsula ↔ bifurcación: reproducible y registrado.
+- Bifurcación ↔ raíz inferior: reproducible de forma aproximada pero peligrosa y sin aseguramiento.
+- Rama horizontal: solo entrada conocida; niebla densa y tonos registrados.
+- Rama ascendente: sin explorar.
 
 ## Flora y organismos no clasificados
 
-### Membranas transparentes sin nombre
-- Avisan de ráfagas aproximadamente un segundo antes de que lleguen.
+### Membranas transparentes
+Reacción al contacto y anticipación de ráfagas.
 
-### Filamentos azul grisáceos sin nombre
-- Crecen bajos sobre la corteza y se inclinan en dirección contraria a la lluvia.
-- No examinados.
+### Filamentos azul grisáceos
+Crecen bajos y se inclinan contra la lluvia; no examinados.
 
-### Película elástica sobre fibras
-- Material húmedo y mate que recupera lentamente su forma después de ser presionado.
-- No clasificado.
+### Película elástica de fibras
+Húmeda, mate y recupera su forma tras presión; no clasificada.
 
 ### Discos de agua
-- Estructuras cóncavas translúcidas que acumulan agua y sirven de hábitat a la primera fauna confirmada.
-- Naturaleza biológica todavía no demostrada.
+Estructuras cóncavas de naturaleza todavía desconocida.
 
 ## Fauna confirmada
 
 ### Animales planos de los discos — sin nombre
 
-Estado de conocimiento: **observación inicial**.
+Estado: **observación inicial**.
 
-Confirmado:
-- acuáticos;
-- pequeños;
-- planos;
-- movimiento por ondulación;
-- puntos pálidos en la cara inferior;
-- reacción rápida a cambios asociados al sistema térmico del traje;
-- reacción a golpes transmitidos por la raíz.
+Confirmado: acuáticos, pequeños, planos, ondulación, puntos pálidos, reacción a cambios del traje y a vibraciones profundas.
 
-No confirmado:
-- dieta;
-- ciclo vital;
-- anatomía interna;
-- reproducción;
-- peligrosidad;
-- relación con otros organismos;
-- nombre.
+No confirmado: dieta, reproducción, ciclo vital, anatomía, peligrosidad, relación con otros organismos, nombre.
 
 ## Objetos importantes
 
-### Cápsula de descenso
-- Refugio principal; no vehículo operativo.
-
-### Captura manual de la anomalía
-- Conserva parcialmente `37`.
-
-### Mochila de superficie
-- Cremallera dañada y marcada.
-
-### Marcador reflectante
-- Señala el regreso desde la bifurcación.
-- Primera alteración deliberada del entorno realizada por el protagonista.
-
-### Grabación de la sombra
-- Siete fotogramas útiles.
-- No permite identificar un organismo.
+- Cápsula de descenso: refugio, no vehículo.
+- Captura manual de `37`: evidencia incompleta.
+- Mochila de superficie: cremallera dañada.
+- Marcador reflectante: referencia de regreso.
+- Grabación del oscurecimiento nocturno.
+- Grabación de los tonos de la ruta horizontal.
 
 ## Estado físico
 
-- Contusión en costado izquierdo, mejorando lentamente.
-- Rodilla derecha inflamada y rígida; flexionarla sigue siendo difícil.
-- Cuello rígido.
+- Costado izquierdo: contusión en mejoría.
+- Rodilla derecha: inflamada, rígida y resentida tras golpe durante la subida.
+- Cuello: rigidez residual.
+- Falta de sueño y cansancio acumulado.
 - Capacidad motora conservada.
-- Sigue utilizando casco y filtrado.
-- La falta de sueño y el descenso aumentan cansancio y riesgo.
+- Sigue usando filtrado y casco.
+- Analgésico mínimo ya utilizado tras el segundo descenso.
 
 ## Recursos narrativos
 
-- Agua, alimento, botiquín y energía existen pero son limitados.
-- La cápsula es el único refugio seguro conocido.
-- La distancia vertical empieza a ser tan importante como la horizontal.
+- Agua, alimento, filtros, energía y botiquín son limitados.
+- La distancia vertical importa tanto como la horizontal.
 - El traje consume energía en filtrado, regulación térmica y análisis.
-- No tratar exploración, ascensos ni descensos como gratuitos.
+- Las rutas exigen tiempo y capacidad física real.
+- Mejorar el descenso requerirá sacrificar o reutilizar materiales de la cápsula/paracaídas.
 
 ## Consecuencias persistentes
 
-- La cápsula está inmovilizada.
-- El enlace con Aster permanece perdido.
-- La anomalía de 37 segundos conserva evidencia incompleta.
-- La lesión de rodilla condiciona el desplazamiento.
-- Las membranas se han convertido en conocimiento práctico de supervivencia.
-- Existe una ruta marcada hasta la bifurcación.
-- El protagonista ha abierto una segunda ruta hacia una capa inferior.
-- La primera fauna ha sido observada sin captura ni interferencia directa significativa.
-- El protagonista empieza a reunir ejemplos de organismos que perciben cambios antes que sus instrumentos, pero todavía no puede convertir esa coincidencia en teoría.
+- Cápsula inmovilizada y enlace con Aster perdido.
+- Lesión de rodilla condiciona desplazamientos.
+- Membranas convertidas en conocimiento práctico.
+- Primera ruta marcada y reutilizada.
+- Ruta inferior abierta pero no segura.
+- Primera fauna observada sin captura.
+- El protagonista ya distingue entre hechos, hipótesis y errores de percepción comprobados.
+- Se ha abierto una razón concreta para volver a la ruta horizontal.
+- El protagonista empieza a decidir conscientemente qué preguntas dejar sin responder por supervivencia.
 
-## Misterios mayores reservados al autor
+## Misterios de autor reservados
 
-Estos conceptos existen como dirección, no como conocimiento confirmado del protagonista:
+Existen como dirección, no como conocimiento del protagonista:
+- recurrencia del intervalo de 37 segundos;
+- información o señales temporalmente imposibles;
+- lugares/materiales con estados anómalos;
+- posibilidad de respuesta o aprendizaje del planeta.
 
-- intervalo recurrente de 37 segundos;
-- información temporalmente imposible;
-- materiales o lugares capaces de conservar estados anómalos;
-- posible reacción o aprendizaje de Elyndran frente al comportamiento del protagonista.
-
-No convertirlos en explicación hasta que la narración lo demuestre mediante evidencia suficiente.
+No convertirlos en verdad narrativa antes de que la evidencia lo permita.
 
 ## Regla de actualización
 
-Cada entrada nueva debe distinguir entre:
+- HECHO: demostrado por experiencia o evidencia suficiente.
+- HIPÓTESIS: explicación plausible pero no confirmada.
+- PREGUNTA: contradicción o incógnita abierta.
 
-- **HECHO**: demostrado por experiencia o evidencia suficiente;
-- **HIPÓTESIS**: explicación plausible pero no confirmada;
-- **PREGUNTA**: contradicción o incógnita todavía abierta.
-
-Nunca ascender una hipótesis a hecho por conveniencia del autor.
+Nunca ascender una hipótesis a hecho por comodidad narrativa.
