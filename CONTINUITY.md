@@ -6,9 +6,9 @@ Este archivo registra únicamente lo que la novela ha establecido. Debe actualiz
 
 Prólogo canónico cerrado en `manuscript/00-prologo.md`: **«Treinta y siete segundos»**.
 
-Capítulo I iniciado en `manuscript/01-el-primer-paso.md`: **«El primer paso»**.
+Capítulo I canónico cerrado en `manuscript/01-el-primer-paso.md`: **«El primer paso»**.
 
-El protagonista ha abandonado por primera vez la vista directa de la cápsula y avanza por una raíz suspendida siguiendo una dirección aproximada marcada por tres destellos lejanos de origen desconocido.
+El protagonista ha realizado su primera exploración fuera de la cápsula, ha regresado al refugio y ha pasado su primera noche consciente de que existe actividad o movimiento no identificado bajo la red de raíces.
 
 ## Premisa establecida
 
@@ -38,6 +38,7 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 - La raíz recorrida presenta estrechamientos, grietas longitudinales y fuertes ráfagas laterales capaces de comprometer el equilibrio.
 - Existe al menos una columna de vapor visible a gran distancia, pero no se conoce su causa.
 - Se observaron tres destellos lejanos en una misma dirección aproximada. El protagonista no sabe si proceden de agua, metal, cristal u otra superficie reflectante.
+- Más adelante la ruta se divide en tres: una rama asciende hacia vegetación más densa, otra mantiene la altura dentro de niebla cerrada y una tercera desciende hacia una claridad azul de origen desconocido.
 
 ### Membranas transparentes
 - Bajo varias raíces cuelgan membranas transparentes, flexibles y frías.
@@ -45,6 +46,14 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 - Una membrana tocada tarda varios segundos en volver a extenderse.
 - Varias membranas se tensan aproximadamente un segundo antes de que llegue una ráfaga de viento al protagonista.
 - El comportamiento se ha repetido suficientes veces para utilizarlo provisionalmente como aviso de viento durante el desplazamiento.
+
+### Marcas y sonidos no identificados
+- En un tramo de la raíz existen tres depresiones ovaladas con bordes pulidos y arañazos paralelos orientados en la misma dirección.
+- Las depresiones estaban llenas de agua durante la ida.
+- Al regresar, una estaba vacía y presentaba una marca húmeda curva que no aparecía en la fotografía tomada anteriormente.
+- Durante la exploración se oyeron uno y después dos golpes secos procedentes de algún punto bajo la niebla.
+- Ya de noche, desde la cápsula, se escucharon golpes similares y después se observó una sombra incompleta desplazándose entre raíces inferiores durante un instante de visibilidad.
+- No existe todavía evidencia suficiente para afirmar qué produjo las depresiones, los golpes, la marca nueva o la sombra.
 
 ### Equipo y supervivencia
 - La cápsula conserva agua de emergencia, botiquín, baterías portátiles, herramienta multipropósito y raciones.
@@ -54,6 +63,7 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 - El protagonista mantiene el receptor apagado cuando no lo necesita para no consumir recursos y evitar la estática constante.
 - El agua encontrada sobre la raíz no se ha bebido porque su composición biológica no ha podido clasificarse.
 - El protagonista graba referencias visuales de la ruta para poder regresar a la cápsula.
+- Ha colocado una tira reflectante en la bifurcación de tres caminos después de raspar una pequeña zona de corteza para que pudiera adherirse.
 
 ## Hipótesis del protagonista
 
@@ -61,6 +71,8 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 - Las membranas podrían reaccionar a un cambio físico que precede localmente a la ráfaga, pero no se sabe si detectan presión, vibración, campo eléctrico u otra variable.
 - Las estructuras vistas durante la caída parecen raíces por textura y ramificación, aunque se desconoce su escala total, origen y relación con el resto del paisaje.
 - Los tres destellos podrían ser simples reflejos naturales; no existe evidencia todavía de tecnología, asentamiento o presencia inteligente.
+- Las depresiones podrían deberse a tránsito repetido, erosión o deformación natural; no deben clasificarse aún como huellas.
+- Los golpes y la sombra podrían pertenecer a un organismo, a movimiento estructural de las raíces o a otro fenómeno físico. No hay confirmación.
 
 ## Preguntas abiertas
 
@@ -74,6 +86,10 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 - ¿Qué variable detectan las membranas antes del viento?
 - ¿Qué origina la columna de vapor lejana?
 - ¿Qué produjo los tres destellos y por qué parecieron desplazarse ligeramente hacia abajo?
+- ¿Qué existe al final de cada una de las tres ramas de la bifurcación?
+- ¿Qué produjo las depresiones pulidas y la marca húmeda nueva?
+- ¿Qué produjo los golpes procedentes de debajo de la niebla?
+- ¿Qué era la sombra observada durante la primera noche?
 - ¿Qué reglas del entorno difieren de las conocidas?
 - ¿Está el protagonista realmente solo en todo el planeta o solo carece de otros miembros de su expedición? Esta pregunta no debe resolverse antes de que la historia lo permita.
 
@@ -86,20 +102,28 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 
 ### Lugar de caída — raíz suspendida
 - Cápsula encajada de costado sobre una raíz negra, rugosa y mojada.
-- La raíz se ensancha hasta comportarse como un camino natural y desaparece tras una curva.
 - Existen otras raíces por debajo y bancos densos de niebla.
-- No se ha visto suelo, edificio, luz artificial ni movimiento confirmado.
+- La cápsula sigue siendo el único refugio seguro conocido.
 
 ### Primer tramo de exploración
-- Ruta de al menos un centenar de metros siguiendo la misma raíz.
+- Ruta siguiendo la misma raíz durante varias horas de ida y vuelta.
 - Incluye una curva que oculta la cápsula, una depresión con agua no clasificada, agrupaciones de filamentos azul grisáceos no tocados y una grieta longitudinal que obliga a cruzar con viento lateral.
-- Desde un punto más abierto se observan muchas más raíces a diferentes alturas y tres destellos lejanos.
+- Desde un punto más abierto se observan muchas más raíces a diferentes alturas, una columna de vapor y tres destellos lejanos.
+- Más adelante aparecen las tres depresiones pulidas y una bifurcación en tres rutas.
+
+### Bifurcación de tres caminos
+- Una rama asciende hacia vegetación oscura y densa.
+- Una continúa aproximadamente a la misma altura dentro de niebla compacta.
+- Una desciende hacia un resplandor azul no identificado.
+- El protagonista no ha recorrido todavía ninguna de las tres más allá del punto de bifurcación.
+- Existe una pequeña marca reflectante colocada por el protagonista para señalar el regreso.
 
 ## Caminos conocidos
 
-- Camino de regreso desde el primer tramo de exploración hasta la cápsula registrado mediante cámara de casco y referencias visuales.
+- Camino de ida y regreso entre la cápsula y la bifurcación registrado mediante cámara de casco y referencias visuales.
 - Tramo estrecho donde las membranas permiten anticipar ráfagas laterales.
-- Dirección futura provisional: hacia la zona donde se observaron los tres destellos.
+- Dirección aproximada de los tres destellos conocida solo desde un punto de visibilidad abierto; la niebla impide mantener contacto visual continuo.
+- Tres rutas futuras disponibles desde la bifurcación, todavía sin explorar.
 
 ## Flora observada
 
@@ -118,7 +142,7 @@ El protagonista ha abandonado por primera vez la vista directa de la cápsula y 
 
 Ninguna fauna confirmada.
 
-Durante el descenso se observaron formas y sombras ambiguas, pero ninguna ha sido establecida como animal.
+Existen indicios ambiguos que podrían corresponder a actividad animal —depresiones, arañazos, golpes y una sombra móvil—, pero ninguno permite todavía confirmar especie, tamaño, anatomía ni siquiera naturaleza biológica.
 
 ## Objetos importantes
 
@@ -137,6 +161,11 @@ Durante el descenso se observaron formas y sombras ambiguas, pero ninguna ha sid
 - Cremallera izquierda dañada y marcada con cinta.
 - Contenido confirmado: agua, dos raciones, una batería, botiquín reducido, herramienta multipropósito, manta térmica, cinta de reparación y cable fino.
 
+### Marcador reflectante de la bifurcación
+- Primera alteración deliberada del entorno realizada por el protagonista.
+- Pegado sobre una pequeña zona de corteza previamente raspada.
+- Señala la dirección de regreso hacia la cápsula.
+
 ## Estado físico
 
 - Contusión en costado izquierdo, vendada, sin dolor agudo al respirar.
@@ -146,13 +175,15 @@ Durante el descenso se observaron formas y sombras ambiguas, pero ninguna ha sid
 - Capacidad motora conservada.
 - Sigue usando casco con circuito autónomo por prudencia ante la composición atmosférica.
 - Ha decidido posponer analgésicos mientras necesite evaluar con precisión el dolor y la movilidad.
+- La primera exploración incrementó dolor, cansancio y consumo energético, por lo que la distancia recorrida no puede tratarse como gratuita.
 
 ## Recursos narrativos
 
 - Agua, raciones, botiquín y energía portátil existen, pero aún no se ha establecido duración total ni abundancia.
 - La cápsula es el único refugio seguro conocido.
-- El protagonista ya transporta solo una parte de los recursos; alejarse aumenta el coste de regresar por lo restante.
+- El protagonista transporta solo una parte de los recursos durante las salidas.
 - Existe agua ambiental, pero no se considera potable hasta disponer de evidencia.
+- Mantener el consumo de energía del traje como limitación práctica, especialmente con filtrado, temperatura y análisis ambiental.
 - No usar cifras de inventario salvo que la situación narrativa las haga necesarias.
 
 ## Consecuencias persistentes
@@ -160,9 +191,11 @@ Durante el descenso se observaron formas y sombras ambiguas, pero ninguna ha sid
 - La cápsula ha quedado inmovilizada sobre la raíz y no puede considerarse vehículo operativo.
 - El vínculo con Aster está perdido.
 - La captura de la anomalía está dañada, lo que limita la evidencia futura.
-- El protagonista ha dejado parte de sus recursos en la cápsula y ha iniciado una ruta fuera de su vista directa.
 - La rodilla lesionada condiciona postura, velocidad y decisiones de movimiento.
 - La observación de las membranas se ha convertido en una ventaja práctica para cruzar zonas expuestas al viento.
+- El protagonista ha establecido una primera ruta reproducible entre la cápsula y la bifurcación.
+- La marca reflectante modifica mínimamente el entorno y permitirá comprobar en visitas futuras si el lugar permanece igual.
+- El protagonista ha decidido regresar a la bifurcación en lugar de tratar la primera salida como exploración única.
 
 ## Misterios mayores reservados
 
