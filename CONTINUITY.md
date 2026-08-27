@@ -10,8 +10,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo III cerrado: `manuscript/03-la-ruta-que-respira.md` — **La ruta que respira**.
 - Capítulo IV cerrado: `manuscript/04-dos-tonos-en-la-niebla.md` — **Dos tonos en la niebla**.
 - Capítulo V cerrado: `manuscript/05-la-ruta-que-sube.md` — **La ruta que sube**.
+- Capítulo VI cerrado: `manuscript/06-la-segunda-visita.md` — **La segunda visita**.
 
-El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, encontrado una estructura regular de origen desconocido y observado otra geometría regular a gran distancia. No ha encontrado otra persona ni una forma de abandonar Elyndran.
+El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, regresado a la estructura de tres brazos y avanzado hasta una rotura desde la que comprende mejor la geometría y dificultad real de acceso a la plataforma lejana. No ha encontrado otra persona ni una forma de abandonar Elyndran.
 
 ## HECHOS
 
@@ -37,6 +38,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Se tensan aproximadamente un segundo antes de una ráfaga.
 - El protagonista usa esa reacción como aviso práctico.
 - Durante una tormenta permanecieron tensas durante intervalos más largos antes de cambios bruscos de presión y dirección del aire.
+- El conocimiento ya está incorporado corporalmente: en el Capítulo VI reduce el paso antes de una ráfaga sin detenerse a analizar la reacción.
 
 ### Filamentos azul grisáceos
 - Crecen bajos sobre la corteza.
@@ -48,6 +50,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Tres ramas: descendente, horizontal y ascendente.
 - Las tres han sido exploradas parcialmente.
 - El marcador reflectante colocado por el protagonista desapareció durante la tormenta del Capítulo V; la zona raspada de corteza permanece visible.
+- En el Capítulo VI el protagonista llega y regresa sin necesitar sustituir la cinta ni consultar el mapa en los tramos conocidos.
 
 ### Marcas, golpes y sombra
 - Existen tres depresiones ovaladas grandes con bordes pulidos y arañazos paralelos.
@@ -94,13 +97,26 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - El viento por sí solo no explica el fenómeno.
 - En la base hay dos grupos de hendiduras: tres pequeñas + una grande; una grande + dos pequeñas.
 - No está demostrado que sean escritura o código.
+- En la segunda visita las hendiduras conservan la misma geometría; una de las pequeñas contiene agua mientras las demás están secas.
+- No hay evidencia de que el agua tenga significado; lluvia, condensación y pendiente siguen siendo explicaciones suficientes.
 
-### Plataforma lejana
-- A unos cien metros de la estructura sonora se observa, durante aperturas de la niebla, una plataforma irregular con varias formas verticales regulares.
-- Al menos seis fueron visibles en una apertura.
+### Plataforma lejana y aproximación
+- Desde la estructura sonora se observó una plataforma con varias formas verticales regulares.
+- Al menos seis son visibles con seguridad en aperturas de niebla.
 - Algunas parecen partidas y una muestra un hueco limpio cerca de la parte superior.
 - No se ha observado movimiento, iluminación, humo ni presencia humana.
-- El protagonista no ha avanzado todavía hasta ella.
+- La estimación inicial de unos cien metros resultó simplificada por la niebla: entre la estructura y la plataforma hay varias raíces y un hueco amplio.
+- La raíz de aproximación se divide: una rama desciende bajo niebla y otra termina en un borde roto.
+- El borde roto tiene una terminación casi plana y surcos paralelos a intervalos casi regulares; su origen no está demostrado.
+- La distancia hasta la raíz opuesta impide saltar y el sistema de aseguramiento no basta sin un anclaje al otro lado.
+- Bajo la raíz opuesta se observa una línea oscura aproximadamente del grosor de una muñeca que entra en la corteza; su material no se ha identificado.
+- La corteza parece haber crecido alrededor de esa línea, de manera comparable a cómo creció alrededor de la base de la estructura sonora.
+
+### Vibración breve en la aproximación
+- Cerca del borde roto, después de oír a distancia el tono agudo, el protagonista sintió una vibración breve y fina a través de las botas.
+- La vibración se repitió una vez y no se parecía a los golpes profundos anteriores.
+- No volvió durante la observación.
+- No existe evidencia suficiente para relacionarla con la estructura sonora, la plataforma o la línea oscura.
 
 ### Recuperación de materiales
 - El protagonista recuperó líneas del paracaídas secundario, correas del asiento y una sección de malla de carga.
@@ -124,9 +140,10 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - Se observó una estructura tubular inferior en contacto con una gota; posible ingesta de agua, no confirmada.
 - Ante movimiento cercano puede plegarse y quedar plana contra la corteza.
 - No reaccionó a la linterna como los filamentos blancos.
-- Durante la tormenta fue arrastrada parcialmente por el viento y terminó refugiándose en una grieta.
+- Durante la tormenta una criatura de ese tipo fue arrastrada parcialmente por el viento y terminó refugiándose en una grieta.
 - El protagonista la bloqueó con el guante sin agarrarla.
-- Registro: `CONTACTO ACCIDENTAL. SIN REACCIÓN AGRESIVA OBSERVADA`.
+- No puede demostrarse que fuera el mismo individuo visto antes.
+- No se observó reacción agresiva durante el contacto.
 
 ### Geometría regular desde la terraza alta
 - Desde una terraza de la ruta ascendente se observó una línea lejana con tramos rectos y al menos un ángulo.
@@ -147,7 +164,7 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - La mochila mantiene una cremallera dañada marcada con cinta.
 - La baliza transmite sin respuesta.
 - Costado izquierdo en mejoría.
-- Rodilla derecha inflamada y rígida; condiciona distancia y postura.
+- Rodilla derecha sigue rígida pero la inflamación ha bajado en el Capítulo VI; continúa condicionando posturas y bordes.
 - Cuello con rigidez residual.
 - Capacidad motora conservada.
 - Sigue usando casco y filtrado.
@@ -164,6 +181,9 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - La similitud entre anticipaciones biológicas y el intervalo de 37 segundos es sugestiva, no demostrada.
 - Los tonos pueden originarse en una interacción entre la película transparente y la estructura de tres brazos; el disparador sigue sin determinarse.
 - La plataforma lejana podría contener construcciones, restos o formaciones regulares; no debe llamarse ciudad ni ruina.
+- Los surcos del borde roto podrían ser naturales o consecuencia de alguna intervención antigua; todavía no se conoce su origen.
+- La línea oscura bajo la raíz opuesta puede ser biológica, mineral o material relacionado con la estructura sonora.
+- La vibración fina del Capítulo VI podría proceder de la raíz, de una estructura o de otro fenómeno local; no vincularla todavía a los tonos.
 - El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
 - La criatura terrestre probablemente utiliza el aplanamiento y coloración como camuflaje, pero no está demostrado.
 - La geometría regular vista desde la terraza podría estar relacionada con los destellos observados antes, pero la distancia impide confirmarlo.
@@ -185,8 +205,12 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - ¿Qué hay por debajo de la capa explorada?
 - ¿Qué inicia las vibraciones de la estructura de tres brazos?
 - ¿Qué significan las hendiduras de su base?
-- ¿Qué son las formas verticales de la plataforma lejana?
+- ¿Qué son las formas verticales de la plataforma?
 - ¿Existe actividad actual en la plataforma o pertenece a otro momento?
+- ¿Qué produjo los surcos paralelos del borde roto?
+- ¿Qué es la línea oscura que entra en la raíz opuesta?
+- ¿Qué causó la vibración fina sentida en el borde?
+- ¿Existe otra vía física hasta la plataforma por la rama que desciende bajo la niebla?
 - ¿Qué mecanismo mueve el agua hacia arriba en la bóveda vegetal?
 - ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
 - ¿Qué es la geometría regular observada desde la terraza alta?
@@ -200,13 +224,16 @@ El protagonista sigue solo respecto a su expedición. Ha explorado parcialmente 
 - **Primera ruta:** conecta la cápsula con la bifurcación.
 - **Bifurcación principal:** tres ramas; el marcador reflectante ya no está.
 - **Ruta descendente:** conduce a la raíz rota, raíz intermedia y raíz inferior de los discos.
-- **Ruta horizontal:** conduce a la estructura de tres brazos y permite ver la plataforma lejana.
+- **Ruta horizontal:** conduce a la estructura de tres brazos y continúa hasta una división próxima al hueco de la plataforma.
+- **Estructura de tres brazos:** visitada dos veces; referencia física y acústica estable hasta ahora.
+- **Borde roto de aproximación:** extremo de una rama horizontal con surcos paralelos y vista parcial de la raíz opuesta.
+- **Plataforma regular:** todavía no visitada; ahora se comprende que está separada por varias raíces y un hueco.
 - **Ruta ascendente:** conduce a la bóveda vegetal y a una terraza alta.
-- **Cápsula ↔ bifurcación:** reproducible y registrado.
+- **Cápsula ↔ bifurcación:** reproducible de memoria.
 - **Bifurcación ↔ raíz inferior:** peligroso y parcialmente asegurado.
-- **Bifurcación ↔ estructura de tres brazos:** recorrido y registrado.
-- **Estructura de tres brazos → plataforma lejana:** dirección conocida, no recorrida.
-- **Bifurcación ↔ terraza alta:** recorrido una vez y registrado mediante referencias ambientales.
+- **Bifurcación ↔ estructura de tres brazos:** recorrido dos veces y reconocido sin necesidad de repetir pruebas conocidas.
+- **Estructura de tres brazos ↔ borde roto:** recorrido una vez.
+- **Bifurcación ↔ terraza alta:** recorrido una vez y recordado mediante referencias ambientales.
 
 ## FLORA Y ORGANISMOS NO CLASIFICADOS
 
@@ -238,19 +265,20 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Sistema improvisado de aseguramiento.
 - Grabación del oscurecimiento nocturno.
 - Grabación de los tonos.
-- Fotografías de la estructura de tres brazos, hendiduras, plataforma lejana y geometría regular de la terraza.
+- Fotografías de la estructura de tres brazos, hendiduras, plataforma, geometría regular de la terraza, borde roto y línea oscura bajo la raíz opuesta.
 
 ## CONSECUENCIAS PERSISTENTES
 
 - Cápsula inmovilizada y enlace con Aster perdido.
-- Lesión de rodilla condiciona desplazamientos.
-- Membranas convertidas en conocimiento práctico.
+- Lesión de rodilla condiciona desplazamientos, aunque muestra mejoría.
+- Membranas convertidas en conocimiento práctico incorporado al movimiento.
 - Las tres ramas principales contienen ya rutas y preguntas concretas.
 - La ruta inferior sigue abierta pero no segura.
-- La plataforma lejana sigue sin visitar.
+- La plataforma sigue sin visitar y ahora existe una barrera física concreta antes de alcanzarla.
 - Primera fauna acuática y primera fauna terrestre observadas sin captura.
-- El marcador reflectante desapareció; el protagonista deberá depender más de memoria, geometría y referencias naturales.
+- El marcador reflectante desapareció; el protagonista ya empieza a sustituir marcadores por memoria, geometría y referencias naturales.
 - La geometría regular aparece en más de un punto del paisaje, pero su origen continúa sin explicación.
+- La segunda visita demuestra que un lugar conocido puede aportar información nueva sin que tenga que haber cambiado: cambia la capacidad del protagonista para leerlo.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
