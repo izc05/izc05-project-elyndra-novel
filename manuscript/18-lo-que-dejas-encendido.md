@@ -134,27 +134,15 @@ Su temperatura máxima había aumentado lentamente desde el accidente.
 
 Nada estaba todavía fuera de límite.
 
-La palabra *todavía* apareció sola cuando viste la tendencia.
-
 Apagaste la pantalla.
 
 Volviste a encenderla.
 
 Miraste el estado de batería.
 
-No era una cuenta atrás limpia.
+La cifra subía algunas horas y bajaba otras. La niebla cambiaba la carga que llegaba de las superficies exteriores; la recirculación dejaba una pendiente distinta a la baliza; una bomba breve podía borrar parte de lo recuperado durante la última hora.
 
-La cápsula recibía algo de carga de sus superficies exteriores cuando la luz atravesaba la niebla. Algunas horas recuperaba más. Otras casi nada. La recirculación, el análisis, la baliza, las bombas y la calefacción competían por la misma reserva de formas diferentes.
-
-Hasta entonces habías pensado en energía como una barra que descendía.
-
-No era una barra.
-
-Era tiempo con clima.
-
-Tiempo con decisiones.
-
-Tiempo con cosas que se averiaban.
+Dejaste abiertas las tres curvas en la pantalla.
 
 ---
 
@@ -195,8 +183,6 @@ La pegaste junto al módulo.
 La miraste.
 
 La arrancaste.
-
-No necesitabas una frase.
 
 Pegaste una cinta sin texto sobre el interruptor.
 
@@ -280,10 +266,6 @@ No había pérdidas totales.
 
 No había respuesta.
 
-El resultado seguía siendo el mismo.
-
-Eso no hacía iguales las cosas.
-
 Programaste una regla sencilla: durante la ventana de transmisión de la baliza, las cargas no esenciales no podrían arrancar.
 
 El sistema aceptó el cambio.
@@ -295,8 +277,6 @@ La tensión se mantuvo estable.
 Guardaste la configuración.
 
 La próxima llamada saldría con menos competencia dentro de la cápsula.
-
-Nada garantizaba que hubiera alguien para recibirla.
 
 ---
 
@@ -354,14 +334,12 @@ Una membrana se tensó y volvió a aflojarse.
 
 No saliste.
 
-Todo el día había cabido dentro de una avería del tamaño de una uña y de tres caídas breves en una línea de potencia.
-
 Apagaste la pantalla principal.
 
 Dejaste activa la ambiental.
 
 Dejaste activa la baliza.
 
-Dejaste el módulo térmico apagado.
+El módulo térmico quedó apagado.
 
-En la oscuridad, la cápsula siguió decidiendo qué podía permitirse mantener encendido.
+En la oscuridad siguieron el ventilador primario y el pulso verde de la transmisión programada.
