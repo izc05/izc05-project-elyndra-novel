@@ -336,7 +336,7 @@ Reduciste el paso.
 
 La ráfaga llegó.
 
-Inclinas­te el cuerpo antes de que te golpeara.
+Inclinaste el cuerpo antes de que te golpeara.
 
 Cuando levantaste la vista, la siguiente curva ya tenía una forma conocida.
 
