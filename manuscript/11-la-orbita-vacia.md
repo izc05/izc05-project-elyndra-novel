@@ -280,8 +280,6 @@ No significaba que fuera importante.
 
 Significaba que podías volver.
 
-La diferencia empezaba a pesar más de lo que te gustaba.
-
 Te incorporaste apoyando primero la pierna izquierda.
 
 La rodilla derecha aceptó el peso.
@@ -348,22 +346,20 @@ Escribiste:
 
 **PASO ORBITAL PREVISTO: NO CONFIRMADO.**
 
-Leíste la frase dos veces.
+Cerraste el archivo.
 
-Después cerraste el archivo.
+Fuera, la lluvia golpeaba la cubierta con suficiente fuerza para tapar el zumbido del sistema térmico.
 
-Fuera, la lluvia empezó a golpear con fuerza la cubierta.
+Comprobaste el sello de la bolsa reparada.
 
-El recipiente del colector recibió otra gota.
+Seguía seco.
 
-Y otra.
+Después miraste el colector.
 
-Miraste el nivel subir.
+El nivel había subido por encima de la primera marca.
 
-El cielo no te había dado nada que pudieras usar.
+Cambiaste el recipiente antes de que rebosara.
 
-Elyndran sí.
+La baliza emitió otra llamada automática mientras trabajabas.
 
-No era una respuesta.
-
-Todavía.
+No levantaste la cabeza.
