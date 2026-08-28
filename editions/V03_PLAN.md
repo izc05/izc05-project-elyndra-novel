@@ -4,7 +4,7 @@
 
 La edición v0.2 termina en el Capítulo XIII. El manuscrito maestro llega ya al **Capítulo XXII — Antes de apoyar el pie**. La distancia es de nueve capítulos y la actualización del PDF queda por tanto **necesaria**, no opcional a largo plazo.
 
-Además, los textos de XIII, XIX, XX y XXI han sido pulidos después de sus primeras versiones, y XXII añade una revisita física a la primera ruta después del bloque de señales. La futura edición debe tomar siempre los Markdown maestros actuales y no reutilizar texto ya maquetado o extraído de una edición anterior.
+Además, los textos de XIII, XIX, XX, XXI y XXII han sido pulidos después de sus primeras versiones. La revisión más reciente de XXII conserva todos sus hechos, pero sustituye un cierre demasiado explicativo por una consecuencia corporal más limpia: el protagonista recuerda el apoyo que ya no estaba a la altura esperada y asume que una ruta conocida debe comprobarse antes de cargar peso. La futura edición debe tomar siempre los Markdown maestros actuales y no reutilizar texto ya maquetado o extraído de una edición anterior.
 
 No debe reconstruirse tomando v0.2 como fuente textual. La autoridad es `manuscript/` + `CONTINUITY.md` y, mientras la integración literal de XXI–XXII siga pendiente por limitación de edición segura del archivo largo, los deltas `CONTINUITY_DELTA_XXI.md` y `CONTINUITY_DELTA_XXII.md`. La dirección visual vigente es `art/ILLUSTRATION_MANIFEST_V03.md`.
 
@@ -19,7 +19,7 @@ No debe reconstruirse tomando v0.2 como fuente textual. La autoridad es `manuscr
 - XIX: retorno a la misma placa cobriza de XIII; parte de la película oscura vuelve a ocupar superficie previamente despejada, sin demostrar crecimiento, renovabilidad, comestibilidad ni mecanismo. La revisión posterior corrige una sobreafirmación sobre carga de filtros y poda explicación redundante.
 - XX: jornada de reposo en la cápsula por rigidez de rodilla; aparece una recepción anómala en banda de emergencia aproximadamente 37 segundos antes de una baliza automática. No se reproduce en dos ciclos posteriores y no se identifica su fuente. La revisión posterior poda explicaciones y el inventario final de misterios, y fija con más claridad que la anomalía se **descubre retrospectivamente en el búfer** tras la transmisión; no fue observada en directo antes de que ocurriera.
 - XXI: el protagonista desplaza una transmisión programada +7 min 14 s sin cambiar mensaje, potencia ni frecuencia. La segunda recepción anómala comienza 36,91 s antes de la nueva hora y vuelve a parecerse solo parcialmente al encabezado posterior. Como el controlador conocía la reprogramación, el resultado refuerza la relación entre los eventos pero **no demuestra predicción**; el acoplamiento interno sigue siendo una explicación válida. La revisión actual poda staccato excesivo, reduce prosa procedimental y cierra el capítulo sin verbalizar una conclusión que el protagonista todavía no puede sostener.
-- XXII: el protagonista vuelve a la primera ruta para comprobar cuerpo y camino, no para perseguir la señal. La zona del antiguo marcador reflectante deja de ser una referencia superficial perfecta; adopta una alineación geométrica alternativa. En la zona de las depresiones no se confirma cambio nuevo. Durante el regreso, dos golpes profundos coinciden con un descenso de unos centímetros de una raíz usada como apoyo habitual; evita una caída mediante la raíz superior y el aseguramiento corto y confirma una alternativa de paso. El capítulo devuelve el misterio de los 37 segundos al fondo y convierte una ruta conocida en un problema material de mantenimiento y memoria.
+- XXII: el protagonista vuelve a la primera ruta para comprobar cuerpo y camino, no para perseguir la señal. La zona del antiguo marcador reflectante deja de ser una referencia superficial perfecta; adopta una alineación geométrica alternativa. En la zona de las depresiones no se confirma cambio nuevo. Durante el regreso, dos golpes profundos coinciden con un descenso de unos centímetros de una raíz usada como apoyo habitual; evita una caída mediante la raíz superior y el aseguramiento corto y confirma una alternativa de paso. La revisión posterior conserva esa secuencia y elimina un cierre conceptual demasiado explícito: el capítulo termina en la memoria física del apoyo desplazado y en la necesidad de verificar el terreno antes de confiar en él.
 
 ## Prioridad visual previa a maquetación definitiva
 
@@ -49,7 +49,7 @@ Si XVII–XXII no alcanzan el estándar visual cuando XIV–XVI estén aprobados
 
 - Construir desde los Markdown maestros actuales.
 - Confirmar que contiene Prólogo + XXII en orden.
-- Confirmar que XIII, XIX, XX y XXI corresponden a sus revisiones actuales y que XXII entra desde su Markdown maestro.
+- Confirmar que XIII, XIX, XX, XXI y XXII corresponden a sus revisiones actuales.
 - Comprobar caracteres españoles y símbolos especiales sin sustituciones.
 - Comprobar tamaño 6 × 9 en todas las páginas.
 - Renderizar todas las páginas y revisar visualmente portada, aperturas, cortes, márgenes, páginas casi vacías, imágenes y continuidad gráfica.
