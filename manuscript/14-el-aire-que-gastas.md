@@ -28,7 +28,7 @@ Esta vez contaste.
 
 No escribiste la cifra.
 
-La recordaste sin esfuerzo.
+No hizo falta.
 
 Al lado del armario de comida seguía la tira de cinta que habías colocado para visualizar el descenso de las raciones. No necesitabas otra marca para comprender lo que significaba aquel hueco.
 
@@ -94,7 +94,7 @@ Después aprender a volver.
 
 La atmósfera había quedado reducida a una instrucción sencilla:
 
-No respirarla.
+No respirarla sin el sistema entre medias.
 
 Funcionaba.
 
@@ -446,11 +446,41 @@ Entraste.
 
 Sellaste.
 
+No te quitaste el casco.
+
+Nunca lo hacías inmediatamente después de una salida, pero aquella vez el procedimiento dejó de parecer una rutina heredada del entrenamiento.
+
+La cápsula no tenía esclusa. Tenía una escotilla, un volumen pequeño y un sistema ambiental capaz de mover mucho aire a través de filtros internos.
+
+Pasaste un paño húmedo por los guantes, el pecho, las juntas del cuello y la parte frontal de la mochila. Lo doblaste hacia dentro antes de guardarlo en la bolsa de residuos.
+
+Activaste la recirculación alta.
+
+El ventilador cambió de tono.
+
+Esperaste a que el indicador interior completara el ciclo de partículas.
+
+No era esterilización.
+
+Nunca lo había sido.
+
+Solo una forma de reducir lo que quedaba suspendido después de abrir una puerta al exterior.
+
+Cuando el sistema volvió a caudal normal, limpiaste el borde del visor con otro tramo del paño.
+
 Solo entonces te quitaste el casco.
 
 El interior olía a plástico caliente, metal húmedo y comida vieja.
 
 Te quedaste con el casco entre las manos unos segundos antes de dejarlo sobre el banco.
+
+Miraste la rejilla de retorno del sistema ambiental.
+
+Luego la bolsa donde habías guardado el filtro usado.
+
+Hasta esa mañana ambas cosas habían pertenecido a problemas distintos.
+
+Ya no estabas seguro.
 
 ---
 
@@ -522,6 +552,16 @@ Tampoco una cuenta atrás.
 
 Cerraste el compartimento.
 
+Después te agachaste frente a la rejilla de retorno.
+
+El prefiltro interior llevaba allí desde antes del accidente.
+
+No recordabas haberlo mirado desde la caída.
+
+No lo retiraste.
+
+Todavía no.
+
 El casco quedó sobre el banco con el visor orientado hacia la escotilla.
 
 Fuera, la niebla se movía entre las raíces.
@@ -530,6 +570,4 @@ Por primera vez sabías que el aire al otro lado contenía suficiente de algo co
 
 También sabías qué había quedado atrapado antes de llegar a tus pulmones.
 
-No abriste la escotilla.
-
-No hacía falta hacerlo hoy.
+Y acababas de recordar que no todo lo que entraba contigo pasaba por el filtro del casco.
