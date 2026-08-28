@@ -20,8 +20,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XIII: `manuscript/13-la-mitad-de-una-racion.md` — **La mitad de una ración**.
 - Capítulo XIV: `manuscript/14-el-aire-que-gastas.md` — **El aire que gastas**.
 - Capítulo XV: `manuscript/15-lo-que-entra-contigo.md` — **Lo que entra contigo**.
+- Capítulo XVI: `manuscript/16-la-mano-izquierda.md` — **La mano izquierda**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado el primer muestreo controlado del aire exterior sin respirarlo directamente y convertido la contaminación de retorno a la cápsula en un problema práctico de refugio sin declarar que exista infección ni peligro biológico demostrado.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio y efectuado una primera exposición dérmica controlada de 34 segundos en una zona de baja carga de filtro sin reacción aguda observable. La atmósfera sigue sin declararse segura y no se ha respirado aire exterior sin filtrado.
 
 ## HECHOS
 
@@ -50,16 +51,16 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Algunas raíces flexionan o cambian levemente de inclinación durante fenómenos transmitidos por la estructura.
 - Existe una columna de vapor lejana y varias geometrías o destellos aún no identificados.
 
-### Atmósfera exterior, filtrado y retorno a la cápsula
+### Atmósfera exterior, filtrado, piel y retorno a la cápsula
 
-- Hasta el Capítulo XV el protagonista ha utilizado casco y filtrado siempre que permanece en exterior.
+- Hasta el Capítulo XVI el protagonista mantiene casco y filtrado siempre que permanece en exterior.
+- El sistema respiratorio del traje filtra aire ambiental para el casco; brazos y torso no dependen de una atmósfera presurizada independiente, por lo que una exposición localizada de piel puede realizarse sin abrir el circuito respiratorio.
 - Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
 - El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
 - Una toma controlada de aire exterior, introducida por tubo de muestreo sin respiración directa, muestra presión compatible con las lecturas del traje, oxígeno en un rango que un pulmón humano podría utilizar, dióxido de carbono bajo y ausencia de alarmas inmediatas para los gases corrosivos/volátiles conocidos por el sistema.
 - Registro: `PARTICULADO EXTERIOR: FRACCIÓN ORGÁNICA NO CLASIFICADA.`
 - Registro: `COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.`
 - **No se ha declarado la atmósfera segura para respirar sin filtro ni casco.**
-- **No se ha expuesto deliberadamente piel desnuda al ambiente exterior.**
 - En una salida comparativa del Capítulo XIV, la carga del filtro aumenta lentamente en la primera ruta y con mayor rapidez en la bóveda de la ruta ascendente.
 - En el haz lateral de la linterna dentro de la bóveda se observan miles de partículas muy pequeñas suspendidas en el aire.
 - El protagonista añade al mapa de la ruta ascendente la nota `MAYOR CARGA DE FILTRO`.
@@ -72,6 +73,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Registro: `PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.`
 - Registro: `LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.`
 - El protagonista establece una separación física de trabajo entre zona de entrada y zona limpia dentro del escaso volumen de la cápsula.
+- En el Capítulo XVI realiza la primera exposición dérmica deliberada al ambiente exterior: dorso de la mano y muñeca izquierdas, junto a la cápsula, en una zona previamente medida como de baja carga de filtro.
+- La exposición dura 34 segundos; el casco permanece cerrado y el filtro respiratorio operativo durante todo el procedimiento.
+- Tras la exposición no se observa reacción aguda inmediata: sin dolor, picor, pérdida de sensibilidad, edema ni enrojecimiento medible durante las primeras horas registradas.
+- La zona se limpia con agua terrestre, se fotografía y se compara con una zona equivalente no expuesta de la mano derecha mediante apósitos y seguimiento.
+- Registro: `EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.`
+- Registro: `SEGUIMIENTO NECESARIO.`
+- **La ausencia de reacción aguda no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
+- **No se ha respirado deliberadamente aire exterior sin filtrado.**
 
 ### Membranas transparentes
 
@@ -88,6 +97,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El marcador reflectante inicial desapareció durante una tormenta; permanece la zona raspada.
 - En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar marcas antiguas y regresa sin alcanzar la bifurcación.
 - En el Capítulo XIV vuelve a recorrer la ruta hasta la bifurcación para comparar carga de filtro antes de entrar parcialmente en la ruta ascendente.
+- En el Capítulo XVI la exposición dérmica se realiza a menos de seis metros de la cápsula, sobre la raíz ancha de la primera ruta, sin avanzar hasta la bifurcación.
 
 ### Marcas, golpes y sombra
 
@@ -136,6 +146,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La reparación soportó una prueba parcial con agua terrestre sin fuga visible.
 - Al final del Capítulo XI vuelve a llover y el colector exige cambiar de recipiente para no rebosar.
 - Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector.
+- En el Capítulo XVI una lluvia fina vuelve a alimentar el colector; el protagonista cambia el recipiente con casco y guantes, manteniendo sin cambios el protocolo de retorno.
 
 ### Ruta horizontal y estructura de tres brazos
 
@@ -222,6 +233,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XV se sustituye un prefiltro ambiental interior antiguo por uno limpio; el antiguo se conserva sellado como referencia, no como prueba de contaminación exterior.
 - La limpieza de retorno consume paños limpios y agua/humedad, de modo que el control de partículas crea un coste pequeño pero persistente adicional.
 - Dentro de la cápsula se reorganizan raciones, soporte de casco, residuos y zona de descanso para mantener una separación práctica entre entrada y zona limpia.
+- En el Capítulo XVI se utilizan dos apósitos estériles, gasa, solución de limpieza, agua terrestre y material de seguimiento para comparar la exposición de la mano izquierda con una zona no expuesta de la derecha.
 
 ### Estado físico
 
@@ -231,12 +243,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XI ponerse de pie deprisa provoca una protesta de la rodilla, pero acepta el peso durante el regreso.
 - En el Capítulo XII la rodilla agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
 - En el Capítulo XV trabaja sentado con la pierna derecha estirada para evitar flexión prolongada; no hay deterioro nuevo demostrado.
+- En el Capítulo XVI la rodilla protesta al incorporarse tras trabajo agachado, pero vuelve a aceptar carga sin deterioro nuevo demostrado.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en exterior.
 - No se ha observado reacción adversa medible a la exposición mínima de lluvia tratada registrada hasta ahora.
-- **No ha expuesto deliberadamente piel desnuda al ambiente exterior.**
+- La primera exposición deliberada de piel desnuda al ambiente exterior ocurre en el Capítulo XVI: mano/muñeca izquierdas durante 34 segundos en una zona de baja carga de filtro, sin reacción aguda observable en las primeras horas.
+- **No se conoce todavía si habrá respuesta tardía o acumulativa a esa exposición.**
 - **No ha respirado deliberadamente aire exterior sin filtrado.**
 
 ## HIPÓTESIS ACTIVAS
@@ -257,6 +271,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La fracción orgánica y las estructuras microscópicas atrapadas por filtros pueden ser material biológico, fragmentos inertes, aerosoles orgánicos o una mezcla; no llamarlas esporas ni microorganismos sin evidencia.
 - La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad, interacción de ambas o condiciones locales todavía no medidas.
 - Parte del particulado del prefiltro interior puede proceder del exterior y haber entrado durante aperturas/regresos, pero la muestra también contiene material terrestre y anterior al accidente; el origen de cada fracción no está demostrado.
+- La ausencia de reacción aguda durante 34 segundos de exposición dérmica puede indicar tolerancia local inmediata o simplemente un tiempo/dosis insuficientes para producir una respuesta observable; no inferir compatibilidad a largo plazo.
 - Los tonos pueden originarse en la interacción entre película y estructura; el disparador sigue sin determinarse.
 - La plataforma puede ser artificial, biológica, mineral o una combinación.
 - La trama inferior puede haber sido rodeada por la raíz, construida alrededor de ella, formada junto a ella o tener otra historia.
@@ -279,7 +294,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué son las partículas y estructuras orgánicas retenidas por los filtros?
 - ¿Por qué la bóveda ascendente carga los filtros con mayor rapidez y cuánto varía ese coste entre regiones?
 - ¿Cuánto material exterior alcanza realmente el interior de la cápsula durante entradas y aperturas, y cuánto elimina la recirculación?
-- ¿Puede una exposición dérmica mínima y controlada aportar información útil antes de considerar cualquier respiración directa?
+- ¿Aparecerá una reacción dérmica tardía o acumulativa tras la exposición breve del Capítulo XVI?
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
 - ¿Qué produjo las depresiones pulidas, los arañazos nuevos y la depresión pequeña?
@@ -309,6 +324,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
 - **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética.
+- **Zona inmediata de la primera ruta:** raíz ancha a menos de seis metros de la cápsula; en el Capítulo XVI se utiliza como punto de exposición dérmica controlada por haber mostrado baja carga de filtro en mediciones previas.
 - **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
 - **Bifurcación principal:** tres ramas; marcador reflectante perdido.
@@ -372,6 +388,7 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Prefiltro ambiental limpio instalado en la cápsula.
 - Línea de cinta interior que separa funcionalmente zona de entrada y zona limpia.
 - Analizador, reactivos y material de tratamiento limitados.
+- Material de seguimiento dérmico utilizado en el Capítulo XVI: apósitos transparentes, gasa, solución de limpieza y fotografías comparativas.
 - Herramienta multipropósito ligeramente marcada pero utilizable.
 - Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
 - Marca física añadida al alojamiento de filtros para visualizar los cartuchos restantes.
@@ -398,9 +415,10 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
 - En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
 - El protagonista modifica físicamente el refugio para separar entrada y zona limpia; esa conducta introduce nuevos costes pequeños de paños, agua de limpieza y prefiltros.
-- **La primera exposición futura de piel desnuda al ambiente exterior queda preparada como un hito posible, no ejecutado.**
-- **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales.**
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado y ahora disciplina de entrada— todavía por necesidad, sin declarar pertenencia.
+- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; este resultado abre seguimiento, no una declaración de seguridad.
+- El protocolo de guantes, casco, limpieza y recirculación **no se relaja** después de la exposición dérmica.
+- **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales ni por la tolerancia dérmica inmediata.**
+- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado y disciplina de entrada— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
@@ -413,4 +431,5 @@ Existen como dirección, no como conocimiento del protagonista.
 - La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
 - La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
 - La contaminación de retorno debe permanecer material y ambigua: suciedad, partículas y procedimientos, no una trama de infección prematura sin evidencia.
-- Antes de cualquier respiración directa, una futura exposición dérmica mínima puede servir como escalón narrativo si nace de una necesidad real y se realiza en una región de baja carga de filtro, con control de tiempo, posibilidad inmediata de retirada y sin convertir la ausencia de reacción aguda en prueba de seguridad. No ejecutar ese escalón solo porque “toque” después del Capítulo XIV.
+- La exposición dérmica del Capítulo XVI es un escalón de conocimiento, no una prueba de seguridad general. Mantener seguimiento temporal y no usar la ausencia de reacción aguda para justificar exposición extensa, ingestión o respiración directa.
+- Antes de retirar el casco en exterior debe existir evidencia respiratoria adicional que no dependa solo de composición gaseosa o de tolerancia de la piel.
