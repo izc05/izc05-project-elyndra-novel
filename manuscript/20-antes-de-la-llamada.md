@@ -34,21 +34,17 @@ Se apagó.
 
 Sin respuesta.
 
-Desde la reparación del convertidor, la línea de potencia ya no caía durante las transmisiones. Habías dejado de mirar cada curva completa después de comprobar varias veces que la prioridad funcionaba.
+Desde la reparación del convertidor, la línea de potencia ya no caía durante las transmisiones. Habías dejado de abrir la gráfica completa cada vez.
 
-Aquella mañana la abriste de todos modos.
+Aquella mañana la abriste porque no ibas a ninguna parte.
 
-No por Aster.
-
-Por no salir.
-
-El registro ocupó la pantalla con tres trazas: batería, convertidor, baliza.
+Tres trazas ocuparon la pantalla: batería, convertidor, baliza.
 
 Estables.
 
 Desplazaste la ventana unos minutos hacia atrás.
 
-El receptor de emergencia aparecía debajo, casi plano, guardando ruido.
+Debajo aparecía el receptor de emergencia, casi plano, guardando ruido.
 
 Había una elevación pequeña antes de la transmisión.
 
@@ -60,11 +56,11 @@ Avanzaste más despacio.
 
 Allí estaba.
 
-Un cambio de menos de dos segundos en una banda que llevaba horas sin apartarse del fondo.
+Menos de dos segundos en una banda que llevaba horas sin apartarse del fondo.
 
 No era una portadora limpia.
 
-Tampoco uno de los picos internos que producía el convertidor cuando arrancaba una carga.
+Tampoco uno de los picos internos que producía el convertidor al arrancar una carga.
 
 Ampliaste.
 
@@ -78,9 +74,9 @@ El tercero terminado en ruido.
 
 Miraste la hora.
 
-Después la hora de la transmisión de la baliza.
+Después la de la transmisión.
 
-Restaste una vez.
+Restaste.
 
 Volviste a hacerlo con la calculadora del panel.
 
@@ -88,7 +84,7 @@ Treinta y siete segundos.
 
 No exactos al milisegundo.
 
-Lo bastante cerca para que dejaras de apoyar la espalda en la pared.
+Lo bastante cerca para que apartaras la espalda de la pared.
 
 ---
 
@@ -108,53 +104,41 @@ Debajo del ruido sobrevivían los dos caracteres.
 
 Cerraste la imagen.
 
-No necesitabas tenerla delante para recordar el número.
-
 Volviste al receptor.
 
-La anomalía seguía donde la habías encontrado.
-
-Marcaste el inicio.
+Marcaste el inicio de los fragmentos.
 
 Marcaste el comienzo de la transmisión automática.
 
 **−37,08 s**
 
-La precisión de la cifra te molestó más que el número.
+Borraste la cifra del campo de notas.
 
-La borraste del campo de notas y escribiste solo:
+Escribiste:
 
 **APROX. 37 s ANTES.**
 
-Después empezaste por las explicaciones que ya conocías.
+Después empezaste por la cápsula.
 
 ---
 
-El transmisor no estaba activo en ese momento.
+El transmisor no figuraba activo.
 
-El registro de corriente no mostraba el escalón de potencia que acompañaba cada emisión.
+El registro de corriente no mostraba el escalón de potencia de una emisión.
 
-El autodiagnóstico previo sí existía, pero comenzaba doce segundos antes de transmitir, no treinta y siete.
+El autodiagnóstico previo comenzaba doce segundos antes de transmitir, no treinta y siete.
 
-Revisaste el reloj del receptor contra el ambiental.
+Comparaste el reloj del receptor con el ambiental.
 
 Coincidían dentro del margen normal.
 
-Revisaste el ambiental contra el controlador de batería.
+El ambiental con el controlador de batería.
 
 También.
 
-Un reloj podía equivocarse.
+Podían compartir un error.
 
-Tres podían compartir el mismo error.
-
-La cápsula llevaba días golpeada, húmeda, reparada con cinta y piezas que nunca debían haber trabajado así.
-
-Eso era una explicación.
-
-No suficiente.
-
-Pero una explicación.
+La cápsula llevaba días golpeada, húmeda y reparada con piezas trabajando fuera de su vida prevista.
 
 Buscaste interferencias internas.
 
@@ -172,31 +156,23 @@ El módulo térmico estaba apagado.
 
 La baliza, todavía en espera.
 
-Guardaste una copia del fragmento antes de seguir tocando nada.
+Guardaste una copia del fragmento.
 
-Luego abriste la forma de onda de la transmisión que llegó treinta y siete segundos después.
+Luego abriste la forma de onda de la transmisión posterior.
 
 No eran iguales.
 
-Eso te alivió durante menos de un segundo.
+El primer fragmento compartía una subida escalonada del encabezado de la baliza y una interrupción breve después del segundo escalón.
 
-El primer fragmento de la recepción anómala compartía la misma subida escalonada del encabezado de la baliza.
+Acercaste ambas curvas hasta que los píxeles empezaron a separarse.
 
-También una interrupción breve después del segundo escalón.
-
-Podía ser el mismo protocolo.
-
-Podía ser otra cosa usando la misma banda.
-
-Podía ser ruido al que estabas obligando a parecerse porque acababas de encontrar el número que menos querías encontrar.
+Volviste a alejarlas.
 
 Apartaste las manos del panel.
 
-La rodilla latía al ritmo de tu postura torcida.
+La rodilla latía por la postura torcida.
 
-La estiraste por el suelo.
-
-Esperaste a que el pulso bajara antes de continuar.
+La estiraste sobre el suelo.
 
 ---
 
@@ -208,13 +184,11 @@ No cambiaste potencia.
 
 No intentaste provocar nada.
 
-Solo ordenaste al receptor conservar el búfer completo de los dos minutos anteriores y posteriores.
+Ordenaste al receptor conservar el búfer completo de los dos minutos anteriores y posteriores.
 
-Luego hiciste otras cosas.
+Luego lavaste el recipiente de agua.
 
-Lavaste el recipiente de agua.
-
-Volviste a colocar dos filtros que habías contado ya por la mañana.
+Volviste a colocar dos filtros que ya habías contado por la mañana.
 
 Revisaste la mano izquierda.
 
@@ -222,13 +196,13 @@ Mismo color que la derecha.
 
 Misma temperatura dentro del margen del sensor.
 
-No añadiste una nueva fotografía.
+No añadiste otra fotografía.
 
-A los veinte minutos te sorprendiste mirando el reloj.
+A los veinte minutos miraste el reloj.
 
 Lo cerraste.
 
-A los treinta y nueve volviste a abrirlo.
+A los treinta y nueve lo abriste de nuevo.
 
 Esta vez lo dejaste visible.
 
@@ -260,13 +234,9 @@ La baliza envió su llamada.
 
 Potencia estable.
 
-El receptor quedó silenciado durante la emisión y volvió después al fondo normal.
+Durante la emisión el receptor quedó silenciado y después volvió al fondo normal.
 
 Sin respuesta.
-
-No sentiste decepción.
-
-Tampoco alivio.
 
 Guardaste el búfer.
 
@@ -282,7 +252,7 @@ Comiste la segunda mitad de la ración.
 
 Fría otra vez.
 
-La luz exterior cambió detrás del ventanal hasta volver la niebla casi blanca. Durante unos minutos entró suficiente claridad para que la carga de batería mejorara unas décimas.
+La luz exterior cambió detrás del ventanal hasta volver la niebla casi blanca. Durante unos minutos entró claridad suficiente para mejorar unas décimas la carga de batería.
 
 Después se oscureció de nuevo.
 
@@ -293,10 +263,6 @@ Doce segundos antes, el autodiagnóstico.
 Luego la llamada.
 
 Luego silencio.
-
-Dos repeticiones limpias no borraban la primera.
-
-Tampoco la convertían en un fenómeno reproducible.
 
 Abriste un registro nuevo.
 
@@ -312,29 +278,13 @@ Esperaste antes de la tercera línea.
 
 **FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.**
 
-No escribiste Aster.
-
-No escribiste eco.
-
-No escribiste futuro.
-
 Guardaste el archivo junto a la captura dañada de la entrada.
 
 ---
 
 Por la noche dejaste el receptor grabando.
 
-No consumía lo suficiente para justificar apagarlo mientras la batería mantuviera aquel margen.
-
-Preparaste la zona de descanso sin apartar la pequeña lámina de la placa cobriza que seguía junto al mapa.
-
-La franja oscura esperaba otra visita.
-
-La estructura de tres brazos esperaba otra medición.
-
-Las depresiones seguían allí.
-
-Aster seguía sin contestar.
+Preparaste la zona de descanso sin retirar la lámina de la placa cobriza que seguía junto al mapa.
 
 Te tumbaste con la rodilla sobre una manta doblada.
 
@@ -350,4 +300,6 @@ Abriste los ojos.
 
 En la pantalla, el registro seguía avanzando de izquierda a derecha.
 
-La línea vertical que habías colocado sobre la anomalía de la mañana permanecía treinta y siete segundos antes de una llamada que todavía no habías aprendido a explicar.
+El pequeño grupo de pulsos de la mañana quedaba atrás, inmóvil en el búfer guardado.
+
+La nueva línea siguió limpia.
