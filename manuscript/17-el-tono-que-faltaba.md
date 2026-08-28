@@ -56,8 +56,6 @@ Durante diez minutos subió poco.
 
 Menos que en la bóveda ascendente durante la comparación anterior.
 
-No convertiste una salida en una regla regional.
-
 Guardaste el dato.
 
 La niebla se espesó.
@@ -80,7 +78,7 @@ Esperaste el segundo tono.
 
 Nada.
 
-El silencio no era completo. Caía agua desde raíces superiores. El traje movía aire junto a tus oídos. Algo crujió en la corteza detrás de ti y no volvió a repetirse.
+Caía agua desde raíces superiores. El traje movía aire junto a tus oídos. Algo crujió en la corteza detrás de ti y no volvió a repetirse.
 
 El grave sonó otra vez.
 
@@ -164,7 +162,7 @@ En el brazo superior no ocurrió nada.
 
 La lluvia de la tarde anterior había dejado agua en todas partes.
 
-Eso hacía más extraño que una cavidad estuviera casi seca y la otra llena.
+Eso hacía más extraña la diferencia entre las dos cavidades.
 
 Buscaste una entrada visible.
 
@@ -224,10 +222,6 @@ Volvió a avanzar.
 
 La película fina del fondo se hizo visible como una sola superficie.
 
-No era suficiente para llenar la cavidad.
-
-Sí para dejar de parecer seca.
-
 Anotaste la hora.
 
 ---
@@ -250,9 +244,7 @@ Reprodujiste el audio antiguo.
 
 La diferencia era audible incluso a través del casco.
 
-No necesitabas ponerle una cifra para saber que no era la misma nota.
-
-Aun así mediste la frecuencia.
+Mediste la frecuencia.
 
 Había bajado.
 
@@ -262,8 +254,6 @@ Luego el brazo inferior, todavía lleno.
 
 El grave sonó y mantuvo prácticamente el mismo rango que en tus registros anteriores.
 
-No escribiste que la estructura estuviera afinándose.
-
 Escribiste:
 
 **TONO AGUDO AUSENTE CON CAVIDAD CASI SECA. REAPARECE TRAS AUMENTO DE PELÍCULA. FRECUENCIA DIFERENTE.**
@@ -272,7 +262,7 @@ Debajo:
 
 **RELACIÓN ENTRE NIVEL DE PELÍCULA Y TONO: POSIBLE. MECANISMO DE CARGA NO DETERMINADO.**
 
-El texto ocupó menos espacio que todo lo que seguías sin saber.
+Guardaste el registro.
 
 ---
 
@@ -283,8 +273,6 @@ La raíz cubría la estructura de forma irregular. En algunos puntos la corteza 
 En otros no había diferencia visible.
 
 Tomaste referencias.
-
-No llamaste crecimiento a algo que podía ser simplemente agua dentro del tejido.
 
 Detrás de la estructura la niebla abrió una ventana breve hacia la plataforma.
 
@@ -312,13 +300,7 @@ La segunda nota fue ligeramente más alta que la primera.
 
 El nivel transparente había subido un poco más.
 
-No sabías qué movía el líquido.
-
-Sí sabías que el sonido no era una propiedad fija del objeto.
-
-Dependía de su estado.
-
-Eso bastaba para volver a mirar las grabaciones antiguas de otra manera.
+Guardaste otra grabación.
 
 ---
 
@@ -354,8 +336,6 @@ La ruta horizontal había cargado menos el cartucho que la bóveda durante una p
 
 Marcaste el dato como comparación provisional.
 
-Nada más.
-
 ---
 
 De vuelta en la cápsula hiciste el recorrido habitual.
@@ -376,29 +356,21 @@ Habían pasado casi veinticuatro horas.
 
 Tomaste una fotografía.
 
-No añadiste una conclusión.
-
 Después abriste las grabaciones de la estructura.
 
 En la pantalla, la línea transparente del brazo superior ascendía tan despacio que a velocidad normal parecía inmóvil.
 
 Aceleraste el vídeo.
 
-Entonces sí se veía.
+Entrada desde la base.
 
-Una entrada gradual desde la base.
-
-Una espera.
+Pausa.
 
 Otra subida.
 
 Después la primera vibración.
 
 Pusiste al lado la fotografía de la primera visita.
-
-La estructura era la misma.
-
-Lo que contenía no.
 
 Fuera, la baliza transmitió su llamada automática.
 
