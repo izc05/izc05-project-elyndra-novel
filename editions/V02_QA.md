@@ -43,6 +43,12 @@ Ya no representa el estado actual del manuscrito maestro: `manuscript/` llega al
 - XVII deja pasar casi veinticuatro horas sin cambios visibles en esa piel y vuelve a la estructura de tres brazos; el tono agudo desaparece con su cavidad casi seca y reaparece con frecuencia distinta al aumentar la película transparente.
 - Ninguno de estos avances autoriza todavía retirar el casco ni declarar la atmósfera segura.
 
+## Revisión editorial posterior — Capítulo XVII
+
+El Capítulo XVII ha recibido una pasada de poda posterior a su primera publicación. Se han eliminado explicaciones redundantes que traducían al lector lo que ya demostraban la película transparente, la frecuencia y la repetición del fenómeno. La revisión **no cambia hechos canónicos**, geografía, recursos, estado físico ni conocimiento del protagonista; por tanto `CONTINUITY.md` ha sido releído y sigue siendo válido sin ascender ni retirar ningún hecho, hipótesis o pregunta.
+
+La revisión visual queda además fijada en `art/17-el-tono-que-faltaba.md`, con continuidad estricta respecto a la estructura del Capítulo IV: misma geometría, escala, inserción en la raíz y ausencia de interfaces, luces o explicaciones tecnológicas.
+
 ## Regla para la siguiente edición
 
 La nueva edición ya está **justificada por distancia narrativa**; no debe seguir aplazándose indefinidamente. Sin embargo, tampoco debe construirse con imágenes provisionales inferiores al estándar actual.
