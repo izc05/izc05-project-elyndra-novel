@@ -58,6 +58,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Registro: `PARTICULADO EXTERIOR: FRACCIÓN ORGÁNICA NO CLASIFICADA.`
 - Registro: `COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.`
 - **No se ha declarado la atmósfera segura para respirar sin filtro ni casco.**
+- **No se ha expuesto deliberadamente piel desnuda al ambiente exterior.**
 - En una salida comparativa del Capítulo XIV, la carga del filtro aumenta lentamente en la primera ruta y con mayor rapidez en la bóveda de la ruta ascendente.
 - En el haz lateral de la linterna dentro de la bóveda se observan miles de partículas muy pequeñas suspendidas en el aire.
 - El protagonista añade al mapa de la ruta ascendente la nota `MAYOR CARGA DE FILTRO`.
@@ -222,6 +223,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en exterior.
 - No se ha observado reacción adversa medible a la exposición mínima de lluvia tratada registrada hasta ahora.
+- **No ha expuesto deliberadamente piel desnuda al ambiente exterior.**
 - **No ha respirado deliberadamente aire exterior sin filtrado.**
 
 ## HIPÓTESIS ACTIVAS
@@ -262,6 +264,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Puede llegar a demostrarse que alguna región de la atmósfera exterior es segura para respirar sin filtrado?
 - ¿Qué son las partículas y estructuras orgánicas retenidas por los filtros?
 - ¿Por qué la bóveda ascendente carga los filtros con mayor rapidez y cuánto varía ese coste entre regiones?
+- ¿Puede una exposición dérmica mínima y controlada aportar información útil antes de considerar cualquier respiración directa?
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
 - ¿Qué produjo las depresiones pulidas, los arañazos nuevos y la depresión pequeña?
@@ -374,7 +377,8 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
 - En el Capítulo XIV el aire deja de ser una prohibición abstracta y se convierte en un recurso medible: parte de su composición gaseosa es prometedora, pero el riesgo biológico/particulado sigue sin resolver y los filtros son finitos.
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
-- **La primera retirada futura del casco en exterior queda preparada como hito posible, no autorizada ni ejecutada.**
+- **La primera exposición futura de piel desnuda al ambiente exterior queda preparada como un hito posible, no ejecutado.**
+- **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales.**
 - El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno y ahora coste de filtrado— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
@@ -387,3 +391,4 @@ Existen como dirección, no como conocimiento del protagonista.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
 - La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
 - La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
+- Antes de cualquier respiración directa, una futura exposición dérmica mínima puede servir como escalón narrativo si se realiza en una región de baja carga de filtro, con control de tiempo, posibilidad inmediata de retirada y sin convertir la ausencia de reacción aguda en prueba de seguridad.
