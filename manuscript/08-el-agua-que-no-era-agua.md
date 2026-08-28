@@ -4,265 +4,169 @@ La reparación seguía seca.
 
 Lo comprobaste antes de desayunar.
 
-No porque dudases de la cinta.
-
-Porque habías dormido debajo.
-
-La junta interior estaba fría al tacto y no dejó humedad en el guante. El trozo de paracaídas tensado sobre el casco exterior seguía batiendo con cada cambio de aire, pero el agua caía ahora a un lado de la cápsula y descendía por la corteza en una línea que habías aprendido a no pisar.
+La junta interior estaba fría al tacto y el guante volvió limpio. Fuera, el trozo de paracaídas tensado sobre el casco chasqueaba con cada cambio de aire. El agua caía ahora a un lado de la cápsula y bajaba por la corteza formando una franja oscura que ya habías aprendido a no pisar.
 
 Bien.
 
 Una cosa menos que empeorar.
 
-Sacaste del compartimento médico dos recipientes estériles para muestras. Eran pequeños, transparentes y demasiado valiosos para desperdiciarlos en una prueba mal hecha. Los dejaste sobre el banco junto al analizador portátil y una tira de membrana filtrante de repuesto.
+Sacaste del compartimento médico dos recipientes estériles para muestras. Eran pequeños, transparentes y demasiado valiosos para desperdiciarlos por torpeza. Los dejaste junto al analizador portátil y abriste el armario del agua.
 
-Después abriste el suministro de agua.
+Quedaban menos envases de los que tu memoria esperaba.
 
-No bebiste.
+No porque faltara ninguno.
 
-Solo miraste los recipientes sellados.
+Porque ahora los contabas de otra manera.
 
-El día anterior habías contado días.
+Guardaste un recipiente de muestra en la mochila y el otro en el bolsillo exterior del traje. El analizador se quedó dentro. Para bajar necesitabas las manos, no respuestas.
 
-Esa mañana preferiste no volver a hacerlo.
+Antes de cerrar la escotilla bebiste de tu reserva.
 
-Guardaste uno de los recipientes de muestra en la mochila y el otro en el bolsillo exterior del traje. Si caías y rompías uno, al menos la torpeza no decidiría por ti cuándo dejar de intentarlo.
+Dos tragos.
 
-El analizador quedó en la cápsula.
-
-No necesitabas bajar más peso.
-
-Necesitabas traer agua.
+El tercero lo devolviste al envase sin haber llegado a darlo.
 
 ---
 
-La ruta hasta la bifurcación ya no exigía atención completa.
+La ruta hasta la bifurcación ya no exigía toda tu atención.
 
 Eso no la hacía segura.
 
-Lo notaste en la grieta del viento.
-
-La membrana bajo el borde se tensó mientras tú estabas mirando una mancha nueva de barro sobre la corteza. El cuerpo bajó el centro de gravedad antes de que terminaras de pensar qué habías visto.
+En la grieta del viento, una membrana bajo el borde se tensó mientras mirabas una mancha nueva de barro. Tu cuerpo bajó el centro de gravedad antes de que terminaras de reconocer la señal.
 
 La ráfaga pasó.
 
-Solo después volviste a la mancha.
+Solo después volviste a mirar la mancha.
 
-Era agua cargada de sedimento procedente de una raíz superior. Nada más.
+Agua con sedimento de una raíz superior.
+
+Nada más.
 
 Seguiste.
 
-En la bifurcación no miraste la ruta horizontal.
+En la bifurcación la niebla ocultaba la ruta horizontal. No se oía ningún tono. La rama ascendente desaparecía detrás de vegetación oscura.
 
-O sí.
+Tomaste la descendente.
 
-Durante un segundo.
+La temperatura empezó a subir antes de que el visor la confirmara. Lo notaste en la espalda, donde el traje tardaba más en evacuar el calor. La raíz se curvó hacia la capa inferior y la niebla fue quedando arriba, convertida poco a poco en un techo irregular.
 
-La niebla ocultaba la dirección de la estructura de tres brazos. No se oía ningún tono.
+En la rotura, las fibras seguían donde las recordabas.
 
-Tomaste la rama descendente.
+La película húmeda también.
 
-La temperatura empezó a subir poco a poco.
+La primera vez habías probado casi cada apoyo. Esta vez reconocías los dos que resbalaban y el punto donde la rodilla derecha no podía flexionarse lo suficiente.
 
-El visor lo confirmó varios minutos después de que lo hiciera tu espalda.
-
-Te detuviste junto a la rotura.
-
-Las fibras seguían allí.
-
-La película elástica que las cubría también.
-
-La última vez habías bajado con las manos desnudas de conocimiento: comprobando cada apoyo, regresando sobre tus pasos, descubriendo demasiado tarde qué superficies resbalaban.
-
-Esta vez sabías dónde no poner el pie.
-
-Eso hizo la bajada más rápida.
+La bajada fue más rápida.
 
 No fácil.
 
-La rodilla derecha seguía castigando cualquier flexión profunda. En dos puntos tuviste que girar el cuerpo y dejar que la pierna izquierda bajara primero mientras la derecha permanecía casi extendida.
+En dos pasos tuviste que girar el cuerpo y dejar que la pierna izquierda buscara primero la fibra inferior. El sistema improvisado de aseguramiento rozó la corteza detrás de ti sin llegar a tensarse.
 
-El sistema improvisado de aseguramiento rozó la corteza detrás de ti.
+Cuando alcanzaste la raíz intermedia esperaste hasta que el pulso dejó de sonar dentro del casco.
 
-No llegó a tensarse.
+Debajo aparecieron los discos pálidos.
 
-Cuando alcanzaste la raíz intermedia, respirabas demasiado deprisa.
-
-Esperaste hasta que el pulso dejó de golpear dentro del casco.
-
-La capa inferior apareció bajo la niebla.
-
-Los discos pálidos seguían repartidos sobre la corteza.
-
-Algunos brillaban.
+Algunos recogían la luz.
 
 Otros no.
 
-Desde arriba parecían exactamente como los recordabas.
-
-Eso te inquietó menos que la primera vez.
+Desde arriba parecían iguales que la última vez.
 
 ---
 
-Bajaste hasta ellos.
+El aire de la raíz inferior volvió a traer aquella nota mineral incluso a través del filtro.
 
-El aire volvió a oler a mineral húmedo incluso a través del filtro.
+Fuiste primero hacia el disco donde habías visto a las criaturas pequeñas.
 
-El disco más cercano estaba lleno casi hasta la mitad.
+Te detuviste a varios pasos.
 
-No era el mismo en el que habías observado las primeras criaturas. Aquel quedaba unos metros más allá, junto a una elevación doble de la raíz.
+El disco seguía allí.
 
-Fuiste hacia él.
+El agua no.
 
-Te detuviste antes de llegar.
+En el fondo quedaba apenas una película húmeda y algunas franjas verdosas pegadas al interior. Los otros recipientes naturales de alrededor conservaban agua. Uno rebosaba por el borde. Otro estaba casi lleno.
 
-El agua estaba vacía.
+Aquel, no.
 
-No el recipiente.
-
-El agua.
-
-El disco seguía allí, cóncavo y lechoso, con sus líneas finas en el borde. En el fondo quedaba una película brillante de pocos milímetros y varias franjas verdosas pegadas a la superficie interior.
-
-No había animales visibles.
-
-Miraste alrededor.
-
-Los otros discos conservaban agua.
-
-Uno rebosaba.
-
-Otro estaba casi lleno.
-
-El que recordabas, no.
-
-No anotaste cambio todavía.
-
-Buscaste la fotografía de la visita anterior.
-
-El relieve coincidía.
+Comparaste la posición con la fotografía anterior.
 
 La doble elevación detrás.
 
-La grieta estrecha a la izquierda.
+La cicatriz clara a la izquierda.
 
-La pequeña cicatriz clara en la corteza.
+La misma curvatura de la raíz.
 
-Era el mismo.
+No te habías equivocado de disco.
 
-Había perdido el agua desde la última vez.
+Te agachaste sin apoyar la rodilla derecha.
 
-Te agachaste.
+La línea oscura que había aparecido después de la inclinación seguía en el centro. Sin agua encima se veía mejor: dos centímetros de ancho, aproximadamente, bordes suaves, continuidad casi uniforme hasta desaparecer bajo la pared lechosa.
 
-La línea oscura que habías observado tras la inclinación seguía en el centro.
+Acercaste la luz desde un lado.
 
-Ahora se veía completa.
+El material devolvió un brillo apagado.
 
-No era una grieta.
+No parecía una grieta abierta.
 
-O no parecía una.
-
-La línea tenía bordes suaves y una anchura constante de unos dos centímetros. Atravesaba el fondo del disco y desaparecía bajo la pared lechosa.
-
-Acercaste la luz lateralmente.
-
-La superficie devolvió un brillo apagado.
-
-No metálico.
-
-Tampoco igual al tejido del disco.
+Tampoco se parecía al tejido del propio disco.
 
 No tocaste.
 
-No habías bajado para eso.
+Habías bajado por otra cosa.
 
-El recipiente estéril seguía vacío en tu bolsillo.
+Elegiste un recipiente cercano que conservaba agua y no mostraba criaturas junto al centro.
 
-Te incorporaste y elegiste otro disco.
+La primera tentativa terminó antes de empezar.
 
-Uno con agua.
-
-Uno sin criaturas visibles cerca del punto donde ibas a tomar la muestra.
-
----
-
-La primera tentativa fue mala.
-
-Abriste el recipiente demasiado pronto.
-
-Una gota cayó desde el borde del casco y golpeó el exterior antes de que pudieras apartarlo.
+Abriste el frasco demasiado pronto y una gota de condensación cayó desde el borde del casco sobre el exterior.
 
 Lo cerraste.
 
-Guardaste aquel frasco para otra cosa.
+Lo guardaste para otra prueba.
 
 El segundo seguía limpio.
 
-Te quitaste el polvo del guante con agua de tu propio suministro, secaste la superficie exterior y esperaste a que dejara de caer condensación desde el brazo del traje.
+Esperaste a que dejara de gotear el brazo del traje. Abriste el recipiente dentro de la mochila parcialmente cerrada y lo sujetaste con la pinza de la herramienta. Tomaste agua del centro del disco, lejos del borde y de la película verdosa.
 
-Después abriste el frasco dentro de la mochila parcialmente cerrada, protegiéndolo de la lluvia fina.
-
-Lo acercaste al disco.
-
-No sumergiste la mano.
-
-Sujetaste el recipiente con una pinza de la herramienta y tomaste agua del centro, lejos de la película verdosa y del borde.
-
-El líquido entró sin resistencia.
-
-Transparente.
+El líquido entró transparente.
 
 Incoloro.
 
-Eso no significaba nada.
+Como cualquier agua que hubieras aceptado sin pensar en casa.
 
-Estabas cerrando el frasco cuando algo se movió bajo él.
+Estabas cerrando el frasco cuando algo pasó bajo la sombra de la pinza.
 
-Una de las criaturas planas apareció desde la sombra del borde.
+Una de las criaturas planas salió del borde.
 
 Después otra.
 
-No huyeron.
-
-La primera pasó por debajo de la zona donde habías retirado agua y siguió recorriendo la pared.
+La primera siguió moviéndose por la pared del disco.
 
 La segunda se detuvo.
 
-Sus puntos pálidos se encendieron una vez.
+Sus puntos pálidos se encendieron desde la parte anterior hacia atrás.
 
-No todos.
+Una vez.
 
-Una secuencia corta desde el borde anterior hacia atrás.
+Luego otra.
 
-La habías visto brillar antes.
+No todos a la vez.
 
-No así.
+Tres agrupaciones muy breves, separadas por pausas demasiado cortas para medir a simple vista.
 
-Esperaste.
+La otra criatura se quedó quieta.
 
-La secuencia volvió.
+Durante un momento solo viste agua y dos cuerpos finísimos suspendidos sobre el fondo.
 
-Tres grupos.
+Entonces sus puntos repitieron un recorrido parecido.
 
-Muy rápidos.
-
-La otra criatura se detuvo también.
-
-Durante dos segundos las dos permanecieron inmóviles.
-
-Entonces los puntos de la segunda repitieron el mismo recorrido.
-
-No sabías si era el mismo patrón.
-
-La percepción humana era mala midiendo ritmos breves sin referencia.
+Parecido no era igual.
 
 Activaste la grabación de alta velocidad.
 
-Las criaturas volvieron a moverse.
+No intentaste provocar nada.
 
-Nada más ocurrió.
-
-No intentaste provocar la respuesta.
+Las dos criaturas volvieron a moverse y la luz no se repitió.
 
 Guardaste la muestra.
 
@@ -278,226 +182,166 @@ La raíz vibró bajo las botas.
 
 Las criaturas se pegaron al fondo.
 
-Tú hiciste lo contrario.
-
-Te incorporaste.
+Tú levantaste la cabeza.
 
 Segundo golpe.
 
-El agua del disco tembló en una sola superficie, sin las ondas concéntricas que habría producido una piedra.
+El agua del disco tembló como una sola superficie.
 
-Miraste el disco vacío.
+A tu derecha, el recipiente vacío cambió.
 
-La línea oscura del fondo ya no estaba oscura.
+No el disco entero.
 
-No brillaba.
+La línea del fondo.
 
-Había cambiado de tono.
+Durante un instante dejó de verse negra y se volvió gris pálido.
 
-De negro húmedo a gris pálido.
-
-Duró menos de un segundo.
-
-Después volvió a oscurecerse.
-
-Te quedaste quieto.
-
-El tercer golpe no llegó.
-
-Esperaste veinte segundos.
-
-Treinta.
-
-Nada.
-
-Revisaste la grabación del casco.
-
-El cambio estaba allí.
-
-Tres fotogramas.
-
-En el primero, línea oscura.
-
-En el segundo, gris.
-
-En el tercero, gris más tenue.
-
-Después negra otra vez.
-
-No parecía reflejo de la linterna. El ángulo no había cambiado.
-
-Podía ser tensión del material.
-
-Movimiento de líquido bajo la superficie.
-
-Una respuesta a la vibración.
-
-Cerraste el registro sin nombrarlo.
-
-La muestra de agua pesaba muy poco en la mochila.
-
-De pronto parecía pesar más.
-
----
-
-La subida fue peor que la bajada.
-
-No por el terreno.
-
-Por la rodilla.
-
-En la fibra final el dolor apareció antes de que terminaras de cargar peso. No fue agudo, pero sí suficiente para obligarte a detenerte con ambos brazos tensos.
+Después recuperó el tono oscuro.
 
 Esperaste.
 
-Cambiaste el apoyo.
+El tercer golpe no llegó.
 
-Subiste usando más brazos que piernas.
+La raíz permaneció quieta.
 
-Cuando alcanzaste la raíz superior, te sentaste sin dignidad contra la corteza y bebiste de tu reserva.
+Revisaste la grabación sin moverte del sitio.
 
-No de la muestra.
+Tres fotogramas conservaban el cambio.
+
+La posición de la luz era la misma. El casco tampoco se había movido lo suficiente para explicarlo como un reflejo simple.
+
+Podía ser tensión.
+
+Algo desplazándose bajo la superficie.
+
+Una propiedad del material que todavía no conocías.
+
+Cerraste el vídeo.
+
+La muestra pesaba menos de cien gramos en la mochila.
+
+Durante la subida la notaste en cada apoyo.
+
+---
+
+La rodilla empeoró en la fibra final.
+
+El dolor apareció antes de que terminaras de cargar peso. No fue agudo; fue peor de otra manera, una advertencia constante que te obligó a descargar el cuerpo sobre los brazos.
+
+Llegaste a la raíz superior y te sentaste contra la corteza sin buscar una postura digna.
+
+Bebiste.
 
 De tu reserva.
 
 Dos tragos largos.
 
-El recipiente estéril permaneció cerrado.
+El frasco de Elyndran permaneció cerrado.
 
 La diferencia entre ambas aguas cabía en una tapa de plástico.
 
 ---
 
-El análisis llevó más tiempo del que esperabas.
+Dentro de la cápsula dejaste la mochila en el suelo y tardaste varios minutos en abrirla.
 
-Dentro de la cápsula, colocaste el frasco en el soporte y ejecutaste primero las pruebas que menos muestra consumían.
+Primero te quitaste el casco.
 
-Conductividad.
+Después revisaste la rodilla.
 
-Sales disueltas.
+Luego calentaste media ración.
+
+El frasco permaneció sobre el banco, transparente bajo la luz blanca del compartimento médico.
+
+A simple vista no tenía nada extraño.
+
+Precisamente por eso esperaste hasta terminar de comer.
+
+El analizador consumía poca muestra, pero no podías permitirte repetir pruebas por impaciencia. Empezaste por las que conocías mejor.
+
+Sales.
 
 Acidez.
 
 Compuestos volátiles.
 
-Metales comunes.
+Metales que habrían convertido la decisión en algo sencillo.
 
-El aparato podía reconocer una lista enorme de peligros humanos conocidos.
+No apareció nada sencillo.
 
-Elyndran no tenía obligación de utilizar ninguno.
+El agua contenía minerales en cantidades que un sistema humano de tratamiento podía manejar. Ninguno de los metales pesados que el aparato reconocía superaba un límite inmediato.
 
-Los primeros resultados fueron casi decepcionantes.
+Por primera vez desde que empezaste a pensar en beber de Elyndran, una pantalla no te dio una razón clara para no hacerlo.
 
-Agua.
+La siguiente prueba sí te detuvo.
 
-Sales minerales dentro de márgenes que un sistema de tratamiento podía manejar.
+El indicador orgánico pasó a amarillo.
 
-Ningún metal pesado conocido por encima de límite inmediato.
-
-Nada que justificara el miedo de forma sencilla.
-
-Luego llegó el análisis orgánico.
-
-El indicador pasó de verde a amarillo.
+**FRACCIÓN ORGÁNICA NO CLASIFICADA.**
 
 No rojo.
 
 Amarillo.
 
-**FRACCIÓN ORGÁNICA NO CLASIFICADA.**
+Filtraste una pequeña cantidad.
 
-Esperaste a que terminara el barrido.
-
-La concentración era baja.
-
-Demasiado alta para ignorarla.
-
-Demasiado baja para decirte qué significaba.
-
-Filtraste una parte de la muestra con la membrana de laboratorio.
-
-Repetiste.
-
-La fracción disminuyó.
+La señal disminuyó.
 
 No desapareció.
 
-Probaste el módulo de esterilización térmica sobre una cantidad menor.
+Calentaste otra parte de la muestra hasta el límite del módulo de esterilización. El resultado cambió de nuevo: algunos componentes dejaron de aparecer y otros permanecieron.
 
-El resultado cambió otra vez.
+Observaste el gráfico unos segundos.
 
-Algunos componentes se degradaron.
+No tenía sentido seguir gastando muestra para obtener variaciones de la misma respuesta.
 
-Otros permanecieron.
+Cerraste el analizador.
 
-No era una respuesta.
+A un lado quedaban los envases de agua terrestre.
 
-Era un comienzo.
+Al otro, el frasco.
 
-Te sentaste junto al analizador mientras el último gráfico terminaba de dibujarse.
+Los tres devolvían la misma luz.
 
-A tu lado quedaban varios recipientes de agua terrestre.
+Volviste al vídeo de las criaturas.
 
-Delante, menos de cien mililitros de Elyndran dentro de un frasco transparente.
+A velocidad normal, los puntos pálidos apenas parecían un parpadeo.
 
-A simple vista eran iguales.
+Al reducirla se separaban en grupos.
 
-El analizador sabía distinguirlos.
-
-Tú todavía no.
-
-Entonces recordaste los puntos pálidos de las criaturas.
-
-Abriste el vídeo.
-
-Redujiste velocidad.
-
-La primera secuencia apareció.
-
-Tres grupos de luz.
+Uno.
 
 Pausa.
 
-Después la segunda criatura.
+Otro.
 
-Tres grupos.
+La segunda criatura había hecho algo parecido, aunque no idéntico.
 
-Pausa.
+Anotaste los tiempos y cerraste el archivo.
 
-Mediste el intervalo.
+No escribiste *señal*.
 
-Lo repetiste.
+No escribiste *respuesta*.
 
-No era exacto.
+Tampoco buscaste otra cosa con la que compararlos.
 
-Tampoco aleatorio a simple vista.
+Afuera, una ráfaga tensó el trozo de paracaídas sobre la reparación. La línea aguantó. El agua siguió cayendo lejos de la batería.
 
-Guardaste los tiempos sin interpretarlos.
+El sonido te hizo mirar el frasco otra vez.
 
-Después abriste por error la captura dañada del descenso.
+Habías vuelto a la raíz inferior buscando una respuesta práctica.
 
-La banda violeta ocupó media pantalla.
+¿Podía beber aquella agua?
 
-Debajo seguían los dos caracteres legibles.
+La respuesta seguía siendo no.
 
-**37**
+Pero ya no era el mismo no del día anterior.
 
-Cerraste el archivo demasiado rápido.
+Antes no sabías qué había dentro.
 
-No porque hubieras descubierto una relación.
+Ahora sabías lo suficiente para entender cuánto te faltaba.
 
-Porque querías encontrarla.
+Guardaste el frasco en el compartimento frío y cerraste la puerta.
 
-Eso era peor.
+Luego abriste un envase de tu reserva.
 
-Volviste al agua.
-
-La muestra seguía en el soporte.
-
-Transparente.
-
-Quietísima.
-
-Por primera vez el problema de beber en Elyndran no era encontrar agua.
-
-Era decidir cuánto necesitabas comprender antes de dejar que entrara en tu cuerpo.
+Esta vez diste el tercer trago.
