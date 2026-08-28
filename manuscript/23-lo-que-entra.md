@@ -2,11 +2,7 @@
 
 La mañana siguiente empezó con el armario de comida abierto.
 
-No con el receptor.
-
-No con el mapa.
-
-Con el armario.
+El receptor seguía grabando. El mapa seguía en la pared. Ninguno de los dos era lo primero que necesitabas mirar.
 
 Sacaste todas las raciones y las pusiste sobre el banco, una junto a otra. El gesto ocupó menos espacio del que recordabas.
 
@@ -24,7 +20,7 @@ Guardaste diez.
 
 Dejaste una y la mitad sobre el banco.
 
-La rodilla derecha seguía rígida al principio de la flexión, pero había perdido la resistencia del día anterior. La comprobaste apoyando el pie en el travesaño bajo, no con una sentadilla ni con una prueba que solo sirviera para demostrar orgullo.
+La rodilla derecha seguía rígida al principio de la flexión, pero había perdido la resistencia del día anterior. La comprobaste apoyando el pie en el travesaño bajo, sin obligarla a flexionarse más de lo necesario.
 
 Aceptó.
 
@@ -100,7 +96,7 @@ No llevaste recipientes de muestra.
 
 Cámara, linterna, regla flexible, agua terrestre, dos tiras de cinta y el aseguramiento corto.
 
-Lo mismo que una salida que no quisiera inventarse una emergencia.
+No necesitabas más para mirar.
 
 El casco cerró bien al primer intento.
 
@@ -402,6 +398,6 @@ Comiste frío.
 
 En la pantalla, la criatura seguía congelada justo antes de que la primera sombra oscura recorriera el tubo.
 
-Once paquetes ya no cabían en el banco.
+La fila del banco había empezado la mañana con once paquetes y medio.
 
-Diez y medio, sí.
+Ahora quedaban diez y medio.
