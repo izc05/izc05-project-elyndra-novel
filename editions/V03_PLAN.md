@@ -4,7 +4,7 @@
 
 La edición v0.2 termina en el Capítulo XIII. El manuscrito maestro llega ya al **Capítulo XX — Antes de la llamada**. La distancia es de siete capítulos y la actualización del PDF queda por tanto **necesaria**, no opcional a largo plazo.
 
-Además, los textos de XIII y XIX han sido pulidos después de sus primeras versiones. La futura edición debe tomar siempre los Markdown maestros actuales y no reutilizar texto ya maquetado o extraído de una edición anterior.
+Además, los textos de XIII, XIX y XX han sido pulidos después de sus primeras versiones. La futura edición debe tomar siempre los Markdown maestros actuales y no reutilizar texto ya maquetado o extraído de una edición anterior.
 
 No debe reconstruirse tomando v0.2 como fuente textual. La autoridad es `manuscript/` + `CONTINUITY.md`; la dirección visual vigente es `art/ILLUSTRATION_MANIFEST_V03.md`.
 
@@ -17,7 +17,7 @@ No debe reconstruirse tomando v0.2 como fuente textual. La autoridad es `manuscr
 - XVII: retorno a la estructura de tres brazos; el tono agudo depende parcialmente del estado de su película transparente sin resolver mecanismo.
 - XVIII: fallo y reparación del módulo térmico; la energía se convierte en recurso con generación variable, cargas competidoras y prioridad explícita para la baliza.
 - XIX: retorno a la misma placa cobriza de XIII; parte de la película oscura vuelve a ocupar superficie previamente despejada, sin demostrar crecimiento, renovabilidad, comestibilidad ni mecanismo. La revisión posterior corrige una sobreafirmación sobre carga de filtros y poda explicación redundante.
-- XX: jornada de reposo en la cápsula por rigidez de rodilla; aparece una recepción anómala en banda de emergencia aproximadamente 37 segundos antes de una baliza automática. No se reproduce en dos ciclos posteriores y no se identifica su fuente.
+- XX: jornada de reposo en la cápsula por rigidez de rodilla; aparece una recepción anómala en banda de emergencia aproximadamente 37 segundos antes de una baliza automática. No se reproduce en dos ciclos posteriores y no se identifica su fuente. La revisión posterior poda explicaciones y el inventario final de misterios, y fija con más claridad que la anomalía se **descubre retrospectivamente en el búfer** tras la transmisión; no fue observada en directo antes de que ocurriera.
 
 ## Prioridad visual previa a maquetación definitiva
 
@@ -45,14 +45,14 @@ Si XVII–XX no alcanzan el estándar visual cuando XIV–XVI estén aprobados, 
 
 - Construir desde los Markdown maestros actuales.
 - Confirmar que contiene Prólogo + XX en orden.
-- Confirmar que XIII y XIX corresponden a sus revisiones actuales.
+- Confirmar que XIII, XIX y XX corresponden a sus revisiones actuales.
 - Comprobar caracteres españoles y símbolos especiales sin sustituciones.
 - Comprobar tamaño 6 × 9 en todas las páginas.
 - Renderizar todas las páginas y revisar visualmente portada, aperturas, cortes, márgenes, páginas casi vacías, imágenes y continuidad gráfica.
 - Verificar que ninguna imagen contiene texto incrustado utilizado como título principal.
 - Verificar que XI no muestra Aster, X no resuelve la plataforma y XIV–XX respetan los límites de exposición/respiración del canon.
 - Verificar especialmente que XIX no convierta la película oscura en alimento, cultivo o regeneración confirmada por medio de la imagen.
-- Verificar que XX no convierta la recepción anómala en prueba visual de Aster, viaje temporal, predicción o mensaje inteligible.
+- Verificar que XX no convierta la recepción anómala en prueba visual de Aster, viaje temporal, predicción o mensaje inteligible, ni la represente como una señal contemplada conscientemente antes de la transmisión.
 - Registrar páginas, tamaño final, fuentes y limitaciones conocidas.
 
 ## Bloqueo actual
