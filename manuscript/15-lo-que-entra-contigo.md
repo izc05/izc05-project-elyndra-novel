@@ -2,9 +2,9 @@
 
 A la mañana siguiente no abriste la escotilla.
 
-La rejilla de retorno estaba a la altura de tu tobillo.
+La rejilla de retorno quedaba a la altura de tu tobillo.
 
-Te sentaste en el suelo frente a ella con la pierna derecha estirada y apartaste una caja de herramientas para poder trabajar sin doblar demasiado la rodilla.
+Te sentaste en el suelo frente a ella con la pierna derecha estirada y apartaste una caja de herramientas para no doblar más de la cuenta la rodilla.
 
 Habías dormido mal.
 
@@ -12,77 +12,55 @@ No por los golpes de abajo.
 
 No los habías oído.
 
-Cada vez que el ventilador cambiaba de velocidad pensabas en el filtro del casco dentro de su bolsa.
-
-El sonido llevaba allí desde el primer día.
-
-Lo nuevo era saber qué podía estar moviendo.
+El ventilador cambiaba de velocidad cada pocos minutos y, cada vez que lo hacía, mirabas la bolsa donde habías guardado el filtro del casco.
 
 Quitaste los dos tornillos de la rejilla.
 
 El primero salió limpio.
 
-El segundo dejó una línea gris en el guante interior que llevabas para mantenimiento.
+El segundo dejó una raya gris en el guante de mantenimiento.
 
-Te detuviste.
+La miraste un instante y seguiste.
 
-Miraste la mancha.
+Detrás había un prefiltro plegado del tamaño de una mano abierta. No era la barrera principal del sistema ambiental, solo la primera capa: fibras gruesas para polvo, restos de aislamiento, cabellos, partículas grandes.
 
-Luego terminaste de aflojarlo.
+La superficie orientada hacia la cabina tenía polvo claro, una fibra roja de la bolsa médica y dos fragmentos negros de la espuma del asiento roto.
 
-Detrás había un prefiltro plegado del tamaño de una mano abierta. No era el filtro principal del sistema ambiental. Solo la primera capa: fibras gruesas para polvo, restos de aislamiento, cabellos, partículas grandes que no merecían llegar más lejos.
+El extremo próximo al conducto era más oscuro.
 
-Había cumplido su trabajo.
+Sacaste una fotografía antes de tocarlo.
 
-La superficie que miraba a la cabina tenía polvo claro, una fibra de tela roja que reconociste de la bolsa médica y dos fragmentos negros de espuma del asiento roto.
+Luego lo retiraste y lo dejaste sobre una bandeja.
 
-La cara interior era distinta.
+Con el ventilador apagado, el conducto quedó inmóvil detrás de la rejilla abierta.
 
-Más oscura cerca de un extremo.
+Acercaste la linterna.
 
-No uniforme.
+Metal.
 
-Sacaste una fotografía antes de tocar nada.
+Polvo.
 
-Después retiraste el prefiltro y lo metiste en una bandeja.
+Una esquina de sellante reseco.
 
-La rejilla quedó abierta.
-
-El ventilador estaba apagado.
-
-Aun así acercaste la cara solo lo necesario.
-
-Nada se movía dentro del conducto.
-
-No viste colonias.
-
-No viste humedad acumulada.
-
-No viste nada que justificara la palabra que estabas evitando.
+Nada más que pudiera verse a simple vista.
 
 Volviste a la bandeja.
 
 ---
 
-El prefiltro tenía una fecha de servicio anterior a la caída.
+La fecha de servicio del prefiltro era anterior a la caída.
 
-Eso complicaba casi todo.
+Eso lo volvía casi inútil como prueba.
 
-No podías asumir que cualquier partícula extraña hubiera entrado en Elyndran. Aster había tenido polvo de mantenimiento, fibras de carga, residuos de sellantes y años de aire humano circulando por conductos que nadie abría salvo cuando algo fallaba.
-
-Necesitabas una comparación.
+Aster había tenido años de aire humano circulando por conductos de mantenimiento: fibras de carga, sellantes, piel, polvo, restos de embalaje, partículas desprendidas por cada reparación.
 
 Sacaste el filtro del casco usado el día anterior.
 
 No los pusiste en contacto.
 
-Cortaste dos fragmentos separados de cinta transparente de muestreo y presionaste el primero contra el extremo oscuro del prefiltro interior.
+Presionaste una tira de cinta de muestreo contra la zona oscura del prefiltro interior y dejaste otra sin usar como control.
 
-El segundo quedó como control sin usar.
-
-Bajo la lente, la muestra de la cabina parecía menos cargada que la del casco.
-
-También más aburrida.
+Bajo la lente aparecieron cosas conocidas.
 
 Polvo.
 
@@ -94,187 +72,141 @@ Dos partículas metálicas.
 
 Moviste la placa.
 
-En el borde apareció un fragmento translúcido.
+En un borde apareció un fragmento translúcido.
 
-Te inclinaste.
+Había otro más pequeño cerca.
 
-No tenía forma suficiente para decir nada.
+Cambiaste la iluminación.
 
-Había otro más pequeño a unos milímetros.
+Los dos devolvieron un brillo pálido parecido al de algunos restos atrapados por el filtro exterior.
 
-Cambiaste iluminación.
+Parecido no era suficiente.
 
-Ambos devolvieron el mismo brillo pálido que algunos fragmentos del filtro exterior.
+Preparaste una segunda muestra del prefiltro, esta vez más próxima al conducto.
 
-Eso no los convertía en lo mismo.
-
-Preparaste una tercera muestra del prefiltro, esta vez de la zona más próxima al conducto.
-
-Encontraste fibras oscuras.
+Fibras oscuras.
 
 Una partícula mineral irregular.
 
 Tres formas ovaladas demasiado pequeñas para clasificarlas con aquella óptica.
 
-Apartaste las manos de la mesa.
+Separaste las manos de la mesa.
 
-El ventilador seguía apagado.
+La cabina estaba tan quieta que oías el leve crujido del casco enfriándose sobre el banco.
 
-La cápsula quedó en silencio.
+Volviste a mirar.
 
-No necesitabas imaginar nada.
-
-Las tres formas estaban sobre la placa.
-
-Eso era suficiente.
+Las tres formas seguían allí.
 
 ---
 
-El analizador consumió otro poco de reactivo.
+El analizador consumió otra porción de reactivo.
 
-Lo observaste caer por el conducto transparente de la bandeja y pensaste en las raciones.
+La viste avanzar por el tubo transparente y pensaste en el armario de raciones.
 
 No era la misma reserva.
 
-El gesto de contar empezaba a serlo.
+El gesto de vigilar cuánto quedaba empezaba a ser el mismo.
 
-La muestra interior produjo minerales conocidos, material polimérico, trazas orgánicas y demasiada mezcla para una clasificación limpia.
+La muestra produjo minerales conocidos, material polimérico, trazas orgánicas y demasiada mezcla para una clasificación limpia.
 
 No apareció un patrón que permitiera emparejarla con el filtro del casco.
 
-Tampoco apareció nada que la separara con claridad.
+Tampoco uno que la separara con claridad.
 
 Escribiste:
 
 **PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.**
 
-Te quedaste mirando la frase.
+Cerraste el resultado.
 
-Era correcta.
+Después miraste la escotilla.
 
-También era insuficiente para decidir cómo vivir dentro de la cápsula.
-
-Entonces miraste la escotilla.
-
-No necesitabas demostrar que una partícula concreta había recorrido todo el camino desde la bóveda hasta la rejilla.
-
-Cada vez que entrabas traías agua en las botas.
+Habías visto agua llegar en las botas.
 
 Película gris en las suelas.
 
 Polvo en las juntas.
 
-Fibras adheridas a la mochila.
+Fibras prendidas en la mochila.
 
-Lo habías visto.
+Eso no necesitaba microscopio.
 
-Lo habías limpiado.
+Tomaste un paño limpio y lo pasaste por el cierre exterior del guante derecho. El tejido volvió con una línea parda.
 
-La pregunta no era si Elyndran entraba contigo.
-
-La pregunta era cuánto conseguías retirar antes de quitarte el casco.
+Lo doblaste hacia dentro.
 
 ---
 
-Tomaste una muestra de aire de la cabina antes de volver a encender la recirculación.
+Antes de instalar el prefiltro nuevo tomaste una muestra del aire interior.
 
-Luego instalaste un prefiltro limpio.
-
-Te quedaban varios.
-
-Menos que antes.
-
-Atornillaste la rejilla y activaste el sistema a caudal alto.
+Después cerraste la rejilla y activaste la recirculación alta.
 
 El aire empezó a moverse desde la escotilla hacia el retorno.
 
-Una tira suelta del envoltorio de una ración tembló sobre el banco.
+Una tira suelta de un envoltorio de ración tembló sobre el banco.
 
 La retiraste.
 
 Esperaste el ciclo completo.
 
-Tomaste otra muestra de aire.
+Tomaste otra muestra.
 
-El contador de partículas bajó.
+El contador de partículas había bajado.
 
 No a cero.
 
-Nunca había estado a cero.
+Buscaste los registros automáticos de los primeros días.
 
-Los sensores químicos siguieron sin producir alarma.
+Había pequeños picos después de varias aperturas de la escotilla. Entonces habías mirado presión, batería, agua, la rodilla, la baliza. La curva de partículas había quedado debajo de todo lo demás.
 
-Eso te dio una medida.
+Ahora la viste repetirse.
 
-No seguridad.
+Apertura.
 
-Una medida.
+Pico.
 
-Abriste el registro de los primeros días y buscaste las lecturas interiores que el sistema guardaba de forma automática.
+Descenso con la recirculación.
 
-Había picos después de varias aperturas de la escotilla.
+Otra apertura.
 
-Pequeños.
+Otro pico.
 
-Breves.
-
-La recirculación los reducía.
-
-No habías prestado atención porque entonces estabas mirando otras cosas: presión, batería, agua, la rodilla, la baliza.
-
-Ahora la forma del gráfico era evidente.
-
-Abrir.
-
-Subir.
-
-Filtrar.
-
-Bajar.
-
-Repetirse.
-
-No sabías qué parte del pico era Elyndran y qué parte eras tú levantando polvo de una cápsula accidentada.
-
-Pero el comportamiento sí era real.
+No podías saber qué parte era material de Elyndran y qué parte levantabas tú al entrar en una cápsula accidentada.
 
 Guardaste la comparación.
 
+Era suficiente para cambiar una costumbre.
+
 ---
 
-La solución ocupó menos de un metro cuadrado.
+La nueva organización ocupó menos de un metro cuadrado.
 
 No había espacio para más.
 
-Moviste las raciones al compartimento superior, lejos de la escotilla.
+Subiste las raciones al compartimento superior, junto al botiquín.
 
-El botiquín ya estaba allí.
+Del lado de la escotilla dejaste la caja de paños, una bolsa de residuos y un soporte improvisado para el casco.
+
+Del otro quedaron el agua, el analizador y el lugar donde dormías.
 
 Pegaste una línea de cinta en el suelo siguiendo el borde del banco.
 
-Del lado de la puerta dejaste la caja para paños, una bolsa de residuos y el soporte donde podías apoyar el casco sin ponerlo sobre la mesa de comida.
+Te quedaste de pie con una bota a cada lado.
 
-Del otro quedaron el recipiente de agua, el analizador y el lugar donde dormías.
+La cinta no sellaba nada.
 
-La línea no detenía nada.
+Apenas sobresalía del suelo.
 
-Eso era obvio.
-
-Servía para detenerte a ti.
-
-Cuando volvieras cansado, mojado o con prisa, el cuerpo tendría una frontera antes de que la cabeza empezara a negociar con ella.
-
-Probaste el recorrido una vez.
-
-Escotilla imaginaria abierta.
+Aun así repetiste el regreso una vez.
 
 Entrar.
 
 Cerrar.
 
-Pies en el lado sucio.
+Botas del lado de la escotilla.
 
-Limpiar guantes y juntas.
+Paño en guantes y juntas.
 
 Recirculación.
 
@@ -282,116 +214,76 @@ Esperar.
 
 Casco al soporte.
 
-No cruzar con las botas húmedas.
+En el siguiente intento dejaste de recitar los pasos.
 
-A la tercera acción dejaste de recitarlo.
-
-Parecía demasiado a una lista.
-
-Lo repetiste sin palabras.
-
-Funcionó mejor.
+Tu mano fue sola a la caja de paños.
 
 ---
 
-Al mediodía tenías hambre.
+Al mediodía partiste otra ración por la línea del fabricante.
 
-Sacaste una ración.
-
-La línea de corte seguía allí.
-
-La partiste por la mitad.
-
-Mientras el módulo térmico intentaba arrancar, miraste la muestra de película oscura del capítulo anterior, el filtro del casco dentro de su bolsa y la placa del prefiltro interior.
-
-Tres recipientes pequeños.
-
-Tres problemas distintos.
-
-Comida.
-
-Aire.
-
-Refugio.
-
-Podían terminar siendo el mismo problema.
-
-No había ninguna ventaja en decidirlo antes de tiempo.
-
-Comiste.
-
-El calentador falló a mitad del ciclo y tuviste que reiniciarlo.
-
-La comida quedó tibia en un extremo y fría en el otro.
+El módulo térmico arrancó, se apagó a mitad del ciclo y dejó la comida tibia en un extremo y fría en el otro.
 
 Te la terminaste igual.
 
-Después revisaste el exterior desde la ventana estrecha de la escotilla.
+Sobre el banco había tres recipientes pequeños: la muestra de película oscura, el filtro exterior dentro de su bolsa y la placa del prefiltro de cabina.
 
-La niebla estaba alta.
+No los alineaste.
 
-La primera curva de la ruta se veía completa.
+Los apartaste para hacer sitio al plato.
+
+Después miraste por la ventana estrecha de la escotilla.
+
+La niebla estaba alta. Se veía completa la primera curva de la ruta.
 
 Podías salir.
 
 No saliste.
 
-Habías gastado una mañana entera en recorrer menos de dos metros.
+Habías gastado la mañana recorriendo la distancia entre la puerta y el lugar donde dormías.
 
-Era la distancia entre la puerta y el lugar donde dormías.
+Al levantarte, la rodilla derecha necesitó un segundo antes de aceptar todo tu peso.
 
-Hasta entonces habías pensado en la cápsula como la única parte de Elyndran que no pertenecía a Elyndran.
+Te apoyaste en el banco.
 
-La línea de cinta en el suelo ocupaba ahora el centro de esa idea.
+Frente a la bota, la línea de cinta ya tenía una mancha oscura de la suela.
+
+La limpiaste.
 
 ---
 
-Por la tarde cambiaste el paño húmedo por uno limpio y guardaste el usado en una bolsa separada.
+Por la tarde separaste el paño usado de los limpios.
 
-No ibas a desperdiciar uno cada vez.
+No ibas a gastar uno nuevo después de cada salida. Habría que lavarlos.
 
-Tendrías que encontrar una forma de lavarlos sin convertir el agua en otro problema.
+Eso significaba agua.
 
-Anotaste la necesidad.
+Miraste el depósito sellado.
 
-Después miraste el prefiltro viejo una última vez.
+Luego el colector exterior.
 
-Podías seguir analizándolo hasta consumir reactivos sin obtener una respuesta mejor.
+Añadiste la necesidad al registro y cerraste la pantalla antes de convertirla en otra tabla.
 
-Lo sellaste.
+El prefiltro viejo podía seguir dándote resultados hasta que agotaras los reactivos.
 
-No como prueba de contaminación.
-
-Como referencia.
+Lo sellaste como referencia.
 
 En el registro escribiste:
 
 **LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.**
 
-Y debajo:
+Debajo:
 
 **MANTENER SEPARACIÓN ENTRE ZONA DE ENTRADA Y ZONA LIMPIA.**
 
-No añadiste *peligro*.
-
-No sabías si lo había.
-
-No añadiste *seguro*.
-
-Tampoco lo sabías.
-
 La baliza emitió su llamada automática.
 
-Esperaste la respuesta.
+Esperaste.
 
-Nada.
+Nada respondió.
 
-El ventilador siguió moviendo aire a través del filtro nuevo.
+Fuera, las membranas bajo el borde de la raíz se tensaron.
 
-Fuera, una ráfaga hizo tensarse las membranas bajo el borde de la raíz.
+Tu mano ya estaba sobre el cierre de la caja de muestras cuando la ráfaga golpeó la cápsula.
 
-Un segundo después golpeó la cápsula.
-
-No miraste el indicador.
-
-Ya te habías apartado de la escotilla antes de que llegara.
+No habías mirado el indicador.
