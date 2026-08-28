@@ -354,9 +354,7 @@ Una membrana se tensó y volvió a aflojarse.
 
 No saliste.
 
-El Capítulo de aquel día, si hubiera tenido que reducirse a algo, habría cabido en una avería del tamaño de una uña.
-
-No escribiste eso tampoco.
+Todo el día había cabido dentro de una avería del tamaño de una uña y de tres caídas breves en una línea de potencia.
 
 Apagaste la pantalla principal.
 
