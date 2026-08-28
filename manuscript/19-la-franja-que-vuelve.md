@@ -40,13 +40,9 @@ Llevaste cámara, regla flexible, linterna, agua terrestre y el equipo de siempr
 
 Nada más.
 
-La ruta ascendente seguía costando más filtro que las otras.
+La bóveda ascendente seguía cargando el filtro más deprisa que los tramos que habías podido comparar.
 
-El indicador subió despacio durante la primera parte y aceleró al entrar en la bóveda.
-
-No era una sorpresa.
-
-Eso la hacía más cara, no más segura.
+El indicador subió despacio durante la primera parte y aceleró al entrar bajo las columnas.
 
 Las partículas aparecieron cuando cruzaste la linterna de lado.
 
@@ -126,9 +122,7 @@ Después acercaste la regla sin tocar la película.
 
 En el tramo más limpio, la franja conservaba casi el ancho original.
 
-En el extremo opuesto, el material oscuro había avanzado desde ambos lados hasta dejar una línea clara de menos de la mitad.
-
-No sabías qué significaba avanzar.
+En el extremo opuesto, el material oscuro ocupaba ambos márgenes hasta dejar una línea clara de menos de la mitad.
 
 Podía haber crecido.
 
@@ -192,11 +186,7 @@ Veinte.
 
 Veintisiete.
 
-Guardaste la cámara.
-
-La franja no necesitaba cambiar mientras la mirabas para haber cambiado desde la última vez.
-
-Te levantaste.
+Guardaste la cámara y te pusiste de pie con las dos manos apoyadas en la raíz.
 
 ---
 
@@ -260,7 +250,7 @@ No de forma uniforme.
 
 Mediste solo donde la geometría permitía comparar sin inventar precisión.
 
-El avance de borde era real en tres segmentos.
+El cambio de borde era real en tres segmentos.
 
 En otros dos, la diferencia podía explicarse por ángulo o humedad.
 
@@ -302,33 +292,21 @@ La pantalla ofrecía exactamente la misma información que antes.
 
 La cerraste.
 
-No necesitabas gastar reactivos para saber que seguías sin poder comerla.
+El material retirado había vuelto a ocupar parte del espacio en aquella placa.
 
-Lo nuevo era otra cosa.
+No sabías cómo.
 
-El material que la criatura había retirado no parecía limitarse a desaparecer y dejar una cicatriz permanente.
+Ni si volvería a hacerlo otra vez.
 
-Al menos en aquella placa, algo había ocupado otra vez parte del espacio.
+Antes de cerrar el registro añadiste una última línea:
 
-Eso no lo convertía en alimento.
-
-Tampoco demostraba que fuera renovable.
-
-Pero permitía hacer una pregunta que una muestra cortada no podía responder.
-
-Cuánto tardaba.
+**REPETIR COMPARACIÓN EN LOS MISMOS TRES PUNTOS.**
 
 ---
 
 Antes de cenar imprimiste una referencia pequeña de la placa en una lámina reutilizable.
 
-Marcaste tres puntos del borde que sí podían compararse.
-
-No una fecha de agotamiento.
-
-No una estimación de calorías.
-
-Tres lugares donde volver a mirar.
+Marcaste los tres puntos del borde que sí podían compararse.
 
 La sujetaste junto al mapa de la ruta ascendente.
 
