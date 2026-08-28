@@ -14,7 +14,7 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo VII: `manuscript/07-la-parte-seca.md` — **La parte seca**.
 - Capítulo VIII: `manuscript/08-el-agua-que-no-era-agua.md` — **El agua que no era agua**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, aproximado sin alcanzar la plataforma lejana, reparado una filtración de la cápsula y regresado a la raíz inferior para obtener una muestra de agua. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, aproximado sin alcanzar la plataforma lejana, reparado una filtración de la cápsula y regresado a la raíz inferior para obtener y analizar una muestra de agua. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
 
 ## HECHOS
 
@@ -45,13 +45,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Se tensan aproximadamente un segundo antes de una ráfaga.
 - El protagonista utiliza esa reacción como aviso práctico.
 - Durante una tormenta permanecieron tensas durante intervalos más largos antes de cambios bruscos de presión y dirección del aire.
-- El conocimiento ya está incorporado corporalmente: el protagonista puede bajar el centro de gravedad o ajustar el paso antes de pensar conscientemente en la señal.
-
-### Filamentos azul grisáceos
-
-- Crecen bajos sobre la corteza.
-- Se inclinan en dirección contraria al flujo de lluvia o aire.
-- La respuesta fue comprobada con una corriente suave de la válvula del guante.
+- Ese conocimiento ya está incorporado corporalmente: puede ajustar postura o paso antes de formular conscientemente la señal.
 
 ### Ruta principal y bifurcación
 
@@ -60,7 +54,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Las tres han sido exploradas parcialmente.
 - El marcador reflectante colocado inicialmente desapareció durante la tormenta del Capítulo V.
 - La zona raspada donde estuvo fijado permanece visible.
-- El protagonista ya recorre cápsula ↔ bifurcación sin necesitar el mapa ni sustituir la señal perdida.
+- El protagonista ya recorre cápsula ↔ bifurcación sin necesitar el mapa.
 
 ### Marcas, golpes y sombra
 
@@ -74,15 +68,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 - La ruta descendente conduce a una rotura y a fibras que permiten bajar con dificultad.
 - El cable fino original de dos metros es insuficiente para asegurar el descenso.
-- Parte de las fibras está cubierta por una película húmeda y elástica que recupera su forma tras presión.
+- Parte de las fibras está cubierta por una película húmeda y elástica que recupera forma tras presión.
 - El protagonista resbaló durante un regreso anterior y golpeó la rodilla derecha.
-- Ha utilizado una dosis mínima de analgésico.
 - En una raíz inferior existen discos cóncavos que acumulan agua.
 - Una raíz inferior cambió ligeramente de inclinación durante una secuencia de golpes profundos.
 - Uno de los discos quedó vacío tras aquella inclinación y mostró una línea oscura antes no visible.
-- En el Capítulo VIII el protagonista regresó al mismo disco: seguía vacío salvo por una película mínima de humedad.
-- La línea del fondo no parece una grieta abierta: tiene bordes suaves, anchura bastante constante —aproximadamente dos centímetros— y desaparece bajo la pared del disco.
-- Durante dos golpes profundos del Capítulo VIII, esa línea cambió visualmente de oscuro a gris pálido durante unos pocos fotogramas y volvió después a oscurecerse.
+- En el Capítulo VIII el protagonista volvió al mismo disco: seguía prácticamente vacío mientras otros cercanos retenían agua.
+- La línea del fondo tiene bordes suaves, anchura bastante constante —aproximadamente dos centímetros— y desaparece bajo la pared del disco.
+- Durante dos golpes profundos del Capítulo VIII esa línea cambió visualmente de oscuro a gris pálido durante unos pocos fotogramas y después recuperó el tono oscuro.
 - No se ha identificado el mecanismo del cambio.
 
 ### Primera fauna acuática confirmada
@@ -94,22 +87,23 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Parecen recorrer una película verdosa adherida a la pared del disco; posible alimentación, no confirmada.
 - Reaccionan a cambios asociados al calentador del traje antes de que el protagonista perciba el cambio.
 - También se adhieren al fondo ante golpes transmitidos por la raíz.
-- En el Capítulo VIII, después de extraer una muestra de agua de otro disco, dos individuos mostraron secuencias breves de los puntos pálidos.
-- Una segunda criatura produjo después una secuencia visualmente similar.
-- La grabación de alta velocidad confirma que hubo tres grupos breves de luz separados por pausas, pero todavía no existe evidencia para llamarlo comunicación, código o respuesta a la extracción.
+- En el Capítulo VIII, después de extraer una muestra de otro disco, dos individuos mostraron secuencias breves de puntos pálidos.
+- La grabación de alta velocidad confirma agrupaciones de luz separadas por pausas.
+- Todavía no existe evidencia para llamarlo comunicación, código o respuesta a la extracción.
 
 ### Muestra de agua de Elyndran
 
 - El protagonista llevó dos recipientes estériles de muestra a la raíz inferior.
 - El primero quedó comprometido externamente por una gota de condensación y no se usó para la muestra principal.
-- La muestra válida se tomó del centro de un disco con una pinza de la herramienta, lejos del borde y de la película verdosa.
+- La muestra válida se tomó del centro de un disco, lejos del borde y de la película verdosa.
 - El agua es transparente e incolora a simple vista.
 - El analizador portátil detectó sales minerales dentro de márgenes que un sistema de tratamiento humano podría manejar.
 - No detectó metales pesados humanos conocidos por encima de un límite inmediato.
 - El análisis orgánico produjo estado amarillo: `FRACCIÓN ORGÁNICA NO CLASIFICADA`.
 - La concentración de esa fracción es baja pero no despreciable.
 - El filtrado mediante membrana reduce la fracción orgánica, pero no la elimina.
-- La esterilización térmica degrada algunos componentes detectados, mientras otros permanecen.
+- La esterilización térmica degrada algunos componentes detectados mientras otros permanecen.
+- El protagonista detuvo las pruebas antes de gastar más muestra sin obtener una respuesta cualitativamente nueva.
 - **El agua NO está declarada potable.**
 - El protagonista no ha bebido agua de Elyndran.
 
@@ -125,18 +119,17 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Desde la ruta horizontal se detectaron dos tonos: uno agudo y otro grave.
 - Sus intervalos son irregulares.
 - En la niebla la dirección aparente del sonido cambia.
-- En la segunda visita los tonos dejan de ser solo una señal desconocida y se convierten también en una referencia práctica de distancia y orientación.
+- En la segunda visita los tonos se convierten también en referencia práctica de distancia y orientación.
 - Una estructura vertical de unos dos metros y medio está incrustada en una raíz.
 - La corteza ha crecido alrededor de parte de su base.
 - Su material responde mecánicamente como metal o similar, pero no es reconocido por el visor.
 - Tiene tres brazos curvos alrededor de un espacio central.
 - Uno produce el tono agudo y otro el grave mediante vibración física.
-- Una película transparente interior vibra antes que el brazo metálico durante algunos tonos.
+- Una película transparente interior vibra antes que el brazo durante algunos tonos.
 - El viento por sí solo no explica el fenómeno.
 - En la base hay dos grupos de hendiduras: tres pequeñas + una grande; una grande + dos pequeñas.
 - No está demostrado que sean escritura o código.
-- En la segunda visita las hendiduras conservaban la misma geometría; una de las pequeñas contenía agua mientras las demás estaban secas.
-- No hay evidencia de que el agua de esa hendidura tenga significado.
+- En la segunda visita conservaron la misma geometría; una de las pequeñas contenía agua mientras las demás estaban secas.
 
 ### Plataforma lejana y aproximación
 
@@ -144,10 +137,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Al menos seis son visibles con seguridad en aperturas de niebla.
 - Algunas parecen partidas y una muestra un hueco limpio cerca de la parte superior.
 - No se ha observado movimiento, iluminación, humo ni presencia humana.
-- La estimación inicial de unos cien metros resultó simplificada por la niebla: entre la estructura y la plataforma hay varias raíces y un hueco amplio.
+- La estimación inicial de distancia resultó engañosa por la niebla: entre la estructura y la plataforma hay varias raíces y un hueco amplio.
 - La raíz de aproximación se divide: una rama desciende bajo niebla y otra termina en un borde roto.
 - El borde roto tiene una terminación casi plana y surcos paralelos a intervalos casi regulares; su origen no está demostrado.
-- La distancia hasta la raíz opuesta impide saltar y el sistema de aseguramiento no basta sin un anclaje al otro lado.
+- La distancia hasta la raíz opuesta impide saltar y el sistema de aseguramiento no basta sin anclaje al otro lado.
 - Bajo la raíz opuesta se observa una línea oscura aproximadamente del grosor de una muñeca que entra en la corteza; su material no se ha identificado.
 - La corteza parece haber crecido alrededor de esa línea de forma comparable a la base de la estructura sonora.
 
@@ -164,14 +157,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Reunió aproximadamente once metros de líneas útiles en tramos desiguales.
 - Fabricó un sistema improvisado de aseguramiento.
 - Registro: `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
-- En el Capítulo VII cortó otra pieza de tejido del paracaídas para desviar lluvia sobre la zona reparada de la cápsula y usó un tramo corto de línea para reforzar el anclaje.
+- En el Capítulo VII cortó otra pieza de tejido del paracaídas para desviar lluvia sobre la zona reparada de la cápsula y usó línea recuperada para reforzar el anclaje.
 
 ### Ruta ascendente
 
 - Entra en una bóveda de vegetación densa donde la lluvia deja de golpear directamente el casco.
 - Columnas verdes cubiertas de placas ocupan distintas superficies y pueden conectar raíces a diferentes alturas.
 - Existen formaciones cobrizas de láminas superpuestas.
-- Una cortina de filamentos blancos se aparta de la luz de la linterna y vuelve lentamente a su posición al apagarla.
+- Una cortina de filamentos blancos se aparta de la luz de la linterna y vuelve lentamente al apagarla.
 - Dentro de la bóveda parte del agua asciende por hilos finos hacia bolsas vegetales translúcidas.
 - Una tuerca soltada por el protagonista cae normalmente, por lo que no hay evidencia de inversión gravitatoria local.
 
@@ -196,22 +189,13 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - No oscilaba con el viento ni se deformaba al paso de la niebla.
 - Su origen no está determinado.
 
-### Tormenta del Capítulo V
-
-- Llegó primero como cambio de presión.
-- Las membranas permanecieron tensas durante intervalos largos.
-- El aire cambió de dirección varias veces en pocos segundos.
-- La vegetación cobriza cerró parte de sus láminas durante las ráfagas.
-- El marcador reflectante desapareció durante el episodio.
-
 ### Cápsula, refugio y mantenimiento
 
 - La cápsula sigue siendo el único refugio seguro conocido, pero ya no puede tratarse como un sistema intacto.
-- Tras la tormenta apareció una filtración que descendía por una junta deformada y goteaba sobre la carcasa de una batería auxiliar.
-- El protagonista aisló la batería antes de trabajar y confirmó después que el aislamiento eléctrico seguía correcto.
-- La filtración procede de una zona dañada durante el impacto; no se demostró una rotura nueva.
+- Tras la tormenta apareció una filtración por una junta deformada que goteaba sobre una batería auxiliar.
+- El protagonista aisló la batería antes de trabajar y comprobó después su aislamiento.
 - La junta fue secada y sellada con aislamiento y cinta de reparación.
-- Para mantener seca la zona, el protagonista construyó un pequeño desvío de lluvia exterior con tejido de paracaídas y línea recuperada.
+- Construyó un pequeño desvío de lluvia exterior con tejido de paracaídas y línea recuperada.
 - El primer anclaje cedió con una ráfaga; el segundo, reforzado, resistió.
 - Al comienzo del Capítulo VIII la reparación continúa seca.
 - El interior acumula barro, material desmontado y reparaciones: ya no conserva el aspecto de refugio intacto de los primeros días.
@@ -224,7 +208,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Agua, raciones y filtros ya se piensan en términos de duración.
 - La necesidad de obtener agua local todavía no es inmediata, pero ya condiciona decisiones.
 - La primera muestra local NO ha demostrado potabilidad.
-- El análisis consume material de laboratorio y una pequeña cantidad de la muestra; futuros ensayos tendrán coste real.
+- El análisis consume material de laboratorio y parte de la muestra; futuros ensayos tienen coste real.
 
 ### Estado físico
 
@@ -232,7 +216,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
 - En el Capítulo VIII la subida desde la raíz inferior obliga al protagonista a descargar parte del esfuerzo en los brazos por dolor de rodilla.
 - Cuello con rigidez residual.
-- Los nudillos golpeados en el Capítulo VII mostraron hinchazón leve, con movilidad conservada.
+- Nudillos golpeados en el Capítulo VII: hinchazón leve, movilidad conservada.
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en el exterior.
 
@@ -245,18 +229,16 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La sombra nocturna puede ser niebla, sombra estructural u organismo.
 - Los animales acuáticos pueden alimentarse de la película verdosa.
 - Su reacción al sistema térmico podría deberse a calor, vibración, campo eléctrico u otra consecuencia asociada.
-- Las secuencias de puntos pálidos observadas en el Capítulo VIII pueden ser actividad fisiológica, respuesta ambiental, señal entre individuos o coincidencia; no está demostrado que constituyan comunicación.
+- Las secuencias de puntos pálidos del Capítulo VIII pueden ser actividad fisiológica, respuesta ambiental, señal entre individuos o coincidencia; no está demostrado que constituyan comunicación.
 - La línea del disco vacío podría ser tejido del propio disco, una estructura interna, una inclusión mineral u otro material; su cambio de tono durante los golpes no tiene explicación confirmada.
 - La fracción orgánica no clasificada del agua puede proceder de organismos, productos metabólicos, material del disco o compuestos disueltos; no se conoce su peligrosidad.
-- La similitud temática entre organismos que parecen anticipar cambios y el intervalo de 37 segundos es sugestiva, no demostrada.
-- El protagonista vio `37` después de revisar las secuencias luminosas, pero **no ha medido un intervalo de 37 segundos ni ha demostrado relación alguna**.
 - Los tonos pueden originarse en una interacción entre la película transparente y la estructura de tres brazos; el disparador sigue sin determinarse.
 - La plataforma lejana podría contener construcciones, restos o formaciones regulares; no debe llamarse ciudad ni ruina.
 - Los surcos del borde roto podrían ser naturales o consecuencia de alguna intervención antigua.
 - La línea oscura bajo la raíz opuesta puede ser biológica, mineral o material relacionado con la estructura sonora.
 - La vibración fina del Capítulo VI podría proceder de la raíz, de una estructura o de otro fenómeno local; no vincularla todavía a los tonos.
 - El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
-- La criatura terrestre probablemente utiliza el aplanamiento y coloración como camuflaje, pero no está demostrado.
+- La criatura terrestre probablemente utiliza aplanamiento y coloración como camuflaje, pero no está demostrado.
 - La geometría regular vista desde la terraza podría estar relacionada con los destellos observados antes, pero la distancia impide confirmarlo.
 
 ## PREGUNTAS ABIERTAS
@@ -301,15 +283,15 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - **Primera ruta:** conecta la cápsula con la bifurcación.
 - **Bifurcación principal:** tres ramas; el marcador reflectante ya no está.
 - **Ruta descendente:** conduce a la raíz rota, raíz intermedia y raíz inferior de los discos; recorrida más de una vez.
-- **Raíz inferior de los discos:** visitada inicialmente para observar fauna y después para recoger una muestra de agua.
+- **Raíz inferior de los discos:** visitada primero para observar fauna y después para recoger una muestra de agua.
 - **Ruta horizontal:** conduce a la estructura de tres brazos y continúa hasta una división próxima al hueco de la plataforma.
 - **Estructura de tres brazos:** visitada dos veces; referencia física y acústica estable hasta ahora.
 - **Borde roto de aproximación:** extremo de una rama horizontal con surcos paralelos y vista parcial de la raíz opuesta.
 - **Plataforma regular:** todavía no visitada; separada por varias raíces y un hueco.
 - **Ruta ascendente:** conduce a la bóveda vegetal y a una terraza alta.
 - **Cápsula ↔ bifurcación:** reproducible de memoria.
-- **Bifurcación ↔ raíz inferior:** peligroso, parcialmente asegurado y ahora más conocido por repetición.
-- **Bifurcación ↔ estructura de tres brazos:** recorrido dos veces y reconocido sin necesidad de repetir pruebas conocidas.
+- **Bifurcación ↔ raíz inferior:** peligroso, parcialmente asegurado y más conocido por repetición.
+- **Bifurcación ↔ estructura de tres brazos:** recorrido dos veces y reconocido sin repetir pruebas conocidas.
 - **Estructura de tres brazos ↔ borde roto:** recorrido una vez.
 - **Bifurcación ↔ terraza alta:** recorrido una vez y recordado mediante referencias ambientales.
 
@@ -335,7 +317,7 @@ No confirmado: dieta, reproducción, ciclo vital, anatomía interna, peligrosida
 
 ### Criatura terrestre de seis apoyos — sin nombre
 
-Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, camuflaje por aplanamiento, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental.
+Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, aplanamiento que favorece camuflaje, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental.
 
 No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, nombre, función ecológica.
 
@@ -358,7 +340,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 
 - Cápsula inmovilizada y enlace con Aster perdido.
 - La cápsula requiere mantenimiento de campo; la reparación de filtración y su pequeño techo de paracaídas deben conservarse.
-- La lesión de rodilla condiciona desplazamientos, aunque muestra mejoría.
+- La lesión de rodilla condiciona desplazamientos, aunque muestra mejoría lenta.
 - Las membranas se han convertido en conocimiento práctico incorporado al movimiento.
 - Las tres ramas principales contienen rutas y preguntas concretas.
 - La ruta inferior sigue abierta y peligrosa, pero la repetición empieza a convertirla en un camino conocido.
@@ -377,11 +359,9 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
-Existen como dirección, no como conocimiento del protagonista:
+Existen como dirección, no como conocimiento del protagonista. No introducirlos como hechos ni explicarlos mediante narrador omnisciente antes de que exista evidencia suficiente en la novela.
 
-- recurrencia del intervalo de 37 segundos;
-- información o señales temporalmente imposibles;
-- lugares o materiales capaces de conservar estados de forma anómala;
-- posibilidad de que Elyndran reaccione o aprenda del comportamiento del protagonista.
-
-Nunca confirmar estas direcciones antes de que el protagonista reúna evidencia suficiente.
+- El intervalo de 37 segundos debe seguir siendo una herida abierta de la historia, no una clave que resuelva cada rareza.
+- Algunos fenómenos de Elyndran pueden parecer anticipatorios; la novela debe sostener alternativas físicas, biológicas y perceptivas durante mucho tiempo.
+- El mundo puede terminar mostrando memoria, respuesta o aprendizaje, pero debe surgir de retornos, variaciones y consecuencias, nunca de una declaración temprana.
+- La posibilidad de otros habitantes o inteligencias permanece abierta; el protagonista no tiene evidencia actual para afirmarla.
