@@ -13,8 +13,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo VI: `manuscript/06-la-segunda-visita.md` — **La segunda visita**.
 - Capítulo VII: `manuscript/07-la-parte-seca.md` — **La parte seca**.
 - Capítulo VIII: `manuscript/08-el-agua-que-no-era-agua.md` — **El agua que no era agua**.
+- Capítulo IX: `manuscript/09-antes-de-tocar-la-raiz.md` — **Antes de tocar la raíz**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, aproximado sin alcanzar la plataforma lejana, reparado una filtración de la cápsula y regresado a la raíz inferior para obtener y analizar una muestra de agua. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, aproximado sin alcanzar la plataforma lejana, reparado una filtración de la cápsula, analizado agua de los discos y convertido parte del desvío de lluvia de la cápsula en un colector experimental. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
 
 ## HECHOS
 
@@ -91,7 +92,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La grabación de alta velocidad confirma agrupaciones de luz separadas por pausas.
 - Todavía no existe evidencia para llamarlo comunicación, código o respuesta a la extracción.
 
-### Muestra de agua de Elyndran
+### Muestra de agua de los discos
 
 - El protagonista llevó dos recipientes estériles de muestra a la raíz inferior.
 - El primero quedó comprometido externamente por una gota de condensación y no se usó para la muestra principal.
@@ -104,8 +105,24 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El filtrado mediante membrana reduce la fracción orgánica, pero no la elimina.
 - La esterilización térmica degrada algunos componentes detectados mientras otros permanecen.
 - El protagonista detuvo las pruebas antes de gastar más muestra sin obtener una respuesta cualitativamente nueva.
-- **El agua NO está declarada potable.**
-- El protagonista no ha bebido agua de Elyndran.
+- **El agua de los discos NO está declarada potable.**
+- El protagonista no ha bebido agua procedente de los discos.
+
+### Lluvia directa y colector experimental
+
+- En el Capítulo IX el protagonista identifica el agua desviada por la reparación exterior como una posible fuente distinta de los discos.
+- No utiliza directamente el agua que ha recorrido el tejido del paracaídas y el casco sucio.
+- Recupera una lámina rígida de cubierta térmica cuya cara interior permanecía protegida y la limpia usando una cantidad mínima de agua terrestre y calor.
+- Monta la lámina con tres apoyos para que la lluvia recorra una superficie corta y controlada antes de caer en un recipiente.
+- Descarta varios primeros volúmenes para enjuagar lámina y recipiente.
+- La muestra de lluvia directa contiene menos sales que el agua de los discos y una señal orgánica mucho menor.
+- No se detectan metales humanos conocidos por encima del umbral inmediato del analizador.
+- Tras filtrado y tratamiento térmico, la señal orgánica queda por debajo del nivel clasificable con confianza del equipo: `RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.`
+- El protagonista sigue el protocolo de exposición mínima: primero contacto con el labio, luego una gota, después aproximadamente un mililitro y, más de seis horas después sin reacción medible, diez mililitros adicionales.
+- **La lluvia tratada NO está declarada potable ni segura a largo plazo.**
+- Hasta el cierre del Capítulo IX no se observa reacción adversa medible a esa exposición mínima.
+- Dos bolsas de ración vacías han sido limpiadas y adaptadas como almacenamiento pequeño de lluvia recogida.
+- El registro queda fijado como `LLUVIA DIRECTA. RECOGIDA SIN CONTACTO CON RAÍZ`, `FILTRADA + TRATAMIENTO TÉRMICO` y `TOLERADA EN EXPOSICIÓN MÍNIMA. SEGUIR OBSERVANDO.`
 
 ### Error de perspectiva confirmado
 
@@ -158,6 +175,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Fabricó un sistema improvisado de aseguramiento.
 - Registro: `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
 - En el Capítulo VII cortó otra pieza de tejido del paracaídas para desviar lluvia sobre la zona reparada de la cápsula y usó línea recuperada para reforzar el anclaje.
+- En el Capítulo IX reutiliza una lámina de cubierta térmica y abrazaderas del panel interior para fabricar el colector; evita cortar más línea estructural.
 
 ### Ruta ascendente
 
@@ -197,7 +215,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La junta fue secada y sellada con aislamiento y cinta de reparación.
 - Construyó un pequeño desvío de lluvia exterior con tejido de paracaídas y línea recuperada.
 - El primer anclaje cedió con una ráfaga; el segundo, reforzado, resistió.
-- Al comienzo del Capítulo VIII la reparación continúa seca.
+- Al comienzo del Capítulo IX la reparación continúa seca.
+- El desvío de lluvia adquiere una segunda función: permite colocar junto a él un colector independiente que intenta captar agua antes de que toque la raíz o el casco sucio.
 - El interior acumula barro, material desmontado y reparaciones: ya no conserva el aspecto de refugio intacto de los primeros días.
 
 ### Recursos y presión de supervivencia
@@ -206,19 +225,22 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La mochila mantiene una cremallera dañada marcada con cinta.
 - La baliza transmite sin respuesta.
 - Agua, raciones y filtros ya se piensan en términos de duración.
-- La necesidad de obtener agua local todavía no es inmediata, pero ya condiciona decisiones.
-- La primera muestra local NO ha demostrado potabilidad.
-- El análisis consume material de laboratorio y parte de la muestra; futuros ensayos tienen coste real.
+- El agua de los discos sigue sin ser una solución demostrada.
+- La lluvia directa tratada abre una posible fuente local, pero todavía solo existe evidencia de tolerancia a exposición mínima y depende de lluvia, filtrado, calor y almacenamiento limpio.
+- El análisis y tratamiento consumen material de laboratorio, filtros y energía; futuros ensayos tienen coste real.
+- Se han reutilizado dos bolsas de ración como pequeños contenedores de lluvia.
 
 ### Estado físico
 
 - Costado izquierdo en mejoría.
 - Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
 - En el Capítulo VIII la subida desde la raíz inferior obliga al protagonista a descargar parte del esfuerzo en los brazos por dolor de rodilla.
+- En el Capítulo IX la rodilla pasa gran parte del día sin carga intensa; al levantarse sigue rígida pero no aumenta el dolor.
 - Cuello con rigidez residual.
 - Nudillos golpeados en el Capítulo VII: hinchazón leve, movilidad conservada.
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en el exterior.
+- No se observa reacción adversa medible durante las más de seis horas posteriores a la exposición mínima a lluvia tratada.
 
 ## HIPÓTESIS ACTIVAS
 
@@ -231,7 +253,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Su reacción al sistema térmico podría deberse a calor, vibración, campo eléctrico u otra consecuencia asociada.
 - Las secuencias de puntos pálidos del Capítulo VIII pueden ser actividad fisiológica, respuesta ambiental, señal entre individuos o coincidencia; no está demostrado que constituyan comunicación.
 - La línea del disco vacío podría ser tejido del propio disco, una estructura interna, una inclusión mineral u otro material; su cambio de tono durante los golpes no tiene explicación confirmada.
-- La fracción orgánica no clasificada del agua puede proceder de organismos, productos metabólicos, material del disco o compuestos disueltos; no se conoce su peligrosidad.
+- La fracción orgánica no clasificada del agua de los discos puede proceder de organismos, productos metabólicos, material del disco o compuestos disueltos; no se conoce su peligrosidad.
+- La señal orgánica mucho menor de la lluvia directa puede proceder de material atmosférico, contaminación residual del colector u otra fracción ambiental; su baja concentración no demuestra inocuidad.
 - Los tonos pueden originarse en una interacción entre la película transparente y la estructura de tres brazos; el disparador sigue sin determinarse.
 - La plataforma lejana podría contener construcciones, restos o formaciones regulares; no debe llamarse ciudad ni ruina.
 - Los surcos del borde roto podrían ser naturales o consecuencia de alguna intervención antigua.
@@ -257,8 +280,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué significan las secuencias de puntos pálidos de dos individuos?
 - ¿Qué es la línea del fondo del disco vacío y por qué cambió de tono durante los golpes?
 - ¿Por qué algunos discos retienen agua mientras otro permanece vacío?
-- ¿Qué contiene exactamente la fracción orgánica no clasificada de la muestra?
+- ¿Qué contiene exactamente la fracción orgánica no clasificada de la muestra de los discos?
 - ¿Puede el agua de los discos procesarse hasta ser segura para consumo humano?
+- ¿Qué compone la señal orgánica residual de la lluvia directa?
+- ¿Puede la lluvia directa tratada convertirse en una fuente fiable sin producir efectos tardíos ni consumir filtros y energía de forma insostenible?
 - ¿Qué provocó la inclinación de la raíz inferior?
 - ¿Qué hay por debajo de la capa explorada?
 - ¿Qué inicia las vibraciones de la estructura de tres brazos?
@@ -279,7 +304,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal conocido, reparado y mantenido activamente.
+- **Cápsula / lugar de caída:** refugio principal conocido, reparado y mantenido activamente; ahora incluye un colector experimental de lluvia directa.
 - **Primera ruta:** conecta la cápsula con la bifurcación.
 - **Bifurcación principal:** tres ramas; el marcador reflectante ya no está.
 - **Ruta descendente:** conduce a la raíz rota, raíz intermedia y raíz inferior de los discos; recorrida más de una vez.
@@ -328,18 +353,22 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Mochila de superficie con cremallera dañada.
 - Sistema improvisado de aseguramiento.
 - Pequeño desvío de lluvia exterior hecho con tejido de paracaídas y línea recuperada.
+- Colector experimental de lluvia directa hecho con una lámina rígida de cubierta térmica y abrazaderas recuperadas.
+- Dos bolsas de ración reutilizadas para almacenar pequeños volúmenes de lluvia.
 - Grabación del oscurecimiento nocturno.
 - Grabación de los tonos.
 - Fotografías de la estructura de tres brazos, hendiduras, plataforma, geometría regular de la terraza, borde roto y línea oscura bajo la raíz opuesta.
 - Grabación de alta velocidad de las secuencias luminosas de la fauna acuática.
 - Grabación del cambio de tono de la línea del disco vacío durante los golpes.
-- Muestra de agua de Elyndran parcialmente consumida por análisis y todavía no declarada segura.
+- Muestra de agua de los discos parcialmente consumida por análisis y todavía no declarada segura.
+- Muestra de lluvia directa tratada y registrada como tolerada únicamente en exposición mínima.
 - Analizador portátil y material de filtrado/esterilización limitado.
 
 ## CONSECUENCIAS PERSISTENTES
 
 - Cápsula inmovilizada y enlace con Aster perdido.
 - La cápsula requiere mantenimiento de campo; la reparación de filtración y su pequeño techo de paracaídas deben conservarse.
+- La reparación exterior ha adquirido una función nueva: junto a ella existe ahora un sistema pequeño de recogida de lluvia que debe mantenerse limpio y estable frente al viento.
 - La lesión de rodilla condiciona desplazamientos, aunque muestra mejoría lenta.
 - Las membranas se han convertido en conocimiento práctico incorporado al movimiento.
 - Las tres ramas principales contienen rutas y preguntas concretas.
@@ -350,11 +379,12 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Los tonos de la ruta horizontal forman parte de su orientación práctica aunque su origen siga sin comprenderse.
 - La geometría regular aparece en más de un punto del paisaje, sin explicación confirmada.
 - La segunda visita demostró que un lugar conocido puede aportar información nueva porque cambia la capacidad del protagonista para leerlo.
-- Agua, filtros y raciones imponen un horizonte temporal real.
-- La primera expedición deliberada para estudiar agua local ha producido una muestra, no una solución.
-- La muestra es químicamente menos hostil de lo temido en algunos parámetros humanos conocidos, pero contiene una fracción orgánica no clasificada resistente parcialmente a filtrado y calor.
-- El protagonista mantiene la frontera entre necesidad y precipitación: todavía bebe de su reserva y no del agua local.
-- La raíz inferior ya no es solo un lugar de descubrimiento de fauna; ahora también es una posible fuente de supervivencia y un lugar que presenta cambios observables entre visitas.
+- Agua, filtros, energía y raciones imponen un horizonte temporal real.
+- La primera expedición deliberada para estudiar agua de los discos produjo una muestra, no una solución.
+- La muestra de los discos es químicamente menos hostil de lo temido en algunos parámetros humanos conocidos, pero contiene una fracción orgánica no clasificada resistente parcialmente a filtrado y calor.
+- El protagonista mantiene una frontera clara entre el agua de los discos y la lluvia directa: no bebe de los discos; solo ha probado cantidades mínimas de lluvia recogida antes de tocar la raíz y tratada con filtrado y calor.
+- La lluvia directa abre una posibilidad real de supervivencia, pero todavía depende del clima, almacenamiento limpio, filtros, energía y ausencia de efectos tardíos.
+- La raíz inferior ya no es solo un lugar de descubrimiento de fauna; también es una posible fuente de supervivencia y un lugar que presenta cambios observables entre visitas.
 - El protagonista empieza a modificar de forma práctica su zona de caída y a usar conocimiento local para vivir allí, todavía por necesidad y no por sentimiento declarado de pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
