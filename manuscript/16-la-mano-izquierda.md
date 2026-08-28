@@ -8,29 +8,13 @@ No se pegó.
 
 Había humedad debajo.
 
-Secaste la superficie, cortaste un tramo nuevo y sustituiste la esquina dañada.
-
-Después te quedaste agachado junto a la escotilla, mirando el trozo viejo en la palma.
-
-El adhesivo había atrapado polvo gris, una fibra oscura y algo translúcido demasiado pequeño para distinguirlo sin lente.
+Secaste el suelo, cortaste un tramo nuevo y sustituiste la esquina dañada. El pedazo viejo quedó un momento en tu palma: polvo gris, una fibra oscura y un fragmento translúcido demasiado pequeño para distinguirlo sin lente.
 
 Lo tiraste.
 
-No todo necesitaba convertirse en una muestra.
+La rodilla derecha protestó al incorporarte. Te apoyaste en el banco hasta que dejó de hacerlo.
 
-La rodilla derecha protestó al levantarte.
-
-Te apoyaste en el banco hasta que dejó de hacerlo.
-
-En el compartimento superior, las raciones ocupaban menos fondo que dos días antes.
-
-En el lateral, la marca de los filtros seguía donde la habías puesto.
-
-A la altura de los pies, la caja de paños limpios ya no estaba llena.
-
-Tres reservas.
-
-Tres formas de contar tiempo.
+En el compartimento superior las raciones ocupaban menos fondo. En el lateral seguía la marca de los filtros. La caja de paños limpios había perdido volumen.
 
 Abriste el registro ambiental.
 
@@ -40,39 +24,21 @@ No segura.
 
 Menor.
 
-Eso bastaba para una pregunta concreta.
+Cerraste el archivo.
 
 ---
 
-No querías saber si podías vivir sin el traje.
-
-Querías saber qué ocurriría si el traje dejaba de ser perfecto.
-
-El cierre de un guante podía romperse.
-
-Una rama podía abrir una costura.
-
-Una caída podía dejar piel expuesta antes de que consiguieras regresar a la cápsula.
-
-Hasta entonces habías tratado cualquier contacto directo con el exterior como si fuera una línea absoluta.
-
-La línea era útil.
-
-También empezaba a impedirte medir el riesgo real.
-
-Sacaste del botiquín dos apósitos transparentes estériles, una tira de gasa, solución de limpieza y un marcador dérmico.
+Sacaste del botiquín dos apósitos transparentes estériles, una tira de gasa, solución de limpieza y el marcador dérmico.
 
 Los dejaste sobre el banco.
 
-Luego los guardaste otra vez.
+Luego los guardaste.
 
-Esperaste veinte minutos.
+Veinte minutos después volviste a sacarlos.
 
-Volviste a sacarlos.
+Añadiste una bolsa de residuos y un cronómetro.
 
-La segunda vez añadiste una bolsa de residuos y un cronómetro.
-
-No tocaste todavía el cierre del guante.
+Esta vez no los guardaste.
 
 Preparaste primero el regreso.
 
@@ -86,11 +52,13 @@ Un apósito abierto solo por un borde.
 
 El analizador encendido.
 
-Todo colocado donde pudieras alcanzarlo con una sola mano.
+Todo al alcance de la mano derecha.
 
-No era valentía.
+El cierre de un guante podía fallar. Una costura podía abrirse. Una caída podía dejar piel fuera del traje antes de que consiguieras volver.
 
-Era una forma de reducir el número de cosas que podían salir mal a la vez.
+La pregunta llevaba días escondida dentro de esos fallos posibles.
+
+No necesitabas convertirla en algo mayor.
 
 ---
 
@@ -102,53 +70,29 @@ Filtro limpio.
 
 Los dos guantes puestos.
 
-La niebla quedaba por debajo de la raíz de la cápsula y el aire movía apenas las membranas del borde.
+La niebla quedaba por debajo de la raíz de la cápsula. Las membranas del borde colgaban flojas.
 
-Esperaste junto a la entrada.
+Esperaste junto a la entrada hasta que la lectura del filtro dejó de oscilar.
 
-El indicador del filtro subió tan poco que necesitó varios minutos para mostrar una variación estable.
+No fuiste a la bifurcación.
 
-No fuiste hasta la bifurcación.
+Elegiste la misma raíz ancha de los primeros pasos, a menos de seis metros de la cápsula. La superficie estaba seca. Pasaste una tira estéril sobre un área del tamaño de la palma.
 
-No hacía falta.
+Volvió con polvo fino y dos fibras.
 
-Elegiste una zona a menos de seis metros de la cápsula, sobre la misma raíz ancha donde habías dado los primeros pasos.
+Guardaste la tira.
 
-La superficie estaba seca.
+La piel no tocaría la raíz.
 
-No completamente limpia.
+Te sentaste con la espalda contra una protuberancia y la pierna derecha estirada. Desde allí veías la escotilla completa.
 
-Nada en Elyndran lo estaba.
+El cronómetro esperaba sobre tu muslo.
 
-Pasaste una tira estéril sobre un área del tamaño de tu palma.
+Aflojaste el cierre exterior del guante izquierdo.
 
-El material volvió con polvo fino y dos fibras.
+Nada cambió en el sonido del traje.
 
-No ibas a apoyar la piel allí.
-
-La exposición sería al aire.
-
-Te sentaste con la espalda contra una protuberancia de la raíz y la pierna derecha estirada.
-
-Miraste el cronómetro.
-
-Treinta segundos parecía ridículo.
-
-También suficiente.
-
----
-
-Elegiste la mano izquierda porque la derecha necesitaba seguir trabajando.
-
-Aflojaste el cierre exterior del guante.
-
-El aire no entró con ningún sonido especial.
-
-No hubo cambio de presión.
-
-El traje no estaba manteniendo una atmósfera independiente en brazos y torso; el casco filtraba el aire de respiración y la ropa protegía piel, temperatura y suciedad.
-
-Aun así, cuando retiraste el guante hasta dejar al descubierto solo la muñeca y el dorso de la mano, el gesto pareció mayor de lo que era.
+Retiraste el guante hasta dejar al descubierto el dorso de la mano y la muñeca.
 
 El aire tocó la piel.
 
@@ -156,87 +100,59 @@ Frío primero.
 
 Después humedad.
 
-Nada más.
-
 Activaste el cronómetro.
-
-No moviste la mano.
-
-La piel tenía una pequeña marca blanca de presión donde terminaba el guante interior.
 
 Un vello se levantó con la brisa.
 
+La marca blanca que había dejado el guante interior cruzaba la muñeca. La miraste desaparecer poco a poco mientras los segundos avanzaban.
+
+Diez.
+
 La membrana más próxima seguía floja.
-
-Diez segundos.
-
-Miraste el dorso de la mano.
-
-Sin enrojecimiento.
 
 Quince.
 
-El impulso fue volver a cubrirla.
-
-No lo hiciste todavía.
+Flexionaste apenas el pulgar y lo dejaste quieto otra vez.
 
 Veinte.
 
-Una gota cayó desde una raíz superior a más de un metro de ti.
-
-La oíste golpear.
-
-No miraste.
+Una gota cayó desde una raíz superior a más de un metro. La oíste golpear detrás de ti.
 
 Veinticinco.
 
-El aire parecía más frío porque estabas esperando que hiciera algo.
+El frío empezó a parecer menos intenso.
 
 Treinta.
 
-Volviste a colocar el guante.
+Volviste a introducir la mano en el guante.
 
 Apretaste el cierre.
 
-Comprobaste dos veces que había quedado bien.
+Lo comprobaste una vez.
 
-El cronómetro marcaba treinta y cuatro segundos cuando lo detuviste.
+Después otra.
+
+El cronómetro marcaba treinta y cuatro segundos.
 
 ---
 
-No regresaste inmediatamente.
+Esperaste cinco minutos sentado.
 
-Esperaste cinco minutos con la mano cubierta.
-
-Flexionaste los dedos.
-
-Los abriste.
-
-Cerraste el puño.
+Abriste y cerraste la mano dentro del guante.
 
 No había dolor.
 
 No había picor.
 
-No había pérdida de sensibilidad.
+La sensibilidad parecía normal.
 
-Eso era todo lo que podías decir.
+A los siete minutos las membranas se tensaron.
 
-A los siete minutos una ráfaga hizo tensarse las membranas.
+Te pusiste de pie antes de que llegara la ráfaga. La mano izquierda fue al cierre del guante y lo presionó sin que hiciera falta.
 
-Te incorporaste antes de que llegara.
-
-La mano izquierda fue al cierre del guante.
-
-No porque estuviera suelto.
-
-Porque ahora sabías lo que había debajo.
+La ráfaga pasó.
 
 Regresaste a la cápsula.
-
----
-
-Entraste siguiendo el recorrido que habías ensayado el día anterior.
 
 Escotilla.
 
@@ -250,49 +166,25 @@ Recirculación.
 
 Esperar.
 
-Solo después retiraste el guante izquierdo.
+Solo entonces retiraste el guante izquierdo.
 
 La piel parecía igual.
 
-La fotografiaste junto a una escala del botiquín.
+La fotografiaste junto a la escala del botiquín. Limpiaste dorso y muñeca con agua terrestre y gasa. El primer apósito cubrió la zona expuesta. El segundo, una zona equivalente de la mano derecha.
 
-Después limpiaste el dorso y la muñeca con agua terrestre y gasa.
+Tomaste temperatura superficial, coloración, sensibilidad y movilidad.
 
-El primer apósito cubrió la zona expuesta.
-
-El segundo, una zona equivalente de la mano derecha que no había salido al exterior.
-
-No porque un apósito pudiera decirte si Elyndran era seguro.
-
-Porque necesitabas una comparación si aparecía algo en las horas siguientes.
-
-Tomaste temperatura superficial.
-
-Coloración.
-
-Sensibilidad.
-
-Movilidad.
-
-Nada fuera de rango.
+No apareció diferencia medible.
 
 Escribiste:
 
 **EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.**
 
-Debajo añadiste:
-
-**NO INTERPRETAR COMO SEGURIDAD.**
-
-La segunda línea te molestó.
-
-Parecía una orden para alguien más.
-
-La borraste.
-
-La sustituiste por:
+Debajo:
 
 **SEGUIMIENTO NECESARIO.**
+
+Cerraste el registro.
 
 ---
 
@@ -300,81 +192,61 @@ A la hora no había cambios.
 
 A las dos tampoco.
 
-La mano izquierda se comportaba como la derecha.
+Te sorprendiste mirando los nudillos mientras comías.
 
-Te sorprendiste observándola mientras comías.
+La mitad de la ración estaba más dura de lo habitual. Masticabas con la mano izquierda apoyada junto al plato.
 
-La mitad de la ración estaba más dura que de costumbre.
+Dejaste de mirarla.
 
-Masticabas con los ojos puestos en los nudillos.
+Terminaste la comida.
 
-Cuando te diste cuenta, dejaste la comida sobre el banco.
-
-Retiraste los apósitos.
+Después retiraste ambos apósitos.
 
 La piel debajo estaba más pálida por la oclusión.
 
-En ambas manos.
+En las dos manos.
 
-Esperaste.
+Esperaste unos minutos.
 
 El color volvió.
 
-No tomaste otra muestra.
-
-Los reactivos no servían para tranquilizarte.
-
-Guardaste las fotografías y cerraste el archivo.
+Guardaste las fotografías sin hacer otra prueba.
 
 ---
 
-Por la tarde llovió unos minutos.
+Por la tarde cayó una lluvia fina.
 
-No una tormenta.
+El colector empezó a gotear dentro de la bolsa reparada.
 
-Una lluvia fina, casi vertical, suficiente para que el colector empezara a gotear dentro de la bolsa reparada.
-
-Te pusiste el casco para salir a cambiar el recipiente.
+Te pusiste el casco para cambiar el recipiente.
 
 Los guantes fueron lo último.
 
-La mano izquierda desapareció dentro del tejido.
+Apretaste el cierre izquierdo y saliste.
 
-Apretaste el cierre.
+El agua golpeaba el visor con un sonido tenue. Cambiaste la bolsa, revisaste el pequeño desvío de la junta de la cápsula y volviste antes de que la raíz se empapara.
 
-Saliste.
+Dentro repetiste el procedimiento completo.
 
-El agua golpeaba el casco con un sonido tenue.
+Paño.
 
-Cambiaste la bolsa del colector y revisaste el desvío de la junta de la cápsula.
+Recirculación.
 
-Al volver, seguiste el procedimiento completo.
+Espera.
 
-No redujiste la limpieza porque la piel no hubiera reaccionado.
+Casco al soporte.
 
-No te quitaste el casco antes.
+Cuando por fin retiraste el guante izquierdo, la piel seguía sin mostrar nada nuevo.
 
-No dejaste de usar guantes.
+Lo dejaste junto al derecho.
 
-Treinta y cuatro segundos no habían cambiado ninguna de esas cosas.
+Durante un momento parecían dos piezas idénticas.
 
-Pero habían cambiado otra.
-
-Hasta entonces el exterior había terminado siempre en la superficie del traje.
-
-Ahora sabías cómo se sentía el aire de Elyndran sobre una parte de tu cuerpo que no había sido fabricada para estar allí.
-
-Frío.
-
-Húmedo.
-
-Extrañamente normal.
-
-No escribiste esa última palabra.
+No lo eran.
 
 ---
 
-Antes de dormir revisaste la mano una vez más.
+Antes de dormir fotografiaste la mano una vez más.
 
 Sin enrojecimiento.
 
@@ -382,18 +254,18 @@ Sin edema.
 
 Sin dolor.
 
-La dejaste sobre la manta térmica.
+Guardaste el registro y apagaste la pantalla.
 
 La baliza transmitió.
 
-Esperaste la respuesta.
+Esperaste.
 
-Nada.
+Nada respondió.
 
-Afuera, el colector recibió otra gota.
+Afuera, el colector recibió una gota.
 
 Luego otra.
 
-La mano izquierda descansaba a pocos centímetros de la línea de cinta.
+La mano izquierda descansaba sobre la manta térmica, a pocos centímetros de la línea de cinta.
 
-No la cruzaste.
+La dejaste allí.
