@@ -23,8 +23,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XVI: `manuscript/16-la-mano-izquierda.md` — **La mano izquierda**.
 - Capítulo XVII: `manuscript/17-el-tono-que-faltaba.md` — **El tono que faltaba**.
 - Capítulo XVIII: `manuscript/18-lo-que-dejas-encendido.md` — **Lo que dejas encendido**.
+- Capítulo XIX: `manuscript/19-la-franja-que-vuelve.md` — **La franja que vuelve**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente y convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza. La atmósfera sigue sin declararse segura y no se ha respirado aire exterior sin filtrado.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente, convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza y vuelto a la zona de placas cobrizas para comprobar que parte de la película oscura retirada en el Capítulo XIII vuelve a ocupar superficie entre registros sin que su mecanismo esté determinado. La atmósfera sigue sin declararse segura, no se ha respirado aire exterior sin filtrado y no se ha ingerido materia de Elyndran.
 
 ## HECHOS
 
@@ -45,6 +46,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XVIII el historial eléctrico muestra tres transmisiones de baliza con breves descensos de potencia coincidentes con arranques defectuosos del módulo térmico; ninguna transmisión llegó a perderse por completo.
 - Tras reparar el módulo, el protagonista configura la cápsula para impedir que cargas no esenciales arranquen durante las ventanas automáticas de transmisión de la baliza.
 - Una transmisión posterior mantiene potencia estable bajo esa nueva prioridad y sigue sin recibir respuesta.
+- En el Capítulo XIX una transmisión automática ocurrida durante la salida a la ruta ascendente mantiene también potencia estable y sigue sin respuesta.
 - **No está demostrado que Aster haya desaparecido, caído o abandonado la órbita.**
 - **No puede saberse si alguien intentó escuchar durante las tres breves caídas de potencia anteriores.**
 
@@ -59,7 +61,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 ### Atmósfera exterior, filtrado, piel y retorno a la cápsula
 
-- Hasta el Capítulo XVIII el protagonista mantiene casco y filtrado siempre que permanece en exterior.
+- Hasta el Capítulo XIX el protagonista mantiene casco y filtrado siempre que permanece en exterior.
 - El sistema respiratorio del traje filtra aire ambiental para el casco; brazos y torso no dependen de una atmósfera presurizada independiente, por lo que una exposición localizada de piel puede realizarse sin abrir el circuito respiratorio.
 - Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
 - El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
@@ -89,6 +91,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Registro: `SEGUIMIENTO NECESARIO.`
 - **La ausencia de reacción aguda y de cambios visibles durante más de treinta horas no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
 - En el Capítulo XVII, durante una permanencia en la ruta horizontal, la carga del filtro aumenta despacio y resulta menor que la observada en la bóveda ascendente durante una permanencia comparable, aunque las condiciones no son idénticas y el dato se conserva solo como comparación provisional.
+- En el Capítulo XIX la carga del filtro vuelve a acelerarse al entrar en la bóveda ascendente; no se realiza un nuevo ensayo comparativo cuantificado.
 - **No se ha respirado deliberadamente aire exterior sin filtrado.**
 
 ### Membranas transparentes
@@ -109,6 +112,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XVI la exposición dérmica se realiza a menos de seis metros de la cápsula, sobre la raíz ancha de la primera ruta, sin avanzar hasta la bifurcación.
 - En el Capítulo XVII vuelve a recorrer la primera ruta completa hasta la bifurcación y toma la rama horizontal para revisar la estructura de tres brazos.
 - En el Capítulo XVIII la única salida exterior se limita al colector junto a la cápsula; no se abre nueva ruta.
+- En el Capítulo XIX vuelve por la ruta conocida hasta la rama ascendente y la zona de placas cobrizas; no abre camino nuevo ni avanza más allá de territorio ya recorrido.
 
 ### Marcas, golpes y sombra
 
@@ -122,6 +126,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - **No está demostrado que las depresiones grandes, los nuevos arañazos y la depresión pequeña procedan del mismo mecanismo.**
 - Se han oído golpes secos procedentes de niveles inferiores.
 - La primera noche se registró un oscurecimiento móvil entre raíces inferiores; no permite confirmar organismo.
+- Al final del Capítulo XIX se oye un único golpe procedente de niveles inferiores; no aparece un segundo golpe durante la espera inmediata.
 
 ### Ruta descendente, discos y fauna acuática
 
@@ -219,6 +224,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El destino del material retirado no se observa; **no está demostrado que la criatura lo ingiera**.
 - Otras placas desprendidas muestran franjas claras semejantes.
 - En el Capítulo XIV se observan muchas partículas suspendidas dentro de la bóveda bajo iluminación lateral, coincidiendo con una tasa mayor de carga del filtro.
+- En el Capítulo XIX el protagonista regresa a la misma placa documentada en XIII mediante borde roto, nervadura y manchas de referencia; la franja clara sigue identificable, pero material oscuro ocupa de nuevo parte de la superficie que estaba despejada en el registro anterior.
+- En otra placa observada durante el regreso aparecen tres líneas claras próximas y parcialmente paralelas, sin fotografía anterior que permita determinar cuándo se formaron ni qué las produjo.
+- No se observa directamente ninguna criatura durante la visita del Capítulo XIX.
 
 ### Película oscura de placas cobrizas y presión de alimento
 
@@ -232,6 +240,11 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XIII el protagonista empieza a fraccionar las raciones y coloca una marca física en el armario de comida para visualizar lo que queda, sin fijar todavía una fecha de agotamiento.
 - En el Capítulo XVII continúa fraccionando raciones y consume una media ración antes de salir; no aparece ninguna fuente local nueva declarada comestible.
 - En el Capítulo XVIII come media ración fría incluso después de reparar el módulo térmico para evitar una carga no esencial; conserva la otra mitad y no aparece una fuente local nueva declarada comestible.
+- En el Capítulo XIX vuelve a fraccionar una ración y realiza una visita exclusivamente observacional a la placa de XIII, sin llevar analizador ni recipientes de muestra y sin consumir reactivos nuevos.
+- La comparación fotográfica alineada por geometría confirma en tres segmentos que la película oscura vuelve a ocupar parte de la franja previamente despejada; en otros segmentos la diferencia puede deberse a ángulo o humedad y no se cuenta como cambio confirmado.
+- Registro: `FRANJA OBSERVADA TRAS RETIRADA DE MATERIAL: COBERTURA OSCURA PARCIALMENTE RESTABLECIDA ENTRE REGISTROS.`
+- Registro: `MECANISMO NO DETERMINADO.`
+- **No está demostrado que la película crezca, sea redepositada, se desplace desde zonas contiguas ni que su reposición sea regular o suficientemente rápida para considerarla un recurso renovable.**
 
 ### Terraza alta y observación del cielo
 
@@ -267,6 +280,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Recirculación, análisis, baliza, bombas, calefacción, tratamiento térmico y otras cargas compiten por una reserva energética finita.
 - El protagonista configura prioridad de transmisión para impedir el arranque de cargas no esenciales durante la baliza automática.
 - El calor de comida pasa a tratarse como prescindible frente a cargas de supervivencia, tratamiento y comunicación; el módulo queda operativo pero normalmente apagado.
+- En el Capítulo XIX se evita un nuevo análisis destructivo de la película: no se consumen reactivos ni recipientes de muestra; sí se consume capacidad de filtro, batería del traje, agua/paños de retorno y energía de recirculación por la salida a la bóveda.
+- El protagonista crea una referencia visual reutilizable con tres puntos de comparación de la franja para futuras visitas sin depender de nuevas muestras.
 
 ### Estado físico
 
@@ -278,6 +293,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XV trabaja sentado con la pierna derecha estirada para evitar flexión prolongada; no hay deterioro nuevo demostrado.
 - En el Capítulo XVI la rodilla protesta al incorporarse tras trabajo agachado, pero vuelve a aceptar carga sin deterioro nuevo demostrado.
 - En el Capítulo XVII la rodilla se endurece durante la permanencia junto a la estructura y motiva el regreso, sin lesión nueva demostrada.
+- En el Capítulo XIX la rodilla vuelve a endurecerse durante la observación prolongada en la zona de placas; no se describe lesión nueva.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
@@ -286,6 +302,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La primera exposición deliberada de piel desnuda al ambiente exterior ocurre en el Capítulo XVI: mano/muñeca izquierdas durante 34 segundos en una zona de baja carga de filtro, sin reacción aguda observable en las primeras horas.
 - Cerca de veinticuatro horas después, en el Capítulo XVII, la mano izquierda continúa sin cambios visibles, térmicos o motores frente a la derecha.
 - Más de treinta horas después, en el Capítulo XVIII, sigue sin observarse diferencia visible, térmica o motora; no se repite la exposición.
+- El Capítulo XIX no realiza una nueva prueba dérmica ni amplía la exposición.
 - **No se conoce todavía si habrá respuesta tardía más allá de ese periodo o acumulativa ante exposiciones futuras.**
 - **No ha respirado deliberadamente aire exterior sin filtrado.**
 
@@ -320,6 +337,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La criatura terrestre probablemente utiliza aplanamiento y coloración como camuflaje, pero no está demostrado.
 - La criatura del Capítulo XIII puede retirar la película oscura para alimentarse o por otra función; no se ha observado el destino del material.
 - La película oscura puede contener sustancias aprovechables por metabolismo local sin ser compatible con metabolismo humano.
+- La cobertura parcial recuperada observada en el Capítulo XIX puede deberse a crecimiento local, deposición desde agua/aire, desplazamiento desde material vecino, cambios de humedad o una combinación; ninguna opción está demostrada.
+- Las tres líneas claras observadas en otra placa durante el Capítulo XIX pueden ser recorridos de retirada semejantes a los vistos en XIII o tener otro origen; no hay registro previo ni observación directa del mecanismo.
 - La geometría regular de la terraza puede relacionarse con otros destellos o estructuras, pero no está confirmado.
 
 ## PREGUNTAS ABIERTAS
@@ -356,6 +375,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué mecanismo mueve agua hacia arriba en la bóveda?
 - ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
 - ¿Qué función cumple la película oscura de las placas cobrizas y qué hace la criatura con el material retirado?
+- ¿Qué mecanismo hace que parte de la cobertura oscura vuelva a ocupar una franja previamente despejada y a qué velocidad sucede bajo condiciones comparables?
+- ¿Las líneas claras observadas en distintas placas corresponden a actividad repetida de la misma clase de criatura o a otro proceso?
 - ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
 - ¿Qué es la geometría regular visible desde la terraza?
 - ¿Cuánto tiempo puede mantenerse operativa la cápsula?
@@ -380,8 +401,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - **Rama inferior de aproximación:** permite observar la parte inferior de la plataforma.
 - **Parte inferior de la plataforma:** observada de cerca; superficie superior no alcanzada.
 - **Plataforma regular:** no visitada por arriba.
-- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces; desde el Capítulo XIV se sabe que impone mayor carga de filtro que la primera ruta durante la comparación realizada.
-- **Zona de placas cobrizas:** lugar donde se observó a la criatura terrestre y, en el Capítulo XIII, retirada de película oscura.
+- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces; desde el Capítulo XIV se sabe que impone mayor carga de filtro que la primera ruta durante la comparación realizada. En XIX se vuelve a recorrer hasta la zona de placas sin abrir territorio nuevo.
+- **Zona de placas cobrizas:** lugar donde se observó a la criatura terrestre y, en el Capítulo XIII, retirada de película oscura. En XIX se identifica de nuevo la misma placa y se documenta recuperación parcial de cobertura oscura en la franja antigua.
 - **Terraza alta:** geometría lejana y punto de observación del cielo y escucha orbital.
 
 ## FLORA Y ORGANISMOS NO CLASIFICADOS
@@ -393,7 +414,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Película verdosa de discos: posible sustrato alimenticio, no confirmado.
 - Línea del disco vacío: material/tejido no identificado.
 - Formaciones cobrizas: láminas superpuestas que pueden cerrarse durante ráfagas fuertes.
-- Película oscura del reverso de algunas placas cobrizas: material orgánico complejo; una criatura de seis apoyos la retira mediante contactos repetidos, función no determinada.
+- Película oscura del reverso de algunas placas cobrizas: material orgánico complejo; una criatura de seis apoyos la retira mediante contactos repetidos, función no determinada. En XIX una franja previamente despejada presenta cobertura oscura parcialmente restablecida entre registros; mecanismo y tasa no determinados.
 - Filamentos blancos: respuesta demostrada a luz; cambio previo a lluvia observado una vez sin mecanismo conocido.
 - Bolsas translúcidas: reciben agua ascendente por hilos finos.
 - Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza; no confundir con la película de las placas cobrizas.
@@ -413,7 +434,7 @@ No confirmado: dieta, reproducción, ciclo vital, anatomía interna, peligrosida
 
 Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, aplanamiento, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental. En el Capítulo XIII una criatura realiza contactos repetidos con película oscura del reverso de una placa y deja una franja de material retirado.
 
-No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, dieta, destino del material retirado, reproducción, anatomía interna, sentidos, peligrosidad, función ecológica, nombre.
+No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, dieta, destino del material retirado, reproducción, anatomía interna, sentidos, peligrosidad, función ecológica, nombre. En XIX no se observa un individuo y las nuevas líneas claras no se atribuyen a la especie.
 
 ## OBJETOS IMPORTANTES
 
@@ -426,6 +447,8 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Grabaciones de sombra, tonos, fauna acuática, línea del disco y observación orbital.
 - Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de marcas de la primera ruta.
 - Nueva secuencia de vídeo/audio del Capítulo XVII que documenta la subida lenta de película transparente en el brazo agudo y la reaparición del tono con frecuencia modificada.
+- Serie fotográfica comparativa XIII/XIX de la misma placa cobriza, alineada por borde roto, nervadura y manchas de referencia, que documenta recuperación parcial de cobertura oscura en tres segmentos fiables.
+- Lámina reutilizable preparada en XIX con tres puntos de comparación visual para futuras revisitas de la franja.
 - Muestra de agua de discos parcialmente consumida.
 - Muestra mínima de película oscura de placa cobriza analizada en el Capítulo XIII.
 - Muestra de la capa exterior de un filtro usado analizada en el Capítulo XIV.
@@ -461,6 +484,8 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El agua de discos y la lluvia directa siguen tratadas como fuentes distintas; solo la lluvia ha tenido exposición humana mínima.
 - La autonomía abierta por la lluvia es real pero frágil y dependiente del clima y del equipo.
 - La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
+- En el Capítulo XIX la presión de comida produce un regreso de observación en vez de una ingestión prematura: la película oscura recupera parcialmente cobertura en una franja conocida, pero esto solo abre un problema de ciclo/reposición y no convierte el material en alimento ni en recurso renovable demostrado.
+- El protagonista conserva reactivos y recipientes en XIX al priorizar comparación fotográfica sobre una segunda muestra destructiva.
 - En el Capítulo XIV el aire deja de ser una prohibición abstracta y se convierte en un recurso medible: parte de su composición gaseosa es prometedora, pero el riesgo biológico/particulado sigue sin resolver y los filtros son finitos.
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
 - En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
@@ -472,7 +497,7 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El módulo térmico queda reparado pero normalmente apagado; el protagonista acepta comida fría para conservar margen eléctrico y térmico del convertidor.
 - La baliza recibe prioridad explícita frente a cargas no esenciales durante sus transmisiones; la falta de respuesta persiste incluso después de eliminar esa competencia interna.
 - La autonomía eléctrica depende parcialmente de la luz que alcanza las superficies exteriores y del estado de los componentes, por lo que el clima afecta también al tiempo operativo del refugio.
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado, disciplina de entrada y selección de cargas eléctricas— todavía por necesidad, sin declarar pertenencia.
+- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado, disciplina de entrada, selección de cargas eléctricas y revisitas comparativas— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
@@ -483,6 +508,7 @@ Existen como dirección, no como conocimiento del protagonista.
 - La posible memoria, respuesta o aprendizaje del mundo debe surgir de retornos y consecuencias, no de una declaración temprana.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
 - La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
+- La recuperación parcial de película del Capítulo XIX debe mantenerse como fenómeno de reposición ambiguo: no usarla todavía como prueba de crecimiento, cultivo, renovabilidad ni compatibilidad alimentaria.
 - La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
 - La contaminación de retorno debe permanecer material y ambigua: suciedad, partículas y procedimientos, no una trama de infección prematura sin evidencia.
 - La exposición dérmica del Capítulo XVI es un escalón de conocimiento, no una prueba de seguridad general. Mantener seguimiento temporal y no usar la ausencia de reacción aguda para justificar exposición extensa, ingestión o respiración directa.
