@@ -14,8 +14,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo VII: `manuscript/07-la-parte-seca.md` — **La parte seca**.
 - Capítulo VIII: `manuscript/08-el-agua-que-no-era-agua.md` — **El agua que no era agua**.
 - Capítulo IX: `manuscript/09-antes-de-tocar-la-raiz.md` — **Antes de tocar la raíz**.
+- Capítulo X: `manuscript/10-una-hora-mas.md` — **Una hora más**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, aproximado sin alcanzar la plataforma lejana, reparado una filtración de la cápsula, analizado agua de los discos y convertido parte del desvío de lluvia de la cápsula en un colector experimental. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas de la bifurcación principal, confirmado fauna acuática y terrestre, visitado dos veces la estructura de tres brazos, recorrido por primera vez la rama que desciende bajo la aproximación a la plataforma y observado parte de la estructura inferior de esa plataforma sin alcanzar su superficie. Ha reparado una filtración de la cápsula, analizado agua de los discos y convertido parte del desvío de lluvia en un colector experimental. Sigue sin encontrar otra persona, sin recuperar contacto con Aster y sin disponer de una vía de salida del planeta.
 
 ## HECHOS
 
@@ -88,22 +89,22 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Parecen recorrer una película verdosa adherida a la pared del disco; posible alimentación, no confirmada.
 - Reaccionan a cambios asociados al calentador del traje antes de que el protagonista perciba el cambio.
 - También se adhieren al fondo ante golpes transmitidos por la raíz.
-- En el Capítulo VIII, después de extraer una muestra de otro disco, dos individuos mostraron secuencias breves de puntos pálidos.
+- En el Capítulo VIII dos individuos mostraron secuencias breves de puntos pálidos después de la extracción de una muestra cercana.
 - La grabación de alta velocidad confirma agrupaciones de luz separadas por pausas.
 - Todavía no existe evidencia para llamarlo comunicación, código o respuesta a la extracción.
 
 ### Muestra de agua de los discos
 
-- El protagonista llevó dos recipientes estériles de muestra a la raíz inferior.
+- El protagonista llevó dos recipientes estériles a la raíz inferior.
 - El primero quedó comprometido externamente por una gota de condensación y no se usó para la muestra principal.
 - La muestra válida se tomó del centro de un disco, lejos del borde y de la película verdosa.
 - El agua es transparente e incolora a simple vista.
 - El analizador portátil detectó sales minerales dentro de márgenes que un sistema de tratamiento humano podría manejar.
 - No detectó metales pesados humanos conocidos por encima de un límite inmediato.
-- El análisis orgánico produjo estado amarillo: `FRACCIÓN ORGÁNICA NO CLASIFICADA`.
-- La concentración de esa fracción es baja pero no despreciable.
-- El filtrado mediante membrana reduce la fracción orgánica, pero no la elimina.
-- La esterilización térmica degrada algunos componentes detectados mientras otros permanecen.
+- El análisis orgánico produjo `FRACCIÓN ORGÁNICA NO CLASIFICADA`.
+- La concentración es baja pero no despreciable.
+- El filtrado reduce esa fracción, pero no la elimina.
+- La esterilización térmica degrada algunos componentes y deja otros detectables.
 - El protagonista detuvo las pruebas antes de gastar más muestra sin obtener una respuesta cualitativamente nueva.
 - **El agua de los discos NO está declarada potable.**
 - El protagonista no ha bebido agua procedente de los discos.
@@ -111,18 +112,21 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 ### Lluvia directa y colector experimental
 
 - En el Capítulo IX el protagonista identifica el agua desviada por la reparación exterior como una posible fuente distinta de los discos.
-- No utiliza directamente el agua que ha recorrido el tejido del paracaídas y el casco sucio.
+- No utiliza directamente agua que haya recorrido el tejido del paracaídas y el casco sucio.
 - Recupera una lámina rígida de cubierta térmica cuya cara interior permanecía protegida y la limpia usando una cantidad mínima de agua terrestre y calor.
 - Monta la lámina con tres apoyos para que la lluvia recorra una superficie corta y controlada antes de caer en un recipiente.
 - Descarta varios primeros volúmenes para enjuagar lámina y recipiente.
 - La muestra de lluvia directa contiene menos sales que el agua de los discos y una señal orgánica mucho menor.
 - No se detectan metales humanos conocidos por encima del umbral inmediato del analizador.
-- Tras filtrado y tratamiento térmico, la señal orgánica queda por debajo del nivel clasificable con confianza del equipo: `RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.`
-- El protagonista sigue el protocolo de exposición mínima: primero contacto con el labio, luego una gota, después aproximadamente un mililitro y, más de seis horas después sin reacción medible, diez mililitros adicionales.
+- Tras filtrado y tratamiento térmico, la señal orgánica queda por debajo del nivel clasificable con confianza: `RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.`
+- El protagonista sigue un protocolo de exposición mínima: contacto con el labio, una gota, aproximadamente un mililitro y, más de seis horas después sin reacción medible, diez mililitros adicionales.
 - **La lluvia tratada NO está declarada potable ni segura a largo plazo.**
-- Hasta el cierre del Capítulo IX no se observa reacción adversa medible a esa exposición mínima.
-- Dos bolsas de ración vacías han sido limpiadas y adaptadas como almacenamiento pequeño de lluvia recogida.
+- No se observa reacción adversa medible durante el intervalo registrado.
+- Dos bolsas de ración vacías se adaptan como almacenamiento pequeño de lluvia recogida.
 - El registro queda fijado como `LLUVIA DIRECTA. RECOGIDA SIN CONTACTO CON RAÍZ`, `FILTRADA + TRATAMIENTO TÉRMICO` y `TOLERADA EN EXPOSICIÓN MÍNIMA. SEGUIR OBSERVANDO.`
+- En el Capítulo X el protagonista lleva una de esas bolsas, con una masa total de 186 g incluido cierre e identificación, como reserva secundaria de margen; mantiene agua terrestre como fuente principal.
+- Durante un resbalón bajo la aproximación a la plataforma, la bolsa se abre por una esquina y pierde el agua.
+- La bolsa dañada se conserva y al final del capítulo empieza a repararse con sellador térmico.
 
 ### Error de perspectiva confirmado
 
@@ -146,9 +150,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El viento por sí solo no explica el fenómeno.
 - En la base hay dos grupos de hendiduras: tres pequeñas + una grande; una grande + dos pequeñas.
 - No está demostrado que sean escritura o código.
-- En la segunda visita conservaron la misma geometría; una de las pequeñas contenía agua mientras las demás estaban secas.
+- En la segunda visita una hendidura menor contenía agua; en el Capítulo X, después de otra noche de lluvia, dos hendiduras contenían agua. No se ha demostrado que ese detalle tenga significado distinto de la lluvia y la inclinación.
 
-### Plataforma lejana y aproximación
+### Plataforma lejana, borde roto y rama inferior
 
 - Desde la estructura sonora se observó una plataforma con varias formas verticales regulares.
 - Al menos seis son visibles con seguridad en aperturas de niebla.
@@ -158,14 +162,25 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La raíz de aproximación se divide: una rama desciende bajo niebla y otra termina en un borde roto.
 - El borde roto tiene una terminación casi plana y surcos paralelos a intervalos casi regulares; su origen no está demostrado.
 - La distancia hasta la raíz opuesta impide saltar y el sistema de aseguramiento no basta sin anclaje al otro lado.
-- Bajo la raíz opuesta se observa una línea oscura aproximadamente del grosor de una muñeca que entra en la corteza; su material no se ha identificado.
-- La corteza parece haber crecido alrededor de esa línea de forma comparable a la base de la estructura sonora.
+- Bajo la raíz opuesta se observó una línea oscura aproximadamente del grosor de una muñeca que entra en la corteza; su material no se ha identificado.
+- En el Capítulo X se recorre por primera vez la rama descendente de esa división.
+- La rama está cubierta por una película oscura que retiene agua y resulta resbaladiza bajo carga.
+- Aproximadamente quince metros más abajo la rama pasa bajo la raíz principal y forma una zona protegida del viento directo.
+- En la cara inferior de la raíz se observa una banda oscura de casi medio metro de anchura, parcialmente cubierta por corteza y dividida por surcos transversales.
+- Esa banda se prolonga en dirección a la plataforma.
+- Desde abajo se observa que la parte inferior de la plataforma está formada por capas, nervaduras oscuras, huecos y crecimiento vivo entrelazados.
+- La raíz asciende hasta esa trama y desaparece dentro de ella; varias nervaduras están expuestas y otras casi completamente cubiertas por corteza nueva.
+- Una sección de aproximadamente tres metros carece de parte de esa trama y deja raíz desnuda.
+- Cerca de la parte inferior de la plataforma, la banda oscura observada se divide: una rama asciende hacia la trama de la plataforma y otra continúa pegada a la raíz antes de desaparecer bajo corteza.
+- La superficie de la banda presenta pequeñas líneas transversales que forman parte del material.
+- Durante la observación se oyeron a distancia los tonos agudo y grave sin que se observara una respuesta visible en la banda.
+- La superficie superior de la plataforma sigue sin haber sido visitada.
 
 ### Vibración breve en la aproximación
 
 - Cerca del borde roto, después de oír a distancia el tono agudo, el protagonista sintió una vibración breve y fina a través de las botas.
 - Se repitió una vez y no se parecía a los golpes profundos anteriores.
-- No volvió durante la observación.
+- No volvió durante esa observación.
 - No existe evidencia suficiente para relacionarla con la estructura sonora, la plataforma o la línea oscura.
 
 ### Recuperación de materiales
@@ -176,6 +191,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Registro: `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
 - En el Capítulo VII cortó otra pieza de tejido del paracaídas para desviar lluvia sobre la zona reparada de la cápsula y usó línea recuperada para reforzar el anclaje.
 - En el Capítulo IX reutiliza una lámina de cubierta térmica y abrazaderas del panel interior para fabricar el colector; evita cortar más línea estructural.
+- En el Capítulo X la herramienta multipropósito detiene un resbalón al clavarse entre fibras; la punta queda ligeramente marcada, pero continúa recta y utilizable.
 
 ### Ruta ascendente
 
@@ -228,7 +244,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El agua de los discos sigue sin ser una solución demostrada.
 - La lluvia directa tratada abre una posible fuente local, pero todavía solo existe evidencia de tolerancia a exposición mínima y depende de lluvia, filtrado, calor y almacenamiento limpio.
 - El análisis y tratamiento consumen material de laboratorio, filtros y energía; futuros ensayos tienen coste real.
-- Se han reutilizado dos bolsas de ración como pequeños contenedores de lluvia.
+- Se reutilizaron dos bolsas de ración como pequeños contenedores de lluvia; una quedó dañada y perdió su contenido durante el Capítulo X, pero se conserva para reparación.
+- El protagonista sigue utilizando agua terrestre como fuente principal.
+- La primera salida que utiliza lluvia tratada como margen de autonomía demuestra también su fragilidad logística: una caída pequeña puede eliminar ese margen sin recuperar el recurso.
 
 ### Estado físico
 
@@ -236,11 +254,12 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
 - En el Capítulo VIII la subida desde la raíz inferior obliga al protagonista a descargar parte del esfuerzo en los brazos por dolor de rodilla.
 - En el Capítulo IX la rodilla pasa gran parte del día sin carga intensa; al levantarse sigue rígida pero no aumenta el dolor.
+- En el Capítulo X un resbalón obliga a flexionar la rodilla más de lo deseado; el dolor no presenta un patrón nuevo y la articulación sigue aceptando peso durante el regreso.
 - Cuello con rigidez residual.
 - Nudillos golpeados en el Capítulo VII: hinchazón leve, movilidad conservada.
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en el exterior.
-- No se observa reacción adversa medible durante las más de seis horas posteriores a la exposición mínima a lluvia tratada.
+- No se ha observado reacción adversa medible tras la exposición mínima a lluvia tratada descrita hasta ahora.
 
 ## HIPÓTESIS ACTIVAS
 
@@ -256,9 +275,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La fracción orgánica no clasificada del agua de los discos puede proceder de organismos, productos metabólicos, material del disco o compuestos disueltos; no se conoce su peligrosidad.
 - La señal orgánica mucho menor de la lluvia directa puede proceder de material atmosférico, contaminación residual del colector u otra fracción ambiental; su baja concentración no demuestra inocuidad.
 - Los tonos pueden originarse en una interacción entre la película transparente y la estructura de tres brazos; el disparador sigue sin determinarse.
-- La plataforma lejana podría contener construcciones, restos o formaciones regulares; no debe llamarse ciudad ni ruina.
+- La plataforma puede contener una estructura artificial, biológica, mineral o una combinación de materiales y crecimiento; su origen no está demostrado.
+- La trama inferior puede haber sido rodeada por la raíz con el tiempo, construida alrededor de la raíz, formada junto a ella o tener otra historia aún no comprendida.
 - Los surcos del borde roto podrían ser naturales o consecuencia de alguna intervención antigua.
-- La línea oscura bajo la raíz opuesta puede ser biológica, mineral o material relacionado con la estructura sonora.
+- Las líneas y bandas oscuras observadas cerca y bajo la plataforma pueden pertenecer al mismo sistema material o ser estructuras distintas; no existe todavía continuidad demostrada entre ellas.
 - La vibración fina del Capítulo VI podría proceder de la raíz, de una estructura o de otro fenómeno local; no vincularla todavía a los tonos.
 - El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
 - La criatura terrestre probablemente utiliza aplanamiento y coloración como camuflaje, pero no está demostrado.
@@ -283,7 +303,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué contiene exactamente la fracción orgánica no clasificada de la muestra de los discos?
 - ¿Puede el agua de los discos procesarse hasta ser segura para consumo humano?
 - ¿Qué compone la señal orgánica residual de la lluvia directa?
-- ¿Puede la lluvia directa tratada convertirse en una fuente fiable sin producir efectos tardíos ni consumir filtros y energía de forma insostenible?
+- ¿Puede la lluvia directa tratada convertirse en una fuente fiable sin producir efectos tardíos ni consumir filtros, energía y recipientes de forma insostenible?
 - ¿Qué provocó la inclinación de la raíz inferior?
 - ¿Qué hay por debajo de la capa explorada?
 - ¿Qué inicia las vibraciones de la estructura de tres brazos?
@@ -291,9 +311,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué son las formas verticales de la plataforma?
 - ¿Existe actividad actual en la plataforma o pertenece a otro momento?
 - ¿Qué produjo los surcos paralelos del borde roto?
-- ¿Qué es la línea oscura que entra en la raíz opuesta?
+- ¿Qué son la banda ancha, las nervaduras y las líneas oscuras que entran en las raíces próximas a la plataforma?
+- ¿La raíz creció alrededor de una estructura previa, la estructura se formó alrededor de la raíz o ambas historias son inseparables por otra causa?
 - ¿Qué causó la vibración fina sentida en el borde?
-- ¿Existe otra vía física hasta la plataforma por la rama que desciende bajo la niebla?
+- ¿Existe una vía física hasta la superficie de la plataforma desde la rama inferior o desde otra raíz?
 - ¿Qué mecanismo mueve el agua hacia arriba en la bóveda vegetal?
 - ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
 - ¿Qué es la geometría regular observada desde la terraza alta?
@@ -304,20 +325,23 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal conocido, reparado y mantenido activamente; ahora incluye un colector experimental de lluvia directa.
+- **Cápsula / lugar de caída:** refugio principal conocido, reparado y mantenido activamente; incluye un colector experimental de lluvia directa.
 - **Primera ruta:** conecta la cápsula con la bifurcación.
 - **Bifurcación principal:** tres ramas; el marcador reflectante ya no está.
 - **Ruta descendente:** conduce a la raíz rota, raíz intermedia y raíz inferior de los discos; recorrida más de una vez.
 - **Raíz inferior de los discos:** visitada primero para observar fauna y después para recoger una muestra de agua.
 - **Ruta horizontal:** conduce a la estructura de tres brazos y continúa hasta una división próxima al hueco de la plataforma.
-- **Estructura de tres brazos:** visitada dos veces; referencia física y acústica estable hasta ahora.
+- **Estructura de tres brazos:** visitada al menos tres veces en tránsito/observación; referencia física y acústica estable hasta ahora.
 - **Borde roto de aproximación:** extremo de una rama horizontal con surcos paralelos y vista parcial de la raíz opuesta.
-- **Plataforma regular:** todavía no visitada; separada por varias raíces y un hueco.
+- **Rama inferior de aproximación:** recorrida por primera vez en el Capítulo X; desciende aproximadamente quince metros y pasa bajo la raíz principal hasta una zona desde la que se observa la parte inferior de la plataforma.
+- **Parte inferior de la plataforma:** observada de cerca desde la rama inferior; no equivale a haber alcanzado la superficie superior.
+- **Plataforma regular:** superficie todavía no visitada.
 - **Ruta ascendente:** conduce a la bóveda vegetal y a una terraza alta.
 - **Cápsula ↔ bifurcación:** reproducible de memoria.
 - **Bifurcación ↔ raíz inferior:** peligroso, parcialmente asegurado y más conocido por repetición.
-- **Bifurcación ↔ estructura de tres brazos:** recorrido dos veces y reconocido sin repetir pruebas conocidas.
-- **Estructura de tres brazos ↔ borde roto:** recorrido una vez.
+- **Bifurcación ↔ estructura de tres brazos:** recorrido varias veces y reconocido sin repetir pruebas conocidas.
+- **Estructura de tres brazos ↔ división de aproximación:** recorrido más de una vez.
+- **División ↔ zona inferior de plataforma:** recorrido una vez; superficie resbaladiza y visibilidad limitada.
 - **Bifurcación ↔ terraza alta:** recorrido una vez y recordado mediante referencias ambientales.
 
 ## FLORA Y ORGANISMOS NO CLASIFICADOS
@@ -331,6 +355,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Formaciones cobrizas: láminas superpuestas que pueden cerrarse durante ráfagas fuertes.
 - Filamentos blancos: se apartan de la luz.
 - Bolsas translúcidas de la bóveda: reciben agua que asciende por hilos finos.
+- Película oscura de la rama inferior próxima a la plataforma: retiene agua y resulta resbaladiza; naturaleza no clasificada.
 
 ## FAUNA CONFIRMADA
 
@@ -354,36 +379,36 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Sistema improvisado de aseguramiento.
 - Pequeño desvío de lluvia exterior hecho con tejido de paracaídas y línea recuperada.
 - Colector experimental de lluvia directa hecho con una lámina rígida de cubierta térmica y abrazaderas recuperadas.
-- Dos bolsas de ración reutilizadas para almacenar pequeños volúmenes de lluvia.
+- Dos bolsas de ración reutilizadas para pequeños volúmenes de lluvia; una quedó abierta/dañada por una esquina y está en proceso de reparación al cierre del Capítulo X.
 - Grabación del oscurecimiento nocturno.
 - Grabación de los tonos.
-- Fotografías de la estructura de tres brazos, hendiduras, plataforma, geometría regular de la terraza, borde roto y línea oscura bajo la raíz opuesta.
+- Fotografías de la estructura de tres brazos, hendiduras, plataforma, geometría regular de la terraza, borde roto, líneas/bandas oscuras y trama inferior de la plataforma.
 - Grabación de alta velocidad de las secuencias luminosas de la fauna acuática.
 - Grabación del cambio de tono de la línea del disco vacío durante los golpes.
 - Muestra de agua de los discos parcialmente consumida por análisis y todavía no declarada segura.
-- Muestra de lluvia directa tratada y registrada como tolerada únicamente en exposición mínima.
 - Analizador portátil y material de filtrado/esterilización limitado.
+- Herramienta multipropósito con la punta ligeramente marcada tras detener el resbalón del Capítulo X; sigue utilizable.
 
 ## CONSECUENCIAS PERSISTENTES
 
 - Cápsula inmovilizada y enlace con Aster perdido.
 - La cápsula requiere mantenimiento de campo; la reparación de filtración y su pequeño techo de paracaídas deben conservarse.
-- La reparación exterior ha adquirido una función nueva: junto a ella existe ahora un sistema pequeño de recogida de lluvia que debe mantenerse limpio y estable frente al viento.
-- La lesión de rodilla condiciona desplazamientos, aunque muestra mejoría lenta.
+- Junto a la reparación existe ahora un sistema pequeño de recogida de lluvia que debe mantenerse limpio y estable frente al viento.
+- La lesión de rodilla condiciona desplazamientos, aunque muestra mejoría lenta y sigue aceptando carga tras el resbalón del Capítulo X.
 - Las membranas se han convertido en conocimiento práctico incorporado al movimiento.
 - Las tres ramas principales contienen rutas y preguntas concretas.
-- La ruta inferior sigue abierta y peligrosa, pero la repetición empieza a convertirla en un camino conocido.
-- La plataforma sigue sin visitar y existe una barrera física concreta antes de alcanzarla.
+- La ruta inferior de los discos sigue abierta y peligrosa, pero la repetición empieza a convertirla en un camino conocido.
+- La plataforma sigue sin visitarse por arriba; ahora se conoce además parte de su estructura inferior y existe una ruta reproducible hasta esa zona.
 - Primera fauna acuática y primera fauna terrestre observadas sin captura.
-- El marcador reflectante desapareció; el protagonista empieza a sustituir marcadores por memoria, geometría y referencias naturales.
+- El marcador reflectante desapareció; el protagonista sustituye marcadores por memoria, geometría y referencias naturales.
 - Los tonos de la ruta horizontal forman parte de su orientación práctica aunque su origen siga sin comprenderse.
 - La geometría regular aparece en más de un punto del paisaje, sin explicación confirmada.
-- La segunda visita demostró que un lugar conocido puede aportar información nueva porque cambia la capacidad del protagonista para leerlo.
-- Agua, filtros, energía y raciones imponen un horizonte temporal real.
-- La primera expedición deliberada para estudiar agua de los discos produjo una muestra, no una solución.
+- Los regresos demuestran que un lugar conocido puede aportar información nueva porque cambia la capacidad del protagonista para leerlo.
+- Agua, filtros, energía, recipientes y raciones imponen un horizonte temporal real.
 - La muestra de los discos es químicamente menos hostil de lo temido en algunos parámetros humanos conocidos, pero contiene una fracción orgánica no clasificada resistente parcialmente a filtrado y calor.
 - El protagonista mantiene una frontera clara entre el agua de los discos y la lluvia directa: no bebe de los discos; solo ha probado cantidades mínimas de lluvia recogida antes de tocar la raíz y tratada con filtrado y calor.
-- La lluvia directa abre una posibilidad real de supervivencia, pero todavía depende del clima, almacenamiento limpio, filtros, energía y ausencia de efectos tardíos.
+- La lluvia directa abre una posibilidad real de supervivencia, pero todavía depende del clima, almacenamiento limpio, filtros, energía, ausencia de efectos tardíos y resistencia física de recipientes improvisados.
+- La pérdida de una bolsa de lluvia en el Capítulo X convierte esa nueva autonomía en un recurso frágil con coste, no en una solución estable.
 - La raíz inferior ya no es solo un lugar de descubrimiento de fauna; también es una posible fuente de supervivencia y un lugar que presenta cambios observables entre visitas.
 - El protagonista empieza a modificar de forma práctica su zona de caída y a usar conocimiento local para vivir allí, todavía por necesidad y no por sentimiento declarado de pertenencia.
 
