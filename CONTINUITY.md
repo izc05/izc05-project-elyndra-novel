@@ -19,8 +19,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XII: `manuscript/12-el-mismo-camino.md` — **El mismo camino**.
 - Capítulo XIII: `manuscript/13-la-mitad-de-una-racion.md` — **La mitad de una ración**.
 - Capítulo XIV: `manuscript/14-el-aire-que-gastas.md` — **El aire que gastas**.
+- Capítulo XV: `manuscript/15-lo-que-entra-contigo.md` — **Lo que entra contigo**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran y realizado el primer muestreo controlado del aire exterior sin respirarlo directamente.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado el primer muestreo controlado del aire exterior sin respirarlo directamente y convertido la contaminación de retorno a la cápsula en un problema práctico de refugio sin declarar que exista infección ni peligro biológico demostrado.
 
 ## HECHOS
 
@@ -49,9 +50,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Algunas raíces flexionan o cambian levemente de inclinación durante fenómenos transmitidos por la estructura.
 - Existe una columna de vapor lejana y varias geometrías o destellos aún no identificados.
 
-### Atmósfera exterior y filtrado
+### Atmósfera exterior, filtrado y retorno a la cápsula
 
-- Hasta el Capítulo XIV el protagonista ha utilizado casco y filtrado siempre que permanece en exterior.
+- Hasta el Capítulo XV el protagonista ha utilizado casco y filtrado siempre que permanece en exterior.
 - Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
 - El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
 - Una toma controlada de aire exterior, introducida por tubo de muestreo sin respiración directa, muestra presión compatible con las lecturas del traje, oxígeno en un rango que un pulmón humano podría utilizar, dióxido de carbono bajo y ausencia de alarmas inmediatas para los gases corrosivos/volátiles conocidos por el sistema.
@@ -63,6 +64,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el haz lateral de la linterna dentro de la bóveda se observan miles de partículas muy pequeñas suspendidas en el aire.
 - El protagonista añade al mapa de la ruta ascendente la nota `MAYOR CARGA DE FILTRO`.
 - El aire pasa a considerarse también un coste de ruta: no todas las zonas parecen cargar el filtro al mismo ritmo.
+- La cápsula no dispone de esclusa separada; tras una salida el protagonista sella la escotilla, limpia superficies principales del traje y mantiene el casco puesto durante un ciclo de recirculación antes de retirarlo.
+- El ciclo de recirculación **reduce** la carga de partículas interiores pero no esteriliza la cabina.
+- En el Capítulo XV se inspecciona un prefiltro ambiental interior anterior al accidente: contiene polvo de cabina, fibras textiles, partículas metálicas/minerales y material microscópico no clasificado.
+- Algunas partículas del prefiltro interior recuerdan en aspecto a material observado en el filtro del casco, pero **no existe emparejamiento suficiente para afirmar origen exterior**.
+- Los registros automáticos muestran picos breves de partículas interiores después de aperturas de la escotilla y descenso posterior durante recirculación.
+- Registro: `PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.`
+- Registro: `LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.`
+- El protagonista establece una separación física de trabajo entre zona de entrada y zona limpia dentro del escaso volumen de la cápsula.
 
 ### Membranas transparentes
 
@@ -210,6 +219,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XIV un filtro agotado por carga elevada queda fuera de servicio y se utiliza para análisis; se instala un cartucho limpio.
 - La mayor carga de filtro también implica mayor consumo de batería porque el traje compensa aumentando caudal.
 - El protagonista coloca una marca física en el alojamiento de filtros, igual que hizo con las raciones, sin convertirla en cuenta atrás fechada.
+- En el Capítulo XV se sustituye un prefiltro ambiental interior antiguo por uno limpio; el antiguo se conserva sellado como referencia, no como prueba de contaminación exterior.
+- La limpieza de retorno consume paños limpios y agua/humedad, de modo que el control de partículas crea un coste pequeño pero persistente adicional.
+- Dentro de la cápsula se reorganizan raciones, soporte de casco, residuos y zona de descanso para mantener una separación práctica entre entrada y zona limpia.
 
 ### Estado físico
 
@@ -218,6 +230,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El resbalón del Capítulo X la obligó a flexionarse más de lo deseado, sin patrón de dolor nuevo y manteniendo carga.
 - En el Capítulo XI ponerse de pie deprisa provoca una protesta de la rodilla, pero acepta el peso durante el regreso.
 - En el Capítulo XII la rodilla agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
+- En el Capítulo XV trabaja sentado con la pierna derecha estirada para evitar flexión prolongada; no hay deterioro nuevo demostrado.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
@@ -243,6 +256,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La señal residual de lluvia puede ser atmosférica, contaminación del colector u otra fracción ambiental.
 - La fracción orgánica y las estructuras microscópicas atrapadas por filtros pueden ser material biológico, fragmentos inertes, aerosoles orgánicos o una mezcla; no llamarlas esporas ni microorganismos sin evidencia.
 - La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad, interacción de ambas o condiciones locales todavía no medidas.
+- Parte del particulado del prefiltro interior puede proceder del exterior y haber entrado durante aperturas/regresos, pero la muestra también contiene material terrestre y anterior al accidente; el origen de cada fracción no está demostrado.
 - Los tonos pueden originarse en la interacción entre película y estructura; el disparador sigue sin determinarse.
 - La plataforma puede ser artificial, biológica, mineral o una combinación.
 - La trama inferior puede haber sido rodeada por la raíz, construida alrededor de ella, formada junto a ella o tener otra historia.
@@ -264,6 +278,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Puede llegar a demostrarse que alguna región de la atmósfera exterior es segura para respirar sin filtrado?
 - ¿Qué son las partículas y estructuras orgánicas retenidas por los filtros?
 - ¿Por qué la bóveda ascendente carga los filtros con mayor rapidez y cuánto varía ese coste entre regiones?
+- ¿Cuánto material exterior alcanza realmente el interior de la cápsula durante entradas y aperturas, y cuánto elimina la recirculación?
 - ¿Puede una exposición dérmica mínima y controlada aportar información útil antes de considerar cualquier respiración directa?
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
@@ -287,13 +302,13 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
 - ¿Qué es la geometría regular visible desde la terraza?
 - ¿Cuánto tiempo puede mantenerse operativa la cápsula?
-- ¿Cuánto pueden durar raciones, filtros y reactivos si no aparecen fuentes locales seguras?
+- ¿Cuánto pueden durar raciones, filtros, prefiltros, paños y reactivos si no aparecen fuentes locales seguras?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior.
+- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética.
 - **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
 - **Bifurcación principal:** tres ramas; marcador reflectante perdido.
@@ -323,6 +338,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Bolsas translúcidas: reciben agua ascendente por hilos finos.
 - Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza; no confundir con la película de las placas cobrizas.
 - Particulado de la atmósfera exterior: incluye minerales, fibras, fragmentos translúcidos y estructuras microscópicas con fracción orgánica no clasificada; vida/no vida no determinada.
+- Particulado interior de la cápsula: mezcla de materiales terrestres conocidos y componentes no clasificados; no atribuir automáticamente estos últimos a Elyndran.
 
 ## FAUNA CONFIRMADA
 
@@ -352,6 +368,9 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Muestra mínima de película oscura de placa cobriza analizada en el Capítulo XIII.
 - Muestra de la capa exterior de un filtro usado analizada en el Capítulo XIV.
 - Tubo de muestreo ambiental usado para introducir aire exterior al analizador sin respiración directa.
+- Prefiltro ambiental interior antiguo retirado en el Capítulo XV y sellado como referencia; no constituye prueba de contaminación exterior.
+- Prefiltro ambiental limpio instalado en la cápsula.
+- Línea de cinta interior que separa funcionalmente zona de entrada y zona limpia.
 - Analizador, reactivos y material de tratamiento limitados.
 - Herramienta multipropósito ligeramente marcada pero utilizable.
 - Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
@@ -377,9 +396,11 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
 - En el Capítulo XIV el aire deja de ser una prohibición abstracta y se convierte en un recurso medible: parte de su composición gaseosa es prometedora, pero el riesgo biológico/particulado sigue sin resolver y los filtros son finitos.
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
+- En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
+- El protagonista modifica físicamente el refugio para separar entrada y zona limpia; esa conducta introduce nuevos costes pequeños de paños, agua de limpieza y prefiltros.
 - **La primera exposición futura de piel desnuda al ambiente exterior queda preparada como un hito posible, no ejecutado.**
 - **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales.**
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno y ahora coste de filtrado— todavía por necesidad, sin declarar pertenencia.
+- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado y ahora disciplina de entrada— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
@@ -391,4 +412,5 @@ Existen como dirección, no como conocimiento del protagonista.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
 - La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
 - La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
-- Antes de cualquier respiración directa, una futura exposición dérmica mínima puede servir como escalón narrativo si se realiza en una región de baja carga de filtro, con control de tiempo, posibilidad inmediata de retirada y sin convertir la ausencia de reacción aguda en prueba de seguridad.
+- La contaminación de retorno debe permanecer material y ambigua: suciedad, partículas y procedimientos, no una trama de infección prematura sin evidencia.
+- Antes de cualquier respiración directa, una futura exposición dérmica mínima puede servir como escalón narrativo si nace de una necesidad real y se realiza en una región de baja carga de filtro, con control de tiempo, posibilidad inmediata de retirada y sin convertir la ausencia de reacción aguda en prueba de seguridad. No ejecutar ese escalón solo porque “toque” después del Capítulo XIV.
