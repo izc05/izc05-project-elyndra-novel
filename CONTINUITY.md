@@ -22,8 +22,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XV: `manuscript/15-lo-que-entra-contigo.md` — **Lo que entra contigo**.
 - Capítulo XVI: `manuscript/16-la-mano-izquierda.md` — **La mano izquierda**.
 - Capítulo XVII: `manuscript/17-el-tono-que-faltaba.md` — **El tono que faltaba**.
+- Capítulo XVIII: `manuscript/18-lo-que-dejas-encendido.md` — **Lo que dejas encendido**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable y regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente. La atmósfera sigue sin declararse segura y no se ha respirado aire exterior sin filtrado.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente y convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza. La atmósfera sigue sin declararse segura y no se ha respirado aire exterior sin filtrado.
 
 ## HECHOS
 
@@ -41,7 +42,11 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - No se confirmó ninguna portadora compatible con Aster durante la ventana ni en los minutos adicionales.
 - Una línea blanca de menos de dos segundos fue observada, pero el visor descartó una trayectoria orbital baja compatible con Aster y no hubo radio asociada.
 - Registro: `PASO ORBITAL PREVISTO: NO CONFIRMADO`.
+- En el Capítulo XVIII el historial eléctrico muestra tres transmisiones de baliza con breves descensos de potencia coincidentes con arranques defectuosos del módulo térmico; ninguna transmisión llegó a perderse por completo.
+- Tras reparar el módulo, el protagonista configura la cápsula para impedir que cargas no esenciales arranquen durante las ventanas automáticas de transmisión de la baliza.
+- Una transmisión posterior mantiene potencia estable bajo esa nueva prioridad y sigue sin recibir respuesta.
 - **No está demostrado que Aster haya desaparecido, caído o abandonado la órbita.**
+- **No puede saberse si alguien intentó escuchar durante las tres breves caídas de potencia anteriores.**
 
 ### Entorno de raíces suspendidas
 
@@ -54,7 +59,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 ### Atmósfera exterior, filtrado, piel y retorno a la cápsula
 
-- Hasta el Capítulo XVII el protagonista mantiene casco y filtrado siempre que permanece en exterior.
+- Hasta el Capítulo XVIII el protagonista mantiene casco y filtrado siempre que permanece en exterior.
 - El sistema respiratorio del traje filtra aire ambiental para el casco; brazos y torso no dependen de una atmósfera presurizada independiente, por lo que una exposición localizada de piel puede realizarse sin abrir el circuito respiratorio.
 - Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
 - El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
@@ -79,9 +84,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Tras la exposición no se observa reacción aguda inmediata: sin dolor, picor, pérdida de sensibilidad, edema ni enrojecimiento medible durante las primeras horas registradas.
 - La zona se limpia con agua terrestre, se fotografía y se compara con una zona equivalente no expuesta de la mano derecha mediante apósitos y seguimiento.
 - Al inicio y al final del Capítulo XVII, cerca de veinticuatro horas después de la exposición, la mano izquierda continúa sin cambios visibles, térmicos o motores respecto a la derecha.
+- En el Capítulo XVIII, pasadas más de treinta horas desde la exposición, la mano izquierda sigue sin cambios visibles, térmicos o motores; no se realiza una segunda exposición.
 - Registro: `EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.`
 - Registro: `SEGUIMIENTO NECESARIO.`
-- **La ausencia de reacción aguda y de cambios visibles al día siguiente no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
+- **La ausencia de reacción aguda y de cambios visibles durante más de treinta horas no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
 - En el Capítulo XVII, durante una permanencia en la ruta horizontal, la carga del filtro aumenta despacio y resulta menor que la observada en la bóveda ascendente durante una permanencia comparable, aunque las condiciones no son idénticas y el dato se conserva solo como comparación provisional.
 - **No se ha respirado deliberadamente aire exterior sin filtrado.**
 
@@ -102,6 +108,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XIV vuelve a recorrer la ruta hasta la bifurcación para comparar carga de filtro antes de entrar parcialmente en la ruta ascendente.
 - En el Capítulo XVI la exposición dérmica se realiza a menos de seis metros de la cápsula, sobre la raíz ancha de la primera ruta, sin avanzar hasta la bifurcación.
 - En el Capítulo XVII vuelve a recorrer la primera ruta completa hasta la bifurcación y toma la rama horizontal para revisar la estructura de tres brazos.
+- En el Capítulo XVIII la única salida exterior se limita al colector junto a la cápsula; no se abre nueva ruta.
 
 ### Marcas, golpes y sombra
 
@@ -151,6 +158,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Al final del Capítulo XI vuelve a llover y el colector exige cambiar de recipiente para no rebosar.
 - Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector.
 - En el Capítulo XVI una lluvia fina vuelve a alimentar el colector; el protagonista cambia el recipiente con casco y guantes, manteniendo sin cambios el protocolo de retorno.
+- En el Capítulo XVIII el colector contiene poca agua debido a lluvia irregular; el protagonista cambia la bolsa y vuelve a aplicar el protocolo completo de retorno.
+- El tratamiento térmico de agua sigue necesitando energía y pasa a competir explícitamente con otras cargas de la cápsula.
 
 ### Ruta horizontal y estructura de tres brazos
 
@@ -222,6 +231,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El registro de comportamiento queda como `PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.`
 - En el Capítulo XIII el protagonista empieza a fraccionar las raciones y coloca una marca física en el armario de comida para visualizar lo que queda, sin fijar todavía una fecha de agotamiento.
 - En el Capítulo XVII continúa fraccionando raciones y consume una media ración antes de salir; no aparece ninguna fuente local nueva declarada comestible.
+- En el Capítulo XVIII come media ración fría incluso después de reparar el módulo térmico para evitar una carga no esencial; conserva la otra mitad y no aparece una fuente local nueva declarada comestible.
 
 ### Terraza alta y observación del cielo
 
@@ -250,6 +260,13 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Dentro de la cápsula se reorganizan raciones, soporte de casco, residuos y zona de descanso para mantener una separación práctica entre entrada y zona limpia.
 - En el Capítulo XVI se utilizan dos apósitos estériles, gasa, solución de limpieza, agua terrestre y material de seguimiento para comparar la exposición de la mano izquierda con una zona no expuesta de la derecha.
 - En el Capítulo XVII no se consume material analítico nuevo para la mano ni para la estructura; la observación se apoya en cámara, registros previos, medición térmica y audio.
+- En el Capítulo XVIII el módulo térmico de comida falla por un contacto degradado con marcas de arco y presión mecánica insuficiente; se limpia y se repara con una lámina conductora del kit de mantenimiento.
+- Tras la reparación, el módulo supera una prueba breve con corriente estabilizada, pero el protagonista decide no usarlo para calentar la siguiente comida.
+- El historial muestra que los arranques defectuosos del módulo producían caídas de tensión y calentamiento creciente del convertidor común; nada queda todavía fuera de límites operativos.
+- La cápsula recupera parte de la energía mediante superficies exteriores cuando la luz atraviesa la niebla, por lo que la autonomía eléctrica depende también del clima y no de una simple descarga lineal de batería.
+- Recirculación, análisis, baliza, bombas, calefacción, tratamiento térmico y otras cargas compiten por una reserva energética finita.
+- El protagonista configura prioridad de transmisión para impedir el arranque de cargas no esenciales durante la baliza automática.
+- El calor de comida pasa a tratarse como prescindible frente a cargas de supervivencia, tratamiento y comunicación; el módulo queda operativo pero normalmente apagado.
 
 ### Estado físico
 
@@ -268,6 +285,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - No se ha observado reacción adversa medible a la exposición mínima de lluvia tratada registrada hasta ahora.
 - La primera exposición deliberada de piel desnuda al ambiente exterior ocurre en el Capítulo XVI: mano/muñeca izquierdas durante 34 segundos en una zona de baja carga de filtro, sin reacción aguda observable en las primeras horas.
 - Cerca de veinticuatro horas después, en el Capítulo XVII, la mano izquierda continúa sin cambios visibles, térmicos o motores frente a la derecha.
+- Más de treinta horas después, en el Capítulo XVIII, sigue sin observarse diferencia visible, térmica o motora; no se repite la exposición.
 - **No se conoce todavía si habrá respuesta tardía más allá de ese periodo o acumulativa ante exposiciones futuras.**
 - **No ha respirado deliberadamente aire exterior sin filtrado.**
 
@@ -275,6 +293,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 - El intervalo de 37 segundos puede ser fallo o fenómeno desconocido.
 - Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o encontrarse fuera de la ventana calculada; ninguna opción está demostrada.
+- Las breves caídas de potencia de la baliza pudieron o no afectar una escucha externa; no hay evidencia de que Aster u otro receptor estuviera disponible durante esos instantes.
 - Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
 - Los filamentos blancos pueden responder a luz y también a una variable meteorológica todavía no identificada.
 - Las depresiones grandes pueden ser erosión, deformación o tránsito repetido; no llamarlas huellas.
@@ -289,7 +308,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La fracción orgánica y las estructuras microscópicas atrapadas por filtros pueden ser material biológico, fragmentos inertes, aerosoles orgánicos o una mezcla; no llamarlas esporas ni microorganismos sin evidencia.
 - La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad, interacción de ambas o condiciones locales todavía no medidas.
 - Parte del particulado del prefiltro interior puede proceder del exterior y haber entrado durante aperturas/regresos, pero la muestra también contiene material terrestre y anterior al accidente; el origen de cada fracción no está demostrado.
-- La ausencia de reacción aguda durante 34 segundos y de cambios visibles cerca de veinticuatro horas después puede indicar tolerancia local a esa dosis concreta o simplemente ausencia de una respuesta observable en ese intervalo; no inferir compatibilidad a largo plazo.
+- La ausencia de reacción aguda durante 34 segundos y de cambios visibles durante más de treinta horas puede indicar tolerancia local a esa dosis concreta o simplemente ausencia de una respuesta observable en ese intervalo; no inferir compatibilidad a largo plazo.
 - Los tonos pueden originarse en la interacción entre película y estructura; el Capítulo XVII refuerza una posible relación entre cantidad/estado de la película y frecuencia, pero el disparador y el mecanismo de carga siguen sin determinarse.
 - La película transparente del brazo agudo puede recibir material o líquido desde la base, desde la raíz que abraza la estructura o desde un conducto oculto; la observación no permite escoger entre esas opciones.
 - El cambio aparente de cobertura de corteza sobre las bandas puede ser hinchamiento por humedad, crecimiento real, diferencia de encuadre u otro cambio; no usarlo todavía como prueba de crecimiento rápido.
@@ -340,13 +359,15 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
 - ¿Qué es la geometría regular visible desde la terraza?
 - ¿Cuánto tiempo puede mantenerse operativa la cápsula?
-- ¿Cuánto pueden durar raciones, filtros, prefiltros, paños y reactivos si no aparecen fuentes locales seguras?
+- ¿Cuánto depende la autonomía eléctrica de la luz disponible, del estado del convertidor y de las decisiones de carga?
+- ¿Se mantendrá estable la reparación del módulo térmico o volverá a degradarse su contacto?
+- ¿Cuánto pueden durar raciones, filtros, prefiltros, paños, reactivos y componentes de mantenimiento si no aparecen fuentes locales seguras?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética.
+- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética. En el Capítulo XVIII se convierte además en un problema explícito de gestión eléctrica: baliza, recirculación, tratamiento y calor compiten por la misma reserva.
 - **Zona inmediata de la primera ruta:** raíz ancha a menos de seis metros de la cápsula; en el Capítulo XVI se utiliza como punto de exposición dérmica controlada por haber mostrado baja carga de filtro en mediciones previas.
 - **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
@@ -417,6 +438,9 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Herramienta multipropósito ligeramente marcada pero utilizable.
 - Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
 - Marca física añadida al alojamiento de filtros para visualizar los cartuchos restantes.
+- Módulo térmico de comida reparado en el Capítulo XVIII mediante limpieza del contacto, recuperación de presión mecánica y una lámina conductora del kit de mantenimiento; queda operativo pero de uso no esencial.
+- Registro eléctrico de tres caídas breves de potencia de baliza coincidentes con arranques defectuosos del módulo térmico.
+- Regla de prioridad eléctrica que bloquea arranque de cargas no esenciales durante ventanas automáticas de transmisión.
 
 ## CONSECUENCIAS PERSISTENTES
 
@@ -441,10 +465,14 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
 - En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
 - El protagonista modifica físicamente el refugio para separar entrada y zona limpia; esa conducta introduce nuevos costes pequeños de paños, agua de limpieza y prefiltros.
-- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; el seguimiento del Capítulo XVII tampoco muestra cambios visibles cerca de veinticuatro horas después.
+- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; el seguimiento de los capítulos XVII y XVIII tampoco muestra cambios visibles durante más de treinta horas.
 - El protocolo de guantes, casco, limpieza y recirculación **no se relaja** después de la exposición dérmica.
 - **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales ni por la tolerancia dérmica inmediata.**
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado y disciplina de entrada— todavía por necesidad, sin declarar pertenencia.
+- En el Capítulo XVIII el calor deja de ser solo comodidad: comida, tratamiento térmico de agua, control ambiental y comunicaciones compiten mediante la misma infraestructura eléctrica.
+- El módulo térmico queda reparado pero normalmente apagado; el protagonista acepta comida fría para conservar margen eléctrico y térmico del convertidor.
+- La baliza recibe prioridad explícita frente a cargas no esenciales durante sus transmisiones; la falta de respuesta persiste incluso después de eliminar esa competencia interna.
+- La autonomía eléctrica depende parcialmente de la luz que alcanza las superficies exteriores y del estado de los componentes, por lo que el clima afecta también al tiempo operativo del refugio.
+- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado, disciplina de entrada y selección de cargas eléctricas— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
@@ -459,4 +487,6 @@ Existen como dirección, no como conocimiento del protagonista.
 - La contaminación de retorno debe permanecer material y ambigua: suciedad, partículas y procedimientos, no una trama de infección prematura sin evidencia.
 - La exposición dérmica del Capítulo XVI es un escalón de conocimiento, no una prueba de seguridad general. Mantener seguimiento temporal y no usar la ausencia de reacción aguda para justificar exposición extensa, ingestión o respiración directa.
 - El regreso del Capítulo XVII a la estructura debe conservar una explicación abierta: la relación película/tono es un hecho parcial, no evidencia de lenguaje, máquina consciente ni respuesta dirigida al protagonista.
+- La energía de la cápsula debe comportarse como un sistema físico con generación variable, cargas competidoras y componentes degradables, no como una barra abstracta ni una cuenta atrás arbitraria inventada para crear tensión.
+- Las breves caídas anteriores de potencia de la baliza no deben convertirse retroactivamente en explicación conveniente de la ausencia de Aster; solo prueban que la infraestructura humana también puede fallar.
 - Antes de retirar el casco en exterior debe existir evidencia respiratoria adicional que no dependa solo de composición gaseosa o de tolerancia de la piel.
