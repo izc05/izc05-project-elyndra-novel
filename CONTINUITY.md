@@ -24,8 +24,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XVII: `manuscript/17-el-tono-que-faltaba.md` — **El tono que faltaba**.
 - Capítulo XVIII: `manuscript/18-lo-que-dejas-encendido.md` — **Lo que dejas encendido**.
 - Capítulo XIX: `manuscript/19-la-franja-que-vuelve.md` — **La franja que vuelve**.
+- Capítulo XX: `manuscript/20-antes-de-la-llamada.md` — **Antes de la llamada**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente, convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza y vuelto a la zona de placas cobrizas para comprobar que parte de la película oscura retirada en el Capítulo XIII vuelve a ocupar superficie entre registros sin que su mecanismo esté determinado. La atmósfera sigue sin declararse segura, no se ha respirado aire exterior sin filtrado y no se ha ingerido materia de Elyndran.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente, convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza, vuelto a la zona de placas cobrizas para comprobar que parte de la película oscura retirada en el Capítulo XIII vuelve a ocupar superficie entre registros sin que su mecanismo esté determinado y detectado, durante una jornada de reposo en la cápsula, una recepción anómala en banda de emergencia aproximadamente 37 segundos antes de una transmisión automática de la propia baliza. Esa recepción no se reproduce en los dos ciclos posteriores y su fuente sigue sin determinarse. La atmósfera sigue sin declararse segura, no se ha respirado aire exterior sin filtrado y no se ha ingerido materia de Elyndran.
 
 ## HECHOS
 
@@ -47,6 +48,16 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Tras reparar el módulo, el protagonista configura la cápsula para impedir que cargas no esenciales arranquen durante las ventanas automáticas de transmisión de la baliza.
 - Una transmisión posterior mantiene potencia estable bajo esa nueva prioridad y sigue sin recibir respuesta.
 - En el Capítulo XIX una transmisión automática ocurrida durante la salida a la ruta ascendente mantiene también potencia estable y sigue sin respuesta.
+- En el Capítulo XX el receptor de emergencia conserva una elevación breve de señal formada por tres fragmentos aproximadamente 37 segundos antes de una transmisión automática de la baliza.
+- El transmisor no figura activo durante esa recepción anómala y el registro de corriente no muestra el escalón de potencia propio de una emisión.
+- El autodiagnóstico normal de la baliza comienza doce segundos antes de transmitir, no treinta y siete.
+- Los relojes del receptor, sistema ambiental y controlador de batería coinciden dentro del margen normal de la cápsula; esto reduce, pero no elimina, la posibilidad de un error de tiempo compartido.
+- El primer fragmento de la recepción anómala presenta una subida escalonada y una interrupción breve parecidas al encabezado de la baliza posterior, pero las formas de onda completas **no son iguales**.
+- Dos transmisiones automáticas posteriores son observadas y registradas sin que aparezca una recepción equivalente aproximadamente 37 segundos antes.
+- Registro: `RECEPCIÓN ANÓMALA EN BANDA DE EMERGENCIA ANTES DE TRANSMISIÓN AUTOMÁTICA.`
+- Registro: `INTERVALO APROXIMADO: 37 s.`
+- Registro: `FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.`
+- **No está demostrado que la recepción del Capítulo XX proceda de Aster, de la propia baliza, de una fuente exterior ni de un fenómeno temporal.**
 - **No está demostrado que Aster haya desaparecido, caído o abandonado la órbita.**
 - **No puede saberse si alguien intentó escuchar durante las tres breves caídas de potencia anteriores.**
 
@@ -61,7 +72,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 ### Atmósfera exterior, filtrado, piel y retorno a la cápsula
 
-- Hasta el Capítulo XIX el protagonista mantiene casco y filtrado siempre que permanece en exterior.
+- Hasta el Capítulo XX el protagonista mantiene casco y filtrado siempre que permanece en exterior.
 - El sistema respiratorio del traje filtra aire ambiental para el casco; brazos y torso no dependen de una atmósfera presurizada independiente, por lo que una exposición localizada de piel puede realizarse sin abrir el circuito respiratorio.
 - Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
 - El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
@@ -87,6 +98,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La zona se limpia con agua terrestre, se fotografía y se compara con una zona equivalente no expuesta de la mano derecha mediante apósitos y seguimiento.
 - Al inicio y al final del Capítulo XVII, cerca de veinticuatro horas después de la exposición, la mano izquierda continúa sin cambios visibles, térmicos o motores respecto a la derecha.
 - En el Capítulo XVIII, pasadas más de treinta horas desde la exposición, la mano izquierda sigue sin cambios visibles, térmicos o motores; no se realiza una segunda exposición.
+- En el Capítulo XX, durante una jornada sin salida exterior, una comprobación informal de la mano izquierda sigue sin mostrar diferencia visible o térmica respecto a la derecha; no se amplía el protocolo ni se realiza nueva fotografía.
 - Registro: `EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.`
 - Registro: `SEGUIMIENTO NECESARIO.`
 - **La ausencia de reacción aguda y de cambios visibles durante más de treinta horas no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
@@ -113,6 +125,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XVII vuelve a recorrer la primera ruta completa hasta la bifurcación y toma la rama horizontal para revisar la estructura de tres brazos.
 - En el Capítulo XVIII la única salida exterior se limita al colector junto a la cápsula; no se abre nueva ruta.
 - En el Capítulo XIX vuelve por la ruta conocida hasta la rama ascendente y la zona de placas cobrizas; no abre camino nuevo ni avanza más allá de territorio ya recorrido.
+- En el Capítulo XX no realiza ninguna salida exterior; la jornada se desarrolla dentro de la cápsula para descargar la rodilla y observar el sistema de comunicaciones.
 
 ### Marcas, golpes y sombra
 
@@ -244,6 +257,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La comparación fotográfica alineada por geometría confirma en tres segmentos que la película oscura vuelve a ocupar parte de la franja previamente despejada; en otros segmentos la diferencia puede deberse a ángulo o humedad y no se cuenta como cambio confirmado.
 - Registro: `FRANJA OBSERVADA TRAS RETIRADA DE MATERIAL: COBERTURA OSCURA PARCIALMENTE RESTABLECIDA ENTRE REGISTROS.`
 - Registro: `MECANISMO NO DETERMINADO.`
+- En el Capítulo XX no se investiga ni ingiere materia local; el protagonista consume una ración fraccionada fría durante una jornada de reposo en la cápsula.
 - **No está demostrado que la película crezca, sea redepositada, se desplace desde zonas contiguas ni que su reposición sea regular o suficientemente rápida para considerarla un recurso renovable.**
 
 ### Terraza alta y observación del cielo
@@ -282,6 +296,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El calor de comida pasa a tratarse como prescindible frente a cargas de supervivencia, tratamiento y comunicación; el módulo queda operativo pero normalmente apagado.
 - En el Capítulo XIX se evita un nuevo análisis destructivo de la película: no se consumen reactivos ni recipientes de muestra; sí se consume capacidad de filtro, batería del traje, agua/paños de retorno y energía de recirculación por la salida a la bóveda.
 - El protagonista crea una referencia visual reutilizable con tres puntos de comparación de la franja para futuras visitas sin depender de nuevas muestras.
+- En el Capítulo XX se mantiene el receptor de emergencia en registro pasivo ampliado para conservar los minutos alrededor de las transmisiones automáticas; este seguimiento consume energía baja pero no nula y no modifica el contenido ni la potencia de la baliza.
+- La baliza mantiene potencia estable en los ciclos observados del Capítulo XX y continúa sin respuesta confirmada.
 
 ### Estado físico
 
@@ -294,6 +310,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XVI la rodilla protesta al incorporarse tras trabajo agachado, pero vuelve a aceptar carga sin deterioro nuevo demostrado.
 - En el Capítulo XVII la rodilla se endurece durante la permanencia junto a la estructura y motiva el regreso, sin lesión nueva demostrada.
 - En el Capítulo XIX la rodilla vuelve a endurecerse durante la observación prolongada en la zona de placas; no se describe lesión nueva.
+- Al inicio del Capítulo XX la rodilla tarda en extenderse y motiva una jornada sin salida exterior; mejora durante el día hasta permitir caminar por la cápsula sin arrastrar el pie, sin lesión aguda nueva demostrada.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
@@ -303,12 +320,15 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Cerca de veinticuatro horas después, en el Capítulo XVII, la mano izquierda continúa sin cambios visibles, térmicos o motores frente a la derecha.
 - Más de treinta horas después, en el Capítulo XVIII, sigue sin observarse diferencia visible, térmica o motora; no se repite la exposición.
 - El Capítulo XIX no realiza una nueva prueba dérmica ni amplía la exposición.
+- El Capítulo XX vuelve a comparar de forma informal color y temperatura de ambas manos sin hallar diferencia observable; no convierte esa observación en nueva prueba de seguridad.
 - **No se conoce todavía si habrá respuesta tardía más allá de ese periodo o acumulativa ante exposiciones futuras.**
 - **No ha respirado deliberadamente aire exterior sin filtrado.**
 
 ## HIPÓTESIS ACTIVAS
 
 - El intervalo de 37 segundos puede ser fallo o fenómeno desconocido.
+- La recepción anómala del Capítulo XX puede ser interferencia interna, acoplamiento electromagnético, ruido que imita parte del protocolo, error de reloj compartido, una señal externa o un fenómeno desconocido; ninguna opción está demostrada.
+- La coincidencia aproximada de 37 segundos entre la anomalía de entrada y la recepción previa a la baliza puede ser significativa o accidental; **no está demostrado que ambos eventos tengan la misma causa**.
 - Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o encontrarse fuera de la ventana calculada; ninguna opción está demostrada.
 - Las breves caídas de potencia de la baliza pudieron o no afectar una escucha externa; no hay evidencia de que Aster u otro receptor estuviera disponible durante esos instantes.
 - Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
@@ -344,6 +364,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 ## PREGUNTAS ABIERTAS
 
 - ¿Qué significa el intervalo de 37 segundos y por qué desaparece del registro ordinario?
+- ¿Qué produjo la recepción anómala del Capítulo XX y por qué apareció aproximadamente 37 segundos antes de la transmisión?
+- ¿La recepción del Capítulo XX guarda relación real con la anomalía de entrada o solo comparte un intervalo parecido?
+- ¿Por qué no se reprodujo en los dos ciclos posteriores?
 - ¿Qué provocó la divergencia de navegación y la separación de Aster?
 - ¿Dónde está Aster y por qué no se confirmó su paso orbital?
 - ¿Existe una forma de abandonar Elyndran?
@@ -388,7 +411,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética. En el Capítulo XVIII se convierte además en un problema explícito de gestión eléctrica: baliza, recirculación, tratamiento y calor compiten por la misma reserva.
+- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética. En el Capítulo XVIII se convierte además en un problema explícito de gestión eléctrica: baliza, recirculación, tratamiento y calor compiten por la misma reserva. En el Capítulo XX funciona como espacio completo de una jornada de reposo y observación de comunicaciones; allí se detecta y contrasta la recepción anómala previa a una baliza.
 - **Zona inmediata de la primera ruta:** raíz ancha a menos de seis metros de la cápsula; en el Capítulo XVI se utiliza como punto de exposición dérmica controlada por haber mostrado baja carga de filtro en mediciones previas.
 - **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
@@ -440,6 +463,8 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 
 - Cápsula de descenso y baliza activa.
 - Captura dañada de `37`.
+- Búfer de receptor conservado en el Capítulo XX con una recepción breve aproximadamente 37 segundos antes de una transmisión automática, más dos ciclos posteriores sin repetición equivalente.
+- Registro del Capítulo XX: `RECEPCIÓN ANÓMALA EN BANDA DE EMERGENCIA ANTES DE TRANSMISIÓN AUTOMÁTICA / INTERVALO APROXIMADO: 37 s / FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.`
 - Mochila con cremallera dañada.
 - Sistema improvisado de aseguramiento.
 - Desvío exterior de lluvia y colector experimental.
@@ -470,7 +495,7 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Cápsula inmovilizada, baliza activa y enlace con Aster perdido.
 - El intento orbital no confirma el paso de Aster y mantiene su destino abierto.
 - La cápsula exige mantenimiento y la zona de caída ya ha sido modificada con reparaciones y recogida de lluvia.
-- La rodilla condiciona movilidad, aunque sigue aceptando carga.
+- La rodilla condiciona movilidad, aunque sigue aceptando carga y en el Capítulo XX fuerza una jornada de reposo interior.
 - Las membranas forman parte del conocimiento corporal del protagonista.
 - Las tres ramas principales contienen rutas, preguntas y costes concretos.
 - La primera ruta ya no es solo tránsito: una comparación temporal confirma cambios físicos entre registros sin mecanismo observado.
@@ -490,13 +515,15 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
 - En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
 - El protagonista modifica físicamente el refugio para separar entrada y zona limpia; esa conducta introduce nuevos costes pequeños de paños, agua de limpieza y prefiltros.
-- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; el seguimiento de los capítulos XVII y XVIII tampoco muestra cambios visibles durante más de treinta horas.
+- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; el seguimiento de los capítulos XVII, XVIII y XX tampoco muestra cambios observables suficientes para declarar seguridad.
 - El protocolo de guantes, casco, limpieza y recirculación **no se relaja** después de la exposición dérmica.
 - **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales ni por la tolerancia dérmica inmediata.**
 - En el Capítulo XVIII el calor deja de ser solo comodidad: comida, tratamiento térmico de agua, control ambiental y comunicaciones compiten mediante la misma infraestructura eléctrica.
 - El módulo térmico queda reparado pero normalmente apagado; el protagonista acepta comida fría para conservar margen eléctrico y térmico del convertidor.
 - La baliza recibe prioridad explícita frente a cargas no esenciales durante sus transmisiones; la falta de respuesta persiste incluso después de eliminar esa competencia interna.
 - La autonomía eléctrica depende parcialmente de la luz que alcanza las superficies exteriores y del estado de los componentes, por lo que el clima afecta también al tiempo operativo del refugio.
+- En el Capítulo XX el motivo de los 37 segundos reaparece en un subsistema distinto: una recepción breve antecede aproximadamente en ese intervalo a una transmisión automática. El fenómeno no se reproduce en dos ciclos posteriores y por tanto añade una contradicción, no una explicación.
+- El protagonista conserva el receptor registrando de forma pasiva, pero no altera la baliza ni convierte el hallazgo en una persecución de señales.
 - El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado, disciplina de entrada, selección de cargas eléctricas y revisitas comparativas— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
@@ -504,6 +531,8 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 Existen como dirección, no como conocimiento del protagonista.
 
 - El intervalo de 37 segundos debe seguir siendo una herida abierta, no una clave para cada rareza.
+- La recepción del Capítulo XX puede reforzar esa herida, pero **no debe convertirse todavía en prueba de viaje temporal, predicción, eco del futuro, mensaje de Aster ni inteligencia de Elyndran**.
+- La similitud parcial entre la recepción y el encabezado posterior de la baliza debe conservar alternativas técnicas y perceptivas; la falta de repetición en dos ciclos es narrativamente importante.
 - Los fenómenos aparentemente anticipatorios deben sostener alternativas físicas, biológicas y perceptivas.
 - La posible memoria, respuesta o aprendizaje del mundo debe surgir de retornos y consecuencias, no de una declaración temprana.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
