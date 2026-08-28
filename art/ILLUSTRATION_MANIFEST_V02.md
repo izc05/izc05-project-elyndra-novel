@@ -13,7 +13,8 @@ Este archivo fija la dirección visual de la **Edición de lectura v0.2** y las 
 - La progresión visual debe respetar el conocimiento: primero forma/huella/comportamiento; después detalle cuando el manuscrito lo justifica.
 - El interior de la cápsula debe sentirse pequeño y usado, no como laboratorio estéril: superficies reparadas, equipo real, condensación y suciedad controlada. La limpieza es una conducta, no una estética clínica perfecta.
 - La primera exposición de piel desnuda del Capítulo XVI debe mostrarse como un acto pequeño, controlado y reversible. No debe confundirse visualmente con la retirada del casco ni con una declaración de atmósfera segura.
-- Incluso después del Capítulo XVI, ninguna imagen puede mostrar respiración directa de aire exterior, casco abierto en exterior o una actitud de alivio triunfal respecto a la atmósfera.
+- Incluso después del Capítulo XVII, ninguna imagen puede mostrar respiración directa de aire exterior, casco abierto en exterior o una actitud de alivio triunfal respecto a la atmósfera.
+- Los regresos deben permitir continuidad visual real: una estructura revisitada conserva forma, escala, inserción en la raíz y entorno reconocible aunque cambie su estado físico.
 
 ## Cobertura v0.2 y siguiente edición
 
@@ -36,6 +37,7 @@ Este archivo fija la dirección visual de la **Edición de lectura v0.2** y las 
 | XIV — El aire que gastas | Protagonista en la bóveda con linterna lateral revelando partículas suspendidas mientras consulta carga del filtro | **pendiente de generar** | medio: casco cerrado; no sugerir aire seguro ni mostrar rostro descubierto |
 | XV — Lo que entra contigo | Interior estrecho de la cápsula: rejilla ambiental abierta, prefiltro sobre bandeja, equipo usado y línea de cinta entre entrada y zona limpia | **pendiente de generar** | bajo: no mostrar infección, organismo creciendo dentro ni cabina esterilizada |
 | XVI — La mano izquierda | Junto a la cápsula, protagonista sentado sobre la raíz con casco cerrado y solo dorso/muñeca de la mano izquierda expuestos durante la prueba controlada | **pendiente de generar** | alto: no mostrar casco abierto, cuerpo descubierto, contacto con flora ni atmósfera declarada segura |
+| XVII — El tono que faltaba | Regreso a la estructura de tres brazos: protagonista sellado observando la cavidad superior con película transparente parcial, niebla y corteza húmeda | **pendiente de generar** | medio: no convertir la estructura en máquina identificada ni enseñar la plataforma completa |
 
 ## Imágenes que deben rechazarse o reemplazarse
 
@@ -57,7 +59,11 @@ Rechazar cualquier versión que:
 14. convierta la línea de cinta del Capítulo XV en una barrera hermética o una esclusa tecnológica. Es solo una frontera de conducta dentro de un refugio demasiado pequeño;
 15. enseñe en XVI la mano tocando directamente raíces, membranas, película, lluvia o fauna. La exposición canónica es solo al aire exterior en una zona seca y próxima a la cápsula;
 16. muestre en XVI más piel de la necesaria. La escena debe limitarse al dorso de la mano y muñeca izquierdas, con el resto del equipo puesto y el casco cerrado;
-17. interprete ausencia de reacción visible como bienestar, adaptación biológica o inmunidad.
+17. interprete ausencia de reacción visible como bienestar, adaptación biológica o inmunidad;
+18. muestre en XVII conductos, circuitos, interfaces, luces activas o símbolos legibles que el texto no ha descubierto;
+19. represente la película transparente de XVII como energía, plasma o sustancia luminosa sobrenatural: debe parecer material líquido o gel transparente físicamente contenido en una cavidad;
+20. cambie la geometría de la estructura de tres brazos respecto a IV. XVII es un regreso al mismo objeto, no un rediseño visual;
+21. abra la niebla de XVII lo suficiente para resolver la silueta completa de la plataforma. Como máximo puede insinuarse de fondo una parte de las formas verticales ya conocidas.
 
 ## Dirección específica para Capítulo XIV
 
@@ -79,6 +85,16 @@ El entorno debe ser seco respecto a escenas de lluvia, con niebla baja y membran
 
 Evitar expresiones de éxtasis, alivio o comunión. El protagonista observa la piel como observaría una junta o una lectura: con atención y posibilidad de abortar. La tensión viene de la pequeñez del gesto y de lo irreversible que sería una conclusión equivocada.
 
+## Dirección específica para Capítulo XVII
+
+**El tono que faltaba** debe funcionar visualmente como un verdadero regreso a la escena del Capítulo IV. La estructura debe conservar exactamente tres brazos curvos, material oscuro gris-verdoso, bandas finas, corteza creciendo alrededor de la base y una escala de aproximadamente dos metros y medio. El cambio no está en una nueva arquitectura, sino en el estado de una cavidad.
+
+La escena preferente muestra al protagonista completamente sellado, pequeño a un lado del encuadre, observando con cámara o linterna el brazo superior cuya película transparente vuelve a cubrir parcialmente el fondo. El brazo inferior puede insinuar una cavidad más llena, pero no hace falta representar simultáneamente todos los datos del capítulo. La raíz está húmeda por la lluvia previa y la niebla debe ocultar la mayor parte del fondo.
+
+La película debe ser difícil de ver, dependiente del ángulo de luz, casi como agua o gel transparente. No debe brillar, emitir rayos ni parecer combustible. El tono no puede “dibujarse” con ondas estilizadas. La imagen debe capturar observación física, no explicar sonido mediante gráficos.
+
+Si la plataforma aparece al fondo, debe ser apenas una interrupción parcial y borrosa entre niebla: una o dos formas verticales conocidas, nunca una vista general. Las hendiduras de la base pueden quedar fuera de cuadro; no convertirlas en escritura luminosa, runas ni panel de control.
+
 ## Control de coherencia vigente
 
 - El Capítulo XI debe mantener el cielo sin Aster visible: la ausencia es parte de la escena.
@@ -86,6 +102,8 @@ Evitar expresiones de éxtasis, alivio o comunión. El protagonista observa la p
 - El Capítulo XIV no puede mostrar casco abierto, respiración directa ni piel expuesta.
 - El Capítulo XV no puede confirmar origen exterior del particulado interior ni mostrar infección.
 - El Capítulo XVI puede mostrar la primera piel desnuda al exterior, pero únicamente mano/muñeca izquierdas durante una exposición breve; casco cerrado y respiración filtrada siguen siendo obligatorios.
+- El Capítulo XVII vuelve a traje totalmente cerrado y no debe sugerir que el seguimiento dérmico haya autorizado una exposición mayor.
+- La estructura de tres brazos de XVII debe ser reconociblemente la misma que en IV; la variación canónica es el nivel de película y el estado sonoro, no su geometría.
 - La plataforma del Capítulo X debe seguir siendo parcial: cara inferior, nervaduras, capas y raíces; nunca una silueta completa que resuelva su naturaleza.
 - Las criaturas deben conservar escala pequeña y función ecológica observada, no aspecto de amenaza diseñada para combate.
 
@@ -93,13 +111,17 @@ Evitar expresiones de éxtasis, alivio o comunión. El protagonista observa la p
 
 El repositorio conserva principalmente **notas y manifiesto textual**, no una biblioteca completa de las imágenes raster de la edición. Por tanto, en esta pasada puede auditarse con certeza el contrato de cada escena y la continuidad visual descrita, pero no debe afirmarse una inspección pixel a pixel de imágenes que no estén presentes en el repositorio.
 
-La escena del Capítulo X permanece bajo revisión prioritaria porque cualquier representación demasiado completa de la plataforma rompería el misterio aunque la composición fuese visualmente atractiva. XIV, XV y XVI son ahora las tres ilustraciones nuevas prioritarias antes de una nueva edición.
+La escena del Capítulo X permanece bajo revisión prioritaria porque cualquier representación demasiado completa de la plataforma rompería el misterio aunque la composición fuese visualmente atractiva. XIV, XV y XVI siguen siendo los reemplazos/nuevas ilustraciones imprescindibles para abandonar v0.2. XVII se añade como cuarta escena nueva, pero no debe retrasar la reconstrucción si las tres anteriores alcanzan estándar editorial antes: puede incorporarse en la misma edición solo si su imagen también es fotorealista y coherente.
+
+La prioridad visual continúa siendo **calidad sobre cobertura**. Una imagen antigua mediocre debe reemplazarse antes que añadir una nueva escena inferior al estándar vigente.
 
 ## Edición de lectura v0.2
 
-La edición v0.2 publicada sigue siendo el checkpoint visual **Prólogo + XIII**. El manuscrito maestro contiene ya los Capítulos XIV, XV y XVI, por lo que el PDF queda **tres capítulos por detrás**. La reconstrucción de una nueva edición ya es necesaria como próximo checkpoint editorial.
+La edición v0.2 publicada sigue siendo el checkpoint visual **Prólogo + XIII**. El manuscrito maestro contiene ya los Capítulos XIV, XV, XVI y XVII, por lo que el PDF queda **cuatro capítulos por detrás**. La reconstrucción de una nueva edición ya no debe aplazarse mucho más.
 
-No debe generarse una v0.3 apresurada con imágenes provisionales de baja calidad. El requisito para reconstruirla es incorporar como mínimo las ilustraciones fotorealistas aprobadas de XIV, XV y XVI y sustituir cualquier imagen anterior que una revisión detecte por debajo del estándar vigente. Una vez existan esas tres escenas, la siguiente edición debe partir del manuscrito real hasta XVI, revisar visualmente todas las páginas y no reutilizar ciegamente el PDF anterior.
+No debe generarse una v0.3 apresurada con imágenes provisionales de baja calidad. El requisito mínimo para reconstruirla sigue siendo incorporar las ilustraciones fotorealistas aprobadas de XIV, XV y XVI y sustituir cualquier imagen anterior que una revisión detecte por debajo del estándar vigente. Dado que XVII ya existe, la edición nueva debe intentar incluirlo también si su ilustración alcanza el mismo estándar en la misma pasada; si no, es preferible un checkpoint sólido hasta XVI antes que degradar el conjunto con una imagen provisional.
+
+Una vez se reconstruya, debe partir del manuscrito real, revisar visualmente todas las páginas y no reutilizar ciegamente el PDF anterior.
 
 La edición debe conservar apertura visual uniforme por sección: imagen a página completa, franja editorial discreta con número/título compuesto fuera de la imagen, seguida por páginas de lectura limpias. El formato objetivo actual es **6 × 9 pulgadas**, con márgenes de novela y una ilustración narrativa principal por capítulo.
 
