@@ -310,8 +310,6 @@ La niebla la dejó aparecer por partes: primero el costado, luego la antena baja
 
 El alivio fue físico.
 
-No una idea.
-
 Aflojaste los hombros.
 
 ---
@@ -354,14 +352,12 @@ Potencia estable.
 
 Sin respuesta.
 
-El receptor no mostraba ninguna elevación anómala en el resumen automático.
+El resumen automático del receptor no marcaba ninguna elevación anómala. Dejaste el búfer cerrado.
 
-No abriste el búfer completo.
+Te quitaste primero el guante derecho y después el izquierdo. Al flexionar la rodilla para guardarlos bajo el banco, volvió con una precisión desagradable el instante del canal: la bota descendiendo hacia un apoyo que ya no estaba a la altura que tu cuerpo recordaba.
 
-Por primera vez desde el día anterior, no necesitabas saber qué había ocurrido treinta y siete segundos antes de una llamada.
+Miraste el mapa apagado.
 
-Necesitabas recordar que un camino conocido podía dejar de ser el mismo camino sin que eso significara que estuviera esperándote.
+La próxima vez no bastaría con recordar el camino.
 
-Apagaste el mapa.
-
-La próxima vez, mirarías el apoyo antes de pisarlo.
+Tendrías que comprobarlo antes de apoyar el pie.
