@@ -336,20 +336,14 @@ Escribiste:
 
 Debajo añadiste la hora de las dos imágenes.
 
-Nada más.
-
 La baliza lanzó una llamada automática.
 
 Sin respuesta.
 
-No cerraste el registro de las marcas.
+Dejaste abiertos los dos registros mientras calentabas la comida.
 
-Lo dejaste abierto junto al de la órbita.
+Cuando volviste a la pantalla, el vapor del recipiente había empañado la esquina inferior.
 
-Dos ventanas en la misma pantalla.
+La limpiaste con la manga.
 
-Una mostraba algo que habías esperado ver y no apareció.
-
-La otra, algo que no estabas buscando y ahora estaba allí.
-
-Apagaste la pantalla antes de empezar a calentarte la comida.
+Después apagaste la pantalla.
