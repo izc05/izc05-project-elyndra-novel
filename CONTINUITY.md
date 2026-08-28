@@ -16,8 +16,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo IX: `manuscript/09-antes-de-tocar-la-raiz.md` — **Antes de tocar la raíz**.
 - Capítulo X: `manuscript/10-una-hora-mas.md` — **Una hora más**.
 - Capítulo XI: `manuscript/11-la-orbita-vacia.md` — **La órbita vacía**.
+- Capítulo XII: `manuscript/12-el-mismo-camino.md` — **El mismo camino**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia y realizado desde la terraza alta un intento específico de confirmar un paso orbital de Aster. Sigue sin contacto, sin otra persona confirmada y sin una vía de salida.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster y regresado al primer camino para comparar unas marcas antiguas con registros previos. Sigue sin contacto, sin otra persona confirmada y sin una vía de salida.
 
 ## HECHOS
 
@@ -53,17 +54,25 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Se tensan aproximadamente un segundo antes de una ráfaga.
 - El protagonista ya utiliza esa reacción corporalmente para ajustar postura y paso.
 - Durante tormentas pueden permanecer tensas antes de cambios bruscos de presión y dirección del aire.
+- Tras la tormenta del Capítulo XI varios grupos de membranas de la primera ruta aparecen parcialmente arrancados, aunque los restos conservados siguen anticipando ráfagas.
 
 ### Ruta principal y bifurcación
 
 - La ruta cápsula ↔ bifurcación es reproducible de memoria.
 - Hay tres ramas: descendente, horizontal y ascendente; las tres han sido exploradas parcialmente.
 - El marcador reflectante colocado al principio desapareció durante una tormenta; permanece la zona raspada.
+- En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar las marcas antiguas después de la lluvia y regresa sin alcanzar la bifurcación.
 
 ### Marcas, golpes y sombra
 
 - Existen tres depresiones ovaladas grandes con bordes pulidos y arañazos paralelos.
 - Una perdió agua entre ida y regreso y apareció una marca húmeda nueva.
+- Tras la tormenta del Capítulo XI aparecen tres arañazos paralelos nuevos que parten del borde de la segunda depresión; la fotografía de la primera visita confirma que no estaban allí entonces.
+- A unos nueve metros de las tres depresiones, el Capítulo XII registra una depresión pequeña y poco profunda, con película gris alrededor y orientación general parecida a las grandes.
+- Una grabación anterior del mismo tramo muestra la superficie sin esa depresión pequeña.
+- La nueva depresión no recupera la forma al presionar la película gris adyacente.
+- El registro queda como `DEPRESIÓN NUEVA ENTRE REGISTROS. MECANISMO NO OBSERVADO.`
+- **No está demostrado que las depresiones grandes, los nuevos arañazos y la depresión pequeña procedan del mismo mecanismo.**
 - Se han oído golpes secos procedentes de niveles inferiores.
 - La primera noche se registró un oscurecimiento móvil entre raíces inferiores; no permite confirmar organismo.
 
@@ -99,7 +108,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Dos bolsas de ración se reutilizaron como almacenamiento pequeño.
 - Una bolsa perdió su contenido durante el resbalón del Capítulo X y quedó dañada por una esquina.
 - Al inicio del Capítulo XI la bolsa reparada soportó una prueba parcial con agua terrestre sin fuga visible y después fue vaciada.
-- Al final del Capítulo XI vuelve a llover y el colector empieza a llenarse.
+- Al final del Capítulo XI vuelve a llover, el colector se llena lo suficiente para exigir un cambio de recipiente y la reparación de la bolsa continúa seca.
+- Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector antes de explorar.
 
 ### Error de perspectiva confirmado
 
@@ -177,6 +187,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
 - El resbalón del Capítulo X la obligó a flexionarse más de lo deseado, sin patrón de dolor nuevo y manteniendo carga.
 - En el Capítulo XI ponerse de pie deprisa provoca una protesta de la rodilla, pero acepta el peso durante el regreso.
+- En el Capítulo XII la rodilla sigue rígida y agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
@@ -190,6 +201,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
 - Los filamentos blancos pueden responder a luz y también a alguna variable meteorológica todavía no identificada.
 - Las depresiones grandes pueden ser erosión, deformación o tránsito repetido; no llamarlas huellas.
+- Los nuevos arañazos y la depresión pequeña del Capítulo XII pueden deberse a tormenta, flexión de la raíz, tránsito, impacto u otro mecanismo; no vincularlos todavía entre sí ni con las depresiones grandes.
 - Los golpes profundos pueden ser estructurales, geológicos o biológicos.
 - La sombra nocturna puede ser niebla, sombra estructural u organismo.
 - Los animales acuáticos pueden alimentarse de la película verdosa.
@@ -216,6 +228,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
 - ¿Qué produjo las depresiones pulidas?
+- ¿Qué produjo los tres arañazos nuevos y la depresión pequeña registrada en el Capítulo XII?
+- ¿Aparecieron por la tormenta, por tránsito o por otro proceso?
 - ¿Qué genera los golpes profundos?
 - ¿Qué fue la sombra de la primera noche?
 - ¿Qué son exactamente los discos y la línea del disco vacío?
@@ -239,7 +253,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
 - **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental.
-- **Primera ruta:** conecta cápsula con bifurcación.
+- **Primera ruta:** conecta cápsula con bifurcación; revisitada en el Capítulo XII tras una tormenta.
+- **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
 - **Bifurcación principal:** tres ramas; marcador reflectante perdido.
 - **Ruta descendente:** conduce a raíz rota, raíz intermedia y raíz inferior de los discos; recorrida varias veces.
 - **Raíz inferior de los discos:** fauna y muestra de agua.
@@ -288,7 +303,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Desvío exterior de lluvia y colector experimental.
 - Dos bolsas reutilizadas para lluvia; una reparada tras el Capítulo X.
 - Grabaciones de sombra, tonos, fauna acuática, línea del disco y observación orbital del Capítulo XI.
-- Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto y trama inferior.
+- Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de las marcas de la primera ruta del Capítulo XII.
 - Muestra de agua de discos parcialmente consumida.
 - Analizador y material de tratamiento limitado.
 - Herramienta multipropósito ligeramente marcada pero utilizable.
@@ -301,6 +316,7 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - La rodilla condiciona movilidad, aunque sigue aceptando carga.
 - Las membranas forman parte del conocimiento corporal del protagonista.
 - Las tres ramas principales contienen rutas y preguntas concretas.
+- La primera ruta ya no es solo tránsito: una comparación temporal confirma cambios físicos entre registros sin mecanismo observado.
 - La plataforma sigue sin visitarse por arriba; ya existe una ruta reproducible hasta parte de su estructura inferior.
 - Fauna acuática y terrestre observadas sin captura.
 - El protagonista sustituye marcadores por memoria, geometría y referencias ambientales.
@@ -310,7 +326,6 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - El agua de discos y la lluvia directa siguen tratadas como fuentes distintas; solo la lluvia ha tenido exposición humana mínima.
 - La autonomía abierta por la lluvia es real pero frágil y dependiente del clima y del equipo.
 - El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno— todavía por necesidad, sin declarar pertenencia.
-- El contraste del Capítulo XI queda abierto: Aster no ofrece una respuesta utilizable; Elyndran sí ofrece recursos y referencias concretas. Esto es experiencia del protagonista, no prueba de intención del planeta.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
