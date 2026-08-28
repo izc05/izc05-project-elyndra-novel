@@ -17,8 +17,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo X: `manuscript/10-una-hora-mas.md` — **Una hora más**.
 - Capítulo XI: `manuscript/11-la-orbita-vacia.md` — **La órbita vacía**.
 - Capítulo XII: `manuscript/12-el-mismo-camino.md` — **El mismo camino**.
+- Capítulo XIII: `manuscript/13-la-mitad-de-una-racion.md` — **La mitad de una ración**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster y regresado al primer camino para comparar unas marcas antiguas con registros previos. Sigue sin contacto, sin otra persona confirmada y sin una vía de salida.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios y empezado a investigar el problema de la comida sin ingerir material de Elyndran.
 
 ## HECHOS
 
@@ -31,17 +32,17 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La cápsula se separó de Aster sin autorización consciente del protagonista.
 - Se perdió el enlace con Aster y con las balizas accesibles.
 - La baliza de la cápsula sigue transmitiendo sin respuesta.
-- En el Capítulo XI el protagonista calculó una ventana aproximada de paso de Aster usando datos orbitales anteriores al accidente y una posición de superficie deducida de la caída.
-- Desde la terraza alta escuchó y transmitió en canales de emergencia con el sistema del traje.
-- No se confirmó ninguna portadora compatible con Aster durante la ventana calculada ni en los minutos adicionales de observación.
-- Se observó una línea blanca de menos de dos segundos; el visor descartó una trayectoria orbital baja compatible con Aster y no hubo señal de radio asociada.
-- El registro queda como `PASO ORBITAL PREVISTO: NO CONFIRMADO`.
+- En el Capítulo XI se calculó una ventana aproximada de paso de Aster con datos previos al accidente.
+- Desde la terraza alta se escuchó y transmitió en canales de emergencia.
+- No se confirmó ninguna portadora compatible con Aster durante la ventana ni en los minutos adicionales.
+- Una línea blanca de menos de dos segundos fue observada, pero el visor descartó una trayectoria orbital baja compatible con Aster y no hubo radio asociada.
+- Registro: `PASO ORBITAL PREVISTO: NO CONFIRMADO`.
 - **No está demostrado que Aster haya desaparecido, caído o abandonado la órbita.**
 
 ### Entorno de raíces suspendidas
 
 - No se ha visto suelo planetario.
-- Existen raíces a múltiples alturas, bancos de niebla, vegetación, cascadas y cambios rápidos de visibilidad.
+- Existen raíces a múltiples alturas, niebla, vegetación, cascadas y cambios rápidos de visibilidad.
 - La primera capa inferior explorada es aproximadamente cuatro grados más cálida que la zona de la cápsula.
 - La atmósfera exterior no se considera segura sin filtrado.
 - La niebla puede producir errores de perspectiva demostrables.
@@ -54,24 +55,24 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Se tensan aproximadamente un segundo antes de una ráfaga.
 - El protagonista ya utiliza esa reacción corporalmente para ajustar postura y paso.
 - Durante tormentas pueden permanecer tensas antes de cambios bruscos de presión y dirección del aire.
-- Tras la tormenta del Capítulo XI varios grupos de membranas de la primera ruta aparecen parcialmente arrancados, aunque los restos conservados siguen anticipando ráfagas.
+- Tras la tormenta del Capítulo XI varios grupos de la primera ruta aparecen parcialmente arrancados; los restos conservados siguen anticipando ráfagas.
 
 ### Ruta principal y bifurcación
 
 - La ruta cápsula ↔ bifurcación es reproducible de memoria.
 - Hay tres ramas: descendente, horizontal y ascendente; las tres han sido exploradas parcialmente.
-- El marcador reflectante colocado al principio desapareció durante una tormenta; permanece la zona raspada.
-- En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar las marcas antiguas después de la lluvia y regresa sin alcanzar la bifurcación.
+- El marcador reflectante inicial desapareció durante una tormenta; permanece la zona raspada.
+- En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar marcas antiguas y regresa sin alcanzar la bifurcación.
 
 ### Marcas, golpes y sombra
 
 - Existen tres depresiones ovaladas grandes con bordes pulidos y arañazos paralelos.
 - Una perdió agua entre ida y regreso y apareció una marca húmeda nueva.
-- Tras la tormenta del Capítulo XI aparecen tres arañazos paralelos nuevos que parten del borde de la segunda depresión; la fotografía de la primera visita confirma que no estaban allí entonces.
+- Tras la tormenta del Capítulo XI aparecen tres arañazos paralelos nuevos que parten del borde de la segunda depresión; una fotografía antigua confirma que no estaban allí.
 - A unos nueve metros de las tres depresiones, el Capítulo XII registra una depresión pequeña y poco profunda, con película gris alrededor y orientación general parecida a las grandes.
 - Una grabación anterior del mismo tramo muestra la superficie sin esa depresión pequeña.
 - La nueva depresión no recupera la forma al presionar la película gris adyacente.
-- El registro queda como `DEPRESIÓN NUEVA ENTRE REGISTROS. MECANISMO NO OBSERVADO.`
+- Registro: `DEPRESIÓN NUEVA ENTRE REGISTROS. MECANISMO NO OBSERVADO.`
 - **No está demostrado que las depresiones grandes, los nuevos arañazos y la depresión pequeña procedan del mismo mecanismo.**
 - Se han oído golpes secos procedentes de niveles inferiores.
 - La primera noche se registró un oscurecimiento móvil entre raíces inferiores; no permite confirmar organismo.
@@ -83,17 +84,17 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Parte de las fibras está cubierta por una película húmeda y elástica.
 - En una raíz inferior existen discos cóncavos que acumulan agua.
 - Una raíz inferior cambió ligeramente de inclinación durante golpes profundos.
-- Un disco quedó vacío tras aquella inclinación y mostró una línea oscura de bordes suaves y anchura aproximada de dos centímetros.
-- En el Capítulo VIII esa línea cambió de oscuro a gris pálido durante unos fotogramas coincidiendo con dos golpes y después recuperó el tono.
+- Un disco quedó vacío tras aquella inclinación y mostró una línea oscura de bordes suaves.
+- En el Capítulo VIII esa línea cambió temporalmente de oscuro a gris pálido coincidiendo con dos golpes y después recuperó el tono.
 - Animales pequeños y planos viven en algunos discos: cuerpo gris azulado, movimiento por ondulación y puntos pálidos inferiores.
 - Reaccionan a cambios asociados al calentador del traje antes de que el protagonista perciba el cambio y se adhieren al fondo ante golpes profundos.
 - Dos individuos mostraron secuencias luminosas breves registradas a alta velocidad; no está demostrado que sean comunicación.
 
 ### Agua de los discos
 
-- Una muestra válida se tomó del centro de un disco con material estéril.
+- Se tomó una muestra válida con material estéril.
 - Es transparente e incolora a simple vista.
-- Contiene sales en márgenes potencialmente tratables por sistemas humanos y no mostró metales pesados humanos conocidos sobre un umbral inmediato.
+- Contiene sales en márgenes potencialmente tratables y no mostró metales pesados humanos conocidos sobre un umbral inmediato.
 - El analizador produjo `FRACCIÓN ORGÁNICA NO CLASIFICADA`.
 - Filtrado y calor reducen o degradan parte de esa fracción, pero no la eliminan completamente.
 - **No está declarada potable y el protagonista no la ha bebido.**
@@ -103,19 +104,13 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El protagonista construyó un colector que intenta captar lluvia antes de que toque raíz o casco sucio.
 - La lluvia directa mostró menos sales y una señal orgánica mucho menor que el agua de los discos.
 - Tras filtrado y tratamiento térmico: `RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.`
-- La exposición fue escalonada hasta diez mililitros adicionales después de más de seis horas sin reacción medible.
+- La exposición fue escalonada hasta una cantidad mínima sin reacción medible inmediata.
 - **La lluvia tratada no está declarada potable ni segura a largo plazo.**
 - Dos bolsas de ración se reutilizaron como almacenamiento pequeño.
-- Una bolsa perdió su contenido durante el resbalón del Capítulo X y quedó dañada por una esquina.
-- Al inicio del Capítulo XI la bolsa reparada soportó una prueba parcial con agua terrestre sin fuga visible y después fue vaciada.
-- Al final del Capítulo XI vuelve a llover, el colector se llena lo suficiente para exigir un cambio de recipiente y la reparación de la bolsa continúa seca.
-- Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector antes de explorar.
-
-### Error de perspectiva confirmado
-
-- La niebla hizo parecer una bifurcación donde una segunda raíz pasaba por debajo.
-- El protagonista lo comprobó desplazándose y comparando geometría.
-- Registro: `ERROR DE PERSPECTIVA POR NIEBLA`.
+- Una bolsa perdió su contenido durante el resbalón del Capítulo X y fue reparada después.
+- La reparación soportó una prueba parcial con agua terrestre sin fuga visible.
+- Al final del Capítulo XI vuelve a llover y el colector exige cambiar de recipiente para no rebosar.
+- Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector.
 
 ### Ruta horizontal y estructura de tres brazos
 
@@ -127,7 +122,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El viento por sí solo no explica el fenómeno.
 - En la base hay grupos de hendiduras: tres pequeñas + una grande; una grande + dos pequeñas.
 - No está demostrado que sean escritura o código.
-- Los tonos se han convertido también en referencia práctica de orientación.
+- Los tonos funcionan también como referencia práctica de orientación.
 
 ### Plataforma, borde roto y estructura inferior
 
@@ -160,12 +155,26 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Una criatura terrestre del tamaño aproximado de una palma tiene seis apoyos, cuerpo bajo y placas cobrizas dorsales.
 - Puede plegarse contra la corteza y no mostró reacción agresiva durante un contacto accidental.
 - En el Capítulo XI se observó una pequeña depresión con seis líneas finas junto a una placa caída; no se confirmó que fuera huella de esa especie.
-- Antes de que comenzara a llover en el Capítulo XI, los filamentos blancos cambiaron de posición sin cambio intencional de la linterna; el mecanismo no se ha determinado.
+- Antes de la lluvia del Capítulo XI, los filamentos blancos cambiaron de posición sin cambio intencional de la linterna; el mecanismo no se ha determinado.
+- En el Capítulo XIII se observa una criatura de seis apoyos realizando contactos repetidos con la película oscura del reverso de una placa cobriza; tras el contacto queda una franja más clara donde parte del material ha sido retirada.
+- El destino del material retirado no se observa; **no está demostrado que la criatura lo ingiera**.
+- Otras placas desprendidas muestran franjas claras semejantes.
+
+### Película oscura de placas cobrizas y presión de alimento
+
+- El protagonista toma en el Capítulo XIII una muestra mínima de la película oscura de una placa ya desprendida.
+- La muestra contiene cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética detectable.
+- El analizador devuelve `ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES` y `COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA`.
+- No se detecta un veneno humano conocido por encima del umbral del ensayo utilizado; esto no demuestra seguridad.
+- El análisis consume parte de los reactivos limitados.
+- **El protagonista no ingiere la película ni otra materia alimentaria de Elyndran.**
+- El registro de comportamiento queda como `PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.`
+- En el Capítulo XIII el protagonista empieza a fraccionar las raciones y coloca una marca física en el armario de comida para visualizar lo que queda, sin fijar todavía una fecha de agotamiento.
 
 ### Terraza alta y observación del cielo
 
-- La terraza ofrece una apertura del cielo mayor que las zonas inferiores visitadas.
-- Desde ella ya se había observado una geometría lejana con tramos rectos y al menos un ángulo.
+- La terraza ofrece una apertura del cielo mayor que las zonas inferiores.
+- Desde ella se observa una geometría lejana con tramos rectos y al menos un ángulo.
 - En el Capítulo XI se utilizó como punto de observación orbital y radio.
 - El protagonista permaneció allí durante la ventana prevista de Aster y un margen adicional sin confirmar su paso.
 - La geometría regular lejana siguió visible cuando la niebla lo permitió.
@@ -177,9 +186,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El interior acumula barro, material desmontado y reparaciones.
 - Recursos confirmados: agua sellada, raciones, botiquín, baterías, herramienta multipropósito, manta térmica, cinta, cable fino, filtros, linterna, material de muestras limitado y materiales recuperados del paracaídas/cápsula.
 - Se recuperaron aproximadamente once metros útiles de líneas, correas y malla; existe un sistema de aseguramiento improvisado marcado como `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
-- La herramienta multipropósito detuvo el resbalón del Capítulo X y quedó ligeramente marcada, pero sigue utilizable.
-- Agua, filtros, energía, recipientes y raciones imponen un horizonte temporal real.
+- La herramienta multipropósito quedó ligeramente marcada en el Capítulo X, pero sigue utilizable.
+- Agua, comida, filtros, energía, recipientes, reactivos y raciones imponen un horizonte temporal real.
 - El protagonista mantiene agua terrestre como fuente principal.
+- En el Capítulo XIII la comida pasa a ser una presión explícita: las raciones restantes dejan fondo visible en el compartimento y una ración se divide antes de consumirse.
 
 ### Estado físico
 
@@ -187,7 +197,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
 - El resbalón del Capítulo X la obligó a flexionarse más de lo deseado, sin patrón de dolor nuevo y manteniendo carga.
 - En el Capítulo XI ponerse de pie deprisa provoca una protesta de la rodilla, pero acepta el peso durante el regreso.
-- En el Capítulo XII la rodilla sigue rígida y agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
+- En el Capítulo XII la rodilla agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
 - Cuello con rigidez residual.
 - Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
 - Capacidad motora general conservada.
@@ -199,9 +209,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - El intervalo de 37 segundos puede ser fallo o fenómeno desconocido.
 - Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o encontrarse fuera de la ventana calculada; ninguna opción está demostrada.
 - Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
-- Los filamentos blancos pueden responder a luz y también a alguna variable meteorológica todavía no identificada.
+- Los filamentos blancos pueden responder a luz y también a una variable meteorológica todavía no identificada.
 - Las depresiones grandes pueden ser erosión, deformación o tránsito repetido; no llamarlas huellas.
-- Los nuevos arañazos y la depresión pequeña del Capítulo XII pueden deberse a tormenta, flexión de la raíz, tránsito, impacto u otro mecanismo; no vincularlos todavía entre sí ni con las depresiones grandes.
+- Los nuevos arañazos y la depresión pequeña pueden deberse a tormenta, flexión, tránsito, impacto u otro mecanismo; no vincularlos todavía entre sí ni con las depresiones grandes.
 - Los golpes profundos pueden ser estructurales, geológicos o biológicos.
 - La sombra nocturna puede ser niebla, sombra estructural u organismo.
 - Los animales acuáticos pueden alimentarse de la película verdosa.
@@ -216,6 +226,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La vibración fina no debe vincularse todavía a los tonos.
 - El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
 - La criatura terrestre probablemente utiliza aplanamiento y coloración como camuflaje, pero no está demostrado.
+- La criatura del Capítulo XIII puede retirar la película oscura para alimentarse o por otra función; no se ha observado el destino del material.
+- La película oscura puede contener sustancias aprovechables por metabolismo local sin ser compatible con metabolismo humano.
 - La geometría regular de la terraza puede relacionarse con otros destellos o estructuras, pero no está confirmado.
 
 ## PREGUNTAS ABIERTAS
@@ -227,9 +239,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Hay suelo bajo la red de raíces?
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
-- ¿Qué produjo las depresiones pulidas?
-- ¿Qué produjo los tres arañazos nuevos y la depresión pequeña registrada en el Capítulo XII?
-- ¿Aparecieron por la tormenta, por tránsito o por otro proceso?
+- ¿Qué produjo las depresiones pulidas, los arañazos nuevos y la depresión pequeña?
 - ¿Qué genera los golpes profundos?
 - ¿Qué fue la sombra de la primera noche?
 - ¿Qué son exactamente los discos y la línea del disco vacío?
@@ -245,27 +255,31 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Existe una vía física hasta la superficie superior de la plataforma?
 - ¿Qué mecanismo mueve agua hacia arriba en la bóveda?
 - ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
+- ¿Qué función cumple la película oscura de las placas cobrizas y qué hace la criatura con el material retirado?
+- ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
 - ¿Qué es la geometría regular visible desde la terraza?
 - ¿Cuánto tiempo puede mantenerse operativa la cápsula?
+- ¿Cuánto pueden durar las raciones y los reactivos si no aparece una fuente local segura?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
 - **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental.
-- **Primera ruta:** conecta cápsula con bifurcación; revisitada en el Capítulo XII tras una tormenta.
+- **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
 - **Bifurcación principal:** tres ramas; marcador reflectante perdido.
-- **Ruta descendente:** conduce a raíz rota, raíz intermedia y raíz inferior de los discos; recorrida varias veces.
+- **Ruta descendente:** raíz rota, raíz intermedia y raíz inferior de los discos; recorrida varias veces.
 - **Raíz inferior de los discos:** fauna y muestra de agua.
 - **Ruta horizontal:** estructura de tres brazos y división próxima a la plataforma.
 - **Estructura de tres brazos:** referencia física/acústica estable hasta ahora.
 - **Borde roto:** surcos paralelos y vista de raíz opuesta.
-- **Rama inferior de aproximación:** baja unos quince metros y permite observar la parte inferior de la plataforma.
+- **Rama inferior de aproximación:** permite observar la parte inferior de la plataforma.
 - **Parte inferior de la plataforma:** observada de cerca; superficie superior no alcanzada.
 - **Plataforma regular:** no visitada por arriba.
-- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida al menos dos veces.
-- **Terraza alta:** geometría lejana y, desde el Capítulo XI, punto de observación del cielo y escucha orbital.
+- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces.
+- **Zona de placas cobrizas:** lugar donde se observó a la criatura terrestre y, en el Capítulo XIII, retirada de película oscura.
+- **Terraza alta:** geometría lejana y punto de observación del cielo y escucha orbital.
 
 ## FLORA Y ORGANISMOS NO CLASIFICADOS
 
@@ -276,9 +290,10 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Película verdosa de discos: posible sustrato alimenticio, no confirmado.
 - Línea del disco vacío: material/tejido no identificado.
 - Formaciones cobrizas: láminas superpuestas que pueden cerrarse durante ráfagas fuertes.
+- Película oscura del reverso de algunas placas cobrizas: material orgánico complejo; una criatura de seis apoyos la retira mediante contactos repetidos, función no determinada.
 - Filamentos blancos: respuesta demostrada a luz; cambio previo a lluvia observado una vez sin mecanismo conocido.
 - Bolsas translúcidas: reciben agua ascendente por hilos finos.
-- Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza.
+- Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza; no confundir con la película de las placas cobrizas.
 
 ## FAUNA CONFIRMADA
 
@@ -290,9 +305,9 @@ No confirmado: dieta, reproducción, ciclo vital, anatomía interna, peligrosida
 
 ### Criatura terrestre de seis apoyos — sin nombre
 
-Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, aplanamiento, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental.
+Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, aplanamiento, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental. En el Capítulo XIII una criatura realiza contactos repetidos con película oscura del reverso de una placa y deja una franja de material retirado.
 
-No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, función ecológica, nombre.
+No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, dieta, destino del material retirado, reproducción, anatomía interna, sentidos, peligrosidad, función ecológica, nombre.
 
 ## OBJETOS IMPORTANTES
 
@@ -302,29 +317,32 @@ No confirmado: dieta, reproducción, anatomía interna, sentidos, peligrosidad, 
 - Sistema improvisado de aseguramiento.
 - Desvío exterior de lluvia y colector experimental.
 - Dos bolsas reutilizadas para lluvia; una reparada tras el Capítulo X.
-- Grabaciones de sombra, tonos, fauna acuática, línea del disco y observación orbital del Capítulo XI.
-- Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de las marcas de la primera ruta del Capítulo XII.
+- Grabaciones de sombra, tonos, fauna acuática, línea del disco y observación orbital.
+- Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de marcas de la primera ruta.
 - Muestra de agua de discos parcialmente consumida.
-- Analizador y material de tratamiento limitado.
+- Muestra mínima de película oscura de placa cobriza analizada en el Capítulo XIII.
+- Analizador, reactivos y material de tratamiento limitados.
 - Herramienta multipropósito ligeramente marcada pero utilizable.
+- Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
 
 ## CONSECUENCIAS PERSISTENTES
 
 - Cápsula inmovilizada, baliza activa y enlace con Aster perdido.
-- El intento del Capítulo XI no confirma el paso orbital de Aster y mantiene su destino abierto.
+- El intento orbital no confirma el paso de Aster y mantiene su destino abierto.
 - La cápsula exige mantenimiento y la zona de caída ya ha sido modificada con reparaciones y recogida de lluvia.
 - La rodilla condiciona movilidad, aunque sigue aceptando carga.
 - Las membranas forman parte del conocimiento corporal del protagonista.
 - Las tres ramas principales contienen rutas y preguntas concretas.
 - La primera ruta ya no es solo tránsito: una comparación temporal confirma cambios físicos entre registros sin mecanismo observado.
-- La plataforma sigue sin visitarse por arriba; ya existe una ruta reproducible hasta parte de su estructura inferior.
+- La plataforma sigue sin visitarse por arriba; existe una ruta reproducible hasta parte de su estructura inferior.
 - Fauna acuática y terrestre observadas sin captura.
 - El protagonista sustituye marcadores por memoria, geometría y referencias ambientales.
 - Los tonos forman parte de la orientación práctica aunque su origen siga sin comprenderse.
 - La geometría regular aparece en más de un punto del paisaje.
-- Agua, filtros, energía, recipientes y raciones mantienen presión de supervivencia.
+- Agua, comida, filtros, energía, recipientes y reactivos mantienen presión de supervivencia.
 - El agua de discos y la lluvia directa siguen tratadas como fuentes distintas; solo la lluvia ha tenido exposición humana mínima.
 - La autonomía abierta por la lluvia es real pero frágil y dependiente del clima y del equipo.
+- La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
 - El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
@@ -335,3 +353,4 @@ Existen como dirección, no como conocimiento del protagonista.
 - Los fenómenos aparentemente anticipatorios deben sostener alternativas físicas, biológicas y perceptivas.
 - La posible memoria, respuesta o aprendizaje del mundo debe surgir de retornos y consecuencias, no de una declaración temprana.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
+- La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
