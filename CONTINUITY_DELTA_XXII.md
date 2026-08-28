@@ -1,6 +1,6 @@
 # CONTINUIDAD DELTA — CAPÍTULO XXII
 
-Adjunto temporal de continuidad para `manuscript/22-antes-de-apoyar-el-pie.md`. Mantener separado de hipótesis no demostradas. `CONTINUITY.md` sigue siendo el canon maestro y debe integrar este delta cuando pueda hacerse sin reemplazo inseguro del archivo completo.
+Adjunto temporal de continuidad para `manuscript/22-antes-de-apoyar-el-pie.md`. Mantener separado de hipótesis no demostradas. El capítulo ha recibido una revisión posterior de estilo y cierre **sin alterar ninguno de los hechos canónicos** registrados aquí. `CONTINUITY.md` sigue siendo el canon maestro y debe integrar este delta junto con XXI cuando pueda hacerse sin una sustitución insegura del archivo completo.
 
 ## HECHOS
 
@@ -77,6 +77,7 @@ Adjunto temporal de continuidad para `manuscript/22-antes-de-apoyar-el-pie.md`. 
 - La memoria del terreno pasa a apoyarse más en alineaciones entre objetos que en marcas superficiales susceptibles de cambiar.
 - El motivo de los 37 segundos queda deliberadamente en segundo plano durante este capítulo; no toda jornada se organiza alrededor de la anomalía.
 - El regreso refuerza el arco de reconocimiento: el protagonista utiliza hábitos aprendidos de Elyndran —membranas, geometría, referencias y elección de apoyos— sin convertirlo todavía en declaración de pertenencia.
+- La revisión literaria posterior elimina una explicación final demasiado conceptual. El cierre queda anclado en la memoria física de la bota buscando un apoyo desplazado y en la necesidad práctica de comprobar una ruta conocida antes de confiar en ella.
 
 ## ESTADO DE INTEGRACIÓN
 
