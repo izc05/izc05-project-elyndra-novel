@@ -40,15 +40,13 @@ La comida no parecía dispuesta a hacer lo mismo.
 
 ---
 
-No saliste a buscar algo que comer.
+Volviste a la ruta ascendente porque allí habías visto a un animal detenerse sobre las placas cobrizas.
 
-La frase habría sido demasiado fácil.
+No llevabas un recipiente para traer comida.
 
-Saliste a mirar de nuevo un lugar donde ya habías visto a un animal alimentarse.
+Llevabas cámara, una cápsula de muestra y el analizador portátil.
 
-La diferencia importaba.
-
-La ruta ascendente estaba húmeda en las zonas profundas de la bóveda y casi seca en las partes expuestas. Las placas cobrizas retenían pequeñas gotas entre sus capas. Los filamentos blancos se abrieron delante de la linterna y volvieron a cerrarse detrás de ti.
+La ruta estaba húmeda en las zonas profundas de la bóveda y casi seca en las partes expuestas. Las placas cobrizas retenían pequeñas gotas entre sus capas. Los filamentos blancos se abrieron delante de la linterna y volvieron a cerrarse detrás de ti.
 
 Ya no te giraste para comprobarlo.
 
@@ -152,27 +150,15 @@ No recogiste más.
 
 El regreso a la cápsula habría sido más corto si hubieras dado media vuelta entonces.
 
-No lo hiciste.
+Seguiste hasta la terraza.
 
-Continuaste hasta la terraza.
+Las formaciones cobrizas que antes habían sido color y estructura empezaron a dividirse solas en porciones mientras avanzabas.
 
-No por la muestra.
+Cuántas placas.
 
-Por hambre.
+Cuánta superficie oscura bajo cada una.
 
-Querías saber si el pensamiento cambiaba el paisaje.
-
-Lo hizo.
-
-Las formaciones cobrizas que antes habían sido color y estructura se convirtieron durante unos minutos en cantidad.
-
-Cuántas había.
-
-Cuánto material cubría cada columna.
-
-Cuánto podría arrancarse.
-
-Te molestó la rapidez.
+Cuántas veces habías visto aquellas columnas sin pensar en su masa.
 
 Apartaste la vista.
 
@@ -187,10 +173,6 @@ Recta.
 Seguía igual.
 
 El estómago hizo un ruido dentro del traje.
-
-No tenía ninguna relación con aquello.
-
-Agradeciste la evidencia.
 
 Bebiste agua terrestre.
 
@@ -242,9 +224,7 @@ Sacaste la mitad que habías guardado por la mañana.
 
 Durante un segundo la sostuviste junto al recipiente de muestra.
 
-La diferencia era absurda.
-
-Una cosa era fea, seca y conocida.
+Una cosa era seca, conocida y cada vez más escasa.
 
 La otra cubría buena parte de una ruta del planeta.
 
