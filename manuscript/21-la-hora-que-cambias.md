@@ -2,71 +2,31 @@
 
 La rodilla aceptó el peso antes que tú.
 
-Te pusiste de pie despacio, esperando la resistencia del día anterior.
+Te pusiste de pie despacio, esperando la resistencia del día anterior. Llegó tarde: una presión apagada detrás de la rótula, suficiente para recordarte que seguía allí y no para obligarte a sentarte.
 
-Llegó, pero tarde.
-
-Una presión apagada detrás de la rótula y nada más.
-
-Diste dos pasos por la cápsula.
-
-Luego tres.
+Diste tres pasos por la cápsula.
 
 No saliste.
 
-Todavía no.
+En el panel, el receptor había grabado toda la noche. Horas de ruido ocupaban la línea. La baliza había transmitido cuatro veces mientras dormías y las cuatro llamadas terminaban del mismo modo: potencia estable, silencio después, ninguna elevación semejante a la de la mañana anterior.
 
-En el panel, el receptor había grabado toda la noche.
+Preparaste desayuno frío y partiste la ración por la marca. Media porción volvió al armario.
 
-La línea ocupaba horas de ruido sin nada que mereciera una marca.
-
-La baliza había transmitido cuatro veces.
-
-Cuatro llamadas completas.
-
-Cuatro silencios después.
-
-Ninguna elevación semejante a la de la mañana anterior.
-
-Te preparaste desayuno frío.
-
-Media ración.
-
-La otra mitad volvió al armario.
-
-La marca seguía por encima de la fila.
-
----
-
-Abriste el registro anómalo solo después de comer.
+Solo después abriste el registro anómalo.
 
 Tres fragmentos.
 
-El primero corto.
+El primero corto. El segundo algo más ancho. El tercero deshecho en ruido.
 
-El segundo algo más ancho.
+Aproximadamente treinta y siete segundos antes de una transmisión automática.
 
-El tercero deshecho en ruido.
-
-Treinta y siete segundos antes de una transmisión automática.
-
-Habías dejado escrita la frase correcta.
+La nota seguía debajo.
 
 **FUENTE NO DETERMINADA.**
 
-La leíste otra vez.
+No necesitaba otra palabra. Necesitaba una prueba que pudiera fallar.
 
-No necesitaba una palabra nueva.
-
-Necesitaba una prueba que pudiera fallar.
-
-La baliza transmitía según una tabla sencilla. El controlador conocía la siguiente hora con mucha antelación. Eso permitía una explicación desagradablemente cómoda: alguna fuga interna del reloj, del programador o del propio receptor podía producir un artefacto antes de la emisión.
-
-No hacía falta que Elyndran supiera nada.
-
-Ni que el tiempo hiciera nada extraño.
-
-Bastaba una cápsula golpeada y dos sistemas que compartían más cableado del que parecía en el diagrama resumido.
+La baliza transmitía según una tabla simple. El controlador conocía la siguiente hora con mucha antelación. Eso dejaba abierta una explicación incómodamente doméstica: una fuga del programador, una referencia temporal compartida o un acoplamiento en la alimentación podían producir un artefacto antes de la emisión sin que Elyndran tuviera que saber nada.
 
 Abriste la programación.
 
@@ -74,15 +34,7 @@ La siguiente llamada estaba prevista cincuenta y dos minutos después.
 
 La desplazaste siete minutos y catorce segundos.
 
-No porque el número significara algo.
-
-Porque no coincidía con ninguna rutina de mantenimiento, recirculación o diagnóstico que figurara en la tabla.
-
-El sistema pidió confirmación.
-
-Aceptaste.
-
-La nueva hora apareció en el panel.
+El número no significaba nada. Precisamente por eso lo elegiste: no coincidía con recirculación, diagnóstico, mantenimiento ni con ninguna otra rutina del sistema.
 
 No tocaste potencia.
 
@@ -92,43 +44,29 @@ No cambiaste el mensaje.
 
 Solo la hora.
 
-Después cerraste la pantalla de programación.
+El sistema pidió confirmación y guardó la nueva programación.
 
 ---
 
-Pasaste los siguientes treinta minutos haciendo cosas que no dependían de la baliza.
+Pasaste la siguiente media hora intentando no convertir la espera en una ceremonia.
 
-Revisaste el borde del colector desde la cámara exterior.
+Revisaste desde la cámara el borde del colector. Contaste los paños limpios. Apretaste otra vez la correa del recipiente de agua. Cuando trabajaste agachado, la rodilla empezó a latir y terminaste sentado en el suelo con la pierna derecha estirada bajo el banco.
 
-Contaste los paños limpios.
+El receptor seguía grabando detrás de ti.
 
-Volviste a apretar la correa que sujetaba el recipiente de agua.
+A los cuarenta minutos miraste la línea.
 
-La rodilla empezó a molestar cuando trabajaste agachado y terminaste sentado en el suelo, con la pierna derecha estirada bajo el banco.
-
-El receptor grababa.
-
-No lo miraste.
-
-A los cuarenta minutos sí.
-
-La línea seguía plana.
+Plana.
 
 Faltaban diecinueve para la nueva transmisión.
 
 Cerraste el panel.
 
-A los diez minutos lo abriste otra vez.
+Diez minutos después lo abriste de nuevo.
 
 Faltaban nueve.
 
-Te obligaste a mirar otra cosa.
-
-En la pared seguía la lámina de la placa cobriza con tres puntos marcados.
-
-La franja clara de la fotografía antigua parecía más ancha que la nueva incluso sin superponerlas.
-
-Eso tampoco decía por qué.
+En la pared seguía la lámina de la placa cobriza con tres puntos de referencia. A simple vista, la franja clara de la fotografía antigua parecía más ancha que en la nueva. No la comparaste otra vez. Ya sabías lo que podía demostrar y lo que no.
 
 Volviste al receptor cuando faltaba un minuto.
 
@@ -146,33 +84,19 @@ Treinta y ocho.
 
 La línea se levantó.
 
-No mucho.
+Muy poco.
 
-Lo suficiente.
-
-Te inclinaste hacia la pantalla.
-
-El primer fragmento apareció y desapareció antes de que terminaras de acercar la mano.
-
-Luego el segundo.
-
-El tercero duró menos que el de la víspera y se perdió en el fondo.
+El primer fragmento apareció y desapareció antes de que terminaras de acercar la mano. Luego otro. El tercero apenas sobrevivió al fondo.
 
 Miraste el reloj.
 
 La baliza seguía en espera.
 
-El autodiagnóstico aún no había empezado.
+El autodiagnóstico todavía no había empezado.
 
-El receptor volvió al ruido normal.
+La recepción terminó.
 
-Doce segundos antes de la hora programada, el autodiagnóstico inició su secuencia.
-
-La baliza abrió canal.
-
-Transmitió.
-
-Potencia estable.
+Doce segundos antes de la hora programada, el autodiagnóstico inició su secuencia como siempre. La baliza abrió canal y transmitió con potencia estable.
 
 Sin respuesta.
 
@@ -180,73 +104,47 @@ No te moviste hasta que terminó.
 
 ---
 
-Guardaste el búfer completo.
-
-Marcaste el inicio del primer fragmento.
-
-Marcaste el inicio real de la transmisión.
+Guardaste el búfer completo y marcaste dos puntos: inicio del primer fragmento e inicio real de la emisión.
 
 **−36,91 s**
 
-No corregiste la cifra.
+No redondeaste.
 
-No escribiste treinta y siete.
+Tampoco escribiste treinta y siete.
 
-Copiaste el registro del controlador donde constaba el cambio de hora.
-
-Después comparaste la nueva recepción con la anterior.
+Copiaste junto al registro la confirmación del cambio de hora y comparaste la nueva recepción con la del día anterior.
 
 No eran iguales.
 
-Se parecían de la misma manera incómoda.
+Se parecían lo suficiente para obligarte a seguir mirando: una subida escalonada al principio, una interrupción breve, ruido donde una copia limpia habría debido continuar. El segundo fragmento duraba otra cosa. El tercero tenía otra forma.
 
-Una subida escalonada al principio.
+No era una retransmisión completa adelantada.
 
-Una interrupción breve.
+Tampoco un pulso que pudieras descartar como ruido sin más.
 
-Ruido donde esperabas continuidad.
+Abriste el esquema eléctrico.
 
-El segundo fragmento tenía otra duración.
+Receptor y controlador de baliza compartían referencia temporal. Compartían alimentación durante un tramo del bus antes de separarse. Compartían la misma carcasa golpeada, la misma humedad y reparaciones que el diseño original nunca había previsto.
 
-El tercero, otra forma.
+La explicación interna seguía viva.
 
-No era una copia anticipada de la transmisión completa.
+Eso importaba.
 
-Tampoco un pulso cualquiera que pudieras descartar sin mirar dos veces.
-
-Abriste el esquema eléctrico de la cápsula.
-
-Receptor y controlador de baliza compartían alimentación en un tramo del bus, aunque después se separaban.
-
-Compartían referencia temporal.
-
-Compartían carcasa estructural.
-
-Después del accidente, compartían también vibraciones, humedad y reparaciones que el diseño original nunca había previsto.
-
-Eso era suficiente para mantener viva una explicación interna.
-
-No para demostrarla.
+Cerraste el esquema antes de empezar a preferir una explicación a otra.
 
 ---
 
-Programaste una segunda prueba.
+La siguiente llamada automática quedó en su ciclo habitual.
 
-Esta vez no desplazaste la siguiente llamada.
+Durante unos segundos mantuviste el dedo sobre la opción de transmisión manual.
 
-La dejaste en su ciclo normal.
-
-Durante unos segundos tu dedo quedó sobre la opción de transmisión manual.
-
-Podías pulsarla en cualquier momento.
-
-Podías elegir una hora que el sistema no conociera con antelación.
+Podías emitir en una hora que el controlador no conociera con antelación. Podías forzar una prueba más limpia.
 
 Retiraste la mano.
 
 No todavía.
 
-Una transmisión manual consumía más que una espera pasiva si empezabas a repetirla sin criterio. Y si el problema estaba en el receptor o en la alimentación común, introducir más emisiones podía ensuciar justo lo que intentabas entender.
+Una transmisión manual no era gratis. Si empezabas a repetir emisiones cada vez que aparecía una pregunta, consumirías energía y ensuciarías precisamente el registro que intentabas entender.
 
 Añadiste una línea al protocolo:
 
@@ -256,84 +154,64 @@ La dejaste en borrador.
 
 ---
 
-La segunda llamada del día ocurrió a la hora habitual.
+La siguiente llamada ocurrió a la hora habitual.
 
-No hubo recepción previa.
+Treinta y siete segundos antes: ruido.
 
-Treinta y siete segundos antes, ruido.
+Doce segundos antes: autodiagnóstico.
 
-Doce segundos antes, autodiagnóstico.
-
-Después la transmisión.
+Después, transmisión.
 
 Sin respuesta.
 
-Te sorprendió sentir alivio.
+El alivio llegó antes de que pudieras impedirlo y duró menos de un segundo.
 
-Duró poco.
-
-Que algo no ocurriera una vez más no lo hacía menos real cuando sí ocurría.
-
-Abriste el registro y escribiste solo lo que podías defender:
+Abriste el registro.
 
 **SEGUNDA RECEPCIÓN ANÓMALA OBSERVADA TRAS DESPLAZAR UNA TRANSMISIÓN PROGRAMADA +7 min 14 s.**
 
-Debajo:
-
 **INICIO DE RECEPCIÓN: 36,91 s ANTES DE LA EMISIÓN.**
-
-Luego:
 
 **NO REPRODUCIDA EN EL CICLO AUTOMÁTICO POSTERIOR.**
 
-Esperaste antes de la última línea.
+La última línea tardó más.
 
-La formulaste dos veces y borraste ambas.
+La escribiste dos veces y borraste las dos.
 
-Al final escribiste:
+Al final dejaste solo:
 
 **EL CAMBIO DE HORA NO DESCARTA ACOPLAMIENTO INTERNO: EL CONTROLADOR CONOCÍA LA NUEVA PROGRAMACIÓN.**
 
-Eso era suficiente.
+Guardaste el archivo.
+
+Eso era lo único que podías defender.
 
 ---
 
-Por la tarde abriste la escotilla exterior solo en la cámara.
+Por la tarde abriste la cámara exterior.
 
-La niebla estaba más baja que el día anterior.
-
-Una raíz cruzaba el campo de visión y desaparecía por debajo de la cápsula. En su borde, las membranas transparentes colgaban flojas.
+La niebla estaba más baja que el día anterior. Una raíz cruzaba el campo de visión y desaparecía por debajo de la cápsula. En su borde colgaban varias membranas transparentes, flojas por la calma.
 
 Una se tensó.
 
-Contaste sin querer.
+Tu cuerpo cambió de postura antes de que lo pensaras.
 
-Uno.
-
-La ráfaga llegó y movió las otras.
+La ráfaga llegó un instante después y movió las demás.
 
 Cerraste la cámara.
 
-No necesitabas convertir cada intervalo en el mismo intervalo.
+Preparaste el traje para el día siguiente y dejaste el casco sobre su soporte, en el lado limpio de la cinta. La rodilla seguía aceptando el peso si no la obligabas a quedarse flexionada demasiado tiempo.
 
-Te levantaste.
-
-La rodilla aceptó el peso.
-
-Preparaste el traje para el día siguiente y dejaste el casco sobre su soporte, en el lado limpio de la cinta.
-
-El receptor continuó grabando detrás de ti.
+Detrás de ti, el receptor continuó grabando.
 
 No emitía nada.
 
 Solo escuchaba.
 
-Antes de apagar la pantalla principal miraste una última vez la hora de la próxima llamada.
+Antes de apagar la pantalla principal miraste la hora de la próxima llamada.
 
 La conocías tú.
 
 La conocía el controlador.
 
-Treinta y siete segundos antes, si volvía a ocurrir, algo más parecería conocerla también.
-
-No escribiste eso en el registro.
+De momento, no sabías nada más.
