@@ -18,8 +18,6 @@ El cartucho había empezado la mañana unido al casco. Lo habías retirado despu
 
 No crítica.
 
-Todavía.
-
 Dejaste el cartucho sobre el banco y abriste el alojamiento de repuestos.
 
 Había menos espacio ocupado que la última vez que lo habías mirado.
@@ -242,19 +240,13 @@ Señales demasiado mezcladas para clasificar.
 
 Nada produjo una alarma simple.
 
-Eso empezaba a molestarte.
+Volviste a mirar la placa.
 
-Las respuestas fáciles eran escasas en Elyndran.
-
-Las respuestas tranquilizadoras, todavía más.
-
-Tomaste el cartucho nuevo del casco y observaste su cara exterior.
-
-Limpia.
+Luego el cartucho limpio del casco.
 
 Lo instalaste otra vez.
 
-Después guardaste la placa del filtro usado.
+Después guardaste la muestra del filtro usado.
 
 No escribiste *esporas*.
 
@@ -270,13 +262,13 @@ Debajo:
 
 **COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.**
 
-Leíste las dos líneas juntas.
+Leíste las dos líneas.
 
-La segunda habría parecido una buena noticia sin la primera.
+Después desplazaste el segundo registro hasta quedar justo debajo del primero, como si la distancia entre ambos pudiera cambiar algo.
 
-La primera habría parecido una prohibición definitiva sin la segunda.
+No cambió nada.
 
-Juntas eran Elyndran.
+Cerraste el archivo.
 
 ---
 
@@ -404,11 +396,13 @@ El filtro subió otra fracción.
 
 Retrocediste.
 
-No sentiste miedo.
+La mano izquierda fue al alojamiento del filtro antes de que miraras el indicador.
 
-Sentiste el peso del alojamiento de repuestos dentro de la cápsula, a varios minutos de distancia.
+El gesto no servía para medir nada.
 
-Diste media vuelta.
+Te obligaste a soltarlo.
+
+Luego diste media vuelta.
 
 ---
 
@@ -456,7 +450,7 @@ Solo entonces te quitaste el casco.
 
 El interior olía a plástico caliente, metal húmedo y comida vieja.
 
-Nunca te había parecido tan limpio.
+Te quedaste con el casco entre las manos unos segundos antes de dejarlo sobre el banco.
 
 ---
 
@@ -512,11 +506,9 @@ Contaste otra vez.
 
 La cifra era la misma que por la mañana.
 
-Eso te alivió más de lo razonable.
+No habías gastado otro cartucho.
 
-No habías gastado uno nuevo.
-
-Solo lo habías ensuciado un poco.
+Solo habías empezado a cargarlo.
 
 A la derecha, el armario de comida conservaba su tira de cinta.
 
@@ -534,9 +526,9 @@ El casco quedó sobre el banco con el visor orientado hacia la escotilla.
 
 Fuera, la niebla se movía entre las raíces.
 
-Por primera vez sabías que el aire al otro lado contenía suficiente de algo conocido para tentar una pregunta distinta.
+Por primera vez sabías que el aire al otro lado contenía suficiente de algo conocido para justificar una pregunta que antes no merecía hacerse.
 
-También sabías lo que había quedado atrapado antes de llegar a tus pulmones.
+También sabías qué había quedado atrapado antes de llegar a tus pulmones.
 
 No abriste la escotilla.
 
