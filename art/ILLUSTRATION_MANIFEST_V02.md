@@ -30,6 +30,7 @@ Este archivo fija la dirección visual de la **Edición de lectura v0.2**. No co
 | XI — La órbita vacía | Terraza alta, comunicador y cielo vacío durante la ventana de Aster | vigente | bajo: ninguna nave visible |
 | XII — El mismo camino | Regreso a las depresiones; arañazos nuevos y documentación de campo | vigente | bajo |
 | XIII — La mitad de una ración | Observación no agresiva de criatura cobriza retirando película oscura | vigente | bajo: no mostrar ingestión confirmada |
+| XIV — El aire que gastas | Protagonista en la bóveda con linterna lateral revelando partículas suspendidas mientras consulta carga del filtro | **pendiente de generar** | medio: el casco debe permanecer cerrado; no sugerir aire seguro ni mostrar rostro descubierto |
 
 ## Imágenes que deben rechazarse o reemplazarse
 
@@ -43,10 +44,17 @@ Rechazar cualquier versión que:
 6. introduzca texto incrustado, logotipos o señalética no presente en el manuscrito;
 7. cambie arbitrariamente traje, mochila, escala corporal o condiciones ambientales entre capítulos;
 8. tenga anatomía, manos, herramientas o anclajes físicamente incoherentes;
-9. parezca pintura fantástica genérica en lugar de imagen fotorealista/cinematográfica.
+9. parezca pintura fantástica genérica en lugar de imagen fotorealista/cinematográfica;
+10. muestre al protagonista respirando aire exterior sin casco antes de que el manuscrito haya ganado evidencia suficiente para ello.
+
+## Dirección específica para Capítulo XIV
+
+La imagen de **El aire que gastas** no debe convertir la atmósfera en un descubrimiento triunfal. La escena principal es la bóveda: astronauta completamente sellado, linterna a contraluz revelando una nube de partículas finísimas entre filamentos y placas cobrizas. El visor o un pequeño indicador puede insinuar medición, pero no debe contener texto legible generado. El aire debe parecer físicamente normal y a la vez materialmente cargado. No mostrar microorganismos ampliados, esporas reconocibles ni infección: el capítulo solo ha demostrado particulado y fracción orgánica no clasificada.
 
 ## Edición de lectura v0.2
 
-La edición v0.2 debe usar una apertura visual uniforme por sección: imagen a página completa, franja editorial discreta con número/título compuesto fuera de la imagen, seguida por páginas de lectura limpias. El formato objetivo actual es **6 × 9 pulgadas**, con márgenes de novela y una ilustración narrativa principal por capítulo.
+La edición v0.2 publicada sigue siendo el checkpoint visual **Prólogo + XIII**. El manuscrito maestro ya contiene el Capítulo XIV, por lo que el PDF queda **un capítulo por detrás**, pero todavía no se considera necesaria una reconstrucción inmediata: la regla editorial exige varios capítulos nuevos o un reemplazo visual material. El próximo PDF debe incluir XIV únicamente cuando el avance narrativo/visual justifique una nueva edición y exista su ilustración aprobada.
 
-La edición de lectura se considera desactualizada cuando el manuscrito acumula varios capítulos nuevos o cuando una ilustración vigente es reemplazada por una versión claramente superior. La siguiente reconstrucción debe partir siempre del manuscrito real y de este manifiesto, no de un PDF anterior.
+La edición debe conservar apertura visual uniforme por sección: imagen a página completa, franja editorial discreta con número/título compuesto fuera de la imagen, seguida por páginas de lectura limpias. El formato objetivo actual es **6 × 9 pulgadas**, con márgenes de novela y una ilustración narrativa principal por capítulo.
+
+La siguiente reconstrucción debe partir siempre del manuscrito real y de este manifiesto, no de un PDF anterior.
