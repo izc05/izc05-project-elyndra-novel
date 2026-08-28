@@ -18,8 +18,9 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XI: `manuscript/11-la-orbita-vacia.md` — **La órbita vacía**.
 - Capítulo XII: `manuscript/12-el-mismo-camino.md` — **El mismo camino**.
 - Capítulo XIII: `manuscript/13-la-mitad-de-una-racion.md` — **La mitad de una ración**.
+- Capítulo XIV: `manuscript/14-el-aire-que-gastas.md` — **El aire que gastas**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios y empezado a investigar el problema de la comida sin ingerir material de Elyndran.
+El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran y realizado el primer muestreo controlado del aire exterior sin respirarlo directamente.
 
 ## HECHOS
 
@@ -44,10 +45,23 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - No se ha visto suelo planetario.
 - Existen raíces a múltiples alturas, niebla, vegetación, cascadas y cambios rápidos de visibilidad.
 - La primera capa inferior explorada es aproximadamente cuatro grados más cálida que la zona de la cápsula.
-- La atmósfera exterior no se considera segura sin filtrado.
 - La niebla puede producir errores de perspectiva demostrables.
 - Algunas raíces flexionan o cambian levemente de inclinación durante fenómenos transmitidos por la estructura.
 - Existe una columna de vapor lejana y varias geometrías o destellos aún no identificados.
+
+### Atmósfera exterior y filtrado
+
+- Hasta el Capítulo XIV el protagonista ha utilizado casco y filtrado siempre que permanece en exterior.
+- Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
+- El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
+- Una toma controlada de aire exterior, introducida por tubo de muestreo sin respiración directa, muestra presión compatible con las lecturas del traje, oxígeno en un rango que un pulmón humano podría utilizar, dióxido de carbono bajo y ausencia de alarmas inmediatas para los gases corrosivos/volátiles conocidos por el sistema.
+- Registro: `PARTICULADO EXTERIOR: FRACCIÓN ORGÁNICA NO CLASIFICADA.`
+- Registro: `COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.`
+- **No se ha declarado la atmósfera segura para respirar sin filtro ni casco.**
+- En una salida comparativa del Capítulo XIV, la carga del filtro aumenta lentamente en la primera ruta y con mayor rapidez en la bóveda de la ruta ascendente.
+- En el haz lateral de la linterna dentro de la bóveda se observan miles de partículas muy pequeñas suspendidas en el aire.
+- El protagonista añade al mapa de la ruta ascendente la nota `MAYOR CARGA DE FILTRO`.
+- El aire pasa a considerarse también un coste de ruta: no todas las zonas parecen cargar el filtro al mismo ritmo.
 
 ### Membranas transparentes
 
@@ -63,6 +77,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Hay tres ramas: descendente, horizontal y ascendente; las tres han sido exploradas parcialmente.
 - El marcador reflectante inicial desapareció durante una tormenta; permanece la zona raspada.
 - En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar marcas antiguas y regresa sin alcanzar la bifurcación.
+- En el Capítulo XIV vuelve a recorrer la ruta hasta la bifurcación para comparar carga de filtro antes de entrar parcialmente en la ruta ascendente.
 
 ### Marcas, golpes y sombra
 
@@ -159,6 +174,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - En el Capítulo XIII se observa una criatura de seis apoyos realizando contactos repetidos con la película oscura del reverso de una placa cobriza; tras el contacto queda una franja más clara donde parte del material ha sido retirada.
 - El destino del material retirado no se observa; **no está demostrado que la criatura lo ingiera**.
 - Otras placas desprendidas muestran franjas claras semejantes.
+- En el Capítulo XIV se observan muchas partículas suspendidas dentro de la bóveda bajo iluminación lateral, coincidiendo con una tasa mayor de carga del filtro.
 
 ### Película oscura de placas cobrizas y presión de alimento
 
@@ -190,6 +206,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Agua, comida, filtros, energía, recipientes, reactivos y raciones imponen un horizonte temporal real.
 - El protagonista mantiene agua terrestre como fuente principal.
 - En el Capítulo XIII la comida pasa a ser una presión explícita: las raciones restantes dejan fondo visible en el compartimento y una ración se divide antes de consumirse.
+- En el Capítulo XIV un filtro agotado por carga elevada queda fuera de servicio y se utiliza para análisis; se instala un cartucho limpio.
+- La mayor carga de filtro también implica mayor consumo de batería porque el traje compensa aumentando caudal.
+- El protagonista coloca una marca física en el alojamiento de filtros, igual que hizo con las raciones, sin convertirla en cuenta atrás fechada.
 
 ### Estado físico
 
@@ -203,6 +222,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Capacidad motora general conservada.
 - Sigue usando casco y filtrado en exterior.
 - No se ha observado reacción adversa medible a la exposición mínima de lluvia tratada registrada hasta ahora.
+- **No ha respirado deliberadamente aire exterior sin filtrado.**
 
 ## HIPÓTESIS ACTIVAS
 
@@ -219,6 +239,8 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - La línea del disco vacío puede ser tejido, estructura interna, inclusión mineral u otro material.
 - La fracción orgánica del agua puede proceder de organismos, metabolismo, material del disco u otros compuestos.
 - La señal residual de lluvia puede ser atmosférica, contaminación del colector u otra fracción ambiental.
+- La fracción orgánica y las estructuras microscópicas atrapadas por filtros pueden ser material biológico, fragmentos inertes, aerosoles orgánicos o una mezcla; no llamarlas esporas ni microorganismos sin evidencia.
+- La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad, interacción de ambas o condiciones locales todavía no medidas.
 - Los tonos pueden originarse en la interacción entre película y estructura; el disparador sigue sin determinarse.
 - La plataforma puede ser artificial, biológica, mineral o una combinación.
 - La trama inferior puede haber sido rodeada por la raíz, construida alrededor de ella, formada junto a ella o tener otra historia.
@@ -237,6 +259,9 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Dónde está Aster y por qué no se confirmó su paso orbital?
 - ¿Existe una forma de abandonar Elyndran?
 - ¿Hay suelo bajo la red de raíces?
+- ¿Puede llegar a demostrarse que alguna región de la atmósfera exterior es segura para respirar sin filtrado?
+- ¿Qué son las partículas y estructuras orgánicas retenidas por los filtros?
+- ¿Por qué la bóveda ascendente carga los filtros con mayor rapidez y cuánto varía ese coste entre regiones?
 - ¿Qué detectan las membranas antes del viento?
 - ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
 - ¿Qué produjo las depresiones pulidas, los arañazos nuevos y la depresión pequeña?
@@ -259,14 +284,14 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
 - ¿Qué es la geometría regular visible desde la terraza?
 - ¿Cuánto tiempo puede mantenerse operativa la cápsula?
-- ¿Cuánto pueden durar las raciones y los reactivos si no aparece una fuente local segura?
+- ¿Cuánto pueden durar raciones, filtros y reactivos si no aparecen fuentes locales seguras?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
 ## LUGARES VISITADOS Y CAMINOS
 
 - **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental.
-- **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta.
+- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior.
+- **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
 - **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
 - **Bifurcación principal:** tres ramas; marcador reflectante perdido.
 - **Ruta descendente:** raíz rota, raíz intermedia y raíz inferior de los discos; recorrida varias veces.
@@ -277,7 +302,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - **Rama inferior de aproximación:** permite observar la parte inferior de la plataforma.
 - **Parte inferior de la plataforma:** observada de cerca; superficie superior no alcanzada.
 - **Plataforma regular:** no visitada por arriba.
-- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces.
+- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces; desde el Capítulo XIV se sabe que impone mayor carga de filtro que la primera ruta durante la comparación realizada.
 - **Zona de placas cobrizas:** lugar donde se observó a la criatura terrestre y, en el Capítulo XIII, retirada de película oscura.
 - **Terraza alta:** geometría lejana y punto de observación del cielo y escucha orbital.
 
@@ -294,6 +319,7 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Filamentos blancos: respuesta demostrada a luz; cambio previo a lluvia observado una vez sin mecanismo conocido.
 - Bolsas translúcidas: reciben agua ascendente por hilos finos.
 - Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza; no confundir con la película de las placas cobrizas.
+- Particulado de la atmósfera exterior: incluye minerales, fibras, fragmentos translúcidos y estructuras microscópicas con fracción orgánica no clasificada; vida/no vida no determinada.
 
 ## FAUNA CONFIRMADA
 
@@ -321,9 +347,12 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de marcas de la primera ruta.
 - Muestra de agua de discos parcialmente consumida.
 - Muestra mínima de película oscura de placa cobriza analizada en el Capítulo XIII.
+- Muestra de la capa exterior de un filtro usado analizada en el Capítulo XIV.
+- Tubo de muestreo ambiental usado para introducir aire exterior al analizador sin respiración directa.
 - Analizador, reactivos y material de tratamiento limitados.
 - Herramienta multipropósito ligeramente marcada pero utilizable.
 - Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
+- Marca física añadida al alojamiento de filtros para visualizar los cartuchos restantes.
 
 ## CONSECUENCIAS PERSISTENTES
 
@@ -332,7 +361,7 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - La cápsula exige mantenimiento y la zona de caída ya ha sido modificada con reparaciones y recogida de lluvia.
 - La rodilla condiciona movilidad, aunque sigue aceptando carga.
 - Las membranas forman parte del conocimiento corporal del protagonista.
-- Las tres ramas principales contienen rutas y preguntas concretas.
+- Las tres ramas principales contienen rutas, preguntas y costes concretos.
 - La primera ruta ya no es solo tránsito: una comparación temporal confirma cambios físicos entre registros sin mecanismo observado.
 - La plataforma sigue sin visitarse por arriba; existe una ruta reproducible hasta parte de su estructura inferior.
 - Fauna acuática y terrestre observadas sin captura.
@@ -343,7 +372,10 @@ No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, d
 - El agua de discos y la lluvia directa siguen tratadas como fuentes distintas; solo la lluvia ha tenido exposición humana mínima.
 - La autonomía abierta por la lluvia es real pero frágil y dependiente del clima y del equipo.
 - La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno— todavía por necesidad, sin declarar pertenencia.
+- En el Capítulo XIV el aire deja de ser una prohibición abstracta y se convierte en un recurso medible: parte de su composición gaseosa es prometedora, pero el riesgo biológico/particulado sigue sin resolver y los filtros son finitos.
+- El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
+- **La primera retirada futura del casco en exterior queda preparada como hito posible, no autorizada ni ejecutada.**
+- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno y ahora coste de filtrado— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
@@ -354,3 +386,4 @@ Existen como dirección, no como conocimiento del protagonista.
 - La posible memoria, respuesta o aprendizaje del mundo debe surgir de retornos y consecuencias, no de una declaración temprana.
 - La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
 - La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
+- La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
