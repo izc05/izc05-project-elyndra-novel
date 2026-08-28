@@ -1,6 +1,6 @@
 # CONTINUIDAD DELTA — CAPÍTULO XXI
 
-Adjunto temporal de continuidad para `manuscript/21-la-hora-que-cambias.md`. Debe integrarse en `CONTINUITY.md` sin elevar hipótesis a hechos.
+Adjunto temporal de continuidad para `manuscript/21-la-hora-que-cambias.md`. El capítulo ha sido pulido sin alterar sus hechos canónicos. Debe integrarse en `CONTINUITY.md` sin elevar hipótesis a hechos.
 
 ## HECHOS
 
@@ -44,3 +44,10 @@ Adjunto temporal de continuidad para `manuscript/21-la-hora-que-cambias.md`. Deb
 - El receptor permanece en escucha pasiva y registro prolongado, con consumo bajo pero no nulo.
 - No se aumenta la cadencia de emisiones para evitar consumo y contaminación del experimento.
 - El protagonista prepara el traje para una posible salida posterior, pero no abandona la cápsula en este capítulo.
+- La reescritura editorial elimina una conclusión final demasiado adelantada: el protagonista cierra el capítulo sabiendo únicamente que él y el controlador conocen la próxima hora; no afirma que una tercera entidad la conozca.
+
+## ESTADO DE INTEGRACIÓN
+
+- `CONTINUITY.md` sigue siendo el canon maestro hasta el Capítulo XX.
+- Este delta contiene únicamente lo nuevo de XXI y no contradice el maestro.
+- La integración literal en `CONTINUITY.md` sigue pendiente porque el conector de edición sustituye archivos completos y no ofrece parche parcial seguro para ese documento largo; no se realizará una sustitución que pueda borrar continuidad previa.
