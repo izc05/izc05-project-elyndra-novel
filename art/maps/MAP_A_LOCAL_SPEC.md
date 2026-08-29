@@ -8,73 +8,60 @@ No es un mapa del planeta. No es un mapa de videojuego. Debe transmitir que el s
 
 ## Momento recomendado de aparición
 
-Después de XII o en una lámina de transición anterior al bloque XIII–XVI, cuando el lector ya conoce las tres ramas principales y ha comprendido que una ruta puede cambiar.
+Después de XII o en una lámina de transición anterior al bloque XIII–XVI.
+
+**Regla temporal:** Mapa A contiene únicamente conocimiento disponible al cierre de XII. Ningún cambio descubierto en XXI o después puede aparecer aquí.
 
 ## Formato
 
 - Preferencia: página completa vertical 6×9.
-- Alternativa: doble página si el dibujo necesita mostrar niveles verticales sin perder legibilidad.
+- Alternativa: doble página si la verticalidad lo exige.
 - Fondo marfil de la edición, no fondo negro.
 - Tinta/gris grafito con anotaciones discretas.
 - Nada de estética holográfica, HUD, cuadrícula de videojuego o minimapa circular.
 
 ## Geometría obligatoria
 
-### Centro de referencia
+### CÁPSULA
 
-**CÁPSULA**
-
-- pequeño símbolo lateral/oblicuo, no una nave vista desde arriba;
+- pequeño símbolo lateral/oblicuo, no nave cenital;
 - encajada sobre una raíz grande;
 - origen operativo de las rutas.
 
 ### Primera ruta
 
-Conecta cápsula con la bifurcación.
-
-Debe mostrar, en orden aproximado:
+Conecta cápsula con bifurcación y muestra solo referencias conocidas hasta XII:
 
 1. curva donde deja de verse la cápsula;
-2. estrechamiento con membranas / viento;
-3. primer mirador de los destellos, indicado como punto de observación sin explicar la fuente;
+2. estrechamiento con membranas/viento;
+3. primer mirador de los destellos, sin explicar su fuente;
 4. zona de las tres depresiones;
-5. depresión pequeña posterior / arañazos como anotación secundaria;
-6. canal de raíces paralelas;
-7. bifurcación principal.
+5. arañazos y depresión pequeña como anotación secundaria;
+6. bifurcación principal.
 
-### Referencia del canal
-
-- raíz inferior desplazada;
-- alternativa superior indicada como ruta habitual;
-- no dibujar puente artificial ni pasarela.
+**No mostrar** todavía la raíz inferior desplazada, la alternativa superior ni la etiqueta `PASO VARIABLE`: ese cambio pertenece a XXI.
 
 ### Rama descendente
 
-Debe indicar:
-
 - descenso difícil por fibras;
 - nivel inferior más cálido;
-- zona de discos cóncavos;
+- discos cóncavos;
 - agua no declarada potable;
-- fauna acuática con símbolo neutro, no dibujo monstruoso;
-- continuidad hacia mayor profundidad: **desconocida**.
+- fauna acuática con símbolo neutro;
+- continuidad profunda desconocida.
 
 ### Rama horizontal
-
-Debe indicar:
 
 - niebla;
 - estructura de tres brazos;
 - borde roto;
-- plataforma vista parcialmente a distancia;
+- plataforma parcial;
 - aproximación inferior conocida bajo plataforma;
-- superficie superior de plataforma **NO CARTOGRAFIADA / NO VISITADA**.
+- superficie superior **NO CARTOGRAFIADA / NO VISITADA**.
 
-No dibujar forma completa de la plataforma.
+No dibujar la forma completa de la plataforma.
 
 ### Rama ascendente
-
-Debe indicar:
 
 - bóveda densa;
 - mayor carga de filtro;
@@ -85,53 +72,14 @@ Debe indicar:
 
 ## Verticalidad
 
-El mapa no debe fingir que todo está en un plano.
+Usar cotas relativas, pequeños cortes laterales, flechas `SUBE` / `BAJA`, niebla entre niveles y trazos incompletos donde no existe visual directa. No inventar altitudes exactas.
 
-Usar una combinación editorial de:
-
-- líneas de cota aproximadas;
-- pequeños cortes laterales;
-- flechas `SUBE` / `BAJA` discretas;
-- niebla como separación de niveles;
-- trazos incompletos donde no hay visual directa.
-
-No usar altitudes exactas inventadas.
-
-## Símbolos permitidos
-
-- refugio / cápsula;
-- ruta recorrida;
-- ruta provisional;
-- punto de observación;
-- agua local no segura;
-- fauna observada;
-- fenómeno acústico;
-- zona de mayor carga de filtro;
-- paso cambiante;
-- límite no explorado.
-
-## Símbolos prohibidos
-
-- enemigos;
-- objetivos/misiones;
-- tesoros;
-- porcentaje explorado;
-- flechas de misión;
-- peligro rojo genérico;
-- ciudad;
-- templo;
-- alienígena;
-- ruinas confirmadas.
-
-## Etiquetas editoriales sugeridas
-
-Usar solo nombres que el protagonista ya puede defender:
+## Etiquetas permitidas en Mapa A
 
 - CÁPSULA
 - PRIMERA RUTA
 - PRIMER MIRADOR
 - DEPRESIONES
-- PASO VARIABLE
 - BIFURCACIÓN
 - DISCOS
 - TRES BRAZOS
@@ -140,33 +88,39 @@ Usar solo nombres que el protagonista ya puede defender:
 - BÓVEDA
 - TERRAZA
 
-Opcionales, más pequeños:
+Opcionales: `mayor carga de filtro`, `agua no validada`, `no explorado`.
 
-- mayor carga de filtro
-- agua no validada
-- ruta superior habitual
-- no explorado
+## Prohibiciones temporales específicas
+
+Mapa A no puede incluir:
+
+- `PASO VARIABLE`;
+- raíz inferior desplazada;
+- alternativa superior habitual;
+- `NODO EXTERIOR 1`;
+- cascada identificada como explicación plausible de los destellos;
+- región de cascadas;
+- fauna planeadora.
+
+Esos datos pertenecen a mapas posteriores.
 
 ## Espacio desconocido
 
-Al menos **45–55 % de la lámina** debe quedar visualmente sin cartografiar o disolverse en niebla/margen.
+Al menos **45–55 %** de la lámina debe quedar sin cartografiar, disolverse en niebla o terminar en límites abiertos.
 
-El mensaje visual debe ser inmediato:
+## Continuidad con Mapa B
 
-> Esto es un mapa útil. No es un mapa grande.
-
-## Continuidad con XXV
-
-El primer mirador debe quedar situado en un borde del sector local de manera que, en el Mapa B, sea posible prolongar la exploración desde allí hacia `NODO EXTERIOR 1` sin rediseñar el Mapa A.
+El primer mirador debe quedar en un borde útil para que Mapa B pueda prolongar desde allí la expansión hacia `NODO EXTERIOR 1` sin rediseñar la geografía. Mapa B sí puede actualizar el sector local con cambios descubiertos después de XII, siempre diferenciando lo ya conocido de lo nuevo.
 
 ## Gate 10/10
 
-El mapa se aprueba solo si:
+Se aprueba solo si:
 
-1. la cápsula no parece el centro del planeta, solo del recorrido;
-2. la verticalidad se entiende;
-3. las tres ramas son legibles;
-4. la plataforma no queda revelada;
-5. quedan grandes zonas desconocidas;
-6. parece cartografía de expedición literaria, no interfaz de juego;
-7. puede imprimirse en 6×9 sin perder las etiquetas principales.
+1. representa exactamente conocimiento ≤ XII;
+2. la cápsula es centro operativo, no centro del planeta;
+3. la verticalidad se entiende;
+4. las tres ramas son legibles;
+5. la plataforma no queda revelada;
+6. quedan grandes zonas desconocidas;
+7. parece cartografía de expedición literaria, no interfaz de juego;
+8. es legible en 6×9.
