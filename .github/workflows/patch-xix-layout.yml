@@ -1,0 +1,44 @@
+name: Patch XIX and atlas layout
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-xix-layout.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Patch reader
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('book.html')
+          s=p.read_text()
+          s=s.replace("'La ración que no se calentó','La franja que vuelve','Antes de la llamada'", "'La ración que no se calentó','La fotografía de XIII','Antes de la llamada'")
+          old="18:[['XVIII-I1','El contacto marcado',11],['XVIII-I2','Elegir qué sigue encendido',55]],25:"
+          new="18:[['XVIII-I1','El contacto marcado',11],['XVIII-I2','Elegir qué sigue encendido',55]],19:[['XIX-I1','La franja ya no es igual',25],['XIX-I2','Comparación dentro de la cápsula',50]],25:"
+          if old not in s:
+              raise SystemExit('expected XVIII anchor block not found')
+          s=s.replace(old,new)
+          old_section='<section class="atlas"><h2>Atlas visual</h2><div class="atlas-grid" id="atlas"></div></section>'
+          new_section='<details class="atlas"><summary>Atlas visual</summary><div class="atlas-grid" id="atlas"></div></details>'
+          if old_section not in s:
+              raise SystemExit('atlas section not found')
+          s=s.replace(old_section,new_section)
+          s=s.replace('.atlas{max-width:860px;margin:34px auto 0}.atlas-grid', '.atlas{max-width:860px;margin:34px auto 0;border-top:1px solid #292f34;padding-top:14px}.atlas summary{cursor:pointer;color:#d6c6ad;font:700 .78rem system-ui;letter-spacing:.08em;text-transform:uppercase;padding:10px 2px 14px}.atlas[open] summary{color:var(--gold)}.atlas-grid')
+          p.write_text(s)
+          PY
+          git diff --check
+          grep -F "XIX-I1','La franja ya no es igual',25" book.html
+          grep -F '<details class="atlas">' book.html
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add book.html
+          git commit -m 'feat: anchor chapter XIX and collapse visual atlas'
+          git push origin HEAD:main
