@@ -1,0 +1,36 @@
+name: Fix reader image loading
+
+on:
+  push:
+    paths:
+      - '.github/workflows/fix-reader-image-loading.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Patch chapter image loader
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('book.html')
+          s = p.read_text(encoding='utf-8')
+          old = "function ill(id,label,opening=false){const f=document.createElement('figure');f.className='ill missing'+(opening?' opening':'');const img=document.createElement('img');const cap=document.createElement('figcaption');cap.textContent=id+' · '+label;img.alt=label+' — ELYNDRAN';img.loading='lazy';f.append(img,cap);const paths=['art/masters/'+id+'.webp','art/masters/'+id+'.png','art/masters/'+id+'.jpg','art/masters/'+id+'.svg'];let n=0;img.onload=()=>{f.classList.remove('missing');atlas()};img.onerror=()=>{if(++n<paths.length)img.src=paths[n]};img.src=paths[0];return f}"
+          new = "function ill(id,label,opening=false){const f=document.createElement('figure');f.className='ill missing'+(opening?' opening':'');const img=document.createElement('img');const cap=document.createElement('figcaption');cap.textContent=id+' · '+label;img.alt=label+' — ELYNDRAN';img.decoding='async';if(opening)img.fetchPriority='high';f.append(img,cap);const paths=['art/masters/'+id+'.webp','art/masters/'+id+'.png','art/masters/'+id+'.jpg','art/masters/'+id+'.svg'];let n=0;const probe=new Image();const next=()=>{if(n>=paths.length)return;probe.src=paths[n++]+'?v=20260829-3'};probe.onload=()=>{img.src=probe.src;f.classList.remove('missing');atlas()};probe.onerror=next;next();return f}"
+          if old not in s:
+              raise SystemExit('Expected image loader not found; refusing unsafe patch')
+          p.write_text(s.replace(old, new, 1), encoding='utf-8')
+          PY
+      - name: Commit fix
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add book.html
+          git commit -m 'fix: load chapter images before revealing hidden figures'
+          git push origin HEAD:main
