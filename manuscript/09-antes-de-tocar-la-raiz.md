@@ -1,34 +1,34 @@
 # Capítulo IX — Antes de tocar la raíz
 
-La lluvia empezó antes de que terminaras de dormir.
+La lluvia empezó antes de que terminara de dormir.
 
-Te despertó el paracaídas tensándose sobre la reparación.
+Me despertó el paracaídas tensándose sobre la reparación.
 
 Dentro, la junta seguía seca.
 
 Fuera, un hilo continuo de agua recorría el tejido gris, pasaba por el casco sucio y caía al vacío.
 
-Miraste la reserva terrestre abierta sobre el banco.
+Miré la reserva terrestre abierta sobre el banco.
 
 Quedaba menos de la mitad.
 
-Por primera vez no oíste lluvia.
+Por primera vez no oí lluvia.
 
-Viste agua pasando de largo.
+Vi agua pasando de largo.
 
 ---
 
 No bastaba con poner un recipiente debajo.
 
-El agua que caía del paracaídas había atravesado tela quemada, polvo, barro y tus propias manos.
+El agua que caía del paracaídas había atravesado tela quemada, polvo, barro y mis propias manos.
 
-Recuperaste una pequeña lámina de cubierta térmica cuya cara interior había permanecido protegida desde antes del impacto. La limpiaste con una cantidad mínima de tu propia agua, aplicaste calor y la montaste fuera con una inclinación suficiente para que la lluvia recorriera solo aquella superficie antes de caer.
+Recuperé una pequeña lámina de cubierta térmica cuya cara interior había permanecido protegida desde antes del impacto. La limpié con una cantidad mínima de mi propia agua, apliqué calor y la monté fuera con una inclinación suficiente para que la lluvia recorriera solo aquella superficie antes de caer.
 
 El primer ángulo acumulaba agua.
 
 El segundo vibraba demasiado.
 
-Añadiste un tercer apoyo y esperaste una ráfaga.
+Añadí un tercer apoyo y esperé una ráfaga.
 
 Las membranas se tensaron.
 
@@ -36,7 +36,7 @@ Llegó el viento.
 
 La lámina aguantó.
 
-Dejaste pasar varios volúmenes por un recipiente de descarte, enjuagaste lámina y envase y solo entonces llenaste un frasco limpio.
+Dejé pasar varios volúmenes por un recipiente de descarte, enjuagué lámina y envase y solo entonces llené un frasco limpio.
 
 La lluvia tardó menos de un minuto.
 
@@ -44,13 +44,13 @@ Aquello era distinto del agua de los discos por una razón sencilla: aún no hab
 
 ---
 
-Colocaste ambos frascos juntos en la cápsula.
+Coloqué ambos frascos juntos en la cápsula.
 
 A simple vista eran iguales.
 
-No repetiste todas las pruebas.
+No repetí todas las pruebas.
 
-Fuiste directamente a la fracción que había detenido el ensayo anterior.
+Fui directamente a la fracción que había detenido el ensayo anterior.
 
 La lluvia mostró una señal orgánica mucho menor que el agua de los discos.
 
@@ -58,11 +58,11 @@ No cero.
 
 Sales más bajas. Ningún metal reconocido por encima del umbral inmediato. Acidez corregible.
 
-Filtraste una pequeña porción.
+Filtré una pequeña porción.
 
 La señal descendió casi hasta el fondo.
 
-Aplicaste tratamiento térmico.
+Apliqué tratamiento térmico.
 
 El equipo terminó mostrando:
 
@@ -72,55 +72,55 @@ Mejor que una advertencia.
 
 No una garantía.
 
-No bebiste de inmediato.
+No bebí de inmediato.
 
-Abriste el protocolo médico para fuentes desconocidas: inspección, análisis disponible, filtrado, esterilización, exposición mínima, observación.
+Abrí el protocolo médico para fuentes desconocidas: inspección, análisis disponible, filtrado, esterilización, exposición mínima, observación.
 
 El problema era obvio.
 
-Tú eras el sujeto y el observador.
+Yo era el sujeto y el observador.
 
-Todavía tenías agua terrestre.
+Todavía tenía agua terrestre.
 
-También sabías que esperar hasta no tenerla convertiría cualquier prueba en una obligación.
+También sabía que esperar hasta no tenerla convertiría cualquier prueba en una obligación.
 
-Preparaste cinco mililitros.
+Preparé cinco mililitros.
 
-Filtraste.
+Filtré.
 
-Calentaste.
+Calenté.
 
-Esperaste a que enfriara.
+Esperé a que enfriara.
 
-Mojaste primero el labio.
+Mojé primero el labio.
 
 Nada.
 
 Después una gota en la lengua.
 
-Esperaste.
+Esperé.
 
 Sin cambios medibles.
 
-Tomaste un mililitro más.
+Tomé un mililitro más.
 
-Volviste a esperar.
+Volví a esperar.
 
-No llamaste seguridad a la ausencia de una reacción inmediata.
+No llamé seguridad a la ausencia de una reacción inmediata.
 
-Solo la registraste.
+Solo la registré.
 
 ---
 
 La lluvia siguió durante horas.
 
-El problema dejó de ser encontrar agua y pasó a ser almacenarla sin contaminarla. Limpiaste dos bolsas de ración vacías y las preparaste como recipientes temporales.
+El problema dejó de ser encontrar agua y pasó a ser almacenarla sin contaminarla. Limpié dos bolsas de ración vacías y las preparé como recipientes temporales.
 
 No eran depósitos.
 
 Eran margen.
 
-Desde fuera viste cómo el agua que no entraba en el colector recorría la corteza, recogía sedimento y desaparecía hacia las capas inferiores.
+Desde fuera vi cómo el agua que no entraba en el colector recorría la corteza, recogía sedimento y desaparecía hacia las capas inferiores.
 
 Misma lluvia.
 
@@ -134,17 +134,17 @@ Después.
 
 Al anochecer habían pasado más de seis horas desde la primera exposición.
 
-No apareció ninguna reacción que pudieras medir.
+No apareció ninguna reacción que pudiera medir.
 
-Comiste media ración y bebiste de la reserva terrestre.
+Comí media ración y bebí de la reserva terrestre.
 
-Luego tomaste diez mililitros de lluvia filtrada y tratada.
+Luego tomé diez mililitros de lluvia filtrada y tratada.
 
-Esta vez no esperaste con el tubo en la mano.
+Esta vez no esperé con el tubo en la mano.
 
-Seguiste limpiando la cápsula.
+Seguí limpiando la cápsula.
 
-En el registro escribiste:
+En el registro escribí:
 
 **LLUVIA DIRECTA. RECOGIDA SIN CONTACTO CON RAÍZ.**
 
@@ -152,9 +152,9 @@ En el registro escribiste:
 
 La última línea exigió más cuidado.
 
-No escribiste *potable*.
+No escribí *potable*.
 
-Escribiste:
+Escribí:
 
 **TOLERADA EN EXPOSICIÓN MÍNIMA. SEGUIR OBSERVANDO.**
 
@@ -164,4 +164,4 @@ Nada grande se había resuelto.
 
 Pero fuera había una lámina inclinada esperando la próxima lluvia.
 
-Por primera vez, una parte de Elyndran podía ampliar tus reservas sin tocar la raíz.
+Por primera vez, una parte de Elyndran podía ampliar mis reservas sin tocar la raíz.
