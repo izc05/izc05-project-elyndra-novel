@@ -6,38 +6,31 @@ Representar la primera exposición dérmica deliberada sin convertirla en gesto 
 
 ## Imagen de apertura
 
-Exterior inmediato de la cápsula. Protagonista sentado o semisentado sobre la raíz ancha, espalda contra una protuberancia, pierna derecha extendida y escotilla completa visible a menos de seis metros. Casco cerrado. Solo el dorso de la mano y la muñeca izquierdas están descubiertos; el resto del traje permanece completamente sellado.
-
-La mano expuesta debe verse anatómicamente impecable y pequeña dentro del encuadre. El paisaje no debe robar la escena.
+Interior de la cápsula al comienzo del capítulo. La línea de cinta aparece despegada en una esquina con humedad debajo; el protagonista se incorpora apoyándose en el banco y descarga la rodilla derecha. Cerca están el botiquín cerrado y las reservas, pero todavía no hay piel expuesta ni preparación exterior visible. La escena debe transmitir desgaste, recursos finitos y una decisión aún no tomada.
 
 ### Obligatorio
 
 - un único protagonista;
-- casco cerrado y sistema de respiración activo;
-- solo mano/muñeca izquierdas expuestas;
-- guante izquierdo retirado parcialmente, guante derecho puesto;
-- cronómetro físico/visual discreto, sin HUD espectacular;
-- escotilla y cápsula claramente próximas;
-- superficie de raíz seca en la zona elegida;
-- membranas cercanas flojas al inicio;
-- sensación de frío y humedad mediante piel/luz, no efectos fantásticos.
+- interior pequeño y coherente con XV;
+- línea de cinta despegada y humedad localizada;
+- postura que descargue la rodilla derecha;
+- reservas visibles solo como contexto físico, sin infografía;
+- continuidad exacta de cápsula y equipo.
 
 ### Prohibido
 
-- cara descubierta, casco levantado o respiración directa;
-- brazo completo, torso u otra piel desnuda;
-- tocar la raíz con piel;
-- reacción visible, venas luminosas, sarpullido o adaptación;
-- estética heroica de “primer contacto”;
-- organismos aproximándose a la mano;
+- mano o muñeca desnudas en la apertura;
+- exposición exterior anticipada;
+- cara heroica o gesto de “primer contacto”;
+- infección, reacción visible o efectos fantásticos;
 - texto incrustado.
 
 ## Imagen interior 1 — Treinta y cuatro segundos
 
-Plano cercano de mano/muñeca izquierdas al aire con el borde del guante visible y el visor/casco desenfocado en segundo plano. Debe poder entenderse que la exposición es controlada sin convertir el número 34 en iconografía.
+Solo después de que el manuscrito retire el guante: exterior inmediato de la cápsula, protagonista sentado o semisentado sobre la raíz ancha, pierna derecha extendida y escotilla completa visible a menos de seis metros. Casco cerrado. Únicamente el dorso de la mano y parte de la muñeca izquierdas están descubiertos; guante derecho puesto y resto del traje sellado. La piel no toca raíz, flora ni agua local. El cronómetro puede ser físicamente discreto, sin convertir 34 en iconografía.
 
 ## Imagen interior 2 — Comparación dentro de la cápsula
 
-Interior posterior al retorno: mano izquierda y derecha junto a escala médica, aspecto normal y equivalente, apósitos transparentes preparados. El protagonista ya está sin casco dentro, con ambiente de cápsula pequeño y sobrio.
+Después del retorno y la recirculación: mano izquierda y derecha junto a escala médica, aspecto normal y equivalente, apósitos transparentes preparados. El protagonista ya está sin casco dentro, con ambiente pequeño y sobrio.
 
-**Regla narrativa:** ausencia de reacción aguda no equivale a seguridad.
+**Regla narrativa:** la apertura no revela la prueba. La piel exterior solo aparece cuando el texto ya ha establecido la decisión, el lugar, el casco cerrado y la retirada del guante. Ausencia de reacción aguda no equivale a seguridad.
