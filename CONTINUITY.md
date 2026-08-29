@@ -283,7 +283,7 @@ No confirmado: identidad entre individuos observados, dieta fisiológica, digest
 
 ## RECURSOS
 
-- **Comida:** presión explícita y físicamente contada. XXIII: 11,5 → 10,5 raciones. XXIV: una ración con sellado comprometido se descarta y se consume 0,5 → 9 raciones completas. XXV: consume 0,5 → 8,5. XXVI: consume 0,5 → **8 raciones completas seguras**.
+- **Comida:** presión explícita y físicamente contada. XXIII: 11,5 → 10,5 raciones. XXIV: una ración con sellado comprometido se descarta y se consume 0,5 → 9 raciones completas. XXV: consume 0,5 y deja **8 raciones completas + 0,5 ración segura**. XXVI consume esa mitad separada y termina con **8 raciones completas seguras**.
 - **Agua:** agua terrestre sigue siendo fuente principal. Agua de discos no consumida. Lluvia tratada solo como reserva experimental; la muestra de XXV tampoco se bebe.
 - **Filtros:** finitos; bóveda ascendente consume más capacidad y más batería por compensación de caudal.
 - **Energía:** finita, con recuperación variable por luz. Baliza, recirculación, análisis, tratamiento, bombas y calor compiten.
