@@ -4,49 +4,19 @@ La ausencia de la cinta cambió una decisión pequeña.
 
 A la mañana siguiente no llevaste otra.
 
-Podías haber cortado un fragmento nuevo del rollo. Todavía quedaba suficiente para varias marcas. Lo sostuviste un momento antes de cerrar la mochila y después lo devolviste al compartimento lateral de la cápsula.
-
 Querías saber si el camino seguía allí cuando desaparecía tu señal.
 
-La rodilla había bajado de volumen durante la noche. Seguía rígida, pero el dolor ya no acompañaba cada paso. El costado molestaba solo al inclinarte demasiado.
-
-Antes de salir revisaste la baliza.
-
-Transmitiendo.
-
-Sin respuesta.
-
-La pantalla inició otro ciclo de búsqueda.
-
-La apagaste antes de que terminara.
+La rodilla había bajado de volumen. El costado molestaba solo al inclinarte demasiado. La baliza seguía transmitiendo sin respuesta.
 
 Fuera había dejado de llover.
 
-El agua seguía cayendo desde las raíces superiores, pero ya no formaba una cortina continua. Podías distinguir los golpes separados sobre la cápsula, la corteza y las membranas. La niebla también había descendido. Durante unos segundos viste una raíz situada mucho más abajo de lo que recordabas posible.
+La ruta hasta la bifurcación apareció en el orden que ya conocías: depresión de agua, grieta, membranas, estrechamiento. Cuando el viento cambió, bajaste el cuerpo antes de que las láminas terminaran de tensarse.
 
-No intentaste encontrar el fondo.
-
-Empezaste a caminar.
-
-La depresión de agua apareció después de la primera curva.
-
-Luego la grieta.
-
-Después las cuatro membranas unidas bajo el borde.
-
-El estrechamiento.
-
-No necesitabas detenerte para comprobar ninguno.
-
-Cuando el viento cambió, bajaste el centro de gravedad antes de que las membranas terminaran de tensarse.
-
-La ráfaga llegó un segundo más tarde.
-
-Seguiste.
+La ráfaga llegó un segundo después.
 
 En la bifurcación quedaba el rectángulo más claro donde habías raspado la corteza para fijar la cinta.
 
-La tormenta se había llevado el plástico blanco.
+La tormenta se había llevado el plástico.
 
 No el lugar.
 
@@ -54,7 +24,7 @@ Tomaste la ruta horizontal.
 
 ---
 
-Los tonos empezaron antes de que la niebla te envolviera por completo.
+Los tonos empezaron antes de que la niebla te envolviera.
 
 Agudo.
 
@@ -62,284 +32,114 @@ Pausa.
 
 Grave.
 
-La primera vez cada nota había convertido aquella rama en una dirección desconocida.
+La primera visita habían sido una llamada hacia algo desconocido. Ahora servían casi como referencia de distancia.
 
-Ahora te decía cuánto faltaba.
+Pasaste junto a los filamentos azul grisáceos sin repetir pruebas. La estructura de tres brazos apareció después de una curva, reconocible antes incluso de verla completa.
 
-Primero apareció bajo las botas el tramo donde la raíz se ensanchaba. Después las placas lisas. Más adelante, los filamentos azul grisáceos inclinados contra una corriente que apenas rozaba el traje.
+La corteza seguía cubriendo parte de la base. Las bandas del material oscuro y las dos secuencias de hendiduras no mostraban cambios visibles.
 
-No sacaste la herramienta.
-
-No repetiste la prueba con la válvula del guante.
-
-Ya sabías lo suficiente para pasar junto a ellos.
-
-La estructura de tres brazos surgió de la niebla a menos de veinte metros.
-
-Reconociste primero la inclinación del brazo izquierdo.
-
-Después el resto.
-
-Eso te detuvo más que la propia estructura.
-
-La primera visita había necesitado viento, paciencia y siete fotogramas para demostrarte que aquello estaba allí.
-
-Esta vez bastó una curva.
-
-Te acercaste.
-
-La corteza seguía cubriendo parte de la base. Las bandas horizontales del material oscuro no habían variado. Tampoco las dos secuencias de hendiduras.
-
-Tres pequeñas.
-
-Una grande.
+Tres pequeñas. Una grande.
 
 Más abajo, una grande y dos pequeñas.
 
-Una de las depresiones menores contenía agua.
+Una de las depresiones menores contenía agua de la lluvia nocturna.
 
-Las otras estaban secas.
+El brazo superior emitió el tono agudo. Viste la película transparente de su cavidad temblar antes que el material oscuro.
 
-Te agachaste sin apoyar del todo la rodilla derecha.
+No esperaste una explicación.
 
-La gota ocupaba casi toda la cavidad y devolvía una versión deformada de la luz del casco. La base descendía ligeramente hacia ese lado. Había llovido durante la noche. No necesitabas inventar nada más.
-
-Pasaste la linterna por encima.
-
-El agua permaneció inmóvil.
-
-No la tocaste.
-
-El brazo superior emitió el tono agudo.
-
-Esta vez viste la película transparente de su cavidad temblar antes que el metal sin necesidad de revisar una grabación.
-
-Esperaste el grave.
-
-Cinco segundos.
-
-Diez.
-
-Quince.
-
-No llegó.
-
-Te sorprendiste contando.
-
-Sonreíste dentro del casco y dejaste de hacerlo.
-
-Los intervalos nunca habían prometido obedecerte.
-
-El tono grave apareció cuando ya estabas mirando hacia la plataforma.
+Miraste hacia la plataforma.
 
 La niebla se abrió.
 
-Y por primera vez la distancia dejó de parecer una pared blanca con algo detrás.
+Esta vez reveló espacio entre ambos puntos.
 
-Había espacio.
+Dos raíces cruzaban a distinta altura antes de la zona regular. Más allá se abría un hueco ancho. Las formas verticales seguían allí: seis que podías contar con seguridad, quizá más detrás. Una inclinada. Otra terminada en una rotura limpia. Otra con una abertura próxima a la parte superior.
 
-Mucho más del que habías calculado.
+Sin luces.
 
-Entre la estructura y la plataforma cruzaban al menos dos raíces a distinta altura. Una desaparecía por debajo de la otra. Más allá se abría un hueco suficientemente ancho para que la niebla tuviera profundidad propia.
+Sin humo.
 
-Las formas verticales seguían allí.
+Sin movimiento.
 
-Seis que podías contar con seguridad.
+Y, por primera vez, pudiste ver por qué aquello seguía fuera de alcance.
 
-Quizá más detrás.
+La raíz bajo tus pies se dividía unos cuarenta metros más adelante. Una rama descendía hacia la niebla. La otra terminaba en el vacío. Al otro lado, otra raíz ascendía desde una capa inferior hasta tocar la plataforma por debajo.
 
-Una estaba inclinada. Otra terminaba a media altura en una rotura limpia. La abertura cerca de la parte superior de la tercera seguía visible cuando cambiaba el ángulo de la luz.
-
-No había luces.
-
-No había humo.
-
-Nada cruzó entre ellas.
-
-El aire limpió unos metros más y entonces viste la ruta completa.
-
-O, al menos, por qué no era una ruta.
-
-La raíz bajo tus pies se dividía unos cuarenta metros más adelante. Una rama descendía y desaparecía bajo la niebla. La otra terminaba en el vacío.
-
-Al otro lado, otra raíz ascendía desde una capa inferior y tocaba la plataforma por debajo.
-
-Entre ambas quedaba un hueco que ninguna perspectiva podía borrar.
+Entre ambas quedaba un hueco que la perspectiva no podía cerrar.
 
 ---
 
 Avanzaste hasta la división.
 
-La estructura de tres brazos quedó atrás. Primero la ocultó la niebla. Después la propia curvatura de la raíz.
+La rama descendente estaba cubierta por una película oscura que retenía agua. El extremo roto, en cambio, terminaba casi plano.
 
-Los tonos siguieron llegando.
-
-Más débiles.
-
-Más útiles.
-
-La rama descendente era ancha, pero estaba cubierta por una película oscura que brillaba donde retenía agua. Bajaba unos quince metros antes de desaparecer bajo una capa de niebla compacta.
-
-La rama rota permitía ver la plataforma durante intervalos breves.
-
-Elegiste esa.
-
-No para cruzar.
-
-Para acercarte hasta donde el cuerpo dijera basta.
-
-El extremo no se parecía a la rotura de la ruta descendente. Allí las fibras se abrían, retorcidas y desiguales. Aquí la raíz terminaba de una forma que te hizo reducir el paso.
-
-Casi plana.
-
-No lisa.
-
-Plana.
+Eso te hizo reducir el paso.
 
 Te detuviste a dos metros del borde.
 
-Extendiste la varilla de medición desde la herramienta.
+Surcos paralelos atravesaban la corteza. Algunos alcanzaban una capa más clara; otros desaparecían bajo crecimiento reciente. La separación no era perfecta, pero se repetía.
 
-Entonces viste los surcos.
+Fotografiaste.
 
-Paralelos.
+La raíz siguiente quedaba demasiado lejos incluso con dos piernas sanas. El aseguramiento improvisado podía limitar un deslizamiento. No podía fabricar un puente.
 
-Algunos atravesaban la corteza hasta una capa más clara. Otros desaparecían bajo crecimiento nuevo. La separación entre ellos no era perfecta, pero se repetía demasiado para ignorarla.
+Buscaste cualquier irregularidad que cambiara el problema.
 
-Tomaste tres fotografías.
+Entonces viste una línea oscura bajo la raíz opuesta.
 
-Al inclinarte, la rodilla avisó.
+Con el zoom tenía aproximadamente el grosor de tu muñeca. Salía de la cara inferior, describía una curva y desaparecía entre la niebla.
 
-Retrocediste antes de que el dolor decidiera por ti.
-
-La raíz siguiente quedaba demasiado lejos para saltar incluso con las dos piernas sanas. El sistema de aseguramiento improvisado que habías fabricado servía para limitar una caída, no para inventar un anclaje donde no existía ninguno.
-
-Aun así buscaste.
-
-Una protuberancia.
-
-Una fibra.
-
-Cualquier irregularidad que convirtiera el hueco en un problema distinto.
-
-Fue entonces cuando viste la línea oscura bajo la raíz opuesta.
-
-Al principio parecía una veta.
-
-Seguiste su recorrido con el zoom.
-
-Tenía aproximadamente el grosor de tu muñeca. Salía de la cara inferior de la raíz, describía una curva y desaparecía bajo la niebla.
-
-La imagen no resolvía su superficie.
-
-Esperaste otra apertura.
-
-Seguía allí.
-
-En la tercera viste dónde terminaba.
+En la siguiente apertura viste el otro extremo.
 
 No colgaba de la raíz.
 
 Entraba en ella.
 
-La corteza se cerraba alrededor del material como se cerraba alrededor de la base de la estructura sonora.
+La corteza se cerraba alrededor del material igual que alrededor de la base de la estructura sonora.
 
 Bajaste el zoom.
 
-Volviste a mirar sin aumento.
+A simple vista volvía a ser una línea negra entre otras líneas negras.
 
-Desde esa distancia solo era una línea negra perdida entre raíces negras.
-
-Te habría pasado inadvertida dos días antes.
+Dos días antes probablemente no la habrías visto.
 
 El tono agudo llegó desde atrás.
 
-Débil.
+Un segundo después, una vibración fina recorrió las suelas.
 
-Un segundo después notaste algo en las botas.
+No fue uno de los golpes profundos.
 
-Una vibración.
+Duró menos de un segundo.
 
-No un golpe.
+Volvió una vez y desapareció.
 
-Un temblor fino que recorrió la suela durante menos de un segundo y desapareció antes de que pudieras agacharte.
-
-Miraste hacia atrás.
-
-La niebla ocupaba toda la ruta.
-
-La vibración volvió.
-
-Esta vez apoyaste una mano en la corteza.
+Apoyaste la mano en la corteza.
 
 Nada.
 
-Solo agua resbalando entre los dedos del guante.
+El grave sonó lejos. La niebla cerró la plataforma.
 
-Esperaste.
-
-El tono grave sonó lejos.
-
-La niebla cerró la plataforma.
-
-No ocurrió nada más.
-
-Te quedaste allí unos segundos, mirando una pared blanca donde antes había seis formas verticales, una raíz opuesta y una línea oscura.
-
-Después marcaste la posición del borde.
-
-Y regresaste.
+Marcaste el borde y regresaste.
 
 ---
 
-La estructura de tres brazos reapareció por el mismo lado por el que había desaparecido.
+La estructura de tres brazos reapareció donde esperabas. No repetiste las fotografías.
 
-La hendidura seguía llena de agua.
+En el camino de vuelta, la plataforma surgió un instante y volvió a borrarse.
 
-No la fotografiaste otra vez.
+Ya no parecía un destino aislado.
 
-Ya tenías una imagen.
-
-La plataforma surgió entre la niebla durante unos segundos y volvió a borrarse.
-
-Esta vez no pareció un destino.
-
-Pareció una pieza.
-
-Había raíces por debajo.
-
-La línea oscura entraba en una de ellas.
-
-Los tonos llegaban desde detrás de ti.
-
-Y el borde casi plano, con sus surcos, no conducía a ninguna parte que pudieras alcanzar todavía.
-
-Guardaste la cámara.
-
-Al abandonar la estructura sonó el tono agudo.
-
-No te detuviste.
-
-El grave llegó cinco pasos después.
-
-Tampoco te detuviste.
+Había raíces por debajo. Material oscuro entrando en ellas. Un borde casi plano con surcos. Una vibración distinta de los golpes del fondo.
 
 En la bifurcación seguía sin haber cinta.
 
 Giraste hacia la cápsula sin abrir el mapa.
 
-La grieta del viento apareció donde esperabas.
-
-Las membranas bajo el borde se tensaron.
-
-Reduciste el paso.
+La grieta apareció donde debía. Las membranas se tensaron. Redujiste el paso.
 
 La ráfaga llegó.
 
-Inclinaste el cuerpo antes de que te golpeara.
+Cuando levantaste la vista aún no veías la cápsula.
 
-Cuando levantaste la vista, la siguiente curva ya tenía una forma conocida.
-
-Aún no veías la cápsula.
-
-Sabías que estaba detrás.
+Sabías que estaba detrás de la siguiente curva.
