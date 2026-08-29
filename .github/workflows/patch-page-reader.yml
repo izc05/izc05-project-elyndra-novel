@@ -1,0 +1,42 @@
+name: Patch page-based book reader
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-page-reader.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Add story pages to book reader
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('book.html')
+          s=p.read_text()
+          css_old=".article p{font-size:var(--read);line-height:1.86;margin:0 0 1.25rem}"
+          css_new=css_old+".story-page{position:relative;padding:0 0 2.25rem;margin:0 0 2.5rem;border-bottom:1px solid #d7cdbf}.story-page:last-of-type{border-bottom:0;margin-bottom:0}.page-no{text-align:right;color:#948674;font:600 .62rem system-ui;letter-spacing:.1em;text-transform:uppercase;margin-top:1.7rem}.theme-black .story-page{border-color:#2b3033}.theme-black .page-no{color:#8f8980}.theme-white .story-page{border-color:#ddd}.theme-white .page-no{color:#777}@media print{.story-page{break-after:page;border-bottom:0}.story-page:last-of-type{break-after:auto}}"
+          if css_old not in s:
+              raise SystemExit('article paragraph css marker not found')
+          s=s.replace(css_old,css_new,1)
+          old="function md(s){let o=[],p=[];const f=()=>{if(p.length){o.push('<p>'+esc(p.join(' ')).replace(/\\*\\*(.+?)\\*\\*/g,'<strong>$1</strong>').replace(/\\*(.+?)\\*/g,'<em>$1</em>')+'</p>');p=[]}};for(const l of s.split(/\\r?\\n/)){if(l.startsWith('# ')){f();o.push('<h1>'+esc(l.slice(2))+'</h1>')}else if(!l.trim()||l.trim()==='---'){f()}else p.push(l.trim())}f();return o.join('')}"
+          new="function md(s){const pages=s.split(/\\r?\\n\\s*---\\s*\\r?\\n/);const parse=part=>{let o=[],p=[];const f=()=>{if(p.length){o.push('<p>'+esc(p.join(' ')).replace(/\\*\\*(.+?)\\*\\*/g,'<strong>$1</strong>').replace(/\\*(.+?)\\*/g,'<em>$1</em>')+'</p>');p=[]}};for(const l of part.split(/\\r?\\n/)){if(l.startsWith('# ')){f();o.push('<h1>'+esc(l.slice(2))+'</h1>')}else if(!l.trim()){f()}else p.push(l.trim())}f();return o.join('')};return pages.map((part,i)=>'<section class=\"story-page\" data-page=\"'+(i+1)+'\" aria-label=\"Página '+(i+1)+' de '+pages.length+'\">'+parse(part)+'<div class=\"page-no\">Página '+(i+1)+' de '+pages.length+'</div></section>').join('')}"
+          if old not in s:
+              raise SystemExit('markdown parser marker not found')
+          s=s.replace(old,new,1)
+          p.write_text(s)
+          PY
+          git diff --check
+          grep -F 'class="story-page"' book.html
+          grep -F 'Página '+ book.html || true
+      - name: Commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add book.html
+          git commit -m 'feat: render manuscript scene breaks as readable pages'
+          git push origin HEAD:main
