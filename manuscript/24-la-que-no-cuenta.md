@@ -44,7 +44,7 @@ Nada de aquello reparaba el agujero.
 
 Dejaste la ración en el lado de entrada de la cinta.
 
-Después sacaste las otras diez y media.
+Después sacaste las otras nueve y media.
 
 La revisión tardó más de lo que querías.
 
@@ -62,7 +62,7 @@ Ningún otro respiró.
 
 Cuando terminaste, el banco estaba ocupado por dos grupos que a simple vista se diferenciaban solo por unos centímetros de distancia.
 
-Diez raciones completas y una mitad.
+Nueve raciones completas y una mitad.
 
 Una ración que ya no contaba.
 
@@ -330,7 +330,7 @@ En la pared, la marca que habías pegado semanas atrás quedaba ahora demasiado 
 
 La despegaste.
 
-La moviste.
+La moviste hasta el borde de los nueve paquetes completos.
 
 No escribiste una fecha junto a ella.
 
