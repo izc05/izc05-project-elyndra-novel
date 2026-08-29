@@ -1,14 +1,16 @@
 # Prólogo — Treinta y siete segundos
 
-La primera anomalía fue tan pequeña que estuviste a punto de atribuírsela al reloj.
+La primera anomalía fue tan pequeña que estuve a punto de ignorarla.
 
-El aviso apareció en una esquina del ventanal, debajo de la presión exterior y del vector de descenso:
+En una esquina del ventanal apareció un aviso:
 
 **CONTACTO CON SUPERFICIE: −37,00 s**
 
-Aster seguía por encima de la atmósfera.
+Miré fuera.
 
-Elyndran ocupaba casi todo el cristal frontal, pero aún conservaba un borde limpio contra el negro. Entre la nave y las nubes altas quedaba una franja de oscuridad donde no había aire suficiente para sostener nada.
+Elyndran seguía debajo de mí, enorme y lejano, todavía separado de la nave por una franja de oscuridad.
+
+No había tocado nada.
 
 El contador descendió.
 
@@ -16,53 +18,37 @@ El contador descendió.
 
 −36,84.
 
-Abriste el diagnóstico. Radar de altitud, referencia inercial y trayectoria coincidían: seguías cayendo hacia el planeta. Solo el sensor de contacto insistía en que ya habías llegado.
+Abrí el diagnóstico. Altitud, trayectoria, referencia inercial: todo decía lo mismo.
 
-Antes de que pudieras aislarlo, el valor desapareció.
+Seguía cayendo.
+
+Entonces el aviso desapareció.
 
 **CONTACTO CON SUPERFICIE: 12 min 41 s**
 
-No hubo alarma.
-
-Buscaste el salto en el historial.
+Busqué el error en el historial.
 
 No estaba.
 
-El registro pasaba de 12 min 49 s a 12 min 48 s como si los treinta y siete segundos anteriores nunca hubieran existido.
+Guardé una captura manual.
 
-Guardaste una captura manual y otra copia en el almacenamiento independiente de la cápsula.
+No sabía todavía por qué.
 
-Fuera, el planeta siguió creciendo.
+---
 
-Desde aquella altura Elyndran parecía más tranquilo de lo que prometían las simulaciones: largas franjas de nubes, extensiones oscuras imposibles de distinguir entre agua y llanura, una tormenta enorme girando al sur. Nada de aquello era imposible.
+La entrada atmosférica empezó como debía.
 
-Solo nuevo.
+Vibración.
 
-El asiento vibró cuando Aster orientó el escudo térmico.
+Fuego naranja alrededor del ventanal.
 
-—Aster, confirma secuencia de entrada.
+El planeta creciendo hasta ocuparlo todo.
 
-**SECUENCIA NOMINAL.**
+Durante unos segundos pensé que la anomalía había sido solo eso: una anomalía.
 
-La voz sintética llevaba horas desactivada. Durante el viaje habías descubierto que escuchar una voz sin nadie detrás empeoraba el silencio.
+Después el horizonte giró.
 
-—Discrepancias de navegación.
-
-**NINGUNA DISCREPANCIA ACTIVA.**
-
-Activa.
-
-Te quedaste un instante con esa palabra.
-
-Después llegaron las primeras vibraciones de la atmósfera. Un resplandor naranja creció alrededor del ventanal, las estrellas desaparecieron y Elyndran dejó de ser un planeta para convertirse en un cielo entero.
-
-Durante treinta y nueve segundos todo funcionó como debía.
-
-Luego el horizonte giró.
-
-El planeta dio un cuarto de vuelta detrás del cristal y el arnés te hundió el hombro izquierdo contra el asiento.
-
-Las alarmas llegaron juntas.
+El arnés me hundió contra el asiento.
 
 **ERROR DE REFERENCIA INERCIAL.**
 
@@ -70,47 +56,35 @@ Las alarmas llegaron juntas.
 
 **SUPERFICIE NO RESUELTA.**
 
-El panel de navegación mostró dos horizontes: el que veías y otro, azul, atravesando el ventanal en diagonal.
-
-—Aster, control manual.
+—Control manual.
 
 Nada.
 
-Golpeaste el selector físico de emergencia con los nudillos.
-
-La pantalla se llenó de rojo.
+Golpeé el selector de emergencia.
 
 **SEPARACIÓN DE CÁPSULA AUTORIZADA.**
 
-Tú no la habías autorizado.
+Yo no la había autorizado.
 
 —Cancelar.
 
-**SEPARACIÓN EN 3.**
+**3.**
 
 —Cancelar separación.
 
 **2.**
 
-Golpeaste el panel.
+Golpeé el panel.
 
 **1.**
 
-Durante una fracción de segundo desaparecieron la vibración y el peso.
+Escuché un clic seco.
 
-Solo quedó el clic seco de algo enorme soltándose.
+Y la cápsula se separó.
 
-Luego la cápsula te arrancó de Aster.
+La aceleración me aplastó contra el asiento. El ventanal se volvió blanco.
 
-La aceleración te aplastó contra el asiento. Una sección del casco se alejó por encima de ti y el sistema de orientación hizo girar la cápsula hasta enfrentar el escudo al flujo.
-
-El ventanal se volvió blanco.
-
-Altitud: 31.420 m.
-
-Velocidad: 3.870 m/s.
-
-Buscaste el enlace con Aster.
+Busqué el enlace con la nave.
 
 Nada.
 
@@ -118,162 +92,132 @@ Canal de emergencia.
 
 Nada.
 
-Balizas orbitales.
+Estaba solo.
 
-Nada.
+---
 
-No había otra persona a la que llamar. Nunca la había habido. La misión estaba diseñada alrededor de una sola plaza humana y una nave capaz de hacer el resto. Durante meses había parecido eficiente.
+Cuando el plasma se abrió pude ver el planeta por fragmentos.
 
-Ahora significaba que nadie podía responder.
+Nubes.
 
-El plasma comenzó a apagarse y el mundo apareció por fragmentos.
+Oscuridad.
 
-Primero nubes. Después dos segundos de una extensión oscura que podía ser agua. Luego un relieve negro, una llanura azulada y una sombra que parecía elevarse por encima de las propias nubes.
+Relieve.
 
-No tuviste tiempo de entenderlo.
+Luego llegó el aviso que no quería leer.
 
 **PARACAÍDAS PRINCIPAL: FALLO DE DESPLIEGUE.**
 
 —Secundario.
 
-**SECUNDARIO DISPONIBLE.**
+El tirón me vació los pulmones.
 
-—Despliega.
-
-El tirón te vació los pulmones. La velocidad cayó con violencia.
-
-La cúpula secundaria resistió seis segundos.
-
-Después falló una línea de carga y la cápsula empezó a rotar.
+La cúpula resistió unos segundos y después la cápsula empezó a girar.
 
 Cielo.
 
-Nubes.
+Niebla.
 
-Algo oscuro.
+Algo negro.
 
 Cielo otra vez.
 
-En una de las vueltas viste por fin hacia dónde caías.
+En una de las vueltas vi hacia dónde estaba cayendo.
 
 No había llanura.
 
-Estructuras enormes atravesaban la niebla a distintas alturas. Algunas se mantenían casi rectas durante centenares de metros antes de bifurcarse. Otras se curvaban y desaparecían dentro de bancos de nube.
+Había estructuras enormes atravesando la niebla a distintas alturas. Algunas se extendían cientos de metros antes de bifurcarse.
 
-Por un instante las confundiste con puentes.
+Durante un instante pensé en puentes.
 
-Después viste la textura.
+Luego vi la textura.
 
 Corteza.
 
-La cápsula descendía hacia una red de raíces tan grandes que la escala dejaba de servir.
+Raíces.
 
-Una cruzó el ventanal de lado a lado durante casi dos segundos. Había vegetación creciendo sobre ella.
+Raíces tan grandes que mi cabeza dejó de entender la escala.
 
-La siguiente apareció demasiado cerca.
+Una cruzó el ventanal entero.
+
+La siguiente estaba demasiado cerca.
 
 —Retropropulsores. Máxima potencia.
 
-**ALTITUD INSUFICIENTE PARA SECUENCIA NOMINAL.**
+Los motores respondieron.
 
-—Ignora secuencia.
+Demasiado tarde.
 
-Una pausa mínima.
+El primer golpe me lanzó contra el arnés.
 
-**CONFIRMADO.**
+El segundo apagó el mundo.
 
-Los motores inferiores encendieron. La rotación disminuyó.
+---
 
-El suelo seguía sin aparecer.
+Volví con sabor a sangre en la boca.
 
-Solo raíces, niebla y más raíces.
-
-La cápsula rozó una de ellas.
-
-El impacto lateral te lanzó contra el arnés. El cristal se llenó de fragmentos verdes y negros. Rebotaste, caíste unos metros y golpeaste de nuevo.
-
-Esta vez el mundo se detuvo inclinado.
-
-Lo siguiente que recordaste fue el sabor de la sangre.
-
-La luz de emergencia teñía el interior de rojo. Estabas colgado del arnés, con agua goteando cerca de una oreja. El costado izquierdo dolía; la rodilla derecha, también. Podías mover manos y pies.
+La cápsula estaba inclinada. Una luz roja parpadeaba sobre mí. Me dolían el costado y la rodilla, pero podía mover manos y pies.
 
 El casco seguía sellado.
 
-El ventanal estaba cubierto por barro y láminas casi transparentes, finas como piel mojada.
-
-Buscaste el temporizador.
-
-La pantalla estaba congelada.
+Miré la pantalla.
 
 **CONTACTO CON SUPERFICIE: −37,00 s**
 
 El mismo número.
 
-Reiniciaste el módulo. Cuando volvió, hora, presión y temperatura eran coherentes. El mensaje había desaparecido otra vez del historial.
+Parpadeé.
 
-La captura manual seguía allí, pero dañada: media imagen se había convertido en ruido violeta. Del valor negativo solo sobrevivían dos caracteres.
+Reinicié el módulo.
+
+El aviso desapareció.
+
+Otra vez.
+
+Abrí la captura que había guardado durante el descenso.
+
+Estaba dañada. Casi todo era ruido violeta.
+
+Solo quedaban dos caracteres legibles.
 
 **37**
 
-Guardaste el archivo.
+Guardé el archivo.
 
-Después soltaste el arnés y caíste contra el lateral que ahora hacía de suelo.
+Después abrí la escotilla.
 
-La puerta de emergencia quedaba por encima de ti. Necesitaste tres intentos y una bota contra el marco para liberar la palanca.
+La lluvia fue lo primero que escuché.
 
-Cuando el cierre cedió, esperaste.
+El aire exterior olía a agua, vegetación y metal quemado.
 
-Solo escuchaste lluvia.
-
-Activaste el circuito autónomo del casco y abriste.
-
-El aire exterior entró alrededor de las juntas con un silbido breve. Olía a agua, materia vegetal y metal quemado.
+Saqué la cabeza.
 
 La cápsula no estaba en el suelo.
 
-Estaba encajada de costado sobre una superficie negra y rugosa que se perdía dentro de la niebla.
+Estaba encajada sobre una raíz negra y enorme que desaparecía dentro de la niebla.
 
-Una raíz.
+Miré hacia abajo.
 
-A pocos metros se ensanchaba lo suficiente para caminar sobre ella. Miraste por el borde.
+Había otra raíz.
 
-Debajo había otra raíz.
+Y otra.
 
-Y otra más abajo.
+Más abajo, nada.
 
-Después, solo niebla.
+Solo niebla y lluvia cayendo hacia un fondo que no podía ver.
 
-La lluvia caía entre todas ellas sin que pudieras ver dónde terminaba.
+No había tierra.
 
-No viste tierra.
+No había luces.
 
-Ni edificios.
+No había nadie.
 
-Ni luces.
+Miré lo que quedaba dentro de la cápsula: agua, botiquín, baterías, herramientas, raciones.
 
-Te quitaste del hombro una de las láminas transparentes. Era flexible y fría. Al tocarla con el guante se contrajo hacia sí misma y, cuando la soltaste, volvió a extenderse.
+Luego miré la raíz que se perdía frente a mí.
 
-Había decenas colgando bajo el borde de la raíz.
+Apoyé una bota fuera.
 
-Todas se tensaron a la vez.
+Y entendí que ya no importaban aquellos treinta y siete segundos.
 
-Un segundo después llegó una ráfaga.
-
-Esperaste.
-
-Volvieron a tensarse.
-
-Después llegó otra.
-
-No sabías qué eran.
-
-Pero ya sabías una cosa que hacían.
-
-Miraste el interior de la cápsula: agua, botiquín, baterías, herramientas, raciones. Todo cuanto todavía podías llamar tuyo.
-
-Después miraste la raíz que se perdía entre la niebla.
-
-La pregunta ya no era cuánto faltaba para impactar.
-
-Era dónde poner el pie siguiente.
+Lo único que importaba era dónde poner el siguiente pie.
