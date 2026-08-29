@@ -1,24 +1,24 @@
 # Capítulo IV — Dos tonos en la niebla
 
-La cápsula tenía exactamente lo que necesitabas.
+La cápsula tenía exactamente lo que necesitaba.
 
-Ese fue el problema.
+Ese era el problema.
 
-Correas del asiento. Malla de carga. Líneas del paracaídas secundario. Anclajes y piezas que habían sido diseñadas para mantenerte vivo dentro de la cápsula y que ahora podían servir fuera.
+Correas del asiento. Malla de carga. Líneas del paracaídas secundario. Anclajes y piezas diseñadas para mantenerme vivo dentro de la cápsula que ahora podían servirme fuera.
 
-El paracaídas no volvería a frenar una caída. Recuperaste de él once metros útiles de línea en tramos desiguales, dos correas que podían retirarse sin comprometer la cápsula y una sección de malla.
+El paracaídas no volvería a frenar una caída. Recuperé once metros útiles de línea en tramos desiguales, dos correas que podía retirar sin comprometer la cápsula y una sección de malla.
 
-En el registro escribiste:
+En el registro escribí:
 
 **NO CERTIFICADO PARA SOSTENER PESO HUMANO.**
 
-Después construiste con ello algo destinado a reducir las consecuencias de una caída humana.
+Después construí con ello algo destinado a reducir las consecuencias de una caída humana.
 
-Trenzaste los tramos aprovechables, repartiste carga con la malla y utilizaste una correa como cinturón improvisado. Una unión se deslizó durante la prueba. La rehíste. Otra cortó el tejido. La reforzaste.
+Trencé los tramos aprovechables, repartí carga con la malla y usé una correa como cinturón improvisado. Una unión se deslizó durante la prueba. La rehice. Otra cortó el tejido. La reforcé.
 
-Cuando terminaste no tenías equipo de escalada.
+Cuando terminé no tenía equipo de escalada.
 
-Tenías una manera menos mala de equivocarte.
+Tenía una manera menos mala de equivocarme.
 
 La luz útil se había acabado.
 
@@ -28,23 +28,23 @@ Los tonos tendrían que esperar hasta el día siguiente.
 
 Seguían allí.
 
-Los oíste antes de alcanzar la bifurcación.
+Los oí antes de alcanzar la bifurcación.
 
 Uno agudo.
 
 Después otro más grave.
 
-Durante la noche habías revisado la grabación. Los intervalos cambiaban demasiado para sostener una periodicidad simple.
+Durante la noche había revisado la grabación. Los intervalos cambiaban demasiado para sostener una periodicidad simple.
 
 La tira reflectante continuaba en su sitio.
 
-Entraste en la rama horizontal.
+Entré en la rama horizontal.
 
 La niebla se tragó la marca a los veinte metros.
 
-A partir de allí avanzaste usando referencias naturales: dos protuberancias juntas, una cicatriz clara y un grupo de membranas bajo el borde derecho.
+A partir de allí avancé usando referencias naturales: dos protuberancias juntas, una cicatriz clara y un grupo de membranas bajo el borde derecho.
 
-El aire era más frío que en la ruta descendente. La raíz se ensanchaba a medida que avanzabas y los surcos profundos de la corteza daban paso a placas más lisas.
+El aire era más frío que en la ruta descendente. La raíz se ensanchaba y los surcos profundos de la corteza daban paso a placas más lisas.
 
 El tono agudo sonó a la izquierda.
 
@@ -52,35 +52,35 @@ El grave, delante.
 
 Después el agudo pareció venir de atrás.
 
-Anotaste:
+Anoté:
 
 **DIRECCIÓN APARENTE VARIABLE. NIEBLA / REFLEXIÓN ACÚSTICA POSIBLE.**
 
-No necesitabas perseguir un eco.
+No necesitaba perseguir un eco.
 
-Seguiste la ruta.
+Seguí la ruta.
 
-Grupos de filamentos azul grisáceos cubrían algunas placas. Probaste uno con una corriente mínima de la válvula del guante.
+Grupos de filamentos azul grisáceos cubrían algunas placas. Probé uno con una corriente mínima de la válvula del guante.
 
 Los filamentos se inclinaron en dirección contraria al flujo.
 
-Repetiste con menos presión.
+Repetí con menos presión.
 
 Misma respuesta.
 
-Guardaste vídeo y continuaste.
+Guardé vídeo y continué.
 
-Entonces el tono grave sonó tan cerca que sentiste la vibración en el casco.
+Entonces el tono grave sonó tan cerca que sentí la vibración en el casco.
 
 Un segundo después llegó el agudo.
 
 La niebla se abrió con una ráfaga.
 
-Viste algo vertical.
+Vi algo vertical.
 
 Desapareció.
 
-Esperaste a que las membranas se tensaran.
+Esperé a que las membranas se tensaran.
 
 El viento volvió a barrer la niebla.
 
@@ -92,7 +92,7 @@ No era un árbol.
 
 No parecía roca.
 
-Te acercaste.
+Me acerqué.
 
 ---
 
@@ -100,7 +100,7 @@ La estructura estaba incrustada en la raíz.
 
 La corteza había crecido alrededor de la base y ocultaba parte del material oscuro. La herramienta devolvió una respuesta metálica o muy parecida a una. El visor no reconoció la composición.
 
-En las zonas expuestas aparecían bandas horizontales finísimas y pequeñas hendiduras. No viste tornillos, soldaduras ni conectores compatibles con Aster.
+En las zonas expuestas aparecían bandas horizontales finísimas y pequeñas hendiduras. No vi tornillos, soldaduras ni conectores compatibles con Aster.
 
 El brazo superior vibró.
 
@@ -110,11 +110,11 @@ Tres segundos después respondió otro brazo con la nota grave.
 
 El viento estaba casi quieto.
 
-Esperaste la siguiente ráfaga.
+Esperé la siguiente ráfaga.
 
 La estructura no sonó.
 
-En la cara interior del brazo agudo descubriste una cavidad estrecha con una película transparente. Su superficie tembló primero.
+En la cara interior del brazo agudo descubrí una cavidad estrecha con una película transparente. Su superficie tembló primero.
 
 Después vibró el brazo.
 
@@ -124,9 +124,9 @@ Primero la película.
 
 Después el tono.
 
-No sabías qué iniciaba la primera vibración, pero el sonido no era simplemente aire atravesando un hueco.
+No sabía qué iniciaba la primera vibración, pero el sonido no era simplemente aire atravesando un hueco.
 
-Rodeaste la base.
+Rodeé la base.
 
 En una zona donde la corteza dejaba el material expuesto había dos series de hendiduras alineadas.
 
@@ -134,11 +134,11 @@ Tres pequeñas y una grande.
 
 Debajo, una grande y dos pequeñas.
 
-Las fotografiaste con escala.
+Las fotografié con escala.
 
-No escribiste *escritura*.
+No escribí *escritura*.
 
-No escribiste *código*.
+No escribí *código*.
 
 **PATRÓN DE HENDIDURAS. ORIGEN NO DETERMINADO.**
 
@@ -162,19 +162,19 @@ La distancia impedía saber qué eran, pero compartían algo con la estructura c
 
 La niebla volvió a cerrarse.
 
-No pensaste *ciudad*.
+No pensé *ciudad*.
 
-Pensaste algo más pequeño.
+Pensé algo más pequeño.
 
 La estructura de tres brazos no estaba sola.
 
 ---
 
-No avanzaste hacia la plataforma.
+No avancé hacia la plataforma.
 
-La rodilla empezaba a doler por debajo del analgésico y la niebla podía borrar en minutos una ruta que acababas de aprender.
+La rodilla empezaba a doler por debajo del analgésico y la niebla podía borrar en minutos una ruta que acababa de aprender.
 
-Grabaste tres referencias naturales alrededor de la estructura, la dirección aproximada de la plataforma y varias imágenes cuando el viento permitía verla.
+Grabé tres referencias naturales alrededor de la estructura, la dirección aproximada de la plataforma y varias imágenes cuando el viento permitía verla.
 
 No hubo luces.
 
@@ -184,7 +184,7 @@ Ni movimiento.
 
 Ni nadie visible.
 
-Antes de marcharte fotografiaste otra vez las hendiduras.
+Antes de marcharme fotografié otra vez las hendiduras.
 
 Tres pequeñas.
 
@@ -194,21 +194,21 @@ Una grande.
 
 Dos pequeñas.
 
-Cuando te alejaste, el tono agudo sonó a tu espalda.
+Cuando me alejé, el tono agudo sonó a mi espalda.
 
 Cuatro pasos después llegó el grave.
 
-Te detuviste.
+Me detuve.
 
 Nada más.
 
-Continuaste.
+Continué.
 
 Dos sonidos no eran una despedida.
 
 ---
 
-Esa noche colocaste tres imágenes en la pantalla de la cápsula.
+Esa noche coloqué tres imágenes en la pantalla de la cápsula.
 
 La estructura de tres brazos.
 
@@ -216,7 +216,7 @@ Las hendiduras.
 
 La plataforma lejana.
 
-Escribiste:
+Escribí:
 
 **MATERIAL NO IDENTIFICADO.**
 
@@ -224,8 +224,8 @@ Después:
 
 **GEOMETRÍA REGULAR OBSERVADA. ORIGEN DESCONOCIDO.**
 
-No sabías quién había hecho aquello.
+No sabía quién había hecho aquello.
 
-Ni siquiera sabías si *hecho* era todavía la palabra correcta.
+Ni siquiera sabía si *hecho* era todavía la palabra correcta.
 
 Pero Elyndran ya no podía reducirse a raíces, agua, viento y animales pequeños.
