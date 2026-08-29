@@ -2,21 +2,21 @@
 
 El envoltorio no pesaba nada.
 
-Aun así lo doblaste antes de tirarlo.
+Aun así lo doblé antes de tirarlo.
 
 La pila de plástico plateado ocupaba poco espacio.
 
 Ese era el problema.
 
-Abriste el compartimento de comida. Había demasiado fondo visible.
+Abrí el compartimento de comida. Había demasiado fondo visible.
 
-Sacaste una ración y la partiste por la línea del fabricante. Durante el viaje aquella marca había sido una cuestión de apetito.
+Saqué una ración y la partí por la línea del fabricante. Durante el viaje aquella marca había sido una cuestión de apetito.
 
 Ahora era una medida.
 
-Guardaste una mitad.
+Guardé una mitad.
 
-Comiste la otra mirando el colector.
+Comí la otra mirando el colector.
 
 La lluvia había abierto una posibilidad para el agua.
 
@@ -24,19 +24,19 @@ La comida no parecía dispuesta a hacer lo mismo.
 
 ---
 
-Volviste a la ruta ascendente por la criatura de seis apoyos.
+Volví a la ruta ascendente por la criatura de seis apoyos.
 
-No llevabas un recipiente para traer alimento.
+No llevaba un recipiente para traer alimento.
 
-Llevabas cámara, una cápsula de muestra y el analizador.
+Llevaba cámara, una cápsula de muestra y el analizador.
 
 Los filamentos blancos se apartaron de la linterna. Las placas cobrizas aparecieron entre las columnas.
 
-A mitad de la bóveda encontraste otra criatura.
+A mitad de la bóveda encontré otra criatura.
 
 O la misma.
 
-No podías distinguirlas.
+No podía distinguirlas.
 
 Estaba inmóvil sobre una placa caída. La estructura tubular surgió por debajo y tocó el reverso oscuro.
 
@@ -52,15 +52,15 @@ Algo retirado.
 
 La criatura desapareció bajo las placas.
 
-Te acercaste.
+Me acerqué.
 
-El reverso estaba cubierto por una película casi negra salvo en el recorrido recién despejado. En otras placas había franjas semejantes que la primera vez no habías sabido mirar.
+El reverso estaba cubierto por una película casi negra salvo en el recorrido recién despejado. En otras placas había franjas semejantes que la primera vez no había sabido mirar.
 
-Encontraste una placa desprendida y tomaste un fragmento de película del tamaño de una uña.
+Encontré una placa desprendida y tomé un fragmento de película del tamaño de una uña.
 
 Solo uno.
 
-Después seguiste hasta la terraza.
+Después seguí hasta la terraza.
 
 Allí las masas cobrizas dejaron de ser solo paisaje durante unos segundos.
 
@@ -68,17 +68,17 @@ Cuánta superficie.
 
 Cuánta película.
 
-Cuánto material que existía sin depender de tus reservas.
+Cuánto material que existía sin depender de mis reservas.
 
 El estómago sonó dentro del traje.
 
-Apartaste la mirada y regresaste.
+Aparté la mirada y regresé.
 
 ---
 
 El analizador detectó cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética que habría sido fácil convertir mentalmente en calorías.
 
-No lo hiciste.
+No lo hice.
 
 Las líneas importantes fueron otras:
 
@@ -92,11 +92,11 @@ Eso solo significaba que no había encontrado uno de los que sabía buscar.
 
 La criatura retiraba la película.
 
-No sabías aún qué hacía con ella.
+No sabía aún qué hacía con ella.
 
-Y aunque la ingiriera, aquello no la convertiría en comida para ti.
+Y aunque la ingiriera, aquello no la convertiría en comida para mí.
 
-Sacaste la mitad de ración guardada por la mañana.
+Saqué la mitad de ración guardada por la mañana.
 
 Durante un instante quedó junto al recipiente de muestra.
 
@@ -104,22 +104,22 @@ Una cosa era conocida y cada vez más escasa.
 
 La otra cubría parte de Elyndran y seguía siendo biológicamente ilegible.
 
-Te comiste la conocida.
+Me comí la conocida.
 
 ---
 
-Revisaste el vídeo una última vez.
+Revisé el vídeo una última vez.
 
 El tubo tocaba la película, la deformaba y dejaba detrás una franja clara.
 
-Escribiste:
+Escribí:
 
 **PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.**
 
-Cerraste el archivo.
+Cerré el archivo.
 
-Después pegaste una tira de cinta en el armario, alineada con el borde de las raciones restantes.
+Después pegué una tira de cinta en el armario, alineada con el borde de las raciones restantes.
 
-No escribiste una fecha.
+No escribí una fecha.
 
-Todavía no sabías cuánto tiempo representaba aquel espacio vacío.
+Todavía no sabía cuánto tiempo representaba aquel espacio vacío.
