@@ -1,0 +1,48 @@
+name: Import real Elyndran image masters
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/import-image-masters.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  import-masters:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download real WebP masters
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p art/masters
+          curl -fL --retry 4 --retry-delay 2 'https://d8j0ntlcm91z4.cloudfront.net/user_3IAidc7dkI2a0mBm2cA1kRpWaEZ/hf_20260829_162245_5fd40c54-9803-4f9f-8ea6-42a4e2945b39_min.webp' -o art/masters/PROLOGO-A.webp
+          curl -fL --retry 4 --retry-delay 2 'https://d8j0ntlcm91z4.cloudfront.net/user_3IAidc7dkI2a0mBm2cA1kRpWaEZ/hf_20260829_162245_1803d069-1ecc-4809-9e5a-b03247d98c53_min.webp' -o art/masters/I-A.webp
+          curl -fL --retry 4 --retry-delay 2 'https://d8j0ntlcm91z4.cloudfront.net/user_3IAidc7dkI2a0mBm2cA1kRpWaEZ/hf_20260829_162245_d86f30cf-82d1-4dcd-885f-c671e7b95b5e_min.webp' -o art/masters/II-A.webp
+          curl -fL --retry 4 --retry-delay 2 'https://d8j0ntlcm91z4.cloudfront.net/user_3IAidc7dkI2a0mBm2cA1kRpWaEZ/hf_20260829_162245_0bbd3449-4295-44f6-a509-d8a943dbaaac_min.webp' -o art/masters/IV-A.webp
+          test -s art/masters/PROLOGO-A.webp
+          test -s art/masters/I-A.webp
+          test -s art/masters/II-A.webp
+          test -s art/masters/IV-A.webp
+          file art/masters/*.webp
+
+      - name: Commit masters
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add art/masters/PROLOGO-A.webp art/masters/I-A.webp art/masters/II-A.webp art/masters/IV-A.webp
+          if git diff --cached --quiet; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git commit -m 'art: version real hyperrealistic image masters'
+          git push origin HEAD:main
