@@ -30,7 +30,7 @@ Dejó de ser limpia en ese instante.
 
 Enderecé el soporte deformado mientras una ráfaga empujaba la lluvia de lado. Las membranas se habían tensado un segundo antes.
 
-Sujet é la lámina contra la cápsula, esperé a que el viento pasara y aseguré los tres puntos de apoyo.
+Sujeté la lámina contra la cápsula, esperé a que el viento pasara y aseguré los tres puntos de apoyo.
 
 La inclinación volvió a funcionar.
 
