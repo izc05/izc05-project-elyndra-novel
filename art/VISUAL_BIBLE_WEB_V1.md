@@ -2,9 +2,11 @@
 
 Estado: CANÓNICA para la producción visual de la edición web Prólogo–XXV.
 
-## 1. Aster
+## 1. Protagonista
 
-Aster es el único punto humano de referencia visual. No debe cambiar de identidad, complexión aparente ni proporciones entre capítulos. La cámara no debe convertirlo en héroe de acción: es una persona aislada que observa, mide, duda y sobrevive.
+El protagonista es el único punto humano de referencia visual. No debe cambiar de identidad, complexión aparente ni proporciones entre capítulos. La cámara no debe convertirlo en héroe de acción: es una persona aislada que observa, mide, duda y sobrevive.
+
+**Aster es la nave de la expedición, no el protagonista.** No utilizar el nombre Aster para identificar al humano en prompts, captions o fichas visuales.
 
 Reglas:
 - silueta humana realista, proporcionada y reconocible;
@@ -46,7 +48,7 @@ Constantes:
 - raíces y estructuras orgánicas con lógica material;
 - roca oscura, superficies mojadas y vegetación adaptada;
 - luz natural difusa, con momentos de apertura atmosférica solo cuando el texto los permita;
-- escala grande sugerida mediante Aster, cápsula, raíces, plataformas y relieve;
+- escala grande sugerida mediante protagonista, cápsula, raíces, plataformas y relieve;
 - paleta contenida: grises minerales, verdes profundos, azules fríos, ocres orgánicos y luz cálida puntual;
 - nada de ciudades, civilizaciones, tecnología alienígena explícita o criaturas inteligentes salvo demostración narrativa.
 
@@ -57,7 +59,7 @@ Constantes:
 - comportamiento más importante que espectacularidad;
 - cada organismo debe parecer adaptado al mismo ecosistema;
 - no inventar especies para llenar una imagen;
-- la ilustración nunca confirma una interpretación que Aster solo sospecha.
+- la ilustración nunca confirma una interpretación que el protagonista solo sospecha.
 
 ## 6. Fotografía y composición
 
@@ -75,7 +77,7 @@ Pares que deben comprobarse juntos:
 - I-A / XXV-A: retorno y transformación del mismo mundo y protagonista;
 - IV-A / escenas posteriores relacionadas: misma lógica estructural;
 - X-A / XXIV y entorno asociado: no revelar prematuramente la naturaleza completa de la plataforma;
-- XIV-A / XV-A / XVI-A: bloque continuo; mismo Aster, mismo traje, desgaste compatible y misma etapa temporal.
+- XIV-A / XV-A / XVI-A: bloque continuo; mismo protagonista, mismo traje, desgaste compatible y misma etapa temporal.
 
 ## 8. Regla anti-spoiler
 
@@ -87,7 +89,7 @@ Un master se aprueba únicamente si:
 1. respeta esta biblia;
 2. representa el texto inmediato que lo rodea;
 3. no introduce spoilers;
-4. conserva continuidad de Aster/equipo/mundo;
+4. conserva continuidad de protagonista/equipo/mundo;
 5. funciona recortado en móvil sin perder la información principal;
 6. no contiene texto generado;
 7. queda versionado con su ID canónico en `art/masters/`.
