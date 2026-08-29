@@ -1,36 +1,14 @@
 # Capítulo XIV — El aire que gastas
 
-El filtro pesaba más.
+El filtro usado pesaba treinta y cuatro gramos más que al instalarlo.
 
-No lo suficiente para notarlo en la mano.
+La cara exterior estaba oscura en los pliegues: gris, marrón, una franja verdosa donde había retenido humedad.
 
-Lo supiste porque la báscula del compartimento médico tardó menos de un segundo en decidirlo.
+Lo dejaste sobre el banco y abriste el alojamiento de repuestos.
 
-Treinta y cuatro gramos por encima del valor de instalación.
+No escribiste cuántos quedaban.
 
-Volviste a colocarlo.
-
-Mismo resultado.
-
-El cartucho había empezado la mañana unido al casco. Lo habías retirado después de que el sistema de caudal repitiera tres veces la misma advertencia durante el desayuno.
-
-**RESISTENCIA DE FILTRO: ELEVADA.**
-
-No crítica.
-
-Dejaste el cartucho sobre el banco y abriste el alojamiento de repuestos.
-
-Había menos espacio ocupado que la última vez que lo habías mirado.
-
-Eso era verdad desde hacía días.
-
-Esta vez contaste.
-
-No escribiste la cifra.
-
-No hizo falta.
-
-Al lado del armario de comida seguía la tira de cinta que habías colocado para visualizar el descenso de las raciones. No necesitabas otra marca para comprender lo que significaba aquel hueco.
+Al lado, la cinta del armario de comida ya cumplía la misma función.
 
 Agua.
 
@@ -38,89 +16,27 @@ Comida.
 
 Filtros.
 
-El orden cambiaba según el momento del día.
+El orden cambiaba.
 
 La necesidad no.
 
-Sacaste un cartucho limpio.
+Instalaste un cartucho limpio y guardaste el usado en una bolsa.
 
-Antes de instalarlo miraste el usado.
-
-La cara exterior era más oscura que al principio, sobre todo en los pliegues cercanos al borde. La suciedad no tenía un color único. Gris. Marrón. Una franja casi verde donde la humedad había quedado atrapada durante la bajada a los discos.
-
-Pasaste la luz de lado.
-
-Algo muy fino brilló entre las fibras.
-
-No parecía barro.
-
-Tampoco te pareció una buena razón para acercar la cara.
-
-Instalaste el filtro nuevo.
-
-El casco confirmó caudal normal.
-
-Luego dejaste el usado dentro de una bolsa transparente.
-
-No para conservarlo.
-
-Para mirar qué habías estado respirando a través de él.
+Querías saber qué había quedado atrapado antes de llegar a tus pulmones.
 
 ---
 
-La cápsula sabía analizar aire.
+Hasta entonces el aire exterior había sido una instrucción sencilla:
 
-No estaba diseñada para un planeta desconocido.
-
-Eso era distinto.
-
-El sistema ambiental podía medir oxígeno, dióxido de carbono, presión total, humedad, algunos gases corrosivos, compuestos volátiles frecuentes en una nave y una lista corta de contaminantes que importaban dentro de un habitáculo humano.
-
-No podía decirte si una atmósfera era segura porque una pantalla se volviera verde.
-
-Aun así, hasta entonces habías utilizado casi todos esos sensores únicamente para comprobar el interior.
-
-Fuera habías confiado en el traje.
-
-No por ignorancia.
-
-Por orden de prioridades.
-
-Primero había que sobrevivir a la caída.
-
-Después encontrar agua.
-
-Después aprender a volver.
-
-La atmósfera había quedado reducida a una instrucción sencilla:
-
-No respirarla sin el sistema entre medias.
+No respirarlo sin el sistema entre medias.
 
 Funcionaba.
 
-También gastaba filtros.
+También consumía filtros.
 
-Sacaste del compartimento de mantenimiento un tubo de muestreo que todavía conservaba sus tapones de transporte. Se utilizaba para comprobar líneas de ventilación después de una reparación. No necesitaba que nadie respirara del otro extremo.
+Conectaste al analizador un tubo de muestreo pensado para revisar líneas de ventilación. Primero comprobaste el sistema con aire de la cápsula.
 
-Lo conectaste al puerto auxiliar del analizador.
-
-El primer ciclo utilizó aire de la cápsula.
-
-Oxígeno dentro de rango.
-
-Dióxido de carbono bajo.
-
-Sin alarma.
-
-El sistema estaba funcionando.
-
-Preparaste el segundo ciclo.
-
-Esta vez el tubo saldría fuera.
-
----
-
-No abriste la escotilla más de lo necesario.
+Después sacaste el tubo al exterior.
 
 Casco cerrado.
 
@@ -128,381 +44,129 @@ Cuello sellado.
 
 Filtro nuevo.
 
-Una rodilla en el suelo y la otra apoyada contra el marco para no cargar la articulación derecha.
+La muestra fue mínima.
 
-La mañana era húmeda y casi inmóvil. No llovía. El agua seguía cayendo desde niveles superiores con retraso, una gota aquí, otra más lejos, ninguna con ritmo suficiente para confundirla con una tormenta.
-
-Las membranas bajo el borde colgaban flojas.
-
-Extendiste el tubo unos treinta centímetros más allá de la cápsula.
-
-No hacia la raíz.
-
-Hacia el espacio abierto.
-
-El analizador aspiró una cantidad mínima.
-
-El tubo se contrajo apenas.
-
-Esperaste.
-
-La primera cifra apareció en la pantalla interior.
-
-Presión compatible con la lectura exterior del traje.
-
-Nada nuevo.
-
-Después oxígeno.
-
-Te quedaste mirándolo.
-
-No porque fuera perfecto.
-
-Porque estaba donde un pulmón humano esperaba encontrarlo.
+La presión coincidía con las lecturas del traje. El oxígeno estaba en un rango compatible con respiración humana. Dióxido de carbono bajo. Ninguno de los gases corrosivos o volátiles que el equipo sabía reconocer superó una alarma inmediata.
 
 Repetiste la toma.
 
-Mismo orden de magnitud.
+Resultados semejantes.
 
-Dióxido de carbono bajo.
-
-Los sensores de gases corrosivos no detectaron concentración inmediata por encima de sus umbrales.
-
-Los volátiles conocidos tampoco produjeron alarma.
-
-Miraste el tubo que atravesaba la escotilla.
-
-A treinta centímetros de tu guante había aire.
-
-Solo aire.
-
-La frase no servía.
-
-Había sido aire desde el primer día.
-
-Lo que había cambiado era que una parte de él empezaba a parecer familiar.
+A treinta centímetros de tu guante había una mezcla gaseosa que empezaba a parecer familiar.
 
 No abriste el casco.
 
-Cerraste el puerto.
+Cerraste el puerto y sellaste la escotilla.
 
-Retiraste el tubo.
-
-Sellaste la escotilla.
-
-Después ejecutaste una tercera toma con el mismo procedimiento.
-
-Los valores variaron poco.
-
-Eso tampoco bastaba.
+Cuatro números no podían declarar seguro un planeta.
 
 ---
 
-El problema estaba en el filtro usado.
+El filtro usado explicó por qué.
 
-Lo supiste antes de colocarlo bajo la lente.
+Bajo aumento parecía polvo húmedo.
 
-La superficie exterior tenía demasiadas cosas para que el aire pudiera reducirse a cuatro números.
+Con más luz dejó de ser una sola cosa.
 
-Cortaste una sección mínima de la capa más externa, lejos de la zona verde. El cartucho ya no volvería al casco. No importaba conservarlo entero.
-
-La muestra cayó sobre una placa de inspección.
-
-A bajo aumento parecía polvo húmedo.
-
-A mayor aumento dejó de parecer una sola cosa.
-
-Había partículas minerales irregulares.
+Partículas minerales.
 
 Fibras oscuras.
 
 Fragmentos translúcidos.
 
-Y estructuras más pequeñas que el sistema óptico resolvía apenas como discos, hilos cortos y formas ovaladas.
+Estructuras microscópicas que el equipo apenas resolvía como discos, hilos cortos y formas ovaladas.
 
-Cambiaste iluminación.
+No sabías si estaban vivas.
 
-Algunas desaparecieron contra el fondo.
-
-Otras devolvieron un brillo pálido.
-
-El analizador químico podía buscar proteínas terrestres comunes, ciertos lípidos, residuos de combustión, sales y metales.
-
-No estaba hecho para decidir si una forma de cinco micras quería crecer dentro de un pulmón.
-
-Aun así probaste una fracción.
-
-Minerales conocidos.
-
-Compuestos orgánicos.
-
-Señales demasiado mezcladas para clasificar.
+El análisis encontró minerales, compuestos orgánicos y demasiada mezcla para clasificarla.
 
 Nada produjo una alarma simple.
 
-Volviste a mirar la placa.
-
-Luego el cartucho limpio del casco.
-
-Lo instalaste otra vez.
-
-Después guardaste la muestra del filtro usado.
-
-No escribiste *esporas*.
-
-No escribiste *microorganismos*.
-
-No sabías si aquellas estructuras estaban vivas.
+Tampoco una garantía.
 
 Escribiste:
 
 **PARTICULADO EXTERIOR: FRACCIÓN ORGÁNICA NO CLASIFICADA.**
 
-Debajo:
-
 **COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.**
 
-Leíste las dos líneas.
+No escribiste *esporas*.
 
-Después desplazaste el segundo registro hasta quedar justo debajo del primero, como si la distancia entre ambos pudiera cambiar algo.
+No escribiste *microorganismos*.
 
-No cambió nada.
-
-Cerraste el archivo.
+Instalaste de nuevo el cartucho limpio.
 
 ---
 
-Querías una comparación.
+Necesitabas saber si todas las rutas gastaban aire filtrado al mismo ritmo.
 
-No otra salida larga.
+Saliste por la primera ruta con el sensor de resistencia del cartucho registrado desde el inicio.
 
-Elegiste la primera ruta.
+Hasta la bifurcación la carga aumentó poco.
 
-Solo hasta el estrechamiento del viento.
+Tomaste la ascendente.
 
-El casco llevaba un sensor de carga del filtro que normalmente servía para calcular mantenimiento durante operaciones con humo, polvo o partículas de sellado. No distinguía qué quedaba atrapado. Solo cuánto aumentaba la resistencia al paso del aire.
+La diferencia apareció antes de la cortina blanca.
 
-Anotaste el valor inicial.
+El filtro empezó a ofrecer más resistencia y el traje compensó aumentando caudal. La batería cayó algo más deprisa.
 
-Saliste.
+Dos recursos unidos por algo que no podías ver.
 
-La ruta estaba más seca que después de la tormenta, aunque las depresiones seguían reteniendo agua. Pasaste junto a las tres marcas grandes sin detenerte.
+Moviste la linterna de lado.
 
-La depresión nueva quedaba varios metros más allá.
+En el haz aparecieron miles de puntos suspendidos.
 
-No miraste hacia ella.
+Flotaban entre las columnas y los filamentos. Algunos ascendían con corrientes que el traje apenas registraba. Al bajar la luz casi desaparecían; al aumentarla volvían.
 
-Habías venido por el aire.
+La cámara también los veía.
 
-En la grieta del viento las membranas se tensaron.
+Diste un paso hacia la cortina.
 
-Bajaste el cuerpo.
-
-La ráfaga llegó.
-
-El casco aumentó caudal durante dos segundos.
-
-La carga del filtro apenas cambió.
-
-Seguiste hasta la bifurcación.
-
-Allí esperaste cinco minutos.
-
-Niebla fina.
-
-Viento intermitente.
-
-Nada más.
-
-La lectura subió una cantidad pequeña.
-
-No suficiente para importar por sí sola.
-
-Miraste la rama ascendente.
-
-Recordaste la bóveda.
-
-La humedad.
-
-Los filamentos blancos.
-
-La película oscura bajo las placas.
-
-El filtro anterior había pasado horas allí.
-
-No necesitabas gastar uno nuevo para demostrar que un lugar con más materia suspendida podía ensuciarlo más deprisa.
-
-Aun así necesitabas saber si la diferencia era grande.
-
-Tomaste la ruta ascendente.
-
----
-
-El cambio apareció antes de la cortina blanca.
-
-La resistencia subió poco a poco, no como una alarma sino como una pendiente.
-
-El traje compensó aumentando el flujo.
-
-La batería perdió carga algo más deprisa.
-
-Dos recursos unidos por una cosa que no podías ver.
-
-Te detuviste junto a las primeras placas cobrizas.
-
-No había criatura.
-
-En el reverso de una placa caída seguía visible una franja clara donde faltaba película oscura.
-
-No la tocaste.
-
-Esperaste.
-
-La lectura del filtro siguió subiendo.
-
-Muy lentamente.
-
-Moviste la linterna hacia la cortina.
-
-Los filamentos blancos se apartaron.
-
-En el haz aparecieron puntos.
-
-Miles.
-
-Tan pequeños que solo existían cuando la luz los atravesaba de lado.
-
-No caían.
-
-Flotaban.
-
-Algunos ascendían con corrientes que el traje no registraba como viento.
-
-Otros desaparecían al entrar en zonas oscuras.
-
-Reduciste la linterna.
-
-Los puntos casi desaparecieron.
-
-La aumentaste.
-
-Volvieron.
-
-No eran producto de la pantalla. La cámara los registró también.
-
-Te acercaste un paso a la cortina.
-
-El filtro subió otra fracción.
+La resistencia aumentó otra fracción.
 
 Retrocediste.
 
-La mano izquierda fue al alojamiento del filtro antes de que miraras el indicador.
+No necesitabas agotar un filtro para demostrar la tendencia.
 
-El gesto no servía para medir nada.
-
-Te obligaste a soltarlo.
-
-Luego diste media vuelta.
+Regresaste.
 
 ---
 
-En el regreso hiciste algo que no habías hecho desde los primeros días.
+Por primera vez pensaste en el aire como terreno.
 
-Pensaste en el aire como terreno.
+La ruta ascendente ofrecía fauna, visibilidad y acceso a la terraza.
 
-No todo Elyndran costaba lo mismo de respirar.
+También costaba más filtro.
 
-La idea era sencilla.
+La descendente era más cálida y húmeda.
 
-Lo difícil era que podía cambiar cómo te movías.
+La horizontal tenía niebla, pero hasta entonces no habías observado aquella densidad de partículas.
 
-La ruta ascendente ofrecía visibilidad del cielo, fauna terrestre y la geometría lejana.
+Ya no elegirías caminos solo por distancia, altura o riesgo físico.
 
-También cargaba el filtro con mayor rapidez.
+Había zonas más caras de respirar.
 
-La ruta inferior era más cálida y húmeda.
+En la cápsula entraste, sellaste y mantuviste el casco puesto.
 
-La horizontal tenía niebla, pero no habías observado aquella densidad de partículas iluminadas.
-
-Hasta entonces habías elegido caminos por distancia, riesgo físico, agua o preguntas.
-
-Ahora había otro coste.
-
-En la grieta del viento esperaste a que las membranas se tensaran.
-
-La ráfaga limpió momentáneamente la niebla delante de ti.
-
-El indicador de resistencia dejó de subir.
-
-Solo durante unos segundos.
-
-Seguiste.
-
-La cápsula apareció detrás de la curva.
-
-Abriste la escotilla.
-
-Entraste.
-
-Sellaste.
-
-No te quitaste el casco.
-
-Nunca lo hacías inmediatamente después de una salida, pero aquella vez el procedimiento dejó de parecer una rutina heredada del entrenamiento.
-
-La cápsula no tenía esclusa. Tenía una escotilla, un volumen pequeño y un sistema ambiental capaz de mover mucho aire a través de filtros internos.
-
-Pasaste un paño húmedo por los guantes, el pecho, las juntas del cuello y la parte frontal de la mochila. Lo doblaste hacia dentro antes de guardarlo en la bolsa de residuos.
-
-Activaste la recirculación alta.
-
-El ventilador cambió de tono.
-
-Esperaste a que el indicador interior completara el ciclo de partículas.
+Limpiaste guantes, juntas, pecho y mochila. Activaste la recirculación alta y esperaste a que descendiera la lectura de partículas.
 
 No era esterilización.
 
-Nunca lo había sido.
-
-Solo una forma de reducir lo que quedaba suspendido después de abrir una puerta al exterior.
-
-Cuando el sistema volvió a caudal normal, limpiaste el borde del visor con otro tramo del paño.
+Era reducción.
 
 Solo entonces te quitaste el casco.
 
-El interior olía a plástico caliente, metal húmedo y comida vieja.
-
-Te quedaste con el casco entre las manos unos segundos antes de dejarlo sobre el banco.
-
 Miraste la rejilla de retorno del sistema ambiental.
 
-Luego la bolsa donde habías guardado el filtro usado.
-
-Hasta esa mañana ambas cosas habían pertenecido a problemas distintos.
+Hasta esa mañana el filtro del traje y aquella rejilla habían pertenecido a problemas distintos.
 
 Ya no estabas seguro.
 
----
+Comparaste los registros.
 
-Comparaste las lecturas.
+La bóveda ascendente cargaba el cartucho más deprisa que la primera ruta durante los intervalos útiles de comparación.
 
-Zona de caída.
-
-Primera ruta.
-
-Bifurcación.
-
-Bóveda ascendente.
-
-La diferencia existía.
-
-No era enorme en una salida corta.
-
-Sí era repetible durante los minutos que habías registrado.
-
-La bóveda cargaba el filtro más deprisa.
-
-Podía ser humedad.
+Humedad.
 
 Partículas.
 
@@ -510,64 +174,20 @@ Ambas.
 
 No necesitabas separar todavía las causas para cambiar una conducta.
 
-Marcaste la ruta ascendente en el mapa local con una nota nueva.
-
-No peligro.
-
-No contaminación.
-
-Escribiste:
+En el mapa escribiste:
 
 **MAYOR CARGA DE FILTRO.**
 
-Después miraste el cartucho usado de la mañana dentro de su bolsa.
+Pegaste otra marca en el alojamiento de repuestos, alineada con los cartuchos restantes.
 
-Lo giraste.
+Después volviste a mirar la rejilla de retorno.
 
-La franja verdosa seguía allí.
+El prefiltro interior seguía allí desde antes del accidente.
 
-En otra vida habrías enviado todo aquello a un laboratorio y esperado un informe.
+No recordabas haberlo revisado desde la caída.
 
-En aquella solo tenías filtros suficientes para seguir haciendo preguntas durante un tiempo limitado.
+Fuera, el aire contenía suficiente de algo conocido para plantear una pregunta que antes no merecía hacerse.
 
-Abriste el alojamiento de repuestos.
+También contenía suficiente de algo desconocido para no responderla todavía.
 
-Contaste otra vez.
-
-La cifra era la misma que por la mañana.
-
-No habías gastado otro cartucho.
-
-Solo habías empezado a cargarlo.
-
-A la derecha, el armario de comida conservaba su tira de cinta.
-
-Tomaste otra.
-
-La pegaste en el interior del alojamiento de filtros, alineada con el borde de los cartuchos restantes.
-
-No anotaste una fecha.
-
-Tampoco una cuenta atrás.
-
-Cerraste el compartimento.
-
-Después te agachaste frente a la rejilla de retorno.
-
-El prefiltro interior llevaba allí desde antes del accidente.
-
-No recordabas haberlo mirado desde la caída.
-
-No lo retiraste.
-
-Todavía no.
-
-El casco quedó sobre el banco con el visor orientado hacia la escotilla.
-
-Fuera, la niebla se movía entre las raíces.
-
-Por primera vez sabías que el aire al otro lado contenía suficiente de algo conocido para justificar una pregunta que antes no merecía hacerse.
-
-También sabías qué había quedado atrapado antes de llegar a tus pulmones.
-
-Y acababas de recordar que no todo lo que entraba contigo pasaba por el filtro del casco.
+Y no todo lo que entraba contigo pasaba por el filtro del casco.
