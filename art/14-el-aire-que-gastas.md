@@ -6,32 +6,30 @@ Convertir el aire en terreno visible sin declarar la atmósfera segura ni repres
 
 ## Imagen de apertura
 
-Protagonista completamente sellado en la bóveda ascendente. Plano medio-largo, cámara ligeramente detrás del hombro. La linterna atraviesa lateralmente una zona de filamentos blancos y revela miles de partículas diminutas suspendidas en el aire. Sin macro de partículas y sin formas biológicas legibles.
+Interior estrecho de la cápsula al comienzo del capítulo. El protagonista, ya sin casco por estar dentro, pesa o inspecciona el cartucho usado que acaba de retirar. El filtro está oscurecido en los pliegues por una mezcla gris/marrón y una franja verdosa de humedad; el alojamiento de repuestos abierto y el banco pequeño sitúan el coste material sin revelar todavía qué contiene el aire exterior.
 
 ### Obligatorio
 
-- mismo protagonista/traje EVA blanco-gris usado;
-- casco cerrado y filtro instalado;
-- bóveda húmeda con placas cobrizas y columnas verdes discretas;
-- partículas visibles únicamente porque el haz las cruza de lado;
-- sensación de densidad atmosférica local, no de tormenta tóxica;
-- protagonista pequeño respecto al volumen de la bóveda.
+- mismo protagonista y cápsula pequeña, accidentada y reparada;
+- cartucho usado físicamente creíble, húmedo y sucio pero no biológico a simple vista;
+- bolsa transparente de muestra y cartucho limpio próximos;
+- iluminación lateral sobria;
+- sensación de reserva limitada sin convertir la escena en inventario gráfico.
 
 ### Prohibido
 
+- partículas exteriores visibles en la apertura;
 - esporas reconocibles, bacterias gigantes, polen fantástico o enjambres;
-- humo venenoso verde;
-- casco abierto o piel expuesta;
+- infección u horror corporal;
 - HUD con alarma dramática;
-- monstruos o fauna dominante;
 - texto incrustado.
 
 ## Imagen interior 1 — El filtro usado
 
-Interior estrecho de cápsula. El protagonista examina un cartucho de casco usado dentro de una bolsa transparente; iluminación lateral sobria, banco pequeño, equipo realista y desgaste. La suciedad del filtro es mezclada: gris/marrón, humedad, una zona verdosa tenue. Nada debe parecer infección visible.
+Plano detalle editorial del cartucho ya abierto a examen, después de que el texto revele su mezcla: partículas minerales, fibras oscuras y fragmentos translúcidos ambiguos. Nada debe permitir identificar vida ni convertir las formas microscópicas en organismos confirmados.
 
 ## Imagen interior 2 — El haz
 
-Plano más próximo al trayecto de la linterna en la bóveda: las partículas existen solo en el volumen iluminado y desaparecen en sombra. El protagonista permanece al fondo, sellado, observando y retrocediendo un paso.
+Bóveda ascendente después de que el manuscrito revele la mayor resistencia del filtro. Protagonista completamente sellado, pequeño respecto al volumen. La linterna atraviesa lateralmente columnas verdes, placas cobrizas y filamentos blancos; miles de partículas diminutas existen solo dentro del volumen iluminado y desaparecen en sombra. El protagonista permanece al fondo, observando y retrocediendo un paso.
 
-**Regla narrativa:** la imagen muestra materia suspendida, no su naturaleza.
+**Regla narrativa:** la apertura fija el coste del filtro; la materia suspendida solo puede mostrarse después de que el protagonista la vea. La imagen muestra materia, no su naturaleza.
