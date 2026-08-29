@@ -1,6 +1,6 @@
 # CONTINUIDAD CANÓNICA — ELYNDRAN
 
-Este archivo registra únicamente lo establecido por la novela. Distinguir siempre **HECHO**, **HIPÓTESIS** y **PREGUNTA**. Nunca ascender una hipótesis a hecho por conveniencia narrativa.
+Este archivo es el canon operativo de la novela. Registra solo lo establecido por el manuscrito y distingue siempre **HECHO**, **HIPÓTESIS** y **PREGUNTA**. Una hipótesis nunca asciende a hecho por conveniencia narrativa.
 
 ## Estado de la novela
 
@@ -25,41 +25,30 @@ Este archivo registra únicamente lo establecido por la novela. Distinguir siemp
 - Capítulo XVIII: `manuscript/18-lo-que-dejas-encendido.md` — **Lo que dejas encendido**.
 - Capítulo XIX: `manuscript/19-la-franja-que-vuelve.md` — **La franja que vuelve**.
 - Capítulo XX: `manuscript/20-antes-de-la-llamada.md` — **Antes de la llamada**.
+- Capítulo XXI: `manuscript/21-la-hora-que-cambias.md` — **La hora que cambias**.
+- Capítulo XXII: `manuscript/22-antes-de-apoyar-el-pie.md` — **Antes de apoyar el pie**.
+- Capítulo XXIII: `manuscript/23-lo-que-entra.md` — **Lo que entra**.
+- Capítulo XXIV: `manuscript/24-la-que-no-cuenta.md` — **La que no cuenta**.
+- Capítulo XXV: `manuscript/25-lo-que-dejas-fuera.md` — **Lo que dejas fuera**.
+- Capítulo XXVI: `manuscript/26-el-borde-que-queda.md` — **El borde que queda**.
 
-El protagonista sigue completamente solo respecto a su expedición. Ha explorado parcialmente las tres ramas principales, confirmado fauna acuática y terrestre, visitado varias veces la estructura de tres brazos, observado la plataforma desde arriba y desde su estructura inferior sin alcanzar la superficie, construido una fuente experimental de lluvia, intentado confirmar un paso orbital de Aster, regresado a marcas antiguas para comprobar cambios, empezado a investigar el problema de la comida sin ingerir material de Elyndran, realizado muestreos controlados del aire exterior sin respirarlo directamente, convertido la contaminación de retorno a la cápsula en un problema práctico de refugio, efectuado una primera exposición dérmica controlada de 34 segundos sin reacción aguda observable, regresado después a la estructura de tres brazos para comprobar que el tono agudo cambia con el estado de su película transparente, convertido un fallo recurrente del módulo térmico en una decisión explícita sobre energía, tratamiento de agua y prioridad de la baliza, vuelto a la zona de placas cobrizas para comprobar que parte de la película oscura retirada en el Capítulo XIII vuelve a ocupar superficie entre registros sin que su mecanismo esté determinado y detectado, durante una jornada de reposo en la cápsula, una recepción anómala en banda de emergencia aproximadamente 37 segundos antes de una transmisión automática de la propia baliza. Esa recepción no se reproduce en los dos ciclos posteriores y su fuente sigue sin determinarse. La atmósfera sigue sin declararse segura, no se ha respirado aire exterior sin filtrado y no se ha ingerido materia de Elyndran.
+El protagonista sigue completamente solo respecto a su expedición. La cápsula continúa siendo el único refugio seguro conocido. Ha explorado parcialmente tres ramas principales de una red de raíces suspendidas, ha observado fauna acuática y terrestre sin capturarla, ha regresado varias veces a lugares conocidos para comprobar cambios y todavía no ha alcanzado la superficie superior de la plataforma regular. No ha respirado deliberadamente aire exterior sin filtrado, no ha ingerido materia de Elyndran y no ha declarado potable ninguna fuente local de agua. Al cierre de XXVI quedan **8 raciones completas seguras**.
 
 ## HECHOS
 
-### Anomalía de entrada y Aster
+### Anomalía de entrada, Aster y los 37 segundos
 
-- El sensor mostró `CONTACTO CON SUPERFICIE: −37,00 s` antes del contacto real.
-- El valor desapareció del historial ordinario.
-- Una captura manual dañada conserva `37` y una banda de ruido violeta.
-- Hubo divergencia entre referencia inercial, altitud y horizonte visual durante la entrada.
-- La cápsula se separó de Aster sin autorización consciente del protagonista.
-- Se perdió el enlace con Aster y con las balizas accesibles.
-- La baliza de la cápsula sigue transmitiendo sin respuesta.
-- En el Capítulo XI se calculó una ventana aproximada de paso de Aster con datos previos al accidente.
-- Desde la terraza alta se escuchó y transmitió en canales de emergencia.
-- No se confirmó ninguna portadora compatible con Aster durante la ventana ni en los minutos adicionales.
-- Una línea blanca de menos de dos segundos fue observada, pero el visor descartó una trayectoria orbital baja compatible con Aster y no hubo radio asociada.
-- Registro: `PASO ORBITAL PREVISTO: NO CONFIRMADO`.
-- En el Capítulo XVIII el historial eléctrico muestra tres transmisiones de baliza con breves descensos de potencia coincidentes con arranques defectuosos del módulo térmico; ninguna transmisión llegó a perderse por completo.
-- Tras reparar el módulo, el protagonista configura la cápsula para impedir que cargas no esenciales arranquen durante las ventanas automáticas de transmisión de la baliza.
-- Una transmisión posterior mantiene potencia estable bajo esa nueva prioridad y sigue sin recibir respuesta.
-- En el Capítulo XIX una transmisión automática ocurrida durante la salida a la ruta ascendente mantiene también potencia estable y sigue sin respuesta.
-- En el Capítulo XX el receptor de emergencia conserva una elevación breve de señal formada por tres fragmentos aproximadamente 37 segundos antes de una transmisión automática de la baliza.
-- El transmisor no figura activo durante esa recepción anómala y el registro de corriente no muestra el escalón de potencia propio de una emisión.
-- El autodiagnóstico normal de la baliza comienza doce segundos antes de transmitir, no treinta y siete.
-- Los relojes del receptor, sistema ambiental y controlador de batería coinciden dentro del margen normal de la cápsula; esto reduce, pero no elimina, la posibilidad de un error de tiempo compartido.
-- El primer fragmento de la recepción anómala presenta una subida escalonada y una interrupción breve parecidas al encabezado de la baliza posterior, pero las formas de onda completas **no son iguales**.
-- Dos transmisiones automáticas posteriores son observadas y registradas sin que aparezca una recepción equivalente aproximadamente 37 segundos antes.
-- Registro: `RECEPCIÓN ANÓMALA EN BANDA DE EMERGENCIA ANTES DE TRANSMISIÓN AUTOMÁTICA.`
-- Registro: `INTERVALO APROXIMADO: 37 s.`
-- Registro: `FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.`
-- **No está demostrado que la recepción del Capítulo XX proceda de Aster, de la propia baliza, de una fuente exterior ni de un fenómeno temporal.**
-- **No está demostrado que Aster haya desaparecido, caído o abandonado la órbita.**
-- **No puede saberse si alguien intentó escuchar durante las tres breves caídas de potencia anteriores.**
+- Durante la entrada el sensor mostró `CONTACTO CON SUPERFICIE: −37,00 s` antes del contacto real; el valor desapareció del historial ordinario, aunque una captura dañada conserva `37` y ruido violeta.
+- Hubo divergencia entre referencia inercial, altitud y horizonte visual; la cápsula se separó de Aster sin autorización consciente del protagonista.
+- El enlace con Aster y las balizas accesibles se perdió. La baliza de la cápsula sigue transmitiendo sin respuesta confirmada.
+- En XI se calculó una ventana orbital aproximada de Aster. No se confirmó una portadora compatible. Una línea blanca breve no correspondía a una trayectoria orbital baja compatible y no tuvo radio asociada.
+- En XVIII se descubrió que arranques defectuosos del módulo térmico provocaban caídas breves de tensión coincidentes con emisiones de baliza. El módulo se reparó y la baliza recibió prioridad frente a cargas no esenciales. La falta de respuesta persistió con potencia estable.
+- En XX el receptor conservó una recepción anómala en banda de emergencia aproximadamente 37 s antes de una transmisión automática. El transmisor no figuraba activo, el autodiagnóstico normal comienza 12 s antes y la forma de onda solo comparte rasgos parciales con el encabezado posterior. Dos ciclos siguientes no reprodujeron el evento.
+- En XXI el protagonista desplazó una transmisión programada exactamente **+7 min 14 s**, sin cambiar mensaje, potencia ni frecuencia. El controlador conocía la nueva hora.
+- Antes de esa transmisión desplazada apareció una segunda recepción anómala; comenzó **36,91 s antes** de la emisión real y presentó semejanzas parciales, no identidad, con el encabezado de la baliza.
+- Receptor y controlador comparten referencia temporal y parte de la alimentación antes de separarse, por lo que la prueba no descarta acoplamiento interno.
+- El ciclo automático posterior, devuelto a su hora habitual, no produjo una recepción equivalente.
+- No está demostrado que las anomalías procedan de Aster, de la propia baliza, de una fuente exterior, de predicción, viaje temporal ni inteligencia de Elyndran.
 
 ### Entorno de raíces suspendidas
 
@@ -67,481 +56,267 @@ El protagonista sigue completamente solo respecto a su expedición. Ha explorado
 - Existen raíces a múltiples alturas, niebla, vegetación, cascadas y cambios rápidos de visibilidad.
 - La primera capa inferior explorada es aproximadamente cuatro grados más cálida que la zona de la cápsula.
 - La niebla puede producir errores de perspectiva demostrables.
-- Algunas raíces flexionan o cambian levemente de inclinación durante fenómenos transmitidos por la estructura.
-- Existe una columna de vapor lejana y varias geometrías o destellos aún no identificados.
+- Algunas raíces flexionan o cambian de inclinación durante fenómenos transmitidos por la estructura.
+- Existen golpes profundos procedentes de niveles inferiores y una vibración fina distinta registrada cerca del borde roto; sus causas no están determinadas.
+- La primera noche se observó un oscurecimiento móvil entre raíces inferiores que no permite confirmar organismo.
 
-### Atmósfera exterior, filtrado, piel y retorno a la cápsula
+### Atmósfera, filtrado, piel y retorno a la cápsula
 
-- Hasta el Capítulo XX el protagonista mantiene casco y filtrado siempre que permanece en exterior.
-- El sistema respiratorio del traje filtra aire ambiental para el casco; brazos y torso no dependen de una atmósfera presurizada independiente, por lo que una exposición localizada de piel puede realizarse sin abrir el circuito respiratorio.
-- Un filtro usado presenta aumento de masa y resistencia al flujo, además de partículas minerales, fibras, fragmentos translúcidos y estructuras microscópicas no clasificadas retenidas en su cara exterior.
-- El analizador detecta en el material del filtro una fracción orgánica mezclada con partículas minerales, sin poder determinar si las estructuras observadas están vivas.
-- Una toma controlada de aire exterior, introducida por tubo de muestreo sin respiración directa, muestra presión compatible con las lecturas del traje, oxígeno en un rango que un pulmón humano podría utilizar, dióxido de carbono bajo y ausencia de alarmas inmediatas para los gases corrosivos/volátiles conocidos por el sistema.
-- Registro: `PARTICULADO EXTERIOR: FRACCIÓN ORGÁNICA NO CLASIFICADA.`
-- Registro: `COMPOSICIÓN GASEOSA PARCIALMENTE COMPATIBLE CON RESPIRACIÓN HUMANA. SEGURIDAD BIOLÓGICA NO DETERMINADA.`
-- **No se ha declarado la atmósfera segura para respirar sin filtro ni casco.**
-- En una salida comparativa del Capítulo XIV, la carga del filtro aumenta lentamente en la primera ruta y con mayor rapidez en la bóveda de la ruta ascendente.
-- En el haz lateral de la linterna dentro de la bóveda se observan miles de partículas muy pequeñas suspendidas en el aire.
-- El protagonista añade al mapa de la ruta ascendente la nota `MAYOR CARGA DE FILTRO`.
-- El aire pasa a considerarse también un coste de ruta: no todas las zonas parecen cargar el filtro al mismo ritmo.
-- La cápsula no dispone de esclusa separada; tras una salida el protagonista sella la escotilla, limpia superficies principales del traje y mantiene el casco puesto durante un ciclo de recirculación antes de retirarlo.
-- El ciclo de recirculación **reduce** la carga de partículas interiores pero no esteriliza la cabina.
-- En el Capítulo XV se inspecciona un prefiltro ambiental interior anterior al accidente: contiene polvo de cabina, fibras textiles, partículas metálicas/minerales y material microscópico no clasificado.
-- Algunas partículas del prefiltro interior recuerdan en aspecto a material observado en el filtro del casco, pero **no existe emparejamiento suficiente para afirmar origen exterior**.
-- Los registros automáticos muestran picos breves de partículas interiores después de aperturas de la escotilla y descenso posterior durante recirculación.
-- Registro: `PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.`
-- Registro: `LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.`
-- El protagonista establece una separación física de trabajo entre zona de entrada y zona limpia dentro del escaso volumen de la cápsula.
-- En el Capítulo XVI realiza la primera exposición dérmica deliberada al ambiente exterior: dorso de la mano y muñeca izquierdas, junto a la cápsula, en una zona previamente medida como de baja carga de filtro.
-- La exposición dura 34 segundos; el casco permanece cerrado y el filtro respiratorio operativo durante todo el procedimiento.
-- Tras la exposición no se observa reacción aguda inmediata: sin dolor, picor, pérdida de sensibilidad, edema ni enrojecimiento medible durante las primeras horas registradas.
-- La zona se limpia con agua terrestre, se fotografía y se compara con una zona equivalente no expuesta de la mano derecha mediante apósitos y seguimiento.
-- Al inicio y al final del Capítulo XVII, cerca de veinticuatro horas después de la exposición, la mano izquierda continúa sin cambios visibles, térmicos o motores respecto a la derecha.
-- En el Capítulo XVIII, pasadas más de treinta horas desde la exposición, la mano izquierda sigue sin cambios visibles, térmicos o motores; no se realiza una segunda exposición.
-- En el Capítulo XX, durante una jornada sin salida exterior, una comprobación informal de la mano izquierda sigue sin mostrar diferencia visible o térmica respecto a la derecha; no se amplía el protocolo ni se realiza nueva fotografía.
-- Registro: `EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.`
-- Registro: `SEGUIMIENTO NECESARIO.`
-- **La ausencia de reacción aguda y de cambios visibles durante más de treinta horas no demuestra seguridad dérmica a largo plazo, seguridad biológica ni seguridad respiratoria.**
-- En el Capítulo XVII, durante una permanencia en la ruta horizontal, la carga del filtro aumenta despacio y resulta menor que la observada en la bóveda ascendente durante una permanencia comparable, aunque las condiciones no son idénticas y el dato se conserva solo como comparación provisional.
-- En el Capítulo XIX la carga del filtro vuelve a acelerarse al entrar en la bóveda ascendente; no se realiza un nuevo ensayo comparativo cuantificado.
-- **No se ha respirado deliberadamente aire exterior sin filtrado.**
+- El protagonista mantiene casco y filtrado en todas las salidas hasta XXVI.
+- Una muestra controlada de aire exterior mostró presión y composición gaseosa parcialmente compatibles con respiración humana, sin alarmas inmediatas de gases conocidos, pero con particulado y fracción orgánica no clasificada.
+- La atmósfera **no** está declarada segura para respirar sin filtro.
+- La bóveda de la ruta ascendente carga el filtro más rápido que tramos de la primera ruta y que observaciones provisionales de la horizontal; las condiciones no son idénticas y no existe una ley cuantitativa cerrada.
+- La cápsula no tiene esclusa. Tras cada salida se sella la escotilla, se limpian superficies principales del traje y se mantiene el casco durante recirculación.
+- La recirculación reduce partículas interiores, no esteriliza la cabina. Desde XV existe una separación funcional entre zona de entrada y zona limpia.
+- En XVI se realizó una exposición dérmica deliberada de 34 s en dorso de mano y muñeca izquierdas, con casco cerrado y filtrado activo. No hubo reacción aguda observable ni diferencia visible/térmica posterior en los seguimientos de XVII, XVIII y XX.
+- Esa ausencia de reacción no demuestra seguridad dérmica a largo plazo ni seguridad respiratoria.
 
 ### Membranas transparentes
 
-- Se contraen al contacto.
-- Se tensan aproximadamente un segundo antes de una ráfaga.
-- El protagonista ya utiliza esa reacción corporalmente para ajustar postura y paso.
-- Durante tormentas pueden permanecer tensas antes de cambios bruscos de presión y dirección del aire.
-- Tras la tormenta del Capítulo XI varios grupos de la primera ruta aparecen parcialmente arrancados; los restos conservados siguen anticipando ráfagas.
+- Se contraen al contacto y se tensan aproximadamente un segundo antes de ráfagas.
+- El protagonista ya usa su reacción como conocimiento corporal para ajustar postura y paso.
+- En XXII tres membranas permanecieron tensas antes de dos golpes profundos y de un cambio de geometría de una raíz, pero no se demostró relación causal.
+- En XXV una membrana vuelve a anticipar una ráfaga durante la reparación del colector.
 
-### Ruta principal y bifurcación
+### Primera ruta, marcas y canal de raíces paralelas
 
-- La ruta cápsula ↔ bifurcación es reproducible de memoria.
-- Hay tres ramas: descendente, horizontal y ascendente; las tres han sido exploradas parcialmente.
-- El marcador reflectante inicial desapareció durante una tormenta; permanece la zona raspada.
-- En el Capítulo XII el protagonista recorre solo un tramo de la primera ruta para revisar marcas antiguas y regresa sin alcanzar la bifurcación.
-- En el Capítulo XIV vuelve a recorrer la ruta hasta la bifurcación para comparar carga de filtro antes de entrar parcialmente en la ruta ascendente.
-- En el Capítulo XVI la exposición dérmica se realiza a menos de seis metros de la cápsula, sobre la raíz ancha de la primera ruta, sin avanzar hasta la bifurcación.
-- En el Capítulo XVII vuelve a recorrer la primera ruta completa hasta la bifurcación y toma la rama horizontal para revisar la estructura de tres brazos.
-- En el Capítulo XVIII la única salida exterior se limita al colector junto a la cápsula; no se abre nueva ruta.
-- En el Capítulo XIX vuelve por la ruta conocida hasta la rama ascendente y la zona de placas cobrizas; no abre camino nuevo ni avanza más allá de territorio ya recorrido.
-- En el Capítulo XX no realiza ninguna salida exterior; la jornada se desarrolla dentro de la cápsula para descargar la rodilla y observar el sistema de comunicaciones.
-
-### Marcas, golpes y sombra
-
-- Existen tres depresiones ovaladas grandes con bordes pulidos y arañazos paralelos.
-- Una perdió agua entre ida y regreso y apareció una marca húmeda nueva.
-- Tras la tormenta del Capítulo XI aparecen tres arañazos paralelos nuevos que parten del borde de la segunda depresión; una fotografía antigua confirma que no estaban allí.
-- A unos nueve metros de las tres depresiones, el Capítulo XII registra una depresión pequeña y poco profunda, con película gris alrededor y orientación general parecida a las grandes.
-- Una grabación anterior del mismo tramo muestra la superficie sin esa depresión pequeña.
-- La nueva depresión no recupera la forma al presionar la película gris adyacente.
-- Registro: `DEPRESIÓN NUEVA ENTRE REGISTROS. MECANISMO NO OBSERVADO.`
-- **No está demostrado que las depresiones grandes, los nuevos arañazos y la depresión pequeña procedan del mismo mecanismo.**
-- Se han oído golpes secos procedentes de niveles inferiores.
-- La primera noche se registró un oscurecimiento móvil entre raíces inferiores; no permite confirmar organismo.
-- Al final del Capítulo XIX se oye un único golpe procedente de niveles inferiores; no aparece un segundo golpe durante la espera inmediata.
+- La ruta cápsula ↔ bifurcación es reproducible de memoria y tiene ramas descendente, horizontal y ascendente.
+- El marcador reflectante inicial desapareció durante una tormenta; la zona raspada permanece, pero en XXII parte del raspado aparece cubierta por material superficial.
+- Para no depender de una marca cambiante, el protagonista adopta una alineación entre dos raíces menores en tijera y una rotura triangular pálida.
+- Existen tres depresiones ovaladas grandes, arañazos paralelos y una depresión pequeña aparecida entre registros. No está demostrado que compartan mecanismo.
+- En XXII, tras dos golpes profundos, la raíz inferior de un paso habitual descendió unos centímetros. El protagonista evitó caer usando la raíz superior y el aseguramiento corto como limitación de deslizamiento.
+- El aseguramiento improvisado **no** se considera capaz de detener una caída humana completa.
+- La alternativa superior quedó registrada como paso utilizable.
+- En XXIII y XXVI la raíz inferior seguía baja. La alternativa superior ya se usa de forma habitual sin probar el apoyo antiguo.
 
 ### Ruta descendente, discos y fauna acuática
 
-- La ruta descendente conduce a una rotura y a fibras que permiten bajar con dificultad.
-- El cable fino de dos metros es insuficiente como aseguramiento principal.
-- Parte de las fibras está cubierta por una película húmeda y elástica.
+- La ruta descendente exige una bajada difícil por fibras; parte está cubierta por película húmeda y elástica.
 - En una raíz inferior existen discos cóncavos que acumulan agua.
-- Una raíz inferior cambió ligeramente de inclinación durante golpes profundos.
-- Un disco quedó vacío tras aquella inclinación y mostró una línea oscura de bordes suaves.
-- En el Capítulo VIII esa línea cambió temporalmente de oscuro a gris pálido coincidiendo con dos golpes y después recuperó el tono.
-- Animales pequeños y planos viven en algunos discos: cuerpo gris azulado, movimiento por ondulación y puntos pálidos inferiores.
-- Reaccionan a cambios asociados al calentador del traje antes de que el protagonista perciba el cambio y se adhieren al fondo ante golpes profundos.
-- Dos individuos mostraron secuencias luminosas breves registradas a alta velocidad; no está demostrado que sean comunicación.
+- Una línea oscura de un disco vacío cambió temporalmente de tono durante golpes profundos y luego se recuperó.
+- Hay animales pequeños, planos, gris azulados, que se desplazan por ondulación, muestran puntos pálidos y reaccionan a cambios asociados al traje y a vibraciones profundas.
+- Dos individuos mostraron secuencias luminosas breves; no está demostrado que sean comunicación.
 
-### Agua de los discos
+### Agua local y colector
 
-- Se tomó una muestra válida con material estéril.
-- Es transparente e incolora a simple vista.
-- Contiene sales en márgenes potencialmente tratables y no mostró metales pesados humanos conocidos sobre un umbral inmediato.
-- El analizador produjo `FRACCIÓN ORGÁNICA NO CLASIFICADA`.
-- Filtrado y calor reducen o degradan parte de esa fracción, pero no la eliminan completamente.
-- **No está declarada potable y el protagonista no la ha bebido.**
+- El agua de los discos contiene sales potencialmente tratables y fracción orgánica no clasificada. Filtrado y calor reducen parte de esa fracción, no la eliminan por completo. No se ha bebido.
+- La lluvia directa, captada antes de tocar raíz o casco sucio, mostró menos sales y señal orgánica mucho menor. Tras filtrado y tratamiento térmico el resultado permanece indeterminado de concentración baja.
+- La lluvia tratada no está declarada potable ni segura a largo plazo.
+- En XXV una abrazadera del colector cedió y el borde de la lámina tocó la raíz. La cara interior dejó de considerarse limpia.
+- El protagonista reparó el soporte en dos salidas muy cortas, mantuvo casco y filtrado, descartó los dos primeros volúmenes tras la limpieza y trató una pequeña cantidad posterior.
+- El colector volvió a producir agua sin contacto con la raíz. La nueva lluvia tratada quedó como **reserva experimental** y no se bebió.
+- Al inicio y final de XXVI el colector reparado seguía firme; la reserva experimental no mostraba cambio visible, pero continuó sin consumirse.
 
-### Lluvia directa y colector
+### Ruta horizontal, estructura de tres brazos y plataforma
 
-- El protagonista construyó un colector que intenta captar lluvia antes de que toque raíz o casco sucio.
-- La lluvia directa mostró menos sales y una señal orgánica mucho menor que el agua de los discos.
-- Tras filtrado y tratamiento térmico: `RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.`
-- La exposición fue escalonada hasta una cantidad mínima sin reacción medible inmediata.
-- **La lluvia tratada no está declarada potable ni segura a largo plazo.**
-- Dos bolsas de ración se reutilizaron como almacenamiento pequeño.
-- Una bolsa perdió su contenido durante el resbalón del Capítulo X y fue reparada después.
-- La reparación soportó una prueba parcial con agua terrestre sin fuga visible.
-- Al final del Capítulo XI vuelve a llover y el colector exige cambiar de recipiente para no rebosar.
-- Al inicio del Capítulo XII la lluvia ha cesado y el protagonista vuelve a atender el colector.
-- En el Capítulo XVI una lluvia fina vuelve a alimentar el colector; el protagonista cambia el recipiente con casco y guantes, manteniendo sin cambios el protocolo de retorno.
-- En el Capítulo XVIII el colector contiene poca agua debido a lluvia irregular; el protagonista cambia la bolsa y vuelve a aplicar el protocolo completo de retorno.
-- El tratamiento térmico de agua sigue necesitando energía y pasa a competir explícitamente con otras cargas de la cápsula.
+- Una estructura de unos 2,5 m incrustada en una raíz tiene tres brazos curvos; al menos dos producen tonos agudo y grave mediante vibración física.
+- Películas transparentes interiores vibran antes del tono. En XVII el tono agudo desapareció con su cavidad casi seca y reapareció mientras una película transparente aumentaba de nivel, con frecuencia diferente.
+- En XXVI ambas cavidades visibles contenían película; no se realizó nueva medición de frecuencia.
+- La estructura tiene hendiduras regulares, pero no está demostrado que sean escritura o código.
+- Desde la horizontal se observa una plataforma con al menos seis formas verticales regulares, incluida una inclinada y otra con un hueco limpio. No se ha visto luz, humo, movimiento ni presencia humana.
+- Un borde roto casi plano presenta surcos paralelos. La distancia a la raíz opuesta impide saltar con seguridad.
+- En X se recorrió una rama inferior resbaladiza y se observó la parte inferior de la plataforma: capas, nervaduras, huecos, crecimiento vivo y una banda oscura parcialmente cubierta por corteza.
+- La superficie superior de la plataforma nunca ha sido visitada.
+- En XXVI se repitió la aproximación inferior. Una nervadura oscura próxima a una fibra gruesa aparece ahora expuesta en una franja de aproximadamente **12 cm**, diferencia que persiste al alinear dos referencias cercanas.
+- Cerca de esa nervadura se observó una depresión poco profunda de unos **7 cm** en material oscuro, con al menos un borde demasiado regular para confundirse con la corteza inmediata. No se sondó ni tocó.
+- La nervadura está aproximadamente a 1,5 m en horizontal y 1 m por encima del hombro desde el punto de observación; hay un hueco intermedio, por lo que no es un paso directo.
+- Una fibra gruesa cercana soportó solo una prueba pequeña: mano/línea y después una herramienta suspendida unos 30 s. Flexionó unos milímetros y se estabilizó.
+- Esa prueba **no** autoriza peso humano. El protagonista no escaló, no cargó el cuerpo sobre fibra ni nervadura y dejó solo una referencia floja de cinta.
+- Registro: `POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.`
+- Registro: `NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.`
 
-### Ruta horizontal y estructura de tres brazos
+### Ruta ascendente, placas cobrizas y fauna terrestre
 
-- Existen dos tonos irregulares: uno agudo y otro grave.
-- En niebla su dirección aparente cambia.
-- La estructura de unos dos metros y medio está incrustada en una raíz y parcialmente rodeada por corteza.
-- Tiene tres brazos curvos; uno produce el agudo y otro el grave mediante vibración física.
-- Una película transparente interior vibra antes que el brazo durante algunos tonos.
-- El viento por sí solo no explica el fenómeno.
-- En la base hay grupos de hendiduras: tres pequeñas + una grande; una grande + dos pequeñas.
-- No está demostrado que sean escritura o código.
-- Los tonos funcionan también como referencia práctica de orientación.
-- En el Capítulo XVII el tono agudo no se oye durante la aproximación y la cavidad de su brazo aparece casi seca; la cavidad asociada al tono grave conserva una película transparente más gruesa.
-- Durante la observación, una línea transparente asciende muy lentamente desde la zona donde la corteza abraza el brazo superior y vuelve a formar una película continua.
-- La película del brazo superior vibra antes de que el brazo emita de nuevo el tono agudo.
-- El primer tono agudo tras la recarga es más bajo que en los registros antiguos; los siguientes aumentan ligeramente de frecuencia mientras el nivel transparente sigue subiendo.
-- El tono grave permanece aproximadamente dentro del rango registrado antes mientras su cavidad continúa más llena.
-- Registro: `TONO AGUDO AUSENTE CON CAVIDAD CASI SECA. REAPARECE TRAS AUMENTO DE PELÍCULA. FRECUENCIA DIFERENTE.`
-- Registro: `RELACIÓN ENTRE NIVEL DE PELÍCULA Y TONO: POSIBLE. MECANISMO DE CARGA NO DETERMINADO.`
-- Las fotografías de las hendiduras no muestran cambios visibles respecto a la primera visita.
-- Parte de la corteza que cubre la estructura parece ocultar uno o dos milímetros más de algunas bandas tras la lluvia, pero no está demostrado si se debe a hinchamiento por humedad, crecimiento u otro cambio.
+- La ruta ascendente atraviesa una bóveda vegetal y lleva a una terraza alta.
+- Existen columnas verdes, placas/formaciones cobrizas, filamentos blancos que se apartan de la luz, hilos finos por los que asciende agua y bolsas translúcidas.
+- Una criatura terrestre del tamaño aproximado de una palma tiene seis apoyos, cuerpo bajo, placas cobrizas dorsales y una estructura tubular inferior.
+- No mostró agresividad durante un contacto accidental anterior.
+- En XIII se observó a una criatura realizando contactos repetidos con película oscura del reverso de una placa; quedaban franjas más claras donde retiraba material.
+- En XIX la misma placa pudo identificarse y parte de la franja previamente despejada había recuperado cobertura oscura. El mecanismo no está determinado.
+- En XXIII, tras unos 23 min de espera, apareció una criatura de seis apoyos. En dos ciclos se observó material oscuro desplazándose por un tramo translúcido de la estructura tubular **hacia el cuerpo**.
+- Está demostrada la transferencia de material hacia el cuerpo, no su digestión, metabolismo, almacenamiento ni compatibilidad humana.
 
-### Plataforma, borde roto y estructura inferior
+### Película oscura y presión de alimento
 
-- Desde la ruta horizontal se observa una plataforma con al menos seis formas verticales regulares.
-- Algunas parecen partidas y una tiene un hueco limpio cerca de la parte superior.
-- No se ha observado movimiento, iluminación, humo ni presencia humana.
-- La distancia inicial fue engañosa por la niebla; hay varias raíces y un hueco amplio antes de la plataforma.
-- Una rama termina en un borde roto casi plano con surcos paralelos a intervalos casi regulares.
-- La distancia hasta la raíz opuesta impide saltar y el aseguramiento improvisado no basta sin anclaje al otro lado.
-- Bajo la raíz opuesta se observó una línea oscura de aproximadamente el grosor de una muñeca.
-- En el Capítulo X se recorrió una rama inferior resbaladiza que pasa bajo la raíz principal.
-- Desde allí se observó una banda oscura de casi medio metro, parcialmente cubierta por corteza, que se dirige hacia la plataforma.
-- La parte inferior de la plataforma está formada por capas, nervaduras, huecos y crecimiento vivo entrelazados.
-- La raíz entra en esa trama y varias nervaduras están parcialmente cubiertas por corteza nueva.
-- Cerca de la plataforma la banda oscura se divide: una rama asciende hacia la trama y otra continúa por la raíz antes de desaparecer bajo corteza.
-- Los tonos se oyeron a distancia sin respuesta visible en la banda.
-- En el Capítulo XVII una apertura breve de la niebla vuelve a mostrar las mismas formas verticales principales, incluida la inclinada y la que presenta un hueco limpio; no se observa iluminación ni movimiento nuevo.
-- La superficie superior de la plataforma sigue sin visitarse.
+- Una muestra mínima de película oscura analizada en XIII contiene cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética detectable.
+- El analizador indicó `ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES` y `COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA`.
+- No se detectó un veneno humano conocido por encima del umbral del ensayo usado; eso no demuestra seguridad.
+- En XXIV una ración terrestre con sellado comprometido fue descartada como alimento. Una esquirla de esa ración se utilizó como control con el mismo protocolo conservador del análisis de la película.
+- El control terrestre fue reconocido como alimento humano conocido, mientras la película siguió sin clasificación metabólica humana.
+- Esto refuerza que el resultado indeterminado de la película no es solo incapacidad general del analizador para reconocer alimento humano; no demuestra toxicidad ni imposibilidad de aprovechamiento.
+- El protagonista adopta la regla: `NO REPETIR MUESTREO DE PELÍCULA SIN UNA PREGUNTA QUE EL MATERIAL PUEDA RESPONDER.`
+- Nunca ha ingerido película ni otra materia alimentaria de Elyndran.
 
-### Vibración fina de la aproximación
+### Cápsula, energía y comunicaciones
 
-- Cerca del borde roto se sintió dos veces una vibración breve y fina a través de las botas.
-- No se parecía a los golpes profundos.
-- No existe evidencia suficiente para relacionarla con tonos, plataforma o líneas oscuras.
-
-### Ruta ascendente, flora y fauna terrestre
-
-- La ruta entra en una bóveda de vegetación densa y conduce a una terraza alta.
-- Existen columnas verdes con placas, formaciones cobrizas superpuestas y filamentos blancos que se apartan de la luz.
-- Parte del agua asciende por hilos finos hacia bolsas translúcidas; una tuerca soltada cae normalmente, sin evidencia de inversión gravitatoria.
-- Una criatura terrestre del tamaño aproximado de una palma tiene seis apoyos, cuerpo bajo y placas cobrizas dorsales.
-- Puede plegarse contra la corteza y no mostró reacción agresiva durante un contacto accidental.
-- En el Capítulo XI se observó una pequeña depresión con seis líneas finas junto a una placa caída; no se confirmó que fuera huella de esa especie.
-- Antes de la lluvia del Capítulo XI, los filamentos blancos cambiaron de posición sin cambio intencional de la linterna; el mecanismo no se ha determinado.
-- En el Capítulo XIII se observa una criatura de seis apoyos realizando contactos repetidos con la película oscura del reverso de una placa cobriza; tras el contacto queda una franja más clara donde parte del material ha sido retirada.
-- El destino del material retirado no se observa; **no está demostrado que la criatura lo ingiera**.
-- Otras placas desprendidas muestran franjas claras semejantes.
-- En el Capítulo XIV se observan muchas partículas suspendidas dentro de la bóveda bajo iluminación lateral, coincidiendo con una tasa mayor de carga del filtro.
-- En el Capítulo XIX el protagonista regresa a la misma placa documentada en XIII mediante borde roto, nervadura y manchas de referencia; la franja clara sigue identificable, pero material oscuro ocupa de nuevo parte de la superficie que estaba despejada en el registro anterior.
-- En otra placa observada durante el regreso aparecen tres líneas claras próximas y parcialmente paralelas, sin fotografía anterior que permita determinar cuándo se formaron ni qué las produjo.
-- No se observa directamente ninguna criatura durante la visita del Capítulo XIX.
-
-### Película oscura de placas cobrizas y presión de alimento
-
-- El protagonista toma en el Capítulo XIII una muestra mínima de la película oscura de una placa ya desprendida.
-- La muestra contiene cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética detectable.
-- El analizador devuelve `ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES` y `COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA`.
-- No se detecta un veneno humano conocido por encima del umbral del ensayo utilizado; esto no demuestra seguridad.
-- El análisis consume parte de los reactivos limitados.
-- **El protagonista no ingiere la película ni otra materia alimentaria de Elyndran.**
-- El registro de comportamiento queda como `PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.`
-- En el Capítulo XIII el protagonista empieza a fraccionar las raciones y coloca una marca física en el armario de comida para visualizar lo que queda, sin fijar todavía una fecha de agotamiento.
-- En el Capítulo XVII continúa fraccionando raciones y consume una media ración antes de salir; no aparece ninguna fuente local nueva declarada comestible.
-- En el Capítulo XVIII come media ración fría incluso después de reparar el módulo térmico para evitar una carga no esencial; conserva la otra mitad y no aparece una fuente local nueva declarada comestible.
-- En el Capítulo XIX vuelve a fraccionar una ración y realiza una visita exclusivamente observacional a la placa de XIII, sin llevar analizador ni recipientes de muestra y sin consumir reactivos nuevos.
-- La comparación fotográfica alineada por geometría confirma en tres segmentos que la película oscura vuelve a ocupar parte de la franja previamente despejada; en otros segmentos la diferencia puede deberse a ángulo o humedad y no se cuenta como cambio confirmado.
-- Registro: `FRANJA OBSERVADA TRAS RETIRADA DE MATERIAL: COBERTURA OSCURA PARCIALMENTE RESTABLECIDA ENTRE REGISTROS.`
-- Registro: `MECANISMO NO DETERMINADO.`
-- En el Capítulo XX no se investiga ni ingiere materia local; el protagonista consume una ración fraccionada fría durante una jornada de reposo en la cápsula.
-- **No está demostrado que la película crezca, sea redepositada, se desplace desde zonas contiguas ni que su reposición sea regular o suficientemente rápida para considerarla un recurso renovable.**
-
-### Terraza alta y observación del cielo
-
-- La terraza ofrece una apertura del cielo mayor que las zonas inferiores.
-- Desde ella se observa una geometría lejana con tramos rectos y al menos un ángulo.
-- En el Capítulo XI se utilizó como punto de observación orbital y radio.
-- El protagonista permaneció allí durante la ventana prevista de Aster y un margen adicional sin confirmar su paso.
-- La geometría regular lejana siguió visible cuando la niebla lo permitió.
-
-### Cápsula, equipo y recursos
-
-- La cápsula sigue siendo el único refugio seguro conocido y requiere mantenimiento de campo.
-- Una filtración por junta deformada fue sellada y protegida con un pequeño desvío exterior de lluvia.
-- El interior acumula barro, material desmontado y reparaciones.
-- Recursos confirmados: agua sellada, raciones, botiquín, baterías, herramienta multipropósito, manta térmica, cinta, cable fino, filtros, linterna, material de muestras limitado y materiales recuperados del paracaídas/cápsula.
-- Se recuperaron aproximadamente once metros útiles de líneas, correas y malla; existe un sistema de aseguramiento improvisado marcado como `NO CERTIFICADO PARA SOSTENER PESO HUMANO`.
-- La herramienta multipropósito quedó ligeramente marcada en el Capítulo X, pero sigue utilizable.
-- Agua, comida, filtros, energía, recipientes, reactivos y raciones imponen un horizonte temporal real.
-- El protagonista mantiene agua terrestre como fuente principal.
-- En el Capítulo XIII la comida pasa a ser una presión explícita: las raciones restantes dejan fondo visible en el compartimento y una ración se divide antes de consumirse.
-- En el Capítulo XIV un filtro agotado por carga elevada queda fuera de servicio y se utiliza para análisis; se instala un cartucho limpio.
-- La mayor carga de filtro también implica mayor consumo de batería porque el traje compensa aumentando caudal.
-- El protagonista coloca una marca física en el alojamiento de filtros, igual que hizo con las raciones, sin convertirla en cuenta atrás fechada.
-- En el Capítulo XV se sustituye un prefiltro ambiental interior antiguo por uno limpio; el antiguo se conserva sellado como referencia, no como prueba de contaminación exterior.
-- La limpieza de retorno consume paños limpios y agua/humedad, de modo que el control de partículas crea un coste pequeño pero persistente adicional.
-- Dentro de la cápsula se reorganizan raciones, soporte de casco, residuos y zona de descanso para mantener una separación práctica entre entrada y zona limpia.
-- En el Capítulo XVI se utilizan dos apósitos estériles, gasa, solución de limpieza, agua terrestre y material de seguimiento para comparar la exposición de la mano izquierda con una zona no expuesta de la derecha.
-- En el Capítulo XVII no se consume material analítico nuevo para la mano ni para la estructura; la observación se apoya en cámara, registros previos, medición térmica y audio.
-- En el Capítulo XVIII el módulo térmico de comida falla por un contacto degradado con marcas de arco y presión mecánica insuficiente; se limpia y se repara con una lámina conductora del kit de mantenimiento.
-- Tras la reparación, el módulo supera una prueba breve con corriente estabilizada, pero el protagonista decide no usarlo para calentar la siguiente comida.
-- El historial muestra que los arranques defectuosos del módulo producían caídas de tensión y calentamiento creciente del convertidor común; nada queda todavía fuera de límites operativos.
-- La cápsula recupera parte de la energía mediante superficies exteriores cuando la luz atraviesa la niebla, por lo que la autonomía eléctrica depende también del clima y no de una simple descarga lineal de batería.
-- Recirculación, análisis, baliza, bombas, calefacción, tratamiento térmico y otras cargas compiten por una reserva energética finita.
-- El protagonista configura prioridad de transmisión para impedir el arranque de cargas no esenciales durante la baliza automática.
-- El calor de comida pasa a tratarse como prescindible frente a cargas de supervivencia, tratamiento y comunicación; el módulo queda operativo pero normalmente apagado.
-- En el Capítulo XIX se evita un nuevo análisis destructivo de la película: no se consumen reactivos ni recipientes de muestra; sí se consume capacidad de filtro, batería del traje, agua/paños de retorno y energía de recirculación por la salida a la bóveda.
-- El protagonista crea una referencia visual reutilizable con tres puntos de comparación de la franja para futuras visitas sin depender de nuevas muestras.
-- En el Capítulo XX se mantiene el receptor de emergencia en registro pasivo ampliado para conservar los minutos alrededor de las transmisiones automáticas; este seguimiento consume energía baja pero no nula y no modifica el contenido ni la potencia de la baliza.
-- La baliza mantiene potencia estable en los ciclos observados del Capítulo XX y continúa sin respuesta confirmada.
-
-### Estado físico
-
-- Costado izquierdo en mejoría.
-- Rodilla derecha sigue rígida y condiciona posturas, bajadas y subidas.
-- El resbalón del Capítulo X la obligó a flexionarse más de lo deseado, sin patrón de dolor nuevo y manteniendo carga.
-- En el Capítulo XI ponerse de pie deprisa provoca una protesta de la rodilla, pero acepta el peso durante el regreso.
-- En el Capítulo XII la rodilla agradece estirarse durante la observación de las marcas, sin deterioro nuevo demostrado.
-- En el Capítulo XV trabaja sentado con la pierna derecha estirada para evitar flexión prolongada; no hay deterioro nuevo demostrado.
-- En el Capítulo XVI la rodilla protesta al incorporarse tras trabajo agachado, pero vuelve a aceptar carga sin deterioro nuevo demostrado.
-- En el Capítulo XVII la rodilla se endurece durante la permanencia junto a la estructura y motiva el regreso, sin lesión nueva demostrada.
-- En el Capítulo XIX la rodilla vuelve a endurecerse durante la observación prolongada en la zona de placas; no se describe lesión nueva.
-- Al inicio del Capítulo XX la rodilla tarda en extenderse y motiva una jornada sin salida exterior; mejora durante el día hasta permitir caminar por la cápsula sin arrastrar el pie, sin lesión aguda nueva demostrada.
-- Cuello con rigidez residual.
-- Nudillos del Capítulo VII: hinchazón leve y movilidad conservada.
-- Capacidad motora general conservada.
-- Sigue usando casco y filtrado en exterior.
-- No se ha observado reacción adversa medible a la exposición mínima de lluvia tratada registrada hasta ahora.
-- La primera exposición deliberada de piel desnuda al ambiente exterior ocurre en el Capítulo XVI: mano/muñeca izquierdas durante 34 segundos en una zona de baja carga de filtro, sin reacción aguda observable en las primeras horas.
-- Cerca de veinticuatro horas después, en el Capítulo XVII, la mano izquierda continúa sin cambios visibles, térmicos o motores frente a la derecha.
-- Más de treinta horas después, en el Capítulo XVIII, sigue sin observarse diferencia visible, térmica o motora; no se repite la exposición.
-- El Capítulo XIX no realiza una nueva prueba dérmica ni amplía la exposición.
-- El Capítulo XX vuelve a comparar de forma informal color y temperatura de ambas manos sin hallar diferencia observable; no convierte esa observación en nueva prueba de seguridad.
-- **No se conoce todavía si habrá respuesta tardía más allá de ese periodo o acumulativa ante exposiciones futuras.**
-- **No ha respirado deliberadamente aire exterior sin filtrado.**
+- La cápsula es el único refugio seguro conocido y exige mantenimiento de campo.
+- Una filtración por junta deformada fue reparada y existe un desvío exterior de lluvia.
+- El módulo térmico de comida falló por un contacto degradado, fue reparado en XVIII y permanece operativo, pero normalmente apagado para ahorrar margen eléctrico.
+- Baliza, recirculación, análisis, bombas, tratamiento térmico y otras cargas compiten por energía finita; la recuperación depende en parte de la luz que atraviesa la niebla.
+- La baliza tiene prioridad explícita frente a cargas no esenciales y continúa sin respuesta confirmada incluso con potencia estable.
+- El receptor permanece en escucha pasiva ampliada tras XX; el seguimiento consume energía baja pero no nula.
 
 ## HIPÓTESIS ACTIVAS
 
-- El intervalo de 37 segundos puede ser fallo o fenómeno desconocido.
-- La recepción anómala del Capítulo XX puede ser interferencia interna, acoplamiento electromagnético, ruido que imita parte del protocolo, error de reloj compartido, una señal externa o un fenómeno desconocido; ninguna opción está demostrada.
-- La coincidencia aproximada de 37 segundos entre la anomalía de entrada y la recepción previa a la baliza puede ser significativa o accidental; **no está demostrado que ambos eventos tengan la misma causa**.
-- Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o encontrarse fuera de la ventana calculada; ninguna opción está demostrada.
-- Las breves caídas de potencia de la baliza pudieron o no afectar una escucha externa; no hay evidencia de que Aster u otro receptor estuviera disponible durante esos instantes.
-- Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento.
-- Los filamentos blancos pueden responder a luz y también a una variable meteorológica todavía no identificada.
-- Las depresiones grandes pueden ser erosión, deformación o tránsito repetido; no llamarlas huellas.
-- Los nuevos arañazos y la depresión pequeña pueden deberse a tormenta, flexión, tránsito, impacto u otro mecanismo; no vincularlos todavía entre sí ni con las depresiones grandes.
+- El intervalo de 37 s puede ser fallo, acoplamiento interno, referencia temporal compartida, interferencia, señal externa o fenómeno desconocido. La coincidencia entre entrada, XX y XXI puede ser significativa o accidental.
+- Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o estar fuera de la ventana calculada; nada está demostrado.
+- Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento; su coincidencia con golpes en XXII no demuestra que detecten el mismo fenómeno.
 - Los golpes profundos pueden ser estructurales, geológicos o biológicos.
-- La sombra nocturna puede ser niebla, sombra estructural u organismo.
-- Los animales acuáticos pueden alimentarse de la película verdosa.
-- Sus secuencias de puntos pálidos pueden ser actividad fisiológica, respuesta ambiental, señal entre individuos o coincidencia.
-- La línea del disco vacío puede ser tejido, estructura interna, inclusión mineral u otro material.
-- La fracción orgánica del agua puede proceder de organismos, metabolismo, material del disco u otros compuestos.
-- La señal residual de lluvia puede ser atmosférica, contaminación del colector u otra fracción ambiental.
-- La fracción orgánica y las estructuras microscópicas atrapadas por filtros pueden ser material biológico, fragmentos inertes, aerosoles orgánicos o una mezcla; no llamarlas esporas ni microorganismos sin evidencia.
-- La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad, interacción de ambas o condiciones locales todavía no medidas.
-- Parte del particulado del prefiltro interior puede proceder del exterior y haber entrado durante aperturas/regresos, pero la muestra también contiene material terrestre y anterior al accidente; el origen de cada fracción no está demostrado.
-- La ausencia de reacción aguda durante 34 segundos y de cambios visibles durante más de treinta horas puede indicar tolerancia local a esa dosis concreta o simplemente ausencia de una respuesta observable en ese intervalo; no inferir compatibilidad a largo plazo.
-- Los tonos pueden originarse en la interacción entre película y estructura; el Capítulo XVII refuerza una posible relación entre cantidad/estado de la película y frecuencia, pero el disparador y el mecanismo de carga siguen sin determinarse.
-- La película transparente del brazo agudo puede recibir material o líquido desde la base, desde la raíz que abraza la estructura o desde un conducto oculto; la observación no permite escoger entre esas opciones.
-- El cambio aparente de cobertura de corteza sobre las bandas puede ser hinchamiento por humedad, crecimiento real, diferencia de encuadre u otro cambio; no usarlo todavía como prueba de crecimiento rápido.
-- La plataforma puede ser artificial, biológica, mineral o una combinación.
-- La trama inferior puede haber sido rodeada por la raíz, construida alrededor de ella, formada junto a ella o tener otra historia.
-- Las líneas y bandas oscuras próximas a la plataforma pueden pertenecer al mismo sistema o a estructuras distintas.
-- La vibración fina no debe vincularse todavía a los tonos.
-- El agua ascendente de la bóveda puede explicarse por capilaridad, presión o transporte activo.
-- La criatura terrestre probablemente utiliza aplanamiento y coloración como camuflaje, pero no está demostrado.
-- La criatura del Capítulo XIII puede retirar la película oscura para alimentarse o por otra función; no se ha observado el destino del material.
-- La película oscura puede contener sustancias aprovechables por metabolismo local sin ser compatible con metabolismo humano.
-- La cobertura parcial recuperada observada en el Capítulo XIX puede deberse a crecimiento local, deposición desde agua/aire, desplazamiento desde material vecino, cambios de humedad o una combinación; ninguna opción está demostrada.
-- Las tres líneas claras observadas en otra placa durante el Capítulo XIX pueden ser recorridos de retirada semejantes a los vistos en XIII o tener otro origen; no hay registro previo ni observación directa del mecanismo.
-- La geometría regular de la terraza puede relacionarse con otros destellos o estructuras, pero no está confirmado.
+- Las depresiones y arañazos pueden proceder de tránsito, erosión, flexión, impacto u otros mecanismos; no llamarlos huellas.
+- La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad o interacción de ambas.
+- La ausencia de reacción dérmica puede indicar tolerancia a esa dosis concreta o solo ausencia de respuesta observable en ese intervalo.
+- La relación película/tono de la estructura de tres brazos es probable pero su mecanismo de carga y disparo siguen sin determinarse.
+- La plataforma puede ser artificial, biológica, mineral o una combinación. La relación mecánica e histórica entre raíz y estructura es desconocida.
+- La mayor exposición de la nervadura en XXVI puede deberse a retracción de raíz/corteza, desplazamiento relativo, cambio de carga, pérdida local de material o encuadre residual.
+- La depresión regular de 7 cm puede ser unión, desgaste, hueco funcional, rotura antigua u otra característica.
+- La fibra gruesa puede soportar más carga que la probada, pero no existe evidencia para extrapolar a peso humano.
+- La película oscura puede formar parte de la dieta o de otra función de la criatura de seis apoyos. La transferencia hacia el cuerpo no demuestra digestión.
+- La recuperación parcial de la película puede deberse a crecimiento, deposición, desplazamiento desde material vecino, humedad o combinación.
+- La lluvia tratada puede llegar a ser una fuente útil solo si recogida, limpieza, tratamiento, almacenamiento y energía resultan sostenibles.
 
 ## PREGUNTAS ABIERTAS
 
-- ¿Qué significa el intervalo de 37 segundos y por qué desaparece del registro ordinario?
-- ¿Qué produjo la recepción anómala del Capítulo XX y por qué apareció aproximadamente 37 segundos antes de la transmisión?
-- ¿La recepción del Capítulo XX guarda relación real con la anomalía de entrada o solo comparte un intervalo parecido?
-- ¿Por qué no se reprodujo en los dos ciclos posteriores?
-- ¿Qué provocó la divergencia de navegación y la separación de Aster?
-- ¿Dónde está Aster y por qué no se confirmó su paso orbital?
+- ¿Qué significa el intervalo de 37 segundos y por qué aparece solo en algunos ciclos?
+- ¿Qué provocó la separación de Aster y dónde está ahora?
 - ¿Existe una forma de abandonar Elyndran?
 - ¿Hay suelo bajo la red de raíces?
-- ¿Puede llegar a demostrarse que alguna región de la atmósfera exterior es segura para respirar sin filtrado?
-- ¿Qué son las partículas y estructuras orgánicas retenidas por los filtros?
-- ¿Por qué la bóveda ascendente carga los filtros con mayor rapidez y cuánto varía ese coste entre regiones?
-- ¿La menor carga observada en la ruta horizontal se repite bajo condiciones comparables?
-- ¿Cuánto material exterior alcanza realmente el interior de la cápsula durante entradas y aperturas, y cuánto elimina la recirculación?
-- ¿Aparecerá una reacción dérmica tardía o acumulativa tras la exposición breve del Capítulo XVI?
-- ¿Qué detectan las membranas antes del viento?
-- ¿A qué respondieron los filamentos blancos antes de la lluvia del Capítulo XI?
-- ¿Qué produjo las depresiones pulidas, los arañazos nuevos y la depresión pequeña?
-- ¿Qué genera los golpes profundos?
-- ¿Qué fue la sombra de la primera noche?
-- ¿Qué son exactamente los discos y la línea del disco vacío?
-- ¿Qué detecta la fauna acuática antes que el traje y qué significan sus secuencias luminosas?
-- ¿Puede el agua de los discos procesarse hasta ser segura?
-- ¿Puede la lluvia tratada convertirse en fuente fiable sin efectos tardíos ni costes insostenibles?
-- ¿Qué inicia las vibraciones de la estructura de tres brazos y qué significan sus hendiduras?
-- ¿De dónde procede la película transparente de los brazos de la estructura y por qué su nivel parece alterar el tono?
-- ¿Por qué la cavidad del brazo agudo estaba casi seca después de la lluvia mientras la del grave permanecía llena?
+- ¿Puede demostrarse que alguna región de la atmósfera es segura sin filtrado?
+- ¿Qué son las partículas orgánicas de los filtros y cuánto material exterior entra realmente en la cápsula?
+- ¿Qué detectan las membranas antes de las ráfagas y qué causa los golpes profundos?
+- ¿Qué produjo las depresiones grandes, los arañazos nuevos y la depresión pequeña?
+- ¿Qué son exactamente los discos, su agua y la línea del disco vacío?
+- ¿Qué detecta la fauna acuática antes que el traje y qué significan sus luces?
+- ¿Puede el agua local convertirse en una fuente fiable sin riesgos tardíos ni costes insostenibles?
+- ¿Qué inicia los tonos y de dónde procede la película transparente de la estructura de tres brazos?
 - ¿Qué son las formas verticales de la plataforma y existe actividad actual allí?
-- ¿Qué produjo los surcos del borde roto?
-- ¿Qué son la banda ancha, nervaduras y líneas oscuras próximas a la plataforma?
-- ¿Cómo se relacionan raíz y estructura inferior?
-- ¿Qué causó la vibración fina del borde?
-- ¿Existe una vía física hasta la superficie superior de la plataforma?
+- ¿Qué produjo los surcos del borde roto y la vibración fina cercana?
+- ¿Por qué está más expuesta la nervadura en XXVI: cambió la raíz, la estructura o ambas?
+- ¿Qué función tiene, si alguna, la depresión regular de 7 cm?
+- ¿Qué carga real soportan la fibra y la nervadura, y puede construirse una cadena segura de apoyos hasta la trama inferior?
+- ¿Desde la trama inferior existe alguna vía hacia la superficie superior de la plataforma?
 - ¿Qué mecanismo mueve agua hacia arriba en la bóveda?
-- ¿Qué papel ecológico tiene la criatura terrestre de seis apoyos?
-- ¿Qué función cumple la película oscura de las placas cobrizas y qué hace la criatura con el material retirado?
-- ¿Qué mecanismo hace que parte de la cobertura oscura vuelva a ocupar una franja previamente despejada y a qué velocidad sucede bajo condiciones comparables?
-- ¿Las líneas claras observadas en distintas placas corresponden a actividad repetida de la misma clase de criatura o a otro proceso?
+- ¿Qué papel ecológico tiene la criatura de seis apoyos y qué sucede con la película tras entrar en su cuerpo?
 - ¿Existe en Elyndran alguna fuente de alimento compatible con metabolismo humano?
-- ¿Qué es la geometría regular visible desde la terraza?
-- ¿Cuánto tiempo puede mantenerse operativa la cápsula?
-- ¿Cuánto depende la autonomía eléctrica de la luz disponible, del estado del convertidor y de las decisiones de carga?
-- ¿Se mantendrá estable la reparación del módulo térmico o volverá a degradarse su contacto?
-- ¿Cuánto pueden durar raciones, filtros, prefiltros, paños, reactivos y componentes de mantenimiento si no aparecen fuentes locales seguras?
+- ¿Cuánto pueden durar comida, filtros, paños, reactivos, componentes y energía si no aparecen fuentes locales seguras?
 - ¿Está el protagonista solo en todo el planeta o únicamente respecto a su expedición?
 
-## LUGARES VISITADOS Y CAMINOS
+## LUGARES Y CAMINOS
 
-- **Aproximación orbital:** Elyndran visto desde el espacio.
-- **Cápsula / lugar de caída:** refugio principal, reparado y con colector experimental; punto del primer muestreo controlado de aire exterior. Desde el Capítulo XV el interior está organizado en una zona de entrada y una zona limpia como medida práctica de control de partículas, sin ser una separación hermética. En el Capítulo XVIII se convierte además en un problema explícito de gestión eléctrica: baliza, recirculación, tratamiento y calor compiten por la misma reserva. En el Capítulo XX funciona como espacio completo de una jornada de reposo y observación de comunicaciones; allí se detecta y contrasta la recepción anómala previa a una baliza.
-- **Zona inmediata de la primera ruta:** raíz ancha a menos de seis metros de la cápsula; en el Capítulo XVI se utiliza como punto de exposición dérmica controlada por haber mostrado baja carga de filtro en mediciones previas.
-- **Primera ruta:** conecta cápsula con bifurcación; revisitada tras una tormenta y después usada como tramo comparativo de carga de filtro.
-- **Zona de las depresiones:** tres marcas grandes antiguas, nuevos arañazos y una depresión pequeña posterior a los primeros registros.
-- **Bifurcación principal:** tres ramas; marcador reflectante perdido.
-- **Ruta descendente:** raíz rota, raíz intermedia y raíz inferior de los discos; recorrida varias veces.
-- **Raíz inferior de los discos:** fauna y muestra de agua.
-- **Ruta horizontal:** estructura de tres brazos y división próxima a la plataforma; en el Capítulo XVII se revisita para comparar carga de filtro y observar el estado variable de las películas internas de la estructura.
-- **Estructura de tres brazos:** referencia física/acústica estable en posición, pero no en estado sonoro; en el Capítulo XVII el tono agudo desaparece con su cavidad casi seca y reaparece tras aumentar la película transparente.
+- **Cápsula / lugar de caída:** refugio principal, baliza, colector, zona de entrada y zona limpia.
+- **Primera ruta:** conecta cápsula y bifurcación; conocida de memoria, pero XXII demuestra que la geometría puede cambiar.
+- **Zona del antiguo marcador:** raspado parcialmente cubierto; la referencia estable pasa a ser una alineación geométrica.
+- **Zona de las depresiones:** tres depresiones grandes, arañazos nuevos y una depresión pequeña posterior.
+- **Canal de raíces paralelas:** raíz inferior desplazada unos centímetros desde XXII; alternativa superior consolidada como paso habitual.
+- **Bifurcación:** tres ramas exploradas parcialmente.
+- **Ruta descendente:** conduce a fibras, discos, fauna acuática y muestra de agua.
+- **Ruta horizontal:** conduce a la estructura de tres brazos, borde roto y aproximación inferior de plataforma. Coste de filtro provisionalmente menor que la bóveda ascendente.
+- **Estructura de tres brazos:** referencia física/acústica cuya condición sonora cambia con el estado de sus películas.
 - **Borde roto:** surcos paralelos y vista de raíz opuesta.
-- **Rama inferior de aproximación:** permite observar la parte inferior de la plataforma.
-- **Parte inferior de la plataforma:** observada de cerca; superficie superior no alcanzada.
-- **Plataforma regular:** no visitada por arriba.
-- **Ruta ascendente:** bóveda vegetal y terraza alta; recorrida varias veces; desde el Capítulo XIV se sabe que impone mayor carga de filtro que la primera ruta durante la comparación realizada. En XIX se vuelve a recorrer hasta la zona de placas sin abrir territorio nuevo.
-- **Zona de placas cobrizas:** lugar donde se observó a la criatura terrestre y, en el Capítulo XIII, retirada de película oscura. En XIX se identifica de nuevo la misma placa y se documenta recuperación parcial de cobertura oscura en la franja antigua.
-- **Terraza alta:** geometría lejana y punto de observación del cielo y escucha orbital.
+- **Rama inferior de aproximación:** resbaladiza, permite observar la parte inferior de la plataforma.
+- **Parte inferior de la plataforma:** capas, nervaduras, huecos, banda oscura y crecimiento vivo; en XXVI aparece una posible aproximación de fibra + nervadura aún no segura.
+- **Plataforma regular:** superficie superior no visitada.
+- **Ruta ascendente / bóveda:** mayor coste de filtrado observado, vegetación densa, placas cobrizas y terraza alta.
+- **Zona de placas cobrizas:** lugar de la criatura de seis apoyos y de la película oscura investigada.
+- **Terraza alta:** punto de observación del cielo y escucha orbital; desde allí se ve una geometría regular lejana.
 
 ## FLORA Y ORGANISMOS NO CLASIFICADOS
 
-- Membranas transparentes: contacto y anticipación práctica de ráfagas.
+- Membranas transparentes: reaccionan al contacto y anticipan ráfagas.
 - Filamentos azul grisáceos: se inclinan contra flujo.
-- Película elástica sobre fibras: húmeda y recupera forma tras presión.
+- Película elástica sobre fibras: húmeda, recupera forma tras presión.
 - Discos de agua: estructuras cóncavas desconocidas.
 - Película verdosa de discos: posible sustrato alimenticio, no confirmado.
 - Línea del disco vacío: material/tejido no identificado.
-- Formaciones cobrizas: láminas superpuestas que pueden cerrarse durante ráfagas fuertes.
-- Película oscura del reverso de algunas placas cobrizas: material orgánico complejo; una criatura de seis apoyos la retira mediante contactos repetidos, función no determinada. En XIX una franja previamente despejada presenta cobertura oscura parcialmente restablecida entre registros; mecanismo y tasa no determinados.
-- Filamentos blancos: respuesta demostrada a luz; cambio previo a lluvia observado una vez sin mecanismo conocido.
-- Bolsas translúcidas: reciben agua ascendente por hilos finos.
-- Película oscura de la rama inferior de plataforma: retiene agua y es resbaladiza; no confundir con la película de las placas cobrizas.
-- Películas transparentes de la estructura de tres brazos: asociadas a las cavidades internas de al menos dos brazos; vibran antes del tono correspondiente. En el Capítulo XVII una de ellas aumenta de nivel lentamente desde la base antes de que reaparezca el tono agudo.
-- Particulado de la atmósfera exterior: incluye minerales, fibras, fragmentos translúcidos y estructuras microscópicas con fracción orgánica no clasificada; vida/no vida no determinada.
-- Particulado interior de la cápsula: mezcla de materiales terrestres conocidos y componentes no clasificados; no atribuir automáticamente estos últimos a Elyndran.
+- Formaciones cobrizas: láminas superpuestas que pueden cerrarse durante ráfagas.
+- Película oscura del reverso de placas: material orgánico complejo, retirado por criatura de seis apoyos; compatibilidad humana desconocida y reposición parcial ambigua.
+- Filamentos blancos: respuesta demostrada a luz; una vez cambiaron antes de lluvia sin mecanismo conocido.
+- Bolsas translúcidas e hilos ascendentes: reciben/transmiten agua hacia arriba.
+- Película oscura de la rama inferior de plataforma: húmeda y resbaladiza; no confundir con la película de placas.
+- Películas transparentes de la estructura de tres brazos: asociadas a cavidades y tonos.
+- Particulado exterior: mezcla de minerales, fibras, fragmentos translúcidos y estructuras microscópicas con fracción orgánica no clasificada.
+- Raíz/corteza de la trama inferior: cambia de cobertura aparente entre registros en al menos un punto; mecanismo no determinado.
+- Fibra gruesa próxima a la plataforma: flexiona bajo carga pequeña; capacidad estructural humana no demostrada.
 
 ## FAUNA CONFIRMADA
 
 ### Animales planos de los discos — sin nombre
 
-Confirmado: acuáticos, pequeños, planos, movimiento por ondulación, puntos pálidos, reacción a cambios del traje y vibraciones profundas; dos individuos mostraron secuencias luminosas breves.
+Confirmado: pequeños, acuáticos, planos, gris azulados, movimiento por ondulación, puntos pálidos, reacción a cambios del traje y vibraciones profundas; dos individuos mostraron secuencias luminosas breves.
 
-No confirmado: dieta, reproducción, ciclo vital, anatomía interna, peligrosidad, significado de luces, nombre.
+No confirmado: dieta, reproducción, anatomía interna, peligrosidad, significado de luces, nombre.
 
 ### Criatura terrestre de seis apoyos — sin nombre
 
-Confirmado: pequeña, seis apoyos, placas cobrizas dorsales, aplanamiento, estructura tubular inferior observada, sin reacción agresiva durante contacto accidental. En el Capítulo XIII una criatura realiza contactos repetidos con película oscura del reverso de una placa y deja una franja de material retirado.
+Confirmado: pequeña, seis apoyos, cuerpo bajo, placas cobrizas dorsales, estructura tubular inferior, sin agresión observada. Retira película oscura mediante contactos repetidos y en XXIII se observa material desplazándose por un tramo translúcido hacia el cuerpo.
 
-No confirmado: si el individuo del Capítulo XIII es el mismo observado antes, dieta, destino del material retirado, reproducción, anatomía interna, sentidos, peligrosidad, función ecológica, nombre. En XIX no se observa un individuo y las nuevas líneas claras no se atribuyen a la especie.
+No confirmado: identidad entre individuos observados, dieta fisiológica, digestión, metabolismo, almacenamiento, reproducción, sentidos, peligrosidad, función ecológica, nombre ni compatibilidad alimentaria humana.
 
 ## OBJETOS IMPORTANTES
 
 - Cápsula de descenso y baliza activa.
 - Captura dañada de `37`.
-- Búfer de receptor conservado en el Capítulo XX con una recepción breve aproximadamente 37 segundos antes de una transmisión automática, más dos ciclos posteriores sin repetición equivalente.
-- Registro del Capítulo XX: `RECEPCIÓN ANÓMALA EN BANDA DE EMERGENCIA ANTES DE TRANSMISIÓN AUTOMÁTICA / INTERVALO APROXIMADO: 37 s / FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.`
-- Mochila con cremallera dañada.
-- Sistema improvisado de aseguramiento.
-- Desvío exterior de lluvia y colector experimental.
-- Dos bolsas reutilizadas para lluvia; una reparada tras el Capítulo X.
-- Grabaciones de sombra, tonos, fauna acuática, línea del disco y observación orbital.
-- Fotografías de estructura de tres brazos, hendiduras, plataforma, geometría de terraza, borde roto, trama inferior y comparación de marcas de la primera ruta.
-- Nueva secuencia de vídeo/audio del Capítulo XVII que documenta la subida lenta de película transparente en el brazo agudo y la reaparición del tono con frecuencia modificada.
-- Serie fotográfica comparativa XIII/XIX de la misma placa cobriza, alineada por borde roto, nervadura y manchas de referencia, que documenta recuperación parcial de cobertura oscura en tres segmentos fiables.
-- Lámina reutilizable preparada en XIX con tres puntos de comparación visual para futuras revisitas de la franja.
-- Muestra de agua de discos parcialmente consumida.
-- Muestra mínima de película oscura de placa cobriza analizada en el Capítulo XIII.
-- Muestra de la capa exterior de un filtro usado analizada en el Capítulo XIV.
-- Tubo de muestreo ambiental usado para introducir aire exterior al analizador sin respiración directa; en el Capítulo XVII se usa sin conexión solo como referencia de escala junto a la cavidad de la estructura.
-- Prefiltro ambiental interior antiguo retirado en el Capítulo XV y sellado como referencia; no constituye prueba de contaminación exterior.
-- Prefiltro ambiental limpio instalado en la cápsula.
-- Línea de cinta interior que separa funcionalmente zona de entrada y zona limpia.
+- Búferes del receptor con anomalías de XX y XXI y ciclos posteriores sin repetición equivalente.
+- Cámara y registros comparativos de rutas, plataforma, placas, fauna y estructura de tres brazos.
+- Sistema improvisado de aseguramiento, explícitamente no certificado para sostener una caída humana.
+- Líneas, correas y malla recuperadas del paracaídas; dos líneas se usan como herramientas de control en XXVI.
+- Colector experimental de lluvia, reparado en XXV.
+- Bolsas reutilizadas para lluvia; reserva experimental separada del agua terrestre.
 - Analizador, reactivos y material de tratamiento limitados.
-- Material de seguimiento dérmico utilizado en el Capítulo XVI: apósitos transparentes, gasa, solución de limpieza y fotografías comparativas.
-- Herramienta multipropósito ligeramente marcada pero utilizable.
-- Marca física colocada en el armario de comida para visualizar el descenso de las raciones.
-- Marca física añadida al alojamiento de filtros para visualizar los cartuchos restantes.
-- Módulo térmico de comida reparado en el Capítulo XVIII mediante limpieza del contacto, recuperación de presión mecánica y una lámina conductora del kit de mantenimiento; queda operativo pero de uso no esencial.
-- Registro eléctrico de tres caídas breves de potencia de baliza coincidentes con arranques defectuosos del módulo térmico.
-- Regla de prioridad eléctrica que bloquea arranque de cargas no esenciales durante ventanas automáticas de transmisión.
+- Muestra de agua de discos, muestra mínima de película oscura y muestra de un filtro usado.
+- Prefiltro interior antiguo sellado como referencia y prefiltro limpio instalado.
+- Línea de cinta que separa funcionalmente zona de entrada y zona limpia.
+- Herramienta multipropósito marcada pero utilizable.
+- Marca física del armario de comida y marca del alojamiento de filtros.
+- Módulo térmico reparado y operativo, normalmente apagado.
+- Regla de prioridad eléctrica que bloquea cargas no esenciales durante emisiones automáticas.
+- Referencia floja de cinta dejada en XXVI alrededor de una fibra próxima a la plataforma; no es un anclaje.
+
+## ESTADO FÍSICO
+
+- Costado izquierdo en mejoría; cuello con rigidez residual; nudillos antiguos con movilidad conservada.
+- Rodilla derecha sigue siendo la limitación persistente principal: rigidez, molestias con flexión y endurecimiento durante esperas o cambios de altura.
+- El incidente de XXII dobló la rodilla antes de tiempo al perder un apoyo, pero no produjo lesión aguda nueva demostrada.
+- XXIII, XXV y XXVI muestran que tolera marcha y salidas si evita flexión profunda y descarga peso; al final de XXVI queda rígida pero sin inflamación visible nueva.
+- Capacidad motora general conservada.
+- No hay nueva exposición dérmica después de XVI.
+- No ha respirado deliberadamente aire exterior sin filtrado.
+
+## RECURSOS
+
+- **Comida:** presión explícita y físicamente contada. XXIII: 11,5 → 10,5 raciones. XXIV: una ración con sellado comprometido se descarta y se consume 0,5 → 9 raciones completas. XXV: consume 0,5 → 8,5. XXVI: consume 0,5 → **8 raciones completas seguras**.
+- **Agua:** agua terrestre sigue siendo fuente principal. Agua de discos no consumida. Lluvia tratada solo como reserva experimental; la muestra de XXV tampoco se bebe.
+- **Filtros:** finitos; bóveda ascendente consume más capacidad y más batería por compensación de caudal.
+- **Energía:** finita, con recuperación variable por luz. Baliza, recirculación, análisis, tratamiento, bombas y calor compiten.
+- **Reactivos:** limitados. XXIV consume una porción adicional para el control de alimento terrestre. No se repite muestreo de película sin pregunta concreta.
+- **Limpieza:** cada salida consume paños, agua/humedad y energía de recirculación, incluso salidas breves junto a la cápsula.
+- **Equipo de ascenso:** no existe todavía un sistema certificado para peso humano; las pruebas de XXVI son deliberadamente pequeñas.
 
 ## CONSECUENCIAS PERSISTENTES
 
-- Cápsula inmovilizada, baliza activa y enlace con Aster perdido.
-- El intento orbital no confirma el paso de Aster y mantiene su destino abierto.
-- La cápsula exige mantenimiento y la zona de caída ya ha sido modificada con reparaciones y recogida de lluvia.
-- La rodilla condiciona movilidad, aunque sigue aceptando carga y en el Capítulo XX fuerza una jornada de reposo interior.
-- Las membranas forman parte del conocimiento corporal del protagonista.
-- Las tres ramas principales contienen rutas, preguntas y costes concretos.
-- La primera ruta ya no es solo tránsito: una comparación temporal confirma cambios físicos entre registros sin mecanismo observado.
-- La plataforma sigue sin visitarse por arriba; existe una ruta reproducible hasta parte de su estructura inferior.
-- Fauna acuática y terrestre observadas sin captura.
-- El protagonista sustituye marcadores por memoria, geometría y referencias ambientales.
-- Los tonos forman parte de la orientación práctica aunque su origen siga sin comprenderse.
-- La revisión del Capítulo XVII demuestra que al menos el tono agudo no es una propiedad fija: desaparece cuando su cavidad está casi seca y reaparece con frecuencia distinta mientras vuelve a formarse la película transparente.
-- La geometría regular aparece en más de un punto del paisaje.
-- Agua, comida, filtros, energía, recipientes y reactivos mantienen presión de supervivencia.
-- El agua de discos y la lluvia directa siguen tratadas como fuentes distintas; solo la lluvia ha tenido exposición humana mínima.
-- La autonomía abierta por la lluvia es real pero frágil y dependiente del clima y del equipo.
-- La comida pasa a ser una presión narrativa explícita en el Capítulo XIII; no existe todavía ninguna fuente local declarada segura.
-- En el Capítulo XIX la presión de comida produce un regreso de observación en vez de una ingestión prematura: la película oscura recupera parcialmente cobertura en una franja conocida, pero esto solo abre un problema de ciclo/reposición y no convierte el material en alimento ni en recurso renovable demostrado.
-- El protagonista conserva reactivos y recipientes en XIX al priorizar comparación fotográfica sobre una segunda muestra destructiva.
-- En el Capítulo XIV el aire deja de ser una prohibición abstracta y se convierte en un recurso medible: parte de su composición gaseosa es prometedora, pero el riesgo biológico/particulado sigue sin resolver y los filtros son finitos.
-- El protagonista empieza a planificar rutas también por coste respiratorio, no solo por distancia o peligro físico.
-- En el Capítulo XV la frontera exterior/interior deja de ser absoluta: la cápsula reduce partículas mediante limpieza y recirculación, pero no puede tratarse como entorno estéril.
-- El protagonista modifica físicamente el refugio para separar entrada y zona limpia; esa conducta introduce nuevos costes pequeños de paños, agua de limpieza y prefiltros.
-- En el Capítulo XVI la primera exposición deliberada de piel desnuda al ambiente exterior se completa durante 34 segundos sin reacción aguda observable; el seguimiento de los capítulos XVII, XVIII y XX tampoco muestra cambios observables suficientes para declarar seguridad.
-- El protocolo de guantes, casco, limpieza y recirculación **no se relaja** después de la exposición dérmica.
-- **La primera retirada futura del casco en exterior debe llegar después de evidencia adicional y no queda autorizada por las lecturas actuales ni por la tolerancia dérmica inmediata.**
-- En el Capítulo XVIII el calor deja de ser solo comodidad: comida, tratamiento térmico de agua, control ambiental y comunicaciones compiten mediante la misma infraestructura eléctrica.
-- El módulo térmico queda reparado pero normalmente apagado; el protagonista acepta comida fría para conservar margen eléctrico y térmico del convertidor.
-- La baliza recibe prioridad explícita frente a cargas no esenciales durante sus transmisiones; la falta de respuesta persiste incluso después de eliminar esa competencia interna.
-- La autonomía eléctrica depende parcialmente de la luz que alcanza las superficies exteriores y del estado de los componentes, por lo que el clima afecta también al tiempo operativo del refugio.
-- En el Capítulo XX el motivo de los 37 segundos reaparece en un subsistema distinto: una recepción breve antecede aproximadamente en ese intervalo a una transmisión automática. El fenómeno no se reproduce en dos ciclos posteriores y por tanto añade una contradicción, no una explicación.
-- El protagonista conserva el receptor registrando de forma pasiva, pero no altera la baliza ni convierte el hallazgo en una persecución de señales.
-- El protagonista empieza a vivir mediante hábitos nacidos de Elyndran —rutas, viento, lluvia, memoria del terreno, coste de filtrado, disciplina de entrada, selección de cargas eléctricas y revisitas comparativas— todavía por necesidad, sin declarar pertenencia.
+- La cápsula sigue inmovilizada y Aster no está localizada.
+- El motivo de 37 s reaparece en comunicaciones sin explicación y no domina cada capítulo.
+- Las rutas conocidas ya no se tratan como geometría fija; el protagonista verifica apoyos y usa referencias geométricas más estables que marcas superficiales.
+- La alternativa superior del canal ha pasado de maniobra de emergencia a hábito corporal.
+- La plataforma vuelve al primer plano, pero XXVI abre solo una **aproximación inferior potencial**, no una vía segura ni una escalada autorizada.
+- La comida baja a 8 raciones completas sin fuente local declarada segura.
+- La conducta alimentaria de la criatura aporta evidencia ecológica sin autorizar ingestión humana.
+- La lluvia puede ampliar autonomía, pero depende de integridad del colector, limpieza, tratamiento, almacenamiento y energía.
+- El aire exterior pasa de prohibición abstracta a recurso medible, pero el riesgo biológico y la finitud de filtros siguen sin resolver.
+- La cápsula se considera refugio que reduce contaminación, no ambiente estéril.
+- El protagonista conserva hábitos nacidos de Elyndran —rutas, membranas, clima, filtros, disciplina de entrada, gestión de cargas, revisitas comparativas— todavía por necesidad, sin declarar pertenencia.
 
 ## MISTERIOS DE AUTOR RESERVADOS
 
-Existen como dirección, no como conocimiento del protagonista.
+Estas notas orientan la escritura; **no son conocimiento del protagonista**.
 
-- El intervalo de 37 segundos debe seguir siendo una herida abierta, no una clave para cada rareza.
-- La recepción del Capítulo XX puede reforzar esa herida, pero **no debe convertirse todavía en prueba de viaje temporal, predicción, eco del futuro, mensaje de Aster ni inteligencia de Elyndran**.
-- La similitud parcial entre la recepción y el encabezado posterior de la baliza debe conservar alternativas técnicas y perceptivas; la falta de repetición en dos ciclos es narrativamente importante.
-- Los fenómenos aparentemente anticipatorios deben sostener alternativas físicas, biológicas y perceptivas.
-- La posible memoria, respuesta o aprendizaje del mundo debe surgir de retornos y consecuencias, no de una declaración temprana.
-- La posibilidad de otros habitantes o inteligencias permanece abierta; todavía no hay evidencia para afirmarla.
-- La presión de supervivencia no debe resolverse con una única planta, animal o material “milagrosamente comestible”; cada fuente local debe requerir observación, contraste y coste.
-- La recuperación parcial de película del Capítulo XIX debe mantenerse como fenómeno de reposición ambiguo: no usarla todavía como prueba de crecimiento, cultivo, renovabilidad ni compatibilidad alimentaria.
-- La posibilidad de respirar aire exterior debe ganarse mediante muestreo, comparación regional, riesgo biológico y exposición gradual; no convertir una lectura de oxígeno favorable en permiso inmediato para quitarse el casco.
-- La contaminación de retorno debe permanecer material y ambigua: suciedad, partículas y procedimientos, no una trama de infección prematura sin evidencia.
-- La exposición dérmica del Capítulo XVI es un escalón de conocimiento, no una prueba de seguridad general. Mantener seguimiento temporal y no usar la ausencia de reacción aguda para justificar exposición extensa, ingestión o respiración directa.
-- El regreso del Capítulo XVII a la estructura debe conservar una explicación abierta: la relación película/tono es un hecho parcial, no evidencia de lenguaje, máquina consciente ni respuesta dirigida al protagonista.
-- La energía de la cápsula debe comportarse como un sistema físico con generación variable, cargas competidoras y componentes degradables, no como una barra abstracta ni una cuenta atrás arbitraria inventada para crear tensión.
-- Las breves caídas anteriores de potencia de la baliza no deben convertirse retroactivamente en explicación conveniente de la ausencia de Aster; solo prueban que la infraestructura humana también puede fallar.
-- Antes de retirar el casco en exterior debe existir evidencia respiratoria adicional que no dependa solo de composición gaseosa o de tolerancia de la piel.
+- El intervalo de 37 s debe seguir siendo una herida abierta y no una llave para cada rareza.
+- Las recepciones de XX y XXI no deben convertirse todavía en prueba de predicción, eco del futuro, mensaje de Aster ni inteligencia de Elyndran.
+- Los fenómenos anticipatorios deben conservar alternativas físicas, biológicas, técnicas y perceptivas.
+- La posible memoria, respuesta o aprendizaje del mundo debe surgir de regresos y consecuencias, no de una declaración temprana.
+- La posibilidad de otros habitantes o inteligencias permanece abierta; no hay evidencia para afirmarla.
+- La presión de supervivencia no se resolverá con una única planta, animal o material milagrosamente comestible.
+- La película oscura no debe ascender todavía a recurso renovable, cultivo ni alimento humano.
+- Retirar el casco en exterior requiere evidencia respiratoria adicional; composición gaseosa favorable y tolerancia dérmica no bastan.
+- La contaminación de retorno debe permanecer material y ambigua, no convertirse sin evidencia en una trama de infección.
+- La energía debe comportarse como un sistema físico con generación variable, cargas competidoras y componentes degradables.
+- La plataforma no debe convertirse prematuramente en puerta, templo, nave o interfaz. En XXVI solo existen geometría, cambio local, una depresión regular y una aproximación todavía insegura.
