@@ -6,6 +6,21 @@ Reducir fragmentación, cortar repetición y hacer que la expedición avance por
 
 El criterio no es hacer la novela corta. Es conseguir que **cada página descubra o cambie algo**.
 
+## Progreso de revisión desde el principio
+
+### Bloque revisado: Prólogo–V
+
+- **Prólogo — `Treinta y siete segundos`: REESCRITO Y COMPRIMIDO.** Se conservan la anomalía `−37 s`, la ausencia del registro ordinario, la separación no autorizada de Aster, el descenso fallido, la primera visión de las raíces, el segundo `−37 s` tras el impacto y el primer comportamiento de las membranas. Se han eliminado diagnósticos, alarmas y microacciones redundantes para alcanzar antes Elyndran.
+- **I — `El primer paso`: REESCRITO Y COMPRIMIDO.** Se conservan lesión, inventario esencial, primera ruta, membranas, agua no clasificada, destellos, depresiones, golpes inferiores, bifurcación, marcador y sombra nocturna. Se reducen ida/vuelta, inventario y recapitulación.
+- **II — `Bajo la niebla`: REESCRITO Y COMPRIMIDO.** Se alcanza antes la capa inferior, los discos y la primera fauna confirmada. Se conservan respuesta a cambios térmicos, diferencia de temperatura, golpes profundos e inclinación de raíz.
+- **III — `La ruta que respira`: REVISADO, SIN REESCRITURA ESTRUCTURAL EN ESTA PASADA.** Su longitud y función ya son razonables: convierte el descenso en conocimiento de ruta, demuestra error de perspectiva por niebla y abre la rama horizontal mediante los dos tonos. Se revisará de nuevo al cerrar el bloque I–XII por posibles cortes de frase, no por necesidad de fusión.
+- **IV — `Dos tonos en la niebla`: REESCRITO Y COMPRIMIDO.** Se reduce drásticamente la fabricación del aseguramiento y se adelanta la estructura de tres brazos, las películas transparentes, las hendiduras y la primera observación de la plataforma regular.
+- **V — `La ruta que sube`: REESCRITO Y COMPRIMIDO.** Se recortan preparación y trayecto conocido; se conservan bóveda, filamentos sensibles a luz, transporte ascendente de agua, criatura de seis apoyos, vista amplia de la plataforma, tormenta y pérdida del marcador.
+
+### Siguiente bloque inmediato
+
+Revisar secuencialmente **VI → XII**, con prioridad en IX. No fusionar por sistema: primero comprobar si cada capítulo aporta un cambio de región, fenómeno o consecuencia. Después evaluar XIII–XIX y ejecutar las fusiones candidatas del bloque XX–XXVII.
+
 ## Cambio ya aplicado
 
 ### XXVIII + XXIX → nuevo XXVIII
@@ -90,10 +105,6 @@ Si la fusión mejora lectura, conservar XVI separado por ser la primera exposici
 
 Prioridad por tamaño y repetición potencial:
 
-- I — `El primer paso`;
-- II — `Bajo la niebla`;
-- IV — `Dos tonos en la niebla`;
-- V — `La ruta que sube`;
 - IX — `Antes de tocar la raíz`;
 - XIV — `El aire que gastas` si permanece independiente;
 - XXII — `Antes de apoyar el pie`;
