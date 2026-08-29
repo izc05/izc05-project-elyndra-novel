@@ -4,7 +4,7 @@
 
 El manuscrito maestro llega al **Capítulo XXVIII — Lo que brilló primero**. La edición v0.2 termina en XIII, por lo que la distancia narrativa es ya de quince capítulos y no debe seguir aumentando sin control.
 
-La autoridad textual es `manuscript/` + `CONTINUITY.md`. La dirección visual vigente es `art/ILLUSTRATION_MANIFEST_V07.md` y las notas específicas de cada capítulo.
+La autoridad textual es `manuscript/` + `CONTINUITY.md`. La dirección visual vigente es `art/ILLUSTRATION_MANIFEST_V08.md`, `art/EDITORIAL_VISUAL_STANDARD.md` y las notas específicas de cada capítulo. El bloque de producción prioritario queda cerrado en `art/PRODUCTION_BLOCK_X_XVI.md`.
 
 La edición de lectura debe sentirse como **novela ilustrada adulta**, no como dossier de arte, cómic ni manual de supervivencia. La imagen acompaña la lectura y aparece en el momento correcto; nunca sustituye la ambigüedad que sostiene el texto.
 
@@ -65,14 +65,22 @@ Cambios centrales respecto a v0.2:
 
 ## Prioridad visual previa a edición definitiva
 
-1. **Auditar/reemplazar X.** La cara inferior de la plataforma es el bloqueo visual principal porque XXVI–XXVII dependen de ella.
-2. Generar y aprobar XIV.
-3. Generar y aprobar XV.
-4. Generar y aprobar XVI.
-5. Fijar continuidad exacta IV ↔ XVII.
-6. Después producir por bloques, no por orden mecánico: XVIII–XXI; XXII–XXV; XXVI–XXVIII.
-7. Cada capítulo debe definir apertura + posibles interiores antes de generar assets; la nota de XXVII ya adopta este sistema.
-8. No ampliar masivamente imágenes posteriores mientras X y XIV–XVI sigan sin fijar el estándar visual 10/10.
+1. **Producir y aprobar X-A** según `PRODUCTION_BLOCK_X_XVI.md`. Es el gate de continuidad de la cara inferior de la plataforma para XXVI–XXVII.
+2. Producir X-I1 para fijar banda, surcos, corteza y escala local sin clasificar la estructura.
+3. Producir y aprobar XIV-A como referencia fotográfica del exterior húmedo, traje y tratamiento de partículas.
+4. Producir y aprobar XV-A como canon del interior pequeño de la cápsula.
+5. Producir y aprobar XVI-A con anatomía impecable y única exposición de piel permitida.
+6. Completar interiores del bloque solo donde el ritmo de maqueta los necesite; no por cuota.
+7. Fijar continuidad exacta IV ↔ XVII.
+8. Después producir por bloques, no por orden mecánico: XVIII–XXI; XXII–XXV; XXVI–XXVIII.
+9. No producir XXVI o XXVII antes de aprobar X-A.
+10. No ampliar masivamente imágenes posteriores mientras X y XIV–XVI sigan sin pasar el gate 10/10.
+
+## Gate de aprobación 10/10
+
+Para X y XIV–XVI ya no basta una valoración subjetiva. `art/PRODUCTION_BLOCK_X_XVI.md` exige **10/10 exacto** en cinco dimensiones: canon, continuidad, fotografía, anatomía/materialidad y función editorial. Cada dimensión puntúa 0–2; un 9/10 vuelve a producción.
+
+Además, cualquier condición de rechazo automático invalida el asset aunque resulte espectacular de forma aislada.
 
 ## Criterios 10/10 de imagen
 
@@ -133,7 +141,7 @@ La cascada es pequeña en el paisaje. El reflejo es luz sobre agua, no luz propi
 
 - reconstruir desde los Markdown maestros actuales, no copiar el texto del PDF v0.2;
 - confirmar Prólogo + I–XXVIII completos y en orden;
-- confirmar que XXVII usa la revisión vigente;
+- confirmar que XXVII y XXVIII usan sus revisiones vigentes;
 - comprobar formato 6 × 9 en todas las páginas;
 - revisar visualmente **todas** las páginas renderizadas;
 - detectar viudas/huérfanas, páginas casi vacías, cortes incómodos y aperturas desbalanceadas;
@@ -141,6 +149,7 @@ La cascada es pequeña en el paisaje. El reflejo es luz sobre agua, no luz propi
 - revisar que las imágenes no queden demasiado oscuras al simular papel;
 - verificar que ninguna imagen adelanta información respecto a la página en la que aparece;
 - comprobar coherencia de protagonista, traje, cápsula y rutas entre ilustraciones;
+- comprobar que el fondo marfil pertenece a la maqueta y no está horneado dentro de los rasters;
 - generar índice paginado y marcadores PDF si la herramienta lo permite de forma fiable;
 - registrar páginas, tamaño final, fuentes y limitaciones conocidas.
 
@@ -149,6 +158,8 @@ La cascada es pequeña en el paisaje. El reflejo es luz sobre agua, no luz propi
 Existe ya una **edición de lectura de trabajo v0.3 hasta XXVIII** preparada fuera del repositorio para lectura y revisión. No debe considerarse todavía edición visual definitiva: conserva material gráfico anterior en el bloque inicial y usa aperturas provisionales en el tramo nuevo.
 
 El siguiente PDF no debe limitarse a añadir páginas. Debe revisar ritmo visual y aplicar la regla **apertura + 0–2 interiores según necesidad**, empezando por capítulos donde la imagen aporte orientación o comparación real.
+
+La reconstrucción visual completa se autoriza cuando X-A, XIV-A, XV-A y XVI-A hayan pasado el gate 10/10. Antes de eso pueden hacerse pruebas de maqueta, pero no declararse edición definitiva.
 
 ## Bloqueo actual
 
