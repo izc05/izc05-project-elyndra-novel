@@ -1,223 +1,277 @@
 # Capítulo I — El primer paso
 
-Durante los primeros veinte minutos no fui a ninguna parte.
+El segundo pie tardó veinte minutos en salir de la cápsula.
 
-Eso también fue una decisión.
+El primero ya estaba fuera, apoyado sobre aquella raíz negra, mientras yo seguía agarrado al marco como si soltarlo fuese a cambiar algo.
 
-La lluvia había aflojado, pero seguía cayendo desde raíces superiores y golpeando la cápsula a intervalos irregulares. Con la escotilla abierta y el casco puesto, cada impacto parecía ocurrir más cerca de mí.
+La lluvia resbalaba por el visor. Debajo de la bota no había suelo. Había corteza mojada y, más allá del borde, niebla.
 
-Me revisé primero. Costado izquierdo: hematoma, sin dolor agudo al respirar. Rodilla derecha: hinchada, utilizable si evitaba flexionarla demasiado.
+—Vamos.
 
-Dejé el analgésico en el botiquín.
+No funcionó.
 
-Después hice inventario.
+Me revisé otra vez. El costado dolía al girarme. La rodilla derecha estaba hinchada, pero aguantaba peso si no la doblaba demasiado. Podía caminar.
 
-No para saber cuánto tenía, sino cuánto podía perder.
+Eso era suficiente.
 
-Agua sellada. Raciones. Tres baterías portátiles. Botiquín. Filtros. Manta térmica. Cinta, cable, linterna y herramienta multipropósito. La baliza de emergencia seguía transmitiendo sin respuesta.
+Dentro dejé casi todo. Me llevé agua, una ración, el botiquín pequeño, una batería, la linterna y la herramienta. La baliza seguía enviando su llamada a nadie.
 
-Preparé una mochila ligera y marqué con cinta la cremallera dañada. Antes de salir copié la captura corrupta de los treinta y siete segundos a la memoria del antebrazo.
+Antes de cerrar la mochila miré la captura del descenso.
 
-La raíz brillaba bajo la lluvia.
+**37**
 
-Bajé de la escotilla con la pierna izquierda primero. La derecha aceptó peso, aunque protestó. La corteza era negra, surcada y tan ancha que la cápsula parecía pequeña sobre ella: metal gris clavado de costado, un retropropulsor aplastado y una abertura quemada en la zona inferior.
+Dos números rodeados de ruido violeta.
 
-Desde fuera resultaba imposible fingir que aquello volvería a despegar.
+La guardé sin saber por qué.
 
-Grabé la cápsula, la curva inmediata de la raíz y varias referencias entre la niebla. Necesitaba reconocer el regreso aunque el paisaje empezara a repetirse.
+Entonces saqué el segundo pie.
 
-A cinco metros encontré las membranas transparentes.
+Desde fuera la cápsula parecía peor. El metal estaba hundido en un lateral y uno de los retropropulsores era poco más que una pieza aplastada. Hasta ese momento había conseguido pensar en ella como un vehículo averiado.
 
-Colgaban de la cara inferior de la raíz, recorridas por filamentos más opacos. Toqué una con el guante.
+Ya no.
 
-Se contrajo hacia la corteza y tardó unos segundos en extenderse de nuevo.
+Era un refugio.
 
-Probé con la punta metálica de la herramienta. La misma respuesta.
+Y tenía que ser capaz de encontrarlo otra vez.
 
-Todas se tensaron a la vez.
+Grabé la curva de la raíz y empecé a caminar.
 
-Un segundo después llegó una ráfaga.
+A pocos metros vi las membranas transparentes bajo el borde. Toqué una con el guante.
 
-Esperé la siguiente.
+Se encogió.
 
-Tensión.
+Probé otra con la herramienta.
 
-Pausa.
+Lo mismo.
 
-Viento.
+Entonces todas se tensaron a la vez.
 
-A la tercera ya estaba mirando el borde antes de que ocurriera.
+Me quedé mirándolas.
 
-No sabía qué eran aquellas láminas.
+Un segundo después llegó la ráfaga.
 
-Pero podía utilizarlas.
+La siguiente vez me agaché antes de que el viento me alcanzara.
 
-Seguí.
+---
 
-La cápsula desapareció detrás de una curva después de veintisiete pasos. Volví hasta verla, grabé el punto y continué.
+Perdí de vista la cápsula después de una curva.
 
-La raíz descendía y se ensanchaba. Filamentos azul grisáceos crecían en grupos bajos sobre la corteza. Encontré una depresión llena de agua clara; el visor midió temperatura y conductividad, pero no pudo clasificar su contenido biológico.
+Me detuve.
 
-**COMPOSICIÓN NO CLASIFICADA.**
+Volví hasta verla.
 
-La marqué y no bebí.
+—Muy bien. Empezamos de nuevo.
 
-Más allá, Elyndran dejó de parecer un bosque.
+Grabé el punto y continué.
 
-No había troncos que condujeran a tierra. Las raíces aparecían desde la niebla, se cruzaban a distintas alturas, sostenían masas de vegetación y volvían a desaparecer. En dos puntos vi agua deslizarse por superficies enormes y caer por el borde sin alcanzar ningún suelo visible.
+La raíz descendía poco a poco. Había filamentos azulados pegados a la corteza y pequeñas depresiones donde se acumulaba agua. En una de ellas el líquido era tan transparente que tuve sed solo de mirarlo.
 
-A unos cien metros la raíz se estrechó alrededor de una grieta longitudinal. El paso izquierdo seguía siendo ancho, pero el viento cruzaba de lado.
+El visor no pudo decirme qué había dentro.
 
-Esperé a las membranas.
+No bebí.
 
-Se tensaron.
+Fue mi primera discusión seria con Elyndran.
 
-Bajé el cuerpo antes de la ráfaga.
+La ganó Elyndran.
 
-Siete pasos después volvió a ocurrir.
-
-Esta vez no miré el vacío.
-
-Al otro lado bebí dos tragos de mi reserva y levanté la cabeza.
-
-La luz había abierto la niebla.
-
-Por primera vez vi el paisaje en profundidad: raíces suspendidas a diferentes alturas, algunas tan anchas como carreteras; masas vegetales oscuras; cascadas que se deshacían dentro de nubes inferiores. Muy lejos, una columna de vapor ascendía antes de romperse con el viento.
-
-Levanté la cámara.
-
-Entonces apareció un destello.
-
-Uno.
+Más adelante el camino se estrechó junto a una grieta. El viento cruzaba de lado y el vacío aparecía entre bancos de niebla.
 
 Esperé.
 
-El segundo surgió casi en el mismo punto, algo más abajo.
+Las membranas se tensaron.
 
-Después un tercero.
+Me agaché.
 
-Guardé la grabación.
+La ráfaga pasó por encima del casco.
 
-Podía ser agua, metal, cristal o una superficie mojada cambiando de ángulo.
+—Gracias.
 
-No importaba todavía.
+No sabía a qué acababa de darle las gracias.
 
-Por primera vez tenía una dirección.
+Crucé.
 
-Seguí hacia allí.
+Al otro lado bebí de mi botella y levanté la cabeza.
 
----
+La niebla se abrió.
 
-Media hora después la niebla había borrado la columna de vapor, los destellos y casi todo lo que quedaba a más de unos metros.
+Me olvidé de tragar.
 
-Entonces encontré tres depresiones ovaladas cruzando la raíz en diagonal.
+Raíces enormes cruzaban el aire a distintas alturas. Algunas desaparecían dentro de nubes inferiores. Otras sostenían masas de vegetación que parecían bosques enteros. El agua caía desde una capa a otra sin que pudiera ver dónde terminaba.
 
-Cada una era más larga que mi antebrazo y lo bastante profunda para retener agua. Los bordes estaban pulidos. En uno distinguí arañazos paralelos orientados en la misma dirección.
+Por primera vez entendí la caída.
 
-Fotografié el conjunto con escala.
+La cápsula no había aterrizado sobre una raíz especialmente grande.
 
-No escribí *huella*.
+Había caído dentro de algo muchísimo mayor.
 
-Solo que la corteza había sido comprimida o desgastada de forma repetida.
+Entonces vi un destello a lo lejos.
 
-Apagué unos segundos el ventilador secundario del casco.
+Después otro.
 
-La lluvia se convirtió en miles de impactos finos. Oí agua corriendo debajo, una raíz crujiendo con el viento y, después, un golpe seco.
+Y un tercero.
 
-Lejano.
+Levanté la cámara.
 
-Treinta pasos más tarde llegaron dos golpes.
+Agua. Cristal. Metal. Cualquier cosa mojada podía hacer aquello.
 
-Subían desde algún lugar por debajo de la niebla.
+Pero era la primera cosa que había visto que parecía devolverme la mirada.
 
-Me acerqué al borde. Durante unos segundos vi una raíz inferior mucho más ancha, cubierta por manchas pálidas.
+No me gustó pensar eso.
 
-No vi movimiento.
-
-La niebla volvió a cerrarse.
-
-Poco después la ruta se dividió en tres.
-
-Una rama ascendía hacia vegetación más oscura. Otra mantenía altura y entraba en una nube compacta. La tercera descendía hacia una claridad azulada.
-
-Tres caminos.
-
-El cuerpo ya empezaba a cobrarme la distancia: costado, rodilla, consumo del traje. La lluvia aumentaba y las membranas permanecían tensas durante intervalos cada vez más largos.
-
-No elegí ninguna rama.
-
-Limpié una zona de corteza y fijé una tira reflectante orientada hacia el regreso. La humedad levantó una esquina. Raspé la superficie y probé de nuevo.
-
-Esta vez aguantó.
-
-La marca blanca era minúscula frente a la raíz.
-
-Pero era la primera cosa de Elyndran que yo había cambiado deliberadamente.
-
-Guardé la posición y regresé.
+Seguí en esa dirección.
 
 ---
 
-Las tres depresiones me obligaron a detenerme otra vez.
+La niebla cerró el paisaje media hora después.
 
-En la ida estaban llenas.
+Los destellos desaparecieron y el mundo volvió a reducirse a unos pocos metros de corteza mojada.
 
-Ahora la tercera estaba vacía.
+Entonces encontré las marcas.
 
-Podía haberla vaciado el viento. La raíz podía haber cambiado de inclinación. El agua podía haberse filtrado.
+Tres depresiones ovaladas cruzaban la raíz en diagonal. Eran demasiado grandes para mis botas y demasiado regulares para ignorarlas. Uno de los bordes tenía arañazos paralelos.
 
-Entonces vi una línea húmeda, ancha y curva, sobre el borde pulido.
+Me agaché para fotografiarlos.
 
-No aparecía en la fotografía anterior.
+La palabra *huella* apareció sola.
 
-Miré hacia el camino que acababa de abandonar.
+No la escribí.
+
+Apagué el ventilador del casco unos segundos.
+
+La lluvia llenó el silencio.
+
+Agua.
+
+Corteza crujiendo.
+
+Mi propia respiración.
+
+Y un golpe.
+
+Seco. Lejano.
+
+Me incorporé.
+
+Esperé.
 
 Nada.
 
-Hacia abajo.
+Seguí andando.
+
+Treinta pasos después llegaron dos más.
+
+Esta vez los sentí también en las botas.
+
+Me acerqué al borde lo justo para ver una raíz inferior, mucho más ancha que aquella. Tenía manchas pálidas sobre la superficie.
+
+La niebla la borró antes de que pudiera enfocar.
+
+—Claro. Por supuesto.
+
+Poco después la ruta se dividió.
+
+Una rama subía hacia vegetación oscura. Otra entraba recta en una nube espesa. La tercera descendía hacia una claridad azulada.
+
+Me quedé mirando las tres.
+
+Quería seguir.
+
+Mi rodilla quería matarme.
+
+Ganó la rodilla.
+
+Limpié un trozo de corteza y pegué una tira reflectante orientada hacia el camino de vuelta. La humedad la levantó al primer intento.
+
+—No me fastidies.
+
+Raspé mejor la superficie y volví a pegarla.
+
+Esta vez aguantó.
+
+La marca era ridículamente pequeña.
+
+Aun así, verla allí me tranquilizó más de lo que quería admitir.
+
+Di media vuelta.
+
+---
+
+Las tres depresiones seguían en el camino de regreso.
+
+Pero una había cambiado.
+
+En la ida estaba llena de agua.
+
+Ahora estaba vacía.
+
+Me quedé quieto.
+
+El viento podía haberla vaciado. La raíz podía haberse inclinado. El agua podía haberse filtrado.
+
+Tres explicaciones razonables.
+
+Entonces vi la línea húmeda sobre el borde.
+
+Ancha.
+
+Curva.
+
+No estaba en la fotografía anterior.
+
+Miré hacia atrás.
+
+Nada.
+
+Miré hacia abajo.
 
 Niebla.
 
-No corrí.
+Mi cuerpo decidió correr antes que yo.
 
-Me costó más no hacerlo que cruzar la grieta con viento lateral.
+Tuve que obligarme a caminar.
 
-La cápsula apareció detrás de la última curva menos de tres horas después de haber salido.
+La cápsula apareció detrás de la última curva y sentí un alivio casi vergonzoso.
 
-Había regresado sin comida, sin respuesta de radio y sin una forma de volver a casa.
+Había salido unas horas antes pensando que necesitaba conocer el terreno.
 
-También había encontrado tres rutas, agua que no podía beber, membranas capaces de anticipar ráfagas, destellos sin origen, marcas en la corteza y golpes procedentes de niveles inferiores.
+Volví sabiendo algo más sencillo: el terreno también podía cambiar mientras yo no miraba.
 
-Calenté media ración. El módulo térmico necesitó varios intentos y dejó olor a aislante recalentado.
+Calenté media ración y apagué casi todas las luces.
 
-La oscuridad llegó sin atardecer claro. La niebla simplemente perdió luz hasta volverse negra.
+La oscuridad llegó sin atardecer. La niebla simplemente perdió color hasta convertirse en una pared negra pegada al ventanal.
 
 Intenté dormir.
 
-El primer golpe llegó bajo la cápsula.
+Un golpe sonó debajo de la cápsula.
 
-Seco.
+Abrí los ojos.
 
-El segundo sonó algo más cerca.
+Otro.
 
-Me incorporé y esperé.
+Más cerca.
 
-No hubo tercero.
+Me incorporé sin encender la luz.
 
-Entonces la raíz crujió de extremo a extremo, profunda y lentamente, como si una tensión enorme se hubiera liberado lejos de mí.
+La raíz crujió lentamente de un extremo al otro.
 
-Las membranas pegadas al ventanal se tensaron.
+Las membranas del ventanal se tensaron.
 
 Un segundo después una ráfaga apartó la lluvia del cristal.
 
-Durante ese instante vi una sombra atravesar el hueco entre dos raíces inferiores.
+Y vi algo pasar entre las raíces inferiores.
 
-No una forma completa.
+Solo una sombra.
 
-No podía calcular distancia ni tamaño.
+Duró menos de un segundo.
 
-Solo que se había movido.
+No vi patas. No vi alas. Ni siquiera sabía a qué distancia estaba.
 
-La lluvia volvió a cubrir el ventanal.
+Pero se había movido.
 
-Seguí mirando mucho después de que ya no hubiera nada que ver.
+La lluvia volvió a cubrir el cristal.
+
+Me quedé sentado, escuchando.
+
+Durante mucho tiempo no ocurrió nada.
+
+Eso fue peor.
