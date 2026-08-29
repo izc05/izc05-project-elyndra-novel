@@ -1,90 +1,92 @@
 # Prólogo — Treinta y siete segundos
 
-La primera anomalía fue tan pequeña que estuve a punto de ignorarla.
+La primera vez que Elyndran me habló, faltaban doce minutos para tocarlo.
 
-En una esquina del ventanal apareció un aviso:
+No fue una voz.
+
+Fue un número.
 
 **CONTACTO CON SUPERFICIE: −37,00 s**
 
-Miré fuera.
+Me quedé mirándolo demasiado tiempo.
 
-Elyndran seguía debajo de mí, enorme y lejano, todavía separado de la nave por una franja de oscuridad.
+Fuera del ventanal, el planeta seguía lejos. Nubes oscuras. Una tormenta girando al sur. La curva del horizonte todavía limpia contra el negro.
 
 No había tocado nada.
 
-El contador descendió.
+—No puede ser.
 
-−36,92.
+Abrí el diagnóstico.
 
-−36,84.
+Altitud correcta.
 
-Abrí el diagnóstico. Altitud, trayectoria, referencia inercial: todo decía lo mismo.
+Trayectoria correcta.
 
-Seguía cayendo.
+Todo correcto excepto aquel número.
 
-Entonces el aviso desapareció.
+Parpadeó una vez.
+
+Y desapareció.
 
 **CONTACTO CON SUPERFICIE: 12 min 41 s**
 
 Busqué el error en el historial.
 
-No estaba.
+Nada.
 
-Guardé una captura manual.
+Como si nunca hubiera ocurrido.
 
-No sabía todavía por qué.
+Guardé una captura.
+
+No sabía por qué.
+
+Solo sabía que no quería olvidarlo.
 
 ---
 
-La entrada atmosférica empezó como debía.
+La atmósfera llegó con fuego.
 
-Vibración.
+El casco vibró. El arnés me apretó el pecho. Durante unos segundos todo volvió a parecer normal.
 
-Fuego naranja alrededor del ventanal.
+Entonces el horizonte se inclinó.
 
-El planeta creciendo hasta ocuparlo todo.
-
-Durante unos segundos pensé que la anomalía había sido solo eso: una anomalía.
-
-Después el horizonte giró.
-
-El arnés me hundió contra el asiento.
+Demasiado.
 
 **ERROR DE REFERENCIA INERCIAL.**
 
 **DIVERGENCIA DE ALTITUD.**
 
-**SUPERFICIE NO RESUELTA.**
-
 —Control manual.
 
 Nada.
 
-Golpeé el selector de emergencia.
+Golpeé el selector.
 
 **SEPARACIÓN DE CÁPSULA AUTORIZADA.**
 
-Yo no la había autorizado.
+Sentí frío antes de entenderlo.
+
+Yo no había autorizado nada.
 
 —Cancelar.
 
 **3.**
 
-—Cancelar separación.
+—Cancelar.
 
 **2.**
 
-Golpeé el panel.
+Golpeé el panel con el puño.
 
 **1.**
 
-Escuché un clic seco.
+El clic fue pequeño.
 
-Y la cápsula se separó.
+Lo que vino después no.
 
-La aceleración me aplastó contra el asiento. El ventanal se volvió blanco.
+La cápsula se arrancó de la nave y la aceleración me hundió contra el asiento.
 
-Busqué el enlace con la nave.
+Busqué el enlace.
 
 Nada.
 
@@ -92,73 +94,79 @@ Canal de emergencia.
 
 Nada.
 
-Estaba solo.
+Aster había desaparecido.
+
+Y conmigo se había ido la única posibilidad sencilla de volver a casa.
 
 ---
 
-Cuando el plasma se abrió pude ver el planeta por fragmentos.
+Cuando el plasma dejó de cubrir el ventanal, vi Elyndran a golpes.
 
 Nubes.
 
 Oscuridad.
 
-Relieve.
+Niebla.
 
-Luego llegó el aviso que no quería leer.
+Y algo enorme atravesándola.
 
-**PARACAÍDAS PRINCIPAL: FALLO DE DESPLIEGUE.**
+**PARACAÍDAS PRINCIPAL: FALLO.**
 
 —Secundario.
 
 El tirón me vació los pulmones.
 
-La cúpula resistió unos segundos y después la cápsula empezó a girar.
+La cápsula empezó a girar.
 
 Cielo.
 
 Niebla.
 
-Algo negro.
+Negro.
 
 Cielo otra vez.
 
-En una de las vueltas vi hacia dónde estaba cayendo.
-
-No había llanura.
-
-Había estructuras enormes atravesando la niebla a distintas alturas. Algunas se extendían cientos de metros antes de bifurcarse.
-
-Durante un instante pensé en puentes.
-
-Luego vi la textura.
-
-Corteza.
+En una vuelta lo vi bien.
 
 Raíces.
 
-Raíces tan grandes que mi cabeza dejó de entender la escala.
+No árboles.
 
-Una cruzó el ventanal entero.
+Raíces suspendidas unas sobre otras, tan grandes que mi cabeza intentó convertirlas en puentes para poder entenderlas.
 
-La siguiente estaba demasiado cerca.
+Una llenó todo el ventanal.
 
-—Retropropulsores. Máxima potencia.
+La siguiente venía directa hacia mí.
 
-Los motores respondieron.
+—Retropropulsores. Ahora.
+
+Los motores encendieron.
 
 Demasiado tarde.
 
-El primer golpe me lanzó contra el arnés.
+El primer impacto me lanzó contra el arnés.
 
 El segundo apagó el mundo.
 
 ---
 
-Volví con sabor a sangre en la boca.
+Volví con sangre en la boca.
 
-La cápsula estaba inclinada. Una luz roja parpadeaba sobre mí. Me dolían el costado y la rodilla, pero podía mover manos y pies.
+Luz roja.
 
-El casco seguía sellado.
+Dolor en la rodilla.
+
+Dolor en el costado.
+
+Respiré.
+
+Una vez.
+
+Otra.
+
+Seguía dentro del traje.
+
+Seguía vivo.
 
 Miré la pantalla.
 
@@ -166,58 +174,74 @@ Miré la pantalla.
 
 El mismo número.
 
-Parpadeé.
+Esta vez sentí miedo.
+
+No por el accidente.
+
+Por esos treinta y siete segundos.
 
 Reinicié el módulo.
 
-El aviso desapareció.
+El aviso desapareció otra vez.
 
-Otra vez.
+Abrí la captura que había guardado.
 
-Abrí la captura que había guardado durante el descenso.
+Casi toda la imagen era ruido.
 
-Estaba dañada. Casi todo era ruido violeta.
-
-Solo quedaban dos caracteres legibles.
+Solo quedaban dos caracteres.
 
 **37**
 
-Guardé el archivo.
+Me quedé mirándolos.
 
 Después abrí la escotilla.
 
-La lluvia fue lo primero que escuché.
-
-El aire exterior olía a agua, vegetación y metal quemado.
+La lluvia golpeó el casco.
 
 Saqué la cabeza.
 
-La cápsula no estaba en el suelo.
-
-Estaba encajada sobre una raíz negra y enorme que desaparecía dentro de la niebla.
+La cápsula estaba encajada sobre una raíz negra que desaparecía dentro de la niebla.
 
 Miré hacia abajo.
 
-Había otra raíz.
+Otra raíz.
 
-Y otra.
+Más abajo, otra.
 
-Más abajo, nada.
+Después nada.
 
-Solo niebla y lluvia cayendo hacia un fondo que no podía ver.
+Ni suelo.
 
-No había tierra.
+Ni luces.
 
-No había luces.
+Ni nadie.
 
-No había nadie.
+Miré lo que me quedaba dentro de la cápsula.
 
-Miré lo que quedaba dentro de la cápsula: agua, botiquín, baterías, herramientas, raciones.
+Agua.
 
-Luego miré la raíz que se perdía frente a mí.
+Raciones.
+
+Baterías.
+
+Un botiquín.
+
+Y tiempo.
+
+No sabía cuánto.
 
 Apoyé una bota fuera.
 
-Y entendí que ya no importaban aquellos treinta y siete segundos.
+La raíz estaba mojada.
 
-Lo único que importaba era dónde poner el siguiente pie.
+Resbalé medio centímetro y el corazón me golpeó contra el pecho.
+
+Me quedé quieto.
+
+Respiré.
+
+Luego di el primer paso.
+
+Los treinta y siete segundos podían esperar.
+
+Yo no.
