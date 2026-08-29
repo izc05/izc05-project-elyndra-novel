@@ -1,0 +1,40 @@
+name: Chapter XVII reader anchors
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/ch17-reader-anchors.yml'
+permissions:
+  contents: write
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Anchor Chapter XVII illustrations
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('book.html')
+          s=p.read_text()
+          old="'Exposición dérmica controlada','El tono que faltaba','Lo que dejas encendido'"
+          new="'Exposición dérmica controlada','La mañana siguiente','Lo que dejas encendido'"
+          assert old in s
+          s=s.replace(old,new,1)
+          old2="10:[['X-I1','La primera línea recta',22],['X-I2','La cara inferior parcial',36]],25:"
+          new2="10:[['X-I1','La primera línea recta',22],['X-I2','La cara inferior parcial',36]],17:[['XVII-I1','La cavidad casi seca',20],['XVII-I2','La película asciende',35]],25:"
+          assert old2 in s
+          s=s.replace(old2,new2,1)
+          p.write_text(s)
+          PY
+          git diff --check
+          grep -F "17:[['XVII-I1','La cavidad casi seca',20],['XVII-I2','La película asciende',35]]" book.html
+      - name: Commit reader anchors
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add book.html
+          git commit -m 'feat: anchor chapter XVII illustrations to revealed beats'
+          git push
