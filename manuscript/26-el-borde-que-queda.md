@@ -118,7 +118,7 @@ Seguiste.
 
 En la bifurcación tomaste la rama horizontal.
 
-El aire se enfrió unos grados de sensación antes de que apareciera el tono grave.
+El aire se sintió más frío antes de que apareciera el tono grave.
 
 El agudo llegó después.
 
@@ -236,9 +236,9 @@ Guardaste el dato sin llamarlo crecimiento ni retracción.
 
 La fibra gruesa seguía colgando cerca.
 
-Desde abajo parecía capaz de soportar más de lo que tú pesabas.
+A simple vista parecía robusta.
 
-Eso no significaba nada.
+Eso no servía para cargarle un cuerpo.
 
 La rodeaste con una de las líneas del paracaídas sin tirar de ella todavía.
 
@@ -400,7 +400,7 @@ Desde allí seguía pareciendo lejana.
 
 Una superficie incompleta con formas verticales.
 
-Nada en esa vista mostraba la nervadura expuesta, la depresión oscura ni el metro de vacío que acababas de medir mal desde abajo.
+Nada en esa vista mostraba la nervadura expuesta, la depresión oscura ni el hueco que desde abajo se negaba a darte una medida limpia.
 
 Seguiste caminando.
 
