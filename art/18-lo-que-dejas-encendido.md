@@ -4,27 +4,48 @@
 
 **Pendiente de generar.** No existe todavía una imagen aprobada/vigente para este capítulo.
 
-## Escena objetivo
+## Secuencia visual canónica para Web
 
-Interior fotorealista de la cápsula, estrecho y usado. El protagonista trabaja sentado o inclinado junto al módulo térmico abierto. La tapa y un tornillo pequeño están sobre una superficie protegida con un envoltorio de ración vacío. Debe verse el conector degradado como una avería menor y física, no como un incendio ni una explosión.
+### XVIII-A — La ración que no se calentó
 
-La cápsula mantiene continuidad con capítulos anteriores: superficies reparadas, equipo real, condensación controlada, línea de cinta de la zona de entrada y soporte del casco. El protagonista puede estar sin casco porque la escena principal ocurre dentro del refugio después del protocolo de retorno; no debe haber ninguna apertura al exterior que sugiera respiración directa del aire de Elyndran.
+**Momento narrativo:** inmediatamente bajo el título, antes de que Aster retire la tapa frontal o conozca la causa de la avería.
 
-La imagen debe comunicar una elección de supervivencia más que una reparación heroica. Cerca puede quedar una media ración fría o el recipiente sin calentar mientras un pequeño indicador de la baliza permanece activo en segundo plano. Ningún texto de pantalla debe ser legible ni generado dentro de la imagen.
+Interior fotorealista de la cápsula, estrecho, usado y funcional. Aster acaba de comprobar que el módulo térmico no ha calentado la ración. La ración permanece fría junto al módulo todavía cerrado. Puede estar sentado o inclinado frente a él, evaluando el problema antes de desmontarlo. Herramientas básicas del kit de mantenimiento pueden estar preparadas, pero **la tapa sigue colocada** y no se muestra todavía el contacto degradado.
+
+La imagen debe comunicar una avería doméstica convertida en problema de supervivencia, no revelar su diagnóstico. Al fondo puede existir un indicador luminoso discreto de la baliza, sin texto legible y sin sugerir respuesta recibida.
+
+### XVIII-I1 — El contacto marcado
+
+**Momento narrativo:** después de que el texto haya revelado la placa oscura, la pátina, las señales pequeñas de arco y el muelle con presión insuficiente.
+
+Plano medio/cercano de mantenimiento. La tapa frontal ya está retirada y apoyada sobre una superficie protegida con un envoltorio de ración vacío. El módulo muestra un único contacto degradado: pátina opaca, decoloración localizada, marcas pequeñas de arco y un muelle mecánicamente fatigado. Nada debe parecer quemado de forma catastrófica.
+
+Aster trabaja con herramientas pequeñas. La composición debe hacer legible la escala física del fallo: algo mínimo que puede comprometer calor y margen eléctrico.
+
+### XVIII-I2 — Elegir qué sigue encendido
+
+**Momento narrativo:** después de la reparación, de establecer la regla de prioridad durante transmisiones y de comprobar una secuencia estable.
+
+Interior nocturno o de luz muy baja. El módulo térmico reparado permanece deliberadamente apagado. Una media ración fría o su recipiente queda cerca. La baliza y la recirculación continúan activas mediante indicadores físicos discretos; ningún texto de pantalla es legible. Aster observa o termina de guardar herramientas, sin pose heroica.
+
+La imagen debe transmitir la decisión central del capítulo: **el sistema funciona, pero sobrevivir exige decidir qué no encender**.
 
 ## Continuidad física obligatoria
 
 - Un único humano.
 - Mismo protagonista y traje/equipo de la edición vigente.
 - Cápsula pequeña, accidentada y funcional, no laboratorio nuevo ni nave espaciosa.
+- Aster puede estar sin casco únicamente porque todas las escenas ocurren dentro del refugio después del protocolo de retorno.
 - Módulo térmico del tamaño de un electrodoméstico compacto o panel técnico integrado, no reactor central.
 - Avería localizada en contacto/conector: pátina, decoloración y marcas pequeñas de arco; nada de cables fundidos dramáticamente.
 - La baliza sigue operativa y sin respuesta confirmada.
 - El módulo termina reparado pero normalmente apagado para reservar margen eléctrico.
 - La mano izquierda no presenta lesión visible ni cambio extraordinario.
+- La cápsula conserva reparaciones, condensación controlada, cinta de la zona de entrada y soporte del casco ya establecidos.
 
 ## Prohibido
 
+- Mostrar el contacto degradado en XVIII-A antes de que el texto lo descubra.
 - Hologramas flotantes, interfaces futuristas decorativas o texto legible generado.
 - Chispas espectaculares, fuego, explosión o daño catastrófico.
 - Mostrar Aster, otra nave o un receptor de la señal.
@@ -33,10 +54,6 @@ La imagen debe comunicar una elección de supervivencia más que una reparación
 - Añadir tecnología de Elyndran dentro de la cápsula.
 - Convertir la escena en una revelación sobre el planeta; el capítulo trata del desgaste de la infraestructura humana.
 
-## Composición preferente
-
-Plano medio amplio desde el interior de la cápsula. El protagonista ocupa un tercio; el módulo abierto y sus manos concentran la atención. Al fondo, la luz exterior difusa entra por una pequeña ventana/visor y deja ver niebla y raíces sin detalle nuevo. La media ración fría o su recipiente puede aparecer discretamente en primer plano. La iluminación debe ser práctica, fría y tenue, con contraste suficiente para leer materiales y desgaste.
-
 ## Criterio de aprobación
 
-La imagen será vigente solo si parece una fotografía de mantenimiento de campo dentro de un refugio de ciencia ficción real y deteriorado, y si transmite que **algo tan pequeño como un contacto eléctrico puede decidir qué sigue funcionando** sin necesitar rótulos ni dramatización añadida.
+El conjunto será vigente solo si las tres imágenes parecen fotografías consecutivas de mantenimiento de campo dentro del mismo refugio deteriorado y respetan la progresión **fallo observado → diagnóstico físico → decisión energética**. La apertura no puede anticipar la causa del fallo y ninguna imagen puede sugerir respuesta de la baliza ni nueva tecnología alienígena.
