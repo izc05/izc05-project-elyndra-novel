@@ -153,6 +153,31 @@ Alternar exploración, tensión, observación, descubrimiento, descanso, pregunt
 
 No todos los capítulos terminan con cliffhanger. Pueden terminar con una imagen, una ruta, un refugio, una decisión o una pregunta.
 
+## Ritmo de expansión y compresión
+
+Elyndran es enorme. El sector de la cápsula es solo una zona local. La novela no puede pasar demasiados capítulos resolviendo variaciones pequeñas del mismo problema mientras el mundo permanece fuera de plano.
+
+Reglas editoriales desde este punto:
+
+- preferir **menos capítulos con más avance real** antes que un capítulo por cada prueba, medición o regreso;
+- fusionar capítulos consecutivos cuando comparten lugar, pregunta y consecuencia;
+- resumir trayectos ya dominados salvo que algo haya cambiado durante el recorrido;
+- comprimir rutinas conocidas —sellado, limpieza, recirculación, inventario, encendido de equipos— en una o dos frases cuando no producen una consecuencia nueva;
+- no repetir una prueba completa solo para confirmar lo ya observado; si la repetición no cambia el estado del mundo, se resume;
+- cada capítulo nuevo debe cambiar de forma material al menos **dos** de estos ejes: geografía, ecología, clima, fauna, riesgo, recursos, ruta, misterio, relación corporal con el mundo o evidencia de inteligencia;
+- evitar más de dos capítulos consecutivos centrados en el mismo microsector o aparato salvo crisis excepcional;
+- cada pequeño arco de 2–3 capítulos debe ampliar el horizonte: nuevo terreno, cambio climático, nueva fauna/flora, otra escala vertical, nueva ruta o indicio de habitantes/inteligencia cuando la evidencia lo permita;
+- no retrasar durante decenas de capítulos la existencia de regiones, climas, ecosistemas y posibles habitantes de un planeta que debe sentirse inmenso;
+- mantener la ciencia y la prudencia, pero no convertir cada incertidumbre en un capítulo de laboratorio;
+- como referencia de edición, la mayoría de capítulos deberían quedar aproximadamente entre **1.000 y 1.800 palabras**; superar ese rango solo cuando el capítulo contenga varias escenas que realmente hagan avanzar la expedición;
+- al revisar material existente, cortar sin miedo un 20–40 % si el significado, la tensión y el canon sobreviven mejor sin esa repetición.
+
+Pregunta de control antes de cerrar un capítulo:
+
+> ¿El lector ha visto, entendido o alcanzado algo de Elyndran que no tenía al comenzar el capítulo?
+
+Si la respuesta es débil, comprimir, fusionar o reestructurar.
+
 ## Imágenes
 
 Las ilustraciones deben ser ciencia ficción alienígena cinematográfica y coherente con el texto. El protagonista debe sentirse pequeño frente al mundo.
