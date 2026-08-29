@@ -8,6 +8,8 @@ La edición de lectura v0.2 termina en XIII. Por tanto queda **trece capítulos 
 
 La distancia ya justifica reconstruir v0.3 desde los Markdown maestros; no debe prolongarse indefinidamente el desfase. Sin embargo, la reconstrucción definitiva sigue condicionada por un bloqueo visual concreto: el Capítulo X fija la primera vista cercana de la parte inferior de la plataforma y XXVI regresa al mismo lugar. Una imagen inconsistente en X contaminaría visualmente ambos capítulos.
 
+En esta pasada `CONTINUITY.md` ha quedado consolidado hasta XXVI. Los deltas temporales XXI–XXVI han sido retirados después de integrarse, de modo que la edición ya puede apoyarse en un único canon operativo.
+
 ## Cambio de XXVI relevante para edición
 
 XXVI reabre la línea de la plataforma sin resolverla:
@@ -36,6 +38,7 @@ La próxima edición debe:
 
 - construirse desde los `.md` maestros actuales, no desde el PDF v0.2;
 - incluir Prólogo–XXVI completos y revisados;
+- usar `CONTINUITY.md` como canon único integrado hasta XXVI;
 - mantener portada cuidada, tipografía editorial y márgenes profesionales;
 - usar las imágenes fotorealistas vigentes donde estén aprobadas;
 - sustituir cualquier imagen vieja marcada para reemplazo;
@@ -45,13 +48,13 @@ La próxima edición debe:
 
 ## Decisión de esta pasada
 
-**La edición PDF necesita actualización.** No se reconstruye todavía como versión vigente porque no ha cambiado ninguno de los bloqueos visuales mínimos X → XIV → XV → XVI y el repositorio no contiene aún la biblioteca raster completa necesaria para una revisión visual fiable.
+**La edición PDF necesita actualización.** La deuda narrativa ya es demasiado grande para seguir tratándola como una simple revisión menor.
 
-El siguiente checkpoint útil no debe ser otro simple contador de capítulos: debe producirse cuando se resuelva X, se apruebe al menos una parte sustancial de XIV–XVI, o cuando se inicie efectivamente la reconstrucción de v0.3.
+No se declara todavía una v0.3 definitiva porque no han cambiado los bloqueos visuales mínimos X → XIV → XV → XVI y el repositorio no contiene aún toda la biblioteca raster necesaria para auditar visualmente la edición antigua. Pero, con la continuidad ya consolidada, el siguiente trabajo editorial útil sí debe ser iniciar la reconstrucción desde los Markdown actuales en cuanto se resuelva X o estén disponibles las imágenes mínimas prioritarias.
 
 ## Referencias vigentes
 
 - Manuscrito: Prólogo–XXVI.
-- Continuidad integrada literalmente: hasta XX; XXI–XXVI preservados en deltas canónicos hasta integración segura.
+- Continuidad: `CONTINUITY.md`, integrada hasta XXVI.
 - Manifiesto visual vigente: `art/ILLUSTRATION_MANIFEST_V05.md`.
 - Prioridad visual inmediata: **X → XIV → XV → XVI**.
