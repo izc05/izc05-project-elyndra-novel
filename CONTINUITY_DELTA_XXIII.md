@@ -89,5 +89,6 @@ Adjunto temporal de continuidad para `manuscript/23-lo-que-entra.md`. Mantener s
 
 ## ESTADO DE INTEGRACIÓN
 
+- Revisión narrativa posterior: el capítulo elimina referencias metanarrativas a números de capítulos dentro de la experiencia del protagonista y comprime la revisión del vídeo para que la prosa no adopte tono de registro técnico fuera de los momentos de anotación explícita. No cambia ningún hecho canónico.
 - `CONTINUITY.md` sigue conteniendo literalmente el canon hasta XX.
 - `CONTINUITY_DELTA_XXI.md`, `CONTINUITY_DELTA_XXII.md` y este delta conservan XXI–XXIII hasta una integración completa y segura en el maestro.
