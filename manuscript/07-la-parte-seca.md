@@ -1,6 +1,6 @@
 # Capítulo VII — La parte seca
 
-La cápsula olía distinto cuando regresaste.
+La cápsula olía distinto cuando regresé.
 
 A humedad.
 
@@ -8,45 +8,45 @@ Había agua en el suelo.
 
 No mucha. Lo suficiente para reflejar la luz de emergencia junto a la batería auxiliar.
 
-Entraste, cerraste la escotilla y esperaste a ver caer la siguiente gota.
+Entré, cerré la escotilla y esperé a ver caer la siguiente gota.
 
 Llegó desde una unión superior del mamparo, resbaló por una junta y cayó sobre la carcasa.
 
-—Bien —dijiste.
+—Bien —dije.
 
 No porque lo fuera.
 
-Porque era un problema que entendías.
+Porque era un problema que entendía.
 
-Aislaste la batería, secaste la zona y desmontaste el revestimiento. Detrás, una línea de agua descendía por la misma parte del casco deformada durante el impacto.
+Aislé la batería, sequé la zona y desmonté el revestimiento. Detrás, una línea de agua descendía por la misma parte del casco deformada durante el impacto.
 
 La tormenta no había abierto una grieta nueva.
 
 Había encontrado la antigua.
 
-Podías sellarla.
+Podía sellarla.
 
 Probablemente.
 
 ---
 
-Trabajaste desde fuera.
+Trabajé desde fuera.
 
 La fisura recorría una junta hundida unos milímetros. La cinta adhería sobre metal seco; conseguir metal seco era el problema.
 
-Usaste calor en intervalos cortos. El agua desaparecía y regresaba desde los bordes.
+Usé calor en intervalos cortos. El agua desaparecía y regresaba desde los bordes.
 
-Entonces miraste el fragmento de paracaídas que aún colgaba bajo la cápsula.
+Entonces miré el fragmento de paracaídas que aún colgaba bajo la cápsula.
 
-Ya le habías quitado líneas.
+Ya le había quitado líneas.
 
-Le cortaste también una pieza de tejido.
+Le corté también una pieza de tejido.
 
 No servía como sellado.
 
 Sí como techo.
 
-La tensaste sobre la zona dañada para desviar la lluvia. El primer montaje vibró demasiado con una ráfaga y soltó una esquina. Añadiste un segundo punto de sujeción y esperaste al siguiente aviso de las membranas.
+La tensé sobre la zona dañada para desviar la lluvia. El primer montaje vibró demasiado con una ráfaga y soltó una esquina. Añadí un segundo punto de sujeción y esperé al siguiente aviso de las membranas.
 
 Se tensaron.
 
@@ -54,39 +54,39 @@ Llegó el viento.
 
 La tela aguantó.
 
-Con la junta protegida, secaste una última vez y aplicaste cinta, aislamiento y otra capa de cinta.
+Con la junta protegida, sequé una última vez y apliqué cinta, aislamiento y otra capa de cinta.
 
 Nada entró.
 
-Esperaste.
+Esperé.
 
 Seguía seco.
 
-Entonces te diste cuenta de que llevabas casi una hora trabajando fuera sin pensar en el vacío bajo la raíz.
+Entonces me di cuenta de que llevaba casi una hora trabajando fuera sin pensar en el vacío bajo la raíz.
 
 No porque hubiera desaparecido.
 
-Porque tenías otra cosa que hacer.
+Porque tenía otra cosa que hacer.
 
 ---
 
-Dentro, reconectaste la batería después de comprobar el aislamiento.
+Dentro, reconecté la batería después de comprobar el aislamiento.
 
 Todo siguió funcionando.
 
 La cápsula, en cambio, ya no parecía la misma.
 
-Un panel descansaba contra la pared. Habías cortado parte del paracaídas. Una línea salía del casco hacia la raíz. El suelo conservaba marcas de barro.
+Un panel descansaba contra la pared. Había cortado parte del paracaídas. Una línea salía del casco hacia la raíz. El suelo conservaba marcas de barro.
 
-Los primeros días habías intentado mantener aquel interior como un fragmento intacto de Aster.
+Los primeros días había intentado mantener aquel interior como un fragmento intacto de Aster.
 
 Ya no podía serlo.
 
-Abriste los suministros.
+Abrí los suministros.
 
-Esta vez no contaste objetos.
+Esta vez no conté objetos.
 
-Contaste tiempo.
+Conté tiempo.
 
 Agua terrestre.
 
@@ -98,21 +98,21 @@ Todavía había margen.
 
 Margen no significaba abundancia.
 
-Abriste una de las imágenes de los discos de la raíz inferior. Agua clara. Borde lechoso. Una pequeña forma plana junto a la pared.
+Abrí una de las imágenes de los discos de la raíz inferior. Agua clara. Borde lechoso. Una pequeña forma plana junto a la pared.
 
-No ibas a beberla porque tus reservas fueran menores.
+No iba a beberla porque mis reservas fueran menores.
 
-Tampoco ibas a esperar a que se acabaran para empezar a entenderla.
+Tampoco iba a esperar a que se acabaran para empezar a entenderla.
 
-Anotaste una tarea para el día siguiente:
+Anoté una tarea para el día siguiente:
 
 **RECOGER MUESTRA SIN CONTACTO. ANALIZAR.**
 
 Nada más.
 
-Calentaste media ración. Al quitarte el guante viste que los nudillos golpeados contra el panel empezaban a hincharse.
+Calenté media ración. Al quitarme el guante vi que los nudillos golpeados contra el panel empezaban a hincharse.
 
-Moviste los dedos.
+Moví los dedos.
 
 Funcionaban.
 
@@ -120,8 +120,8 @@ Fuera, la lluvia golpeaba el pequeño techo de paracaídas con un sonido más bl
 
 La reparación seguía seca.
 
-La cápsula continuaba siendo tu refugio.
+La cápsula continuaba siendo mi refugio.
 
-Pero ya no era algo que simplemente hubiese sobrevivido contigo.
+Pero ya no era algo que simplemente hubiese sobrevivido conmigo.
 
-Ahora sobrevivía también porque tú la mantenías entera.
+Ahora sobrevivía también porque yo la mantenía entera.
