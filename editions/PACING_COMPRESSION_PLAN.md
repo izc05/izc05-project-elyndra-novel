@@ -6,118 +6,163 @@ Reducir fragmentación, cortar repetición y hacer que la expedición avance por
 
 El criterio no es hacer la novela corta. Es conseguir que **cada página descubra o cambie algo**.
 
-## Progreso de revisión desde el principio
+## Estado actual
 
-### Prólogo–V — cerrado en primera pasada
+La primera revisión secuencial completa desde el Prólogo hasta el final vigente está **cerrada**.
 
-- **Prólogo — `Treinta y siete segundos`: REESCRITO Y COMPRIMIDO.** Conserva anomalía `−37 s`, separación de Aster, caída, raíces, segundo `−37 s` y primeras membranas; elimina diagnóstico y alarma redundantes.
-- **I — `El primer paso`: REESCRITO Y COMPRIMIDO.** Conserva lesión, primera ruta, membranas, destellos, depresiones, golpes, bifurcación y sombra nocturna; reduce inventario e ida/vuelta.
-- **II — `Bajo la niebla`: REESCRITO Y COMPRIMIDO.** Llega antes a capa inferior, discos y primera fauna confirmada.
-- **III — `La ruta que respira`: REVISADO.** Se mantiene por función: error de perspectiva, retorno desde profundidad y apertura de la ruta de los dos tonos.
-- **IV — `Dos tonos en la niebla`: REESCRITO Y COMPRIMIDO.** Adelanta estructura de tres brazos y primera lectura de la plataforma.
-- **V — `La ruta que sube`: REESCRITO Y COMPRIMIDO.** Conserva nuevo bioma, flora sensible a luz, transporte de agua, criatura de seis apoyos, tormenta y vista ampliada.
+Estructura actual:
 
-### VI–XII — cerrado en primera pasada
+- Prólogo;
+- Capítulos I–XXV;
+- final vigente: **XXV — `La escala que faltaba`**.
 
-- **VI — `La segunda visita`: COMPRIMIDO.** La revisita horizontal se centra en geometría real de acceso, borde con surcos, línea oscura integrada y vibración fina; se eliminan comprobaciones repetidas.
-- **VII — `La parte seca`: COMPRIMIDO.** La fuga de la cápsula se convierte en una reparación breve con consecuencias sobre refugio y presión de recursos.
-- **VIII — `El agua que no era agua`: COMPRIMIDO.** Se alcanza antes la muestra de los discos, el comportamiento luminoso de fauna, los golpes profundos y el resultado orgánico no clasificado.
-- **IX — `Antes de tocar la raíz`: COMPRIMIDO FUERTE.** Conserva colector de lluvia directa, diferencia antes/después de tocar raíz, tratamiento, exposición mínima y ausencia de declaración de potabilidad; se elimina lenguaje de manual.
-- **X — `Una hora más`: COMPRIMIDO.** Mantiene la cara inferior de la plataforma, capas/nervaduras/raíz integrada, accidente pequeño y pérdida de la bolsa de lluvia.
-- **XI — `La órbita vacía`: COMPRIMIDO.** Conserva ventana orbital, llamadas, ausencia de portadora, línea blanca no compatible con Aster y `PASO ORBITAL PREVISTO: NO CONFIRMADO`.
-- **XII — `El mismo camino`: COMPRIMIDO.** Mantiene arañazos recientes, depresión pequeña ausente en el registro inicial y principio de rutas conocidas que pueden cambiar.
+El manuscrito anterior llegó a XXIX. La nueva estructura concentra el mismo canon útil en 25 capítulos, con menos procedimiento y más avance por capítulo.
 
-### XIII–XIX — cerrado en primera pasada
+## Revisión Prólogo–XIX
 
-- **XIII — `La mitad de una ración`: COMPRIMIDO.** Hambre, película oscura, criatura retirando material y compatibilidad metabólica humana no determinada quedan en una progresión más directa.
-- **XIV — `El aire que gastas`: COMPRIMIDO FUERTE.** Conserva filtro usado +34 g, gas parcialmente compatible, particulado orgánico no clasificado, mayor carga en bóveda y concepto del aire como coste del terreno.
-- **XV — `Lo que entra contigo`: COMPRIMIDO.** Conserva prefiltro interior ambiguo, picos tras aperturas, recirculación y separación funcional entrada/limpio.
-- **XVI — `La mano izquierda`: COMPRIMIDO.** Conserva única exposición dérmica deliberada de 34 s, casco cerrado, filtrado activo y ausencia de reacción aguda; no autoriza nueva exposición.
-- **XVII — `El tono que faltaba`: COMPRIMIDO.** Mantiene relación posible entre nivel de película y tonos sin convertir la estructura en lenguaje o interfaz.
-- **XVIII — `Lo que dejas encendido`: COMPRIMIDO.** Mantiene contacto térmico degradado, caídas breves coincidentes con baliza, reparación y prioridad eléctrica de comunicación.
-- **XIX — `La franja que vuelve`: COMPRIMIDO.** Mantiene comparación geométrica fiable en tres segmentos y cobertura oscura parcialmente restablecida, mecanismo no determinado.
+### Prólogo–V
 
-## Siguiente bloque inmediato
+- Prólogo, I, II, IV y V reescritos y comprimidos.
+- III revisado y conservado por función: retorno desde profundidad, error de perspectiva y apertura de la ruta de los dos tonos.
 
-Revisar **XX → XXVII** y ejecutar las fusiones de ritmo que sobrevivan a una lectura completa. Después revisar el nuevo XXVIII ya fusionado y realizar una **renumeración global una sola vez** si se confirman varias fusiones, actualizando manuscrito, `CONTINUITY.md`, notas de arte y edición en el mismo bloque.
+### VI–XII
 
-No reconstruir el PDF antes de esa consolidación: evitar maquetar una numeración que vaya a cambiar inmediatamente.
+- VI comprimido alrededor de geometría real de acceso, borde con surcos, línea oscura integrada y vibración fina.
+- VII reduce la fuga/reparación de cápsula a sus consecuencias materiales.
+- VIII alcanza antes muestra de agua, fauna luminosa, golpes profundos y fracción orgánica no clasificada.
+- IX conserva colector de lluvia, tratamiento y exposición oral mínima sin convertirlo en manual.
+- X concentra la primera lectura de la cara inferior de la plataforma.
+- XI mantiene la ventana orbital y `PASO ORBITAL PREVISTO: NO CONFIRMADO` con mucha menos espera repetida.
+- XII concentra el cambio de la ruta conocida: arañazos y depresión nueva.
 
-## Fusión ya aplicada
+### XIII–XIX
 
-### Antiguos XXVIII + XXIX → actual XXVIII — `La escala que faltaba`
+- XIII concentra hambre, criatura, película oscura y compatibilidad metabólica no determinada.
+- XIV se comprime fuerte: filtro usado +34 g, mezcla gaseosa parcialmente compatible, particulado no clasificado, bóveda con mayor carga y aire como coste de terreno.
+- XV mantiene prefiltro ambiguo, picos tras aperturas, recirculación y separación funcional entrada/limpio.
+- XVI mantiene como capítulo independiente la única exposición dérmica deliberada de 34 s.
+- XVII conserva la relación posible nivel de película ↔ tono sin lenguaje ni interfaz.
+- XVIII concentra avería térmica, competencia energética y prioridad de baliza.
+- XIX conserva solo la comparación geométrica fiable de cobertura oscura parcialmente restablecida.
 
-El capítulo reúne:
+## Fusiones ejecutadas
 
-1. regreso a los destellos del primer día;
-2. explicación plausible mediante reflejos de cascada;
-3. salida fuera del mapa local;
-4. `NODO EXTERIOR 1`;
-5. cambio de viento, niebla y vegetación;
-6. región con múltiples cascadas y niveles de raíces;
-7. primera fauna planeadora;
-8. ruptura provisional de la ruta;
-9. ampliación del mapa de expedición.
+### Actual XX — `Antes de la llamada`
 
-## Fusiones candidatas para el bloque final
+Fusiona antiguos XX + XXI.
 
-### A. XX + XXI — señal de 37 segundos
+Conserva:
 
-Objetivo: un solo capítulo con descubrimiento retrospectivo, ciclos negativos, cambio de +7 min 14 s, segunda recepción 36,91 s antes y explicación interna todavía viable.
+- primera recepción anómala ~37 s antes;
+- dos ciclos negativos posteriores;
+- transmisión desplazada +7 min 14 s;
+- segunda recepción 36,91 s antes;
+- controlador conocía la nueva hora;
+- acoplamiento interno sigue viable;
+- ciclo ordinario posterior sin anomalía.
 
-### B. XXIII + XXIV — comida / película
+### Actual XXII — `Lo que entra`
 
-Objetivo: una progresión continua desde presión de raciones y transferencia de material hacia el cuerpo de la criatura hasta la ración comprometida usada como control humano. La película debe seguir sin clasificación metabólica humana.
+Fusiona antiguos XXIII + XXIV.
 
-### C. XXVI + XXVII — plataforma / prueba de carga
+Conserva:
 
-Objetivo: nervadura más expuesta → posible aproximación → paquete de carga → fibra soporta carga intermedia → golpes profundos cambian tensión → retirada sin escalada humana.
+- transferencia de película hacia el cuerpo de la criatura;
+- ausencia de inferencia sobre digestión/comestibilidad;
+- ración terrestre con sellado comprometido;
+- uso de esa ración como control humano;
+- película sigue sin clasificación metabólica humana;
+- cierre en 9 raciones completas seguras.
 
-### D. XIV + XV — aire / retorno a cabina
+### Actual XXIV — `Lo que pesa`
 
-Ambos capítulos ya están fuertemente comprimidos. Decidir la fusión solo durante la renumeración global: si unidos mejoran la lectura sin perder el escalón entre `aire exterior` y `lo que entra en cabina`, fusionar. XVI debe permanecer separado por ser una decisión corporal distinta.
+Fusiona antiguos XXVI + XXVII.
 
-## Regla de poda
+Conserva:
 
-Cortar 20–40 % cuando mejore ritmo mediante:
+- nervadura ~12 cm más expuesta;
+- entrante oscuro ~7 cm;
+- prueba previa solo con herramienta;
+- carga intermedia fabricada con piezas de la cápsula;
+- fibra sostiene carga sin rotura;
+- golpes profundos coinciden con cambio pequeño de tensión/longitud;
+- protagonista nunca cuelga de la fibra;
+- cierre en 7 raciones + 0,5 segura.
 
-- trayectos ya conocidos;
-- inventarios repetidos;
-- sellado/limpieza/recirculación ya establecidos;
-- esperas narradas segundo a segundo sin cambio;
-- explicaciones posteriores a una escena que ya demuestra la idea;
-- mediciones redundantes.
+### Actual XXV — `La escala que faltaba`
 
-No cortar:
+Fusiona antiguos XXVIII + XXIX.
 
-- primera observación de un fenómeno;
-- cambio real de ruta o supervivencia;
-- construcción sensorial de un bioma nuevo;
-- contradicción que sostenga misterio;
-- consecuencia material;
-- dato necesario para continuidad;
-- escena de escala que ensanche Elyndran.
+Conserva y acelera:
 
-## Ritmo futuro
+- explicación plausible de los destellos mediante cascada;
+- salida deliberada del mapa local;
+- `NODO EXTERIOR 1`;
+- nuevo terreno y régimen de viento;
+- múltiples cascadas;
+- varias capas de raíces;
+- nueva fauna planeadora;
+- ruptura provisional de ruta;
+- mapa ampliado;
+- cierre en 6,25 raciones equivalentes seguras.
 
-En cualquier bloque de 2–3 capítulos debe aparecer, de forma orgánica, al menos una expansión material del mundo: región, terreno, clima, flora/fauna, cambio vertical, ruta, fenómeno ecológico o evidencia ganada de habitantes/inteligencia.
+## Renumeración final vigente
 
-La novela puede avanzar hacia otros habitantes, pero debe respetar:
+- I–XIX: sin cambio.
+- XX = antiguos XX+XXI.
+- XXI = antiguo XXII.
+- XXII = antiguos XXIII+XXIV.
+- XXIII = antiguo XXV.
+- XXIV = antiguos XXVI+XXVII.
+- XXV = antiguos XXVIII+XXIX.
+
+Usar `CONTINUITY_DELTA_CURRENT.md` como capa de canon de numeración hasta consolidar `CONTINUITY.md`.
+
+Usar `art/RENUMBER_MAP_V09.md` para reinterpretar notas visuales antiguas.
+
+## Decisión sobre XIV + XV
+
+No se fusionan en esta pasada.
+
+Motivo: tras la poda fuerte ahora cumplen funciones distintas y breves:
+
+- XIV = qué contiene/cuesta el aire exterior;
+- XV = qué entra físicamente en la cabina y cómo cambia el retorno.
+
+XVI permanece como escalón corporal separado.
+
+## Resultado de ritmo
+
+La novela ya no necesita un capítulo por cada prueba.
+
+Regla vigente:
+
+- trayectos conocidos se resumen;
+- sellado/limpieza/recirculación solo se desarrollan cuando cambian algo;
+- una medición aislada no justifica capítulo;
+- la mayoría de capítulos deben mover al menos dos ejes narrativos;
+- cada 2–3 capítulos debe ampliarse de forma orgánica geografía, clima, ecología, fauna/flora, riesgo, ruta o evidencia de inteligencia.
+
+## Próximo bloque de trabajo
+
+1. Consolidar `CONTINUITY.md` con numeración I–XXV y eliminar referencias históricas que puedan confundir.
+2. Actualizar manifiesto visual a v0.9.
+3. Revisar cobertura de imágenes **desde Prólogo**, no solo desde XIV.
+4. Diseñar/crear mapa local de expedición y mapa ampliado de XXV.
+5. Producir imágenes maestras con el estándar fotorealista aprobado.
+6. Solo después reconstruir el PDF completo desde los Markdown actuales, con índice nuevo, papel marfil, imágenes integradas desde el inicio y QA de todas las páginas.
+
+## Regla de avance futuro
+
+ELYNDRAN debe sentirse enorme.
+
+La siguiente narrativa no debe volver a encerrarse diez capítulos alrededor de la cápsula. El nuevo sector de XXV debe conducir gradualmente hacia regiones, clima, fauna, flora y, cuando exista evidencia suficiente, rastros cada vez menos compatibles con azar natural.
+
+La progresión hacia habitantes/inteligencia sigue:
 
 **rastro → patrón → repetición → inferencia → encuentro**.
 
-No introducir de golpe ciudad, conversación o civilización explicada.
-
-## Mapas
-
-El mapa actual es un **mapa de expedición local**.
-
-La progresión prevista es:
-
-1. mapa local de cápsula y tres ramas;
-2. mapa ampliado con `NODO EXTERIOR 1` y sector de cascadas;
-3. mapas regionales posteriores;
-4. nunca mapa global completo antes de que la historia lo permita.
+No introducir de golpe una ciudad o una explicación completa.
 
 ## Criterio de aceptación
 
