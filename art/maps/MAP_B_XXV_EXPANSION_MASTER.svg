@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200" role="img" aria-labelledby="title desc">
+<title id="title">ELYNDRAN — Mapa B, ampliación tras XXV</title><desc id="desc">Mapa regional que contiene el sector local y la expansión hacia Nodo Exterior 1, cascadas y ruptura provisional.</desc>
+<defs><style>.bg{fill:#f3efe4}.root{fill:none;stroke:#62635e;stroke-width:22;stroke-linecap:round;opacity:.35}.route{fill:none;stroke:#252624;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}.unknown{fill:none;stroke:#777871;stroke-width:4;stroke-dasharray:15 13}.obs{fill:none;stroke:#6c6d67;stroke-width:3;stroke-dasharray:8 11}.node{fill:#f3efe4;stroke:#252624;stroke-width:4}.label{font:27px Georgia,serif;fill:#232421;letter-spacing:.8px}.small{font:20px Georgia,serif;fill:#50514d}.tiny{font:17px Georgia,serif;fill:#666761}.fog{fill:#d7d7d0;opacity:.34}.water{fill:none;stroke:#555c5d;stroke-width:5}.glider{fill:none;stroke:#4f514d;stroke-width:3;stroke-linecap:round}</style></defs>
+<rect class="bg" width="1800" height="1200"/><text class="label" x="80" y="85">MAPA B · AMPLIACIÓN TRAS XXV</text><text class="small" x="80" y="120">escala operativa variable · distancias estimadas por recorrido y vídeo</text>
+<path class="fog" d="M0 590 C320 500 540 650 820 570 C1120 485 1390 600 1800 480 L1800 820 C1460 900 1180 780 900 875 C600 975 300 820 0 930Z"/>
+<!-- sector local inset, intentionally small -->
+<g transform="translate(90 270) scale(.46)"><path class="root" d="M100 180 C260 250 360 350 500 470 C390 560 310 650 245 800 M500 470 C680 455 800 470 970 410 M500 470 C610 365 650 250 710 120"/><path class="route" d="M100 180 C260 250 360 350 500 470 M500 470 C390 560 310 650 245 800 M500 470 C680 455 800 470 970 410 M500 470 C610 365 650 250 710 120"/><circle class="node" cx="100" cy="180" r="15"/><circle class="node" cx="500" cy="470" r="15"/></g>
+<text class="small" x="105" y="245">SECTOR LOCAL</text><text class="tiny" x="105" y="270">cápsula · bifurcación · tres ramas</text>
+<!-- first overlook and expansion route -->
+<circle class="node" cx="255" cy="525" r="11"/><text class="small" x="105" y="555">PRIMER MIRADOR</text><path class="route" d="M255 525 C410 470 535 420 675 390 C790 365 865 350 955 335"/><path class="root" d="M255 525 C430 470 560 420 700 395 C820 370 900 350 990 330"/>
+<text class="tiny" x="500" y="430">raíz ensanchada · láminas sensibles a sombra</text>
+<!-- node exterior -->
+<circle class="node" cx="955" cy="335" r="18"/><text class="label" x="875" y="295">NODO EXTERIOR 1</text><path class="route" d="M955 335 C1100 305 1230 285 1370 300"/><path class="unknown" d="M955 335 C1070 420 1170 465 1280 500"/><path class="unknown" d="M955 335 C1010 230 1080 175 1160 135"/><text class="tiny" x="1100" y="455">no explorado</text><text class="tiny" x="1070" y="150">no explorado</text>
+<!-- cascades region -->
+<path class="root" d="M1370 300 C1510 245 1630 270 1760 225 M1370 300 C1500 370 1600 410 1770 390 M1370 300 C1480 500 1610 560 1780 590"/>
+<text class="label" x="1320" y="205">REGIÓN DE CASCADAS</text>
+<g class="water"><path d="M1450 250 q-20 90 5 180"/><path d="M1515 275 q-25 100 0 205"/><path d="M1580 260 q-18 95 8 185"/><path d="M1640 300 q-30 90 -5 175"/><path d="M1690 260 q-20 80 5 160"/><path d="M1740 300 q-18 80 0 145"/><path d="M1395 330 q-15 70 8 140"/></g>
+<text class="tiny" x="1350" y="515">≥7 cascadas observadas · posiciones aproximadas</text><text class="small" x="1450" y="570">RAÍCES ENTRELAZADAS</text><path class="obs" d="M1520 590 q90 -80 175 0 q-70 70 -150 15 q80 -100 170 -15"/>
+<!-- glider sightings -->
+<g class="glider"><path d="M1330 390 q18 -12 36 0 q-18 10 -36 0"/><path d="M1470 360 q18 -12 36 0 q-18 10 -36 0"/><path d="M1590 470 q18 -12 36 0 q-18 10 -36 0"/></g><text class="tiny" x="1280" y="425">formas planeadoras · avistamiento</text>
+<!-- provisional break -->
+<path class="route" d="M1370 300 C1440 245 1490 215 1545 185"/><circle class="node" cx="1545" cy="185" r="12"/><text class="small" x="1460" y="150">RUPTURA</text><text class="tiny" x="1460" y="125">paso no verificado</text><path class="unknown" d="M1545 185 C1600 125 1670 90 1770 70"/>
+<!-- lower visible layers -->
+<path class="obs" d="M930 760 C1110 690 1290 730 1480 690 M980 835 C1180 780 1410 825 1650 760 M1100 930 C1300 875 1510 900 1780 850"/><text class="small" x="1010" y="805">niveles inferiores visibles</text><text class="tiny" x="1180" y="960">otra capa más oscura · suelo no visible</text>
+<!-- unknown field -->
+<text class="label" x="140" y="1050">NO CARTOGRAFIADO</text><text class="small" x="140" y="1085">La red recorrida ocupa solo una fracción del espacio visible.</text>
+<path class="unknown" d="M620 970 C800 900 860 1020 1040 980"/><path class="unknown" d="M260 850 C430 790 520 890 690 820"/>
+</svg>
