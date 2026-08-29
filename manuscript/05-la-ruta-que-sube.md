@@ -1,22 +1,22 @@
 # Capítulo V — La ruta que sube
 
-Dormiste algo mejor.
+Dormí algo mejor.
 
-Al despertar, la rodilla seguía rígida y el costado dolía solo al girarte. En la pantalla permanecían las imágenes de la estructura de tres brazos, las hendiduras y la plataforma lejana.
+Al despertar, la rodilla seguía rígida y el costado dolía solo al girarme. En la pantalla permanecían las imágenes de la estructura de tres brazos, las hendiduras y la plataforma lejana.
 
-No las ampliaste.
+No las amplié.
 
-Miraste el mapa.
+Miré el mapa.
 
-La rama descendente exigía equipo que aún no tenías. La horizontal llevaba a los tonos y a la geometría regular. La ascendente seguía siendo una línea hacia vegetación oscura.
+La rama descendente exigía equipo que aún no tenía. La horizontal llevaba a los tonos y a la geometría regular. La ascendente seguía siendo una línea hacia vegetación oscura.
 
-Elegiste esa.
+Elegí esa.
 
 No era la más urgente.
 
 Precisamente por eso.
 
-Llevaste agua, una ración, botiquín, batería, herramienta y linterna. Dejaste el aseguramiento improvisado en la cápsula: si aparecía un descenso serio, volverías.
+Llevé agua, una ración, botiquín, batería, herramienta y linterna. Dejé el aseguramiento improvisado en la cápsula: si aparecía un descenso serio, volvería.
 
 El camino hasta la bifurcación ya no exigía revisar cada referencia.
 
@@ -28,11 +28,11 @@ Las membranas.
 
 La curva tras la que desaparecía la cápsula.
 
-No caminabas más rápido.
+No caminaba más rápido.
 
-Simplemente gastabas menos atención en lo conocido.
+Simplemente gastaba menos atención en lo conocido.
 
-Tomaste la ruta ascendente.
+Tomé la ruta ascendente.
 
 ---
 
@@ -46,23 +46,23 @@ No parecían distinguir entre suelo y techo.
 
 La humedad aumentó. También el trabajo del filtro.
 
-Entre las columnas aparecieron láminas rígidas de color cobre, encajadas unas sobre otras. Levantaste una desprendida con la herramienta: ligera, con conductos oscuros en el reverso y una superficie que devolvía la luz en una banda mate.
+Entre las columnas aparecieron láminas rígidas de color cobre, encajadas unas sobre otras. Levanté una desprendida con la herramienta: ligera, con conductos oscuros en el reverso y una superficie que devolvía la luz en una banda mate.
 
-La dejaste donde estaba.
+La dejé donde estaba.
 
 Más adelante una cortina de filamentos blancos bloqueaba la ruta.
 
-Moviste la linterna.
+Moví la linterna.
 
 Los filamentos se apartaron del haz.
 
-Apagaste.
+Apagué.
 
 Volvieron lentamente.
 
 A mínima potencia se abría un paso estrecho. Con más intensidad, uno suficiente para cruzar.
 
-Atravesaste con la luz delante. Al apagarla, varios filamentos rozaron el casco y los hombros mientras recuperaban su posición.
+Atravesé con la luz delante. Al apagarla, varios filamentos rozaron el casco y los hombros mientras recuperaban su posición.
 
 No se adhirieron al traje.
 
@@ -70,7 +70,7 @@ Dentro de la bóveda el agua se comportaba de otro modo.
 
 Corría por surcos, se acumulaba bajo películas brillantes y, en algunos puntos, ascendía por hilos casi invisibles hasta bolsas vegetales translúcidas.
 
-La primera vez soltaste una tuerca junto a la bota para comprobar que la gravedad seguía siendo la misma.
+La primera vez solté una tuerca junto a la bota para comprobar que la gravedad seguía siendo la misma.
 
 Cayó.
 
@@ -78,13 +78,13 @@ Arriba, otra gota subió por el filamento.
 
 Capilaridad. Presión. Transporte activo.
 
-No necesitabas una explicación todavía.
+No necesitaba una explicación todavía.
 
-Algo rozó las placas cobrizas a tu derecha.
+Algo rozó las placas cobrizas a mi derecha.
 
 Una forma pequeña salió de debajo de una de ellas.
 
-Cabía sobre tu palma.
+Cabía sobre mi palma.
 
 Tenía seis apoyos finos alrededor de un cuerpo bajo y casi circular. La parte superior estaba cubierta por placas del mismo color cobrizo del entorno.
 
@@ -92,17 +92,17 @@ Quieta, desaparecía.
 
 Una estructura tubular surgió de la cara inferior, tocó una gota atrapada en un surco y volvió a plegarse.
 
-Moviste una bota.
+Moví una bota.
 
 El animal se aplastó contra la corteza y el visor perdió su contorno.
 
-Esperaste.
+Esperé.
 
 Levantó dos apoyos. Luego otros.
 
-Cuando miraste la batería y volviste a la placa, ya no supiste dónde estaba.
+Cuando miré la batería y volví a la placa, ya no supe dónde estaba.
 
-No buscaste debajo.
+No busqué debajo.
 
 Perder de vista algo allí no significaba que se hubiera marchado.
 
@@ -114,7 +114,7 @@ La vegetación se abría y dejaba ver kilómetros de capas suspendidas: raíces 
 
 La columna de vapor del primer día seguía allí.
 
-Buscaste los destellos.
+Busqué los destellos.
 
 Apareció uno.
 
@@ -122,7 +122,7 @@ Luego otro, más a la derecha.
 
 Después dos casi seguidos.
 
-Con poco zoom distinguías entre la niebla una geometría que no pertenecía a las raíces inmediatas.
+Con poco zoom distinguí entre la niebla una geometría que no pertenecía a las raíces inmediatas.
 
 Un tramo recto.
 
@@ -134,7 +134,7 @@ No se movía con la vegetación. La niebla lo ocultaba y lo devolvía siempre al
 
 Podía ser parte de la plataforma vista desde la ruta horizontal.
 
-Tomaste tres fotografías.
+Tomé tres fotografías.
 
 En la última un reflejo recorrió la línea y se apagó.
 
@@ -144,7 +144,7 @@ Debajo de la terraza, las membranas llevaban demasiado tiempo tensas.
 
 La tormenta había avanzado.
 
-Recordaste el regreso sin abrir el mapa.
+Recordé el regreso sin abrir el mapa.
 
 Terraza.
 
@@ -156,39 +156,39 @@ Bifurcación.
 
 Cápsula.
 
-Diste media vuelta.
+Di media vuelta.
 
 ---
 
-La tormenta te alcanzó antes de salir de la bóveda.
+La tormenta me alcanzó antes de salir de la bóveda.
 
 Llegó como presión antes que como lluvia.
 
 El aire cambió de dirección varias veces y las placas cobrizas vibraron unas contra otras.
 
-Te cubriste detrás de una elevación de corteza.
+Me cubrí detrás de una elevación de corteza.
 
-Entonces viste movimiento.
+Entonces vi movimiento.
 
 La criatura de seis apoyos —o una igual— estaba siendo arrastrada por el viento. Dos patas intentaban alcanzar una grieta sin conseguirlo.
 
 Otra ráfaga la desplazó.
 
-Extendiste una mano abierta contra la corteza, formando una barrera con el guante.
+Extendí una mano abierta contra la corteza, formando una barrera con el guante.
 
-El animal chocó contra tus dedos.
+El animal chocó contra mis dedos.
 
-No cerraste la mano.
+No cerré la mano.
 
-Durante dos segundos permaneció adherido al tejido. Sentiste una vibración finísima.
+Durante dos segundos permaneció adherido al tejido. Sentí una vibración finísima.
 
 Después desplegó varios apoyos, alcanzó la grieta y desapareció.
 
-No decidiste si aquello contaba como ayuda.
+No decidí si aquello contaba como ayuda.
 
-Seguiste regresando.
+Seguí regresando.
 
-En la bifurcación tardaste dos segundos en entender qué faltaba.
+En la bifurcación tardé dos segundos en entender qué faltaba.
 
 La tira reflectante había desaparecido.
 
@@ -206,10 +206,10 @@ Tres rutas.
 
 Sin marca blanca.
 
-No abriste el mapa.
+No abrí el mapa.
 
-Giraste hacia la cápsula.
+Giré hacia la cápsula.
 
-Antes de llegar a la curva supiste exactamente dónde iba a aparecer.
+Antes de llegar a la curva supe exactamente dónde iba a aparecer.
 
 Y apareció.
