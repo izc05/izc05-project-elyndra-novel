@@ -1,275 +1,201 @@
-# Capítulo XXVI — El borde que queda
+# Capítulo XXVI — Lo que pesa
 
-La mañana empezó sin lluvia.
-
-La lámina del colector seguía en su ángulo. Las tres abrazaderas aguantaban. En la bolsa separada, el agua tratada de la tarde anterior no mostraba sedimento visible ni cambio de color.
+La lámina del colector seguía firme y la reserva experimental de lluvia continuaba separada del agua terrestre.
 
 No la bebiste.
 
-Abriste el armario de comida.
+Abriste el armario.
 
-Ocho paquetes completos.
+Ocho raciones completas y una mitad.
 
-Una mitad.
+La rodilla derecha tardó menos en soltarse que el día anterior.
 
-La cuenta ya estaba en la cabeza.
+Eso no significaba que estuviera bien.
 
----
+Miraste el mapa.
 
-La rodilla tardó menos en soltarse que el día anterior.
+La plataforma seguía siendo la pregunta que exigía menos distancia y más cuidado.
 
-No estaba bien. Tampoco estaba peor.
-
-Apoyaste el pie derecho en el travesaño bajo y cargaste peso poco a poco, casi sin flexionar.
-
-Aceptó.
-
-Después miraste el mapa.
-
-La ascendente seguía cobrando demasiado filtro. La descendente exigía una bajada que la rodilla no necesitaba. En la horizontal quedaba una pregunta vieja que hasta entonces solo habías guardado en fotografías.
-
-La plataforma.
-
-No su superficie.
+No su parte superior.
 
 El borde inferior.
 
-La última vez habías llegado debajo, visto nervaduras y huecos entre raíz y material oscuro, y habías vuelto antes de comprobar si existía una forma razonable de acercarte más. Desde entonces habías aprendido a desconfiar incluso de los apoyos conocidos.
-
-Ampliaste la fotografía de aquella visita.
-
-Cerca de donde una raíz entraba en la trama, una fibra gruesa quedaba aparentemente próxima a una nervadura expuesta.
-
-En una imagen, la distancia parecía pequeña.
-
-La niebla ya te había enseñado cuánto podía valer ese parecido.
-
-Preparaste cámara, linterna, regla flexible, dos líneas recuperadas del paracaídas, el aseguramiento corto y agua terrestre.
-
-Dejaste el analizador en la cápsula.
-
-No ibas a buscar una muestra.
-
-Solo querías saber si había una aproximación.
-
 ---
 
-El canal de raíces paralelas apareció antes de que la niebla terminara de levantarse.
+Usaste la ruta horizontal y la alternativa superior del canal de raíces paralelas sin probar el apoyo antiguo.
 
-La raíz inferior seguía baja.
+La estructura de tres brazos quedó atrás. Ambas cavidades visibles contenían película transparente. No te detuviste a medir tonos.
 
-No la probaste.
+Bajaste por la rama húmeda hasta situarte de nuevo bajo la plataforma.
 
-Enganchaste la línea, usaste la alternativa superior y cruzaste con la pierna derecha casi recta.
+Repetiste primero la fotografía antigua.
 
-Al mirar atrás, la bota no había buscado el hueco antiguo.
+Misma posición aproximada.
 
-Eso ya empezaba a ser costumbre.
+Mismas referencias de corteza.
 
-En la bifurcación tomaste la rama horizontal.
+Una nervadura oscura junto a la fibra gruesa aparecía ahora más expuesta.
 
-El frío llegó antes que el tono grave. El agudo sonó después. No mediste frecuencia.
+Unos doce centímetros más de material visible que en el registro anterior.
 
-Al pasar junto a los tres brazos viste película transparente en ambas cavidades. La superior ya no parecía casi seca. Hiciste una fotografía desde la distancia habitual y seguiste.
+Las referencias próximas coincidían suficientemente bien para que el cambio no desapareciera al alinear las imágenes.
 
-La plataforma apareció y desapareció dos veces entre la niebla.
+No sabías qué se había movido.
 
-Las mismas formas verticales.
-
-La inclinada.
-
-La del hueco limpio.
-
-Ninguna luz.
-
-Ningún movimiento.
-
-En la división de la raíz elegiste la rama que bajaba.
-
----
-
-La película oscura del descenso seguía reteniendo agua donde la superficie parecía seca. Probaste cada apoyo con la punta de la bota antes de cargarlo.
-
-El tono de la estructura quedó atrás.
-
-Luego apareció el techo de corteza, a menos de cuatro metros: fibras gruesas, membranas pequeñas, la banda oscura incrustada arriba.
-
-La misma.
-
-Te acercaste al punto donde habías resbalado en la visita anterior. El suelo conservaba un brillo irregular. No intentaste localizar el lugar exacto donde se había vaciado la bolsa rota.
-
-Levantaste la vista.
-
-La parte inferior de la plataforma ocupaba la niebla como una sombra atravesada por líneas demasiado rectas.
-
-Primero repetiste la fotografía antigua.
-
-Misma posición aproximada. Misma altura de cámara.
-
-Esperaste a que la niebla abriera el borde inferior y tomaste tres imágenes.
-
-La plataforma no había bajado.
-
-O no podías demostrarlo.
-
-La raíz tampoco había subido de una forma que pudieras medir desde allí.
-
-Pero una nervadura junto a la fibra gruesa ya no estaba cubierta igual.
-
-En la imagen vieja apenas asomaba. Ahora quedaban expuestos unos doce centímetros de material oscuro.
-
-Acercaste la cámara.
-
-La superficie continuaba por debajo de la corteza en ambos extremos. No era una pieza nueva.
-
-Mediste dos referencias próximas: una bifurcación de fibra y una mancha pálida de la raíz. Coincidían con la fotografía anterior dentro de un margen pequeño.
-
-La franja expuesta, no.
-
-Podía haber cedido la corteza. Podía haberse retraído la raíz. Podía haberse movido la estructura.
-
-Guardaste solo lo que la comparación permitía.
-
-**NERVADURA MÁS EXPUESTA ENTRE REGISTROS. MECANISMO NO DETERMINADO.**
-
----
-
-La fibra gruesa seguía colgando cerca.
-
-A simple vista parecía capaz de sostener mucho más que una herramienta.
-
-A simple vista no significaba nada.
-
-La nervadura quedaba algo más de metro y medio en horizontal y cerca de un metro por encima de tu hombro. Entre ambas había un hueco oscuro por el que la niebla se desplazaba despacio.
-
-No era un salto.
-
-Tampoco un paso.
-
-Te inclinaste para buscar otro ángulo y la rodilla derecha protestó.
-
-Cambiaste de lado.
-
-Entonces viste el entrante.
-
-Por encima de la nervadura, casi oculto por corteza, sobresalía un tramo liso del material oscuro con una depresión poco profunda. Unos siete centímetros de ancho. Irregular en conjunto, pero con un borde demasiado limpio para confundirse con la raíz inmediata.
-
-La linterna no reveló fondo.
-
-No metiste los dedos.
-
-Podía ser una unión, desgaste, una rotura antigua o algo que todavía no podías interpretar.
-
-No necesitabas convertirlo en otra cosa para que importara.
-
----
-
-Antes de acercarte más probaste la fibra.
-
-Primero con la mano.
-
-Después pasaste una de las líneas alrededor y tiraste hacia abajo con poca carga.
-
-La fibra flexionó y volvió a su posición.
-
-Aumentaste un poco.
-
-Nada crujió. La corteza alrededor no se abrió.
-
-Eso demostraba exactamente aquella fuerza y ninguna más.
-
-Ataste una herramienta al extremo de la línea y la dejaste colgar medio minuto.
-
-La fibra descendió unos milímetros.
-
-Después quedó estable.
-
-Recuperaste la herramienta.
-
-La prueba era ridícula comparada con tu peso.
-
-También era suficiente para impedirte fingir que no sabías nada.
-
-Miraste la distancia hasta la nervadura.
-
-Si la fibra admitía una carga mayor, podría darte control mientras alcanzabas el borde oscuro. Si la nervadura también admitía carga, quizá ganarías un metro.
-
-Dos, con suerte.
-
-Y seguirías debajo de la plataforma.
-
----
-
-No intentaste subir.
-
-La decisión no necesitó heroísmo.
-
-Tenías ocho raciones y media al salir, un colector recién reparado y una rodilla que todavía negociaba cada cambio de altura. Convertir una pregunta de acceso en una caída no iba a acercarte a casa.
-
-Pasaste la segunda línea alrededor de la fibra sin apretarla y dejaste una vuelta de cinta como referencia visible desde abajo. Floja. Sin nudo de carga.
-
-Fotografiaste la nervadura, el entrante y la separación entre ambos.
-
-Intentaste medir el hueco desde tu posición. La cifra cambiaba demasiado con el ángulo.
-
-No la escribiste.
-
-En su lugar dejaste dos líneas:
-
-**POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.**
-
-**NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.**
-
-El tono agudo llegó amortiguado desde lejos.
-
-Después el grave.
-
-La niebla cerró la plataforma durante unos segundos. Bajo las botas no hubo vibración ni golpes profundos.
-
-La rodilla empezó a endurecerse.
-
-Esa sí era una señal que entendías.
-
-Guardaste la cámara.
-
-La cinta quedó donde la habías puesto: una referencia, no una promesa.
-
----
-
-En el regreso, la plataforma apareció un instante por encima de las raíces.
-
-Desde allí seguía pareciendo lejana e incompleta. Nada en aquella vista revelaba la nervadura más expuesta, el pequeño entrante oscuro ni el hueco que desde abajo se negaba a darte una medida limpia.
-
-La estructura de tres brazos sonó dos veces mientras pasabas.
-
-No te detuviste.
-
-En el canal de raíces paralelas usaste otra vez la alternativa superior.
-
-La cápsula apareció entre la niebla con la lámina del colector todavía firme.
-
-Dentro repetiste el orden de siempre hasta poder quitarte el casco.
-
-La rodilla estaba rígida, no inflamada.
-
-Bebiste agua terrestre y comiste la media ración que quedaba separada.
-
-Ocho paquetes completos.
-
-En la pantalla grande alineaste las fotografías de la parte inferior de la plataforma.
-
-La franja de nervadura seguía siendo distinta incluso después de encajar las referencias cercanas.
-
-No sabías qué había cambiado.
+La corteza.
 
 La raíz.
 
 La estructura.
 
-La relación entre ambas.
+Escribiste:
 
-Apagaste la imagen.
+**NERVADURA MÁS EXPUESTA ENTRE REGISTROS. MECANISMO NO DETERMINADO.**
 
-Por primera vez no tenías que decidir si el borde era alcanzable.
+Por encima había además un pequeño entrante oscuro, de unos siete centímetros, parcialmente oculto por crecimiento.
 
-Tenías que decidir qué prueba permitiría acercarte sin convertirte a ti mismo en el peso de ensayo.
+Podía ser unión.
+
+Desgaste.
+
+Rotura.
+
+No metiste los dedos.
+
+---
+
+La fibra gruesa próxima a la nervadura parecía capaz de sostenerte.
+
+A simple vista.
+
+Eso no significaba nada.
+
+La probaste primero con la mano y después con una línea y una herramienta suspendida.
+
+Flexionó unos milímetros y quedó estable.
+
+La prueba demostraba que podía sostener una herramienta durante ese tiempo.
+
+Nada más.
+
+No subiste.
+
+Dejaste una vuelta floja de cinta como referencia visual y fotografiaste la separación entre fibra y nervadura.
+
+**POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.**
+
+**NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.**
+
+Volviste a la cápsula y comiste la mitad que quedaba abierta.
+
+Ocho raciones completas.
+
+La siguiente prueba no usaría tu cuerpo como peso.
+
+---
+
+Construiste una carga con piezas de la cápsula que ya no tenían función: revestimientos deformados, cierres inútiles y una carcasa metálica del sistema de impacto.
+
+Las envolviste en malla del paracaídas y las aseguraste con línea.
+
+El conjunto pesaba varias veces más que la herramienta y seguía muy por debajo de tu masa con traje.
+
+Era un escalón de prueba.
+
+Lo arrastraste hasta la plataforma.
+
+El viaje fue lento porque cada paso debía ser seguro para ti y también dejar una trayectoria por la que la masa pudiera pasar sin tirarte desde atrás.
+
+En el canal de raíces paralelas cruzaste primero y pasaste el paquete por separado.
+
+La rodilla se calentó, pero siguió aceptando carga.
+
+---
+
+Bajo la plataforma, la cinta de referencia continuaba donde la habías dejado.
+
+Montaste el ensayo desde una posición que permitía perder el paquete sin perderte con él.
+
+Pasaste una línea alrededor de la fibra gruesa y bajaste la masa hasta dejarla suspendida unos centímetros por debajo de la rama.
+
+La fibra flexionó.
+
+Esperaste.
+
+Cinco segundos.
+
+Diez.
+
+Treinta.
+
+Quedó estable.
+
+Desplazaste después el punto de suspensión unos centímetros hacia un extremo para empeorar el brazo de palanca.
+
+Volvió a flexionar.
+
+Volvió a estabilizarse.
+
+Eso seguía sin demostrar capacidad para carga humana.
+
+Entonces llegó el primer golpe profundo.
+
+La presión subió por las botas.
+
+El paquete osciló.
+
+La fibra cambió de tensión.
+
+La masa subió ligeramente.
+
+Segundo golpe.
+
+La referencia se desplazó otros pocos centímetros respecto a una mancha pálida del fondo.
+
+Dos o tres.
+
+Quizá menos.
+
+La niebla y el ángulo no permitían una cifra mejor.
+
+La nervadura oscura no mostró movimiento apreciable.
+
+Esperaste.
+
+La fibra mantuvo la nueva tensión y después cedió muy despacio. No pudiste demostrar que regresara exactamente a su posición inicial.
+
+Había sostenido la carga.
+
+También había cambiado mientras la sostenía.
+
+La pregunta ya no era solo cuánto peso aguantaba.
+
+Era cuánto podía moverse mientras dependieras de ella.
+
+---
+
+No repetiste el ensayo.
+
+Recuperaste el paquete y retiraste la línea de carga. La vuelta floja de cinta quedó como referencia.
+
+Escribiste:
+
+**FIBRA: CARGA INTERMEDIA SOSTENIDA SIN ROTURA OBSERVADA.**
+
+**CAMBIO DE LONGITUD/TENSIÓN COINCIDENTE CON GOLPES PROFUNDOS. MAGNITUD PEQUEÑA. CAUSA NO DETERMINADA.**
+
+Una estructura que soportaba peso no se volvía segura por eso.
+
+El regreso castigó la rodilla más que la ida. En una estrechez necesitó dos intentos para aceptar el peso al levantarte, sin dolor agudo ni inflamación nueva.
+
+Dentro limpiaste también el paquete antes de cruzarlo a la zona limpia.
+
+Abriste una de las ocho raciones, comiste la mitad fría y sellaste la otra.
+
+Quedaban siete completas y una mitad segura.
+
+En la pantalla, la fibra seguía congelada bajo carga.
+
+Habías ido a comprobar cuánto podía sostener.
+
+Volviste sabiendo que sostener no era lo mismo que quedarse quieta.
