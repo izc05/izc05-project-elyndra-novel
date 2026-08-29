@@ -12,17 +12,15 @@ La plataforma podía esperar.
 
 La fibra también.
 
-Habías vuelto de allí con una respuesta útil: soportar una carga no significaba permanecer quieta bajo ella. No necesitabas otra variación del mismo ensayo para demostrar que todavía no tenías una vía segura.
+Habías vuelto de allí sabiendo que una cosa podía soportar peso y seguir siendo un mal apoyo.
 
 Volviste a sentarte.
 
-El paquete de prueba seguía desmontado junto a la zona de entrada, limpio pero sin regresar todavía al compartimento bajo el asiento. Las placas deformadas parecían más absurdas dentro de la cápsula que colgando bajo la plataforma.
+El paquete de prueba seguía desmontado junto a la zona de entrada, limpio pero todavía fuera del compartimento bajo el asiento. Las placas deformadas parecían más absurdas dentro de la cápsula que colgando bajo la plataforma.
 
 Abriste el mapa.
 
-No para buscar otra ruta.
-
-Para encontrar una salida que no exigiera demostrar nada.
+Buscaste un lugar conocido.
 
 ---
 
@@ -32,7 +30,7 @@ La reconociste por la lluvia.
 
 El visor de aquel día temblaba más. No por el viento. Por cómo movías la cabeza.
 
-La cápsula desaparecía detrás de la curva. Volvía a aparecer cuando retrocedías. Después otra vez la curva, las membranas, el primer estrechamiento y una extensión de raíces que todavía no tenían nombres en tu mapa.
+La cápsula desaparecía detrás de la curva, volvía a aparecer cuando retrocedías y desaparecía otra vez. Después venían las membranas, el primer estrechamiento y una extensión de raíces que entonces todavía no tenían nombres en tu mapa.
 
 Seguiste avanzando el vídeo.
 
@@ -54,35 +52,23 @@ Habías caminado hacia ellos durante casi media hora.
 
 No encontraste nada.
 
-Después llegaron la niebla, las depresiones, los golpes bajo las raíces y la bifurcación. Los destellos quedaron enterrados bajo problemas más próximos.
+Después llegaron las depresiones, los golpes bajo las raíces y la bifurcación. Otras preguntas ocuparon su sitio.
 
 Reprodujiste el fragmento otra vez.
 
-Esta vez no miraste la luz.
+Esta vez miraste los bordes.
 
-Miraste alrededor.
+En el izquierdo aparecía una raíz partida que entonces no habías reconocido. Más abajo, durante menos de un segundo, se veía la curva de otra raíz cuya forma coincidía con el acceso previo al canal de raíces paralelas.
 
-En el borde izquierdo de la imagen aparecía una raíz partida que entonces no habías reconocido. Ahora sí. Más abajo, durante menos de un segundo, se veía la curva de otra raíz cuya forma coincidía con el acceso previo al canal de raíces paralelas.
+Congelaste la imagen y abriste el mapa actual al lado.
 
-Congelaste la imagen.
+La geometría no servía para triangular nada. La niebla y el zoom habían deformado demasiado las distancias durante aquel primer día.
 
-Abriste el mapa actual al lado.
+Pero la dirección general quedaba fuera de la plataforma y de la bóveda ascendente.
 
-La geometría no encajaba con precisión suficiente para triangular nada. La niebla y el zoom habían deformado distancias durante todo el primer día.
+Más allá de la primera ruta había un sector casi vacío.
 
-Pero sí permitían excluir una cosa.
-
-Los destellos no estaban en la dirección de la plataforma.
-
-Tampoco de la bóveda ascendente.
-
-Habían aparecido más allá de la primera ruta, hacia un sector que seguía casi vacío en el mapa.
-
-El primer día aquello había parecido una dirección.
-
-Veintisiete capítulos después seguía siéndolo.
-
-Solo que ahora sabías cuánto podía costar confundir dirección con camino.
+Cerraste el vídeo.
 
 ---
 
@@ -94,33 +80,23 @@ Ni muestras.
 
 Cámara, agua terrestre, botiquín reducido y la herramienta multipropósito.
 
-El objetivo era volver al punto desde el que habías visto los destellos y mirar.
-
-Nada más.
-
-El filtro instalado todavía conservaba margen. La ruta era la que menos necesitabas pensar. La rodilla podía hacerla si no te empeñabas en convertir una observación en una expedición.
+El filtro instalado todavía conservaba margen. La rodilla podía hacer aquella ruta si no la obligabas a demostrar más de la cuenta.
 
 El casco cerró al segundo intento.
 
-No por avería.
-
-Habías dejado una tira del cuello térmico doblada bajo la junta.
-
-La sacaste, repetiste el cierre y esperaste a que la presión se estabilizara.
+Una tira del cuello térmico había quedado doblada bajo la junta. La sacaste, repetiste el cierre y esperaste a que la presión se estabilizara.
 
 Fuera no llovía.
 
-La raíz estaba húmeda de la noche anterior y las cavidades más profundas conservaban agua. El colector permanecía en su ángulo junto a la cápsula. La bolsa de reserva experimental quedó dentro.
+La raíz estaba húmeda de la noche anterior y las cavidades profundas conservaban agua. El colector permanecía en su ángulo junto a la cápsula. La bolsa de reserva experimental quedó dentro.
 
 Bajaste primero con la pierna izquierda.
 
 La derecha después.
 
-Durante los primeros metros caminaste despacio, no porque la ruta fuera difícil, sino porque el cuerpo todavía recordaba el paquete que había arrastrado el día anterior.
+Durante los primeros metros caminaste despacio. El cuerpo todavía esperaba el tirón del paquete de carga detrás de ti.
 
-No había nada detrás de ti.
-
-Tardaste en dejar de esperar el tirón de la línea.
+No había nada.
 
 ---
 
@@ -128,57 +104,49 @@ El canal de raíces paralelas apareció con la niebla pegada al nivel inferior.
 
 La raíz desplazada seguía unos centímetros más baja.
 
-Ni siquiera la miraste para calcular un apoyo.
+No calculaste el apoyo antiguo.
 
-Mano en la línea.
+Mano arriba.
 
-Pie izquierdo arriba.
+Pie izquierdo.
 
 Derecho casi recto.
 
 Peso al otro lado.
 
-El movimiento salió entero antes de que terminaras de pensarlo.
+Terminaste el movimiento antes de pensar en él.
 
-Solo después te diste cuenta.
-
-No habías comprobado dónde poner el pie antiguo porque ya no existía como opción en tu cabeza.
-
-La alternativa superior no era nueva.
-
-Era el camino.
+La alternativa superior ya no parecía una alternativa.
 
 Seguiste.
 
-Cerca de la zona de las depresiones redujiste el paso por costumbre. Las tres grandes seguían allí. Una conservaba una película fina de agua. Las otras dos estaban casi secas. Los arañazos paralelos no mostraban una diferencia evidente desde arriba.
+Cerca de las depresiones redujiste el paso por costumbre. Las tres grandes seguían allí. Una conservaba una película fina de agua; las otras dos estaban casi secas. Los arañazos paralelos no mostraban una diferencia evidente desde arriba.
 
-La depresión pequeña también seguía donde la habías registrado.
+La depresión pequeña seguía donde la habías registrado.
 
 No sacaste la cámara.
-
-No todo regreso necesitaba convertirse en comparación.
 
 ---
 
 Reconociste el punto de observación por una protuberancia de corteza que en la primera grabación habías usado para apoyar la mano.
 
-Entonces te había parecido un lugar cualquiera.
+Entonces había sido un saliente cualquiera.
 
-Ahora podías llegar hasta él sin mirar el mapa.
+Ahora llegabas hasta él sin mirar el mapa.
 
 La niebla estaba más baja que aquel día.
 
-Por encima se abrían varios cientos de metros de paisaje suspendido.
+Por encima se abrían varios cientos de metros de paisaje suspendido. Raíces anchas cruzaban de un banco de nube a otro. Algunas sostenían vegetación oscura; otras aparecían desnudas durante tramos largos antes de perderse detrás de masas de filamentos.
 
-Raíces anchas cruzaban de un banco de nube a otro. Algunas sostenían vegetación oscura. Otras aparecían desnudas durante tramos largos y desaparecían detrás de masas de filamentos. A la derecha, mucho más lejos, una cascada caía desde una raíz superior y se deshacía antes de alcanzar la siguiente capa.
+A la derecha, mucho más lejos, una cascada caía desde una raíz superior y se deshacía antes de alcanzar la siguiente capa.
 
 La antigua columna de vapor no estaba.
 
-Buscaste la zona aproximada de los destellos.
+Buscaste los destellos.
 
 Nada.
 
-Ajustaste el zoom un nivel.
+Aumentaste el zoom un nivel.
 
 El paisaje perdió profundidad y ganó falsos bordes.
 
@@ -190,55 +158,43 @@ Esperaste.
 
 A los doce minutos empezaste a sentir frío en los dedos del pie derecho.
 
-Moviste los dedos dentro de la bota.
+Los moviste dentro de la bota.
 
 A los diecinueve, una membrana del borde se tensó.
 
 Te inclinaste antes de que llegara la ráfaga.
 
-La lluvia no apareció.
-
 A los veintisiete, una nube alta dejó pasar una franja de luz.
 
-La claridad avanzó por el paisaje como una pared lenta.
-
-No iluminó todo a la vez.
+La claridad avanzó por el paisaje sin iluminarlo todo a la vez.
 
 Primero una raíz superior.
 
 Después un grupo de filamentos.
 
-Luego la cascada lejana.
+Luego la cascada.
 
 El agua se volvió blanca durante menos de un segundo.
 
-El destello te hizo apartar la vista.
+Apartaste la vista.
 
-Cuando miraste de nuevo ya había desaparecido.
-
-No estaba exactamente donde recordabas los tres del primer día.
-
-Estaba cerca.
-
-Muy cerca.
+Cuando miraste de nuevo, el brillo había desaparecido.
 
 Activaste la grabación.
 
 La franja de luz siguió desplazándose.
 
-La cascada reapareció entre dos ramas y volvió a encenderse, esta vez más abajo. El viento estaba empujando la caída hacia un lado. El punto brillante descendía con el agua antes de perder el ángulo.
+La cascada reapareció entre dos ramas y volvió a encenderse, esta vez más abajo. El viento empujaba la caída hacia un lado; el punto brillante descendía con el agua antes de perder el ángulo.
 
-Esperaste una tercera vez.
+Esperaste.
 
-Llegó cuarenta segundos después.
+Cuarenta segundos después ocurrió otra vez.
 
-Más abajo otra vez.
+Más abajo.
 
-Tres reflejos.
+Tres reflejos en posiciones distintas de la misma caída.
 
-Tres posiciones ligeramente distintas.
-
-Cerraste los ojos un momento y recordaste la primera grabación sin abrirla.
+Recordaste la grabación del primer día.
 
 Uno.
 
@@ -248,57 +204,39 @@ Otro más abajo.
 
 Luego un tercero.
 
-No era una prueba.
-
-Pero por primera vez tenías una explicación que no necesitaba nada imposible.
+Mantuviste la cámara fija hasta que la franja de luz abandonó la cascada.
 
 ---
 
-La cascada no nacía en el vacío.
+Con el ángulo correcto se veía parte del recorrido hacia arriba.
 
-Con la luz correcta podías seguir parte de su recorrido hacia arriba.
-
-El agua salía de una superficie amplia, casi horizontal, cubierta por vegetación baja. No era la plataforma. La forma no tenía bordes regulares y se curvaba como las raíces grandes de alrededor.
+El agua salía de una superficie amplia, casi horizontal, cubierta por vegetación baja. No tenía bordes regulares y se curvaba como las raíces grandes de alrededor.
 
 Una raíz ancha llegaba hasta ella desde la izquierda.
 
 Otra aparecía por debajo y desaparecía dentro de la niebla antes de tocarla.
 
-A simple vista parecían conectadas.
+Desde allí parecían conectadas.
 
-A simple vista ya habías aprendido a no conceder nada.
-
-Tomaste una fotografía sin zoom y otra con dos referencias cercanas de tu propia ruta dentro del encuadre.
+Tomaste una fotografía sin zoom y otra con dos referencias de tu propia ruta dentro del encuadre.
 
 Después bajaste la cámara.
 
-La pregunta útil no era si habías resuelto los destellos.
+Caminaste quince metros más allá del mirador.
 
-Era si aquella caída de agua te permitía reconocer un lugar desde más de un punto.
+La raíz comenzaba a descender y la vegetación ganaba altura en el lado exterior. Desde esa posición volviste a encontrar la cascada entre dos aberturas distintas.
 
-Eso sí podía convertirse en camino algún día.
+El ángulo había cambiado.
 
----
-
-Caminaste solo quince metros más allá del observatorio.
-
-La raíz comenzaba a descender y la vegetación ganaba altura en el lado exterior. A esa distancia pudiste ver la cascada entre dos aberturas distintas.
-
-El ángulo cambió.
-
-La caída siguió allí.
+La caída seguía allí.
 
 Tomaste una segunda referencia.
 
-Quince metros no daban una triangulación buena a aquella distancia, pero bastaban para confirmar que no estabas siguiendo un defecto del visor ni un reflejo fijo del casco.
+La distancia era demasiado corta para una triangulación útil a aquella escala, pero suficiente para descartar un reflejo fijo del visor.
 
-La raíz bajo tus botas continuaba hacia la bifurcación.
+La cascada quedaba fuera de las tres ramas ya exploradas.
 
-La cascada quedaba fuera de cualquiera de las tres ramas ya exploradas.
-
-Para alcanzarla necesitarías descubrir dónde se separaba la red que llevaba hacia aquel sector, o descender a un nivel desde el que la geometría dejara de ocultarse.
-
-No ibas a hacerlo con la rodilla todavía caliente del día anterior.
+No viste un camino hasta ella.
 
 Guardaste la cámara.
 
@@ -306,39 +244,23 @@ Una membrana se tensó a tu izquierda.
 
 Te agachaste.
 
-El viento llegó.
+El viento llegó después.
 
-Esta vez sonreíste dentro del casco cuando te diste cuenta de que ya estabas abajo antes de mirar las láminas.
-
-No porque Elyndran fuera seguro.
-
-Porque algunas cosas ya no necesitaban sorprenderte para que las obedecieras.
+Cuando te incorporaste advertiste que no habías mirado la lámina antes de bajar el cuerpo.
 
 ---
 
 La luz desapareció antes de que emprendieras el regreso.
 
-La cascada volvió a ser una línea gris.
+La cascada volvió a ser una línea gris y durante unos minutos dejó de verse por completo.
 
-Durante unos minutos dejó de verse por completo.
+Conservabas dos fotografías con referencias de la ruta inmediata y una grabación de los reflejos bajo el cambio de luz.
 
-No importó.
+El primer día habías caminado hacia tres destellos.
 
-Ya tenías dos fotografías con referencias de la ruta inmediata y una grabación de los reflejos bajo el cambio de luz.
+Ahora tenías agua en movimiento, una dirección y un sector del mapa todavía vacío.
 
-El primer día habías perseguido tres destellos porque podían ser cualquier cosa.
-
-Ahora te bastaba con que fueran agua.
-
-Agua que no beberías.
-
-Una raíz que no habías pisado.
-
-Un sector del mapa que seguía vacío.
-
-Era menos espectacular.
-
-Era más útil.
+No necesitabas más para volver.
 
 ---
 
@@ -346,57 +268,47 @@ La rodilla se endureció a mitad del regreso.
 
 Te sentaste antes del canal de raíces paralelas y bebiste dos tragos de agua terrestre.
 
-No abriste ningún registro mientras esperabas.
-
 Debajo de la niebla sonó un golpe profundo.
 
 Solo uno.
 
-Las membranas cercanas no cambiaron de forma de manera que pudieras distinguir.
+Las membranas cercanas no cambiaron de una forma que pudieras distinguir.
 
 Esperaste otro.
 
 No llegó.
 
-Te levantaste cuando la rodilla aceptó carga otra vez y cruzaste por la alternativa superior.
+Te levantaste cuando la rodilla aceptó carga otra vez y cruzaste por la ruta superior.
 
 La cápsula apareció veintisiete pasos después de la curva donde desaparecía siempre.
 
-No necesitaste contarlos.
+No necesitabas contarlos.
 
-Los contaste de todos modos.
+Los contaste.
 
 ---
 
 Dentro repetiste la limpieza y la recirculación sin prisa.
 
-El filtro había consumido menos que en una salida equivalente a la bóveda. No era una medición nueva suficiente para cambiar ninguna regla.
+El filtro había acumulado menos carga que en una salida equivalente a la bóveda, aunque las condiciones no permitían convertirlo en una regla nueva.
 
 La bolsa de lluvia tratada seguía separada.
 
-El receptor seguía abierto.
+El receptor continuaba abierto.
 
 Sin aviso nuevo.
 
 Cuando pudiste quitarte el casco, abriste el vídeo del primer día junto al de aquella mañana.
 
-Los tres destellos antiguos aparecían en una zona compatible con la cascada dentro del error enorme de aquella primera grabación.
-
-La secuencia de posiciones también era compatible con una caída de agua movida por viento mientras cambiaba el ángulo de iluminación.
-
-Compatible.
-
-No idéntica.
+Los tres destellos antiguos caían en una zona compatible con la cascada dentro del error enorme de aquella primera grabación. La secuencia de posiciones también podía producirla una caída de agua movida por viento mientras cambiaba el ángulo de iluminación.
 
 Escribiste:
 
 **DESTELLOS DEL PRIMER DÍA: REFLEJO EN AGUA EN MOVIMIENTO, EXPLICACIÓN PLAUSIBLE. IDENTIDAD DE FUENTE NO DEMOSTRADA.**
 
-Después añadiste una referencia al mapa.
+Añadiste una referencia al mapa.
 
-No un destino.
-
-Un sector.
+Un sector, no un destino.
 
 ---
 
@@ -406,15 +318,9 @@ Siete paquetes completos.
 
 Esta vez moviste la marca del armario.
 
-El sonido del plástico contra la pared fue pequeño.
+El plástico raspó la pared.
 
-Más pequeño que una baliza.
-
-Más pequeño que un golpe bajo las raíces.
-
-Pero no necesitabas interpretar nada para entenderlo.
-
-Volviste a mirar el mapa.
+Volviste al mapa.
 
 La plataforma seguía allí.
 
@@ -424,10 +330,6 @@ Los discos.
 
 La estructura de tres brazos.
 
-Y ahora, en un espacio que hasta esa mañana había sido blanco, una línea fina marcaba la dirección de una cascada que quizá ya habías visto el primer día.
+Y, en un espacio que hasta esa mañana había sido blanco, una línea fina señalaba la dirección de una cascada que quizá ya habías visto el primer día.
 
-No habías encontrado una salida.
-
-Habías recuperado una pregunta vieja y conseguido que fuera un poco más pequeña.
-
-Por esa noche bastaba.
+Apagaste la pantalla.
