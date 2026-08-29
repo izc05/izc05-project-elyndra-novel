@@ -228,7 +228,7 @@ No había atajos pequeños cuando la consecuencia podía quedarse dentro contigo
 
 La lluvia continuó débil durante casi una hora.
 
-El colector volvió a producir un hilo limpio de contacto con la raíz.
+El colector volvió a producir un hilo limpio, sin contacto con la raíz.
 
 No recogiste el primer volumen.
 
@@ -316,9 +316,7 @@ No abriste el búfer.
 
 Al anochecer la lluvia paró.
 
-Saliste solo con la cámara exterior.
-
-No con el traje.
+Volviste a la cámara exterior, no al traje.
 
 Desde dentro comprobaste el colector una vez más.
 
@@ -348,6 +346,6 @@ Apagaste la luz principal.
 
 Fuera, el colector quedó esperando una lluvia que ya no estaba.
 
-Por primera vez entendiste que conservar agua no empezaba cuando llenabas un recipiente.
+Conservar agua no empezaba cuando llenabas un recipiente.
 
 Empezaba mucho antes, en todo lo que no podías permitir que tocara.
