@@ -1,20 +1,20 @@
 # Capítulo XV — Lo que entra contigo
 
-A la mañana siguiente no abriste la escotilla.
+A la mañana siguiente no abrí la escotilla.
 
-Quitaste la rejilla de retorno del sistema ambiental.
+Quité la rejilla de retorno del sistema ambiental.
 
 Detrás había un prefiltro plegado del tamaño de una mano abierta. La cara orientada hacia la cabina tenía polvo claro, fibras textiles y restos del asiento roto.
 
 La zona próxima al conducto era más oscura.
 
-Lo fotografiaste antes de retirarlo.
+Lo fotografié antes de retirarlo.
 
 La fecha de servicio era anterior a la caída.
 
 Eso impedía usarlo como prueba limpia: Aster había movido durante años aire humano por aquellos conductos.
 
-Aun así tomaste una muestra de la zona oscura.
+Aun así tomé una muestra de la zona oscura.
 
 Bajo la lente aparecieron polvo, fibras, pintura, partículas metálicas y algunos fragmentos translúcidos semejantes a los atrapados por el filtro exterior.
 
@@ -30,25 +30,25 @@ No permitió emparejarlo con el filtro del casco.
 
 Tampoco separarlo con claridad.
 
-Escribiste:
+Escribí:
 
 **PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.**
 
-Eso era todo lo que podías defender.
+Eso era todo lo que podía defender.
 
 ---
 
-No necesitabas el microscopio para otra cosa.
+No necesitaba el microscopio para otra cosa.
 
-Habías visto barro en las botas, polvo en las juntas y fibras enganchadas a la mochila.
+Había visto barro en las botas, polvo en las juntas y fibras enganchadas a la mochila.
 
-Tomaste una muestra de aire interior antes de instalar un prefiltro limpio. Después cerraste la rejilla y activaste la recirculación alta.
+Tomé una muestra de aire interior antes de instalar un prefiltro limpio. Después cerré la rejilla y activé la recirculación alta.
 
 El contador de partículas descendió.
 
 No a cero.
 
-Buscaste los registros de los primeros días.
+Busqué los registros de los primeros días.
 
 El patrón ya estaba allí:
 
@@ -62,17 +62,17 @@ Otra apertura.
 
 Otro pico.
 
-No podías separar qué parte procedía de Elyndran y cuál levantabas tú dentro de una cápsula accidentada.
+No podía separar qué parte procedía de Elyndran y cuál levantaba yo dentro de una cápsula accidentada.
 
-Pero sí podías cambiar la manera de entrar.
+Pero sí podía cambiar la manera de entrar.
 
 ---
 
 La nueva organización ocupó menos de un metro cuadrado.
 
-Cerca de la escotilla dejaste paños, residuos y un soporte para el casco. Al otro lado quedaron agua, analizador, comida y descanso.
+Cerca de la escotilla dejé paños, residuos y un soporte para el casco. Al otro lado quedaron agua, analizador, comida y descanso.
 
-Pegaste una línea de cinta en el suelo.
+Pegué una línea de cinta en el suelo.
 
 No sellaba nada.
 
@@ -92,25 +92,25 @@ Esperar.
 
 Casco al soporte.
 
-La segunda vez que ensayaste el regreso dejaste de recitarlo.
+La segunda vez que ensayé el regreso dejé de recitarlo.
 
-Tu mano fue sola a la caja de paños.
+Mi mano fue sola a la caja de paños.
 
 ---
 
-Al mediodía comiste media ración.
+Al mediodía comí media ración.
 
 El módulo térmico falló a mitad del ciclo y dejó la comida tibia por un lado y fría por el otro.
 
-Te la terminaste igual.
+Me la terminé igual.
 
-La niebla estaba alta. Podías haber salido.
+La niebla estaba alta. Podía haber salido.
 
-No lo hiciste.
+No lo hice.
 
-Habías pasado la mañana recorriendo la distancia entre la escotilla y el lugar donde dormías.
+Había pasado la mañana recorriendo la distancia entre la escotilla y el lugar donde dormía.
 
-Por la tarde sellaste el prefiltro viejo como referencia y escribiste dos líneas:
+Por la tarde sellé el prefiltro viejo como referencia y escribí dos líneas:
 
 **LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.**
 
@@ -124,7 +124,7 @@ Fuera, las membranas se tensaron antes de una ráfaga.
 
 Dentro, la línea de cinta ya tenía una mancha oscura de la suela.
 
-La limpiaste.
+La limpié.
 
 No era una esclusa.
 
