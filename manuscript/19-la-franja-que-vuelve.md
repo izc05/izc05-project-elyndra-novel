@@ -4,7 +4,7 @@ La marca del armario no se había movido.
 
 Las raciones, sí.
 
-Comiste media barra fría mientras abrías la fotografía de la placa cobriza observada en XIII.
+Comí media barra fría mientras abría la fotografía de la placa cobriza observada en XIII.
 
 Borde roto.
 
@@ -14,25 +14,25 @@ Dos manchas de humedad.
 
 Y, en el reverso, la franja clara donde la criatura había retirado película oscura.
 
-La habías marcado.
+La había marcado.
 
-No habías vuelto.
+No había vuelto.
 
 Hasta ese día.
 
 ---
 
-Dejaste el analizador y los recipientes de muestra en la cápsula.
+Dejé el analizador y los recipientes de muestra en la cápsula.
 
-Llevaste cámara, regla, linterna y agua terrestre.
+Llevé cámara, regla, linterna y agua terrestre.
 
 Nada más.
 
-La bóveda volvió a cargar el filtro con mayor rapidez. Las partículas aparecieron cuando cruzaste la linterna de lado.
+La bóveda volvió a cargar el filtro con mayor rapidez. Las partículas aparecieron cuando crucé la linterna de lado.
 
-No te detuviste.
+No me detuve.
 
-Buscaste el borde roto.
+Busqué el borde roto.
 
 La tercera placa era la correcta.
 
@@ -42,7 +42,7 @@ Misma geometría.
 
 Una de las manchas casi seca.
 
-Pasaste la luz por debajo.
+Pasé la luz por debajo.
 
 La franja seguía allí.
 
@@ -60,7 +60,7 @@ Más en otros.
 
 El centro seguía claro, sobre todo cerca del punto donde había empezado el contacto de la criatura.
 
-Repetiste el encuadre hasta alinear borde y nervadura. Acercaste la regla sin tocar la superficie.
+Repetí el encuadre hasta alinear borde y nervadura. Acerqué la regla sin tocar la superficie.
 
 En un extremo la franja mantenía casi el ancho antiguo.
 
@@ -74,31 +74,31 @@ Depósito.
 
 Una diferencia de humedad.
 
-Cambiaste el ángulo de la linterna y la apariencia varió lo suficiente para recordarte que no todas las diferencias eran físicas.
+Cambié el ángulo de la linterna y la apariencia varió lo suficiente para recordarme que no todas las diferencias eran físicas.
 
-No cortaste nada.
+No corté nada.
 
-No gastaste reactivo.
+No gasté reactivo.
 
-Fotografiaste.
+Fotografié.
 
 ---
 
-Esperaste veintisiete minutos sin que apareciera ninguna criatura.
+Esperé veintisiete minutos sin que apareciera ninguna criatura.
 
 El filtro siguió cargándose y la rodilla empezó a endurecerse.
 
-En el regreso viste otra placa con tres líneas claras muy juntas.
+En el regreso vi otra placa con tres líneas claras muy juntas.
 
-No tenías imagen anterior de ese punto.
+No tenía imagen anterior de ese punto.
 
-La fotografiaste y seguiste.
+La fotografié y seguí.
 
 Una observación sin comparación no podía demostrar cambio.
 
 ---
 
-Dentro de la cápsula alineaste las fotografías por el borde roto, la nervadura y las manchas de humedad.
+Dentro de la cápsula alineé las fotografías por el borde roto, la nervadura y las manchas de humedad.
 
 Solo tres segmentos permitían una comparación razonable.
 
@@ -106,17 +106,17 @@ En esos tres, la película oscura ocupaba superficie que antes estaba despejada.
 
 En otros puntos, el ángulo o la humedad bastaban para explicar la diferencia.
 
-Separaste ambos grupos.
+Separé ambos grupos.
 
-Escribiste:
+Escribí:
 
 **COBERTURA OSCURA PARCIALMENTE RESTABLECIDA ENTRE REGISTROS.**
 
 **MECANISMO NO DETERMINADO.**
 
-No escribiste *crecimiento*.
+No escribí *crecimiento*.
 
-Abriste el análisis de XIII.
+Abrí el análisis de XIII.
 
 Cadenas orgánicas complejas.
 
@@ -126,25 +126,25 @@ Compatibilidad humana no determinada.
 
 Nada nuevo.
 
-Lo cerraste.
+Lo cerré.
 
 La película había vuelto a ocupar parte de un espacio.
 
-No sabías cómo.
+No sabía cómo.
 
 Ni si lo haría otra vez.
 
-Antes de cenar preparaste una referencia con los tres puntos comparables y la dejaste junto al mapa.
+Antes de cenar preparé una referencia con los tres puntos comparables y la dejé junto al mapa.
 
 Fuera, un golpe profundo llegó desde niveles inferiores.
 
 Solo uno.
 
-Esperaste el segundo.
+Esperé el segundo.
 
 No llegó.
 
-Comiste la otra mitad de la ración mirando la fotografía.
+Comí la otra mitad de la ración mirando la fotografía.
 
 La pregunta seguía allí.
 
