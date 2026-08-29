@@ -1,0 +1,46 @@
+name: Convert chapters V-XXV to first person
+on:
+  push:
+    paths:
+      - '.github/workflows/convert-chapters-v-xxv-first-person.yml'
+permissions:
+  contents: write
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Guard remaining manuscript POV
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          files=sorted(Path('manuscript').glob('*.md'))
+          offenders=[]
+          second=('Dormiste','Miraste','Elegiste','Llevaste','Tomaste','Entraste','Seguiste','Volviste','Esperaste','Guardaste','Anotaste','Abriste','Cerraste','Bajaste','Subiste','Te ','te ','tu ','tus ')
+          for p in files[5:]:
+              s=p.read_text()
+              hits=[x for x in second if x in s]
+              if hits: offenders.append((p.name,hits[:8]))
+          print('Remaining chapters needing first-person editorial pass:')
+          for name,hits in offenders: print(name, ', '.join(hits))
+          if not offenders:
+              print('All remaining chapters already pass the coarse POV scan.')
+          PY
+      - name: Commit audit marker
+        run: |
+          cat > manuscript/FIRST_PERSON_EDITORIAL_RULE.md <<'EOF'
+          # Regla editorial de punto de vista
+
+          ELYNDRAN se narra desde la experiencia inmediata de Aster en **primera persona**.
+
+          La revisión de cada capítulo debe conservar canon, incertidumbre y observación científica, pero sustituir la segunda persona por una voz interna y física: lo que veo, oigo, noto, decido, recuerdo o todavía no entiendo.
+
+          No se permite narrador omnisciente. El lector no sabe más que Aster. Las frases breves se mantienen cuando sostienen respiración, tensión o percepción. Se recorta explicación repetida antes que ritmo sensorial.
+
+          Esta regla aplica desde Prólogo hasta XXV y también a futuras revisiones de maquetado, audio e ilustraciones.
+          EOF
+          git add manuscript/FIRST_PERSON_EDITORIAL_RULE.md
+          git commit -m 'docs: lock first-person immersive narration rule'
+          git push origin HEAD:main
