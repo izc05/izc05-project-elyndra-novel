@@ -2,304 +2,202 @@
 
 La rodilla decidió por ti.
 
-Al levantarte del banco, la derecha tardó demasiado en estirarse.
+Aquella mañana no preparaste el traje.
 
-No hubo chasquido ni dolor agudo. Solo una resistencia sorda detrás de la rótula y el recuerdo inmediato de los veintisiete minutos sentado sobre la raíz seca de la bóveda.
+Te quedaste dentro de la cápsula, con la pierna derecha estirada y el receptor de emergencia abierto en una pantalla secundaria.
 
-Volviste a sentarte.
+La baliza transmitió a su hora.
 
-Esperaste.
-
-La flexionaste una vez.
-
-Luego otra.
-
-La segunda llegó más lejos.
-
-No preparaste el traje.
-
----
-
-Pasaste la mañana dentro de los dos metros útiles de la cápsula.
-
-Cambiaste el paño de la zona de entrada. Revisaste la junta reparada. Limpiaste barro seco de una hebilla que llevaba tres días cerrando peor. Dejaste el módulo térmico apagado y comiste la primera mitad de la ración fría.
-
-La baliza transmitió mientras comprobabas el inventario de filtros.
-
-El pulso verde se encendió junto al panel.
-
-Duró lo de siempre.
-
-Se apagó.
+Potencia estable.
 
 Sin respuesta.
 
-Desde la reparación del convertidor, la línea de potencia ya no caía durante las transmisiones. Habías dejado de abrir la gráfica completa cada vez.
+Desplazaste el registro unos minutos hacia atrás casi por aburrimiento.
 
-Aquella mañana la abriste porque no ibas a ninguna parte.
+Y viste una elevación.
 
-Tres trazas ocuparon la pantalla: batería, convertidor, baliza.
-
-Estables.
-
-Desplazaste la ventana unos minutos hacia atrás.
-
-Debajo aparecía el receptor de emergencia, casi plano, guardando ruido.
-
-Había una elevación pequeña antes de la transmisión.
+Menos de dos segundos en una banda que llevaba horas pegada al ruido de fondo.
 
 Volviste atrás.
 
-La perdiste.
-
-Avanzaste más despacio.
-
-Allí estaba.
-
-Menos de dos segundos en una banda que llevaba horas sin apartarse del fondo.
-
-No era una portadora limpia.
-
-Tampoco uno de los picos internos que producía el convertidor al arrancar una carga.
-
-Ampliaste.
-
 Tres fragmentos.
 
-El primero muy corto.
+El primero corto. El segundo más ancho. El tercero deshecho en ruido.
 
-El segundo algo más ancho.
+Marcaste el inicio y comparaste con la transmisión posterior.
 
-El tercero terminado en ruido.
+Aproximadamente treinta y siete segundos.
 
-Miraste la hora.
+Abriste la captura dañada de la entrada atmosférica.
 
-Después la de la transmisión.
-
-Restaste.
-
-Volviste a hacerlo con la calculadora del panel.
-
-Treinta y siete segundos.
-
-No exactos al milisegundo.
-
-Lo bastante cerca para que apartaras la espalda de la pared.
-
----
-
-Abriste el registro de entrada atmosférica.
-
-No el resumen.
-
-La copia dañada.
-
-Tardó un instante en cargar desde el almacenamiento independiente.
-
-La banda violeta seguía ocupando media captura.
-
-Debajo del ruido sobrevivían los dos caracteres.
+Los dos caracteres seguían allí.
 
 **37**
 
 Cerraste la imagen.
 
-Volviste al receptor.
+No necesitabas convertir coincidencia en explicación.
 
-Marcaste el inicio de los fragmentos.
-
-Marcaste el comienzo de la transmisión automática.
-
-**−37,08 s**
-
-Borraste la cifra del campo de notas.
-
-Escribiste:
-
-**APROX. 37 s ANTES.**
-
-Después empezaste por la cápsula.
+Empezaste por la cápsula.
 
 ---
 
-El transmisor no figuraba activo.
+El transmisor no figuraba activo cuando aparecieron los fragmentos.
 
-El registro de corriente no mostraba el escalón de potencia de una emisión.
+El autodiagnóstico normal comenzaba doce segundos antes de emitir, no treinta y siete. El registro de corriente tampoco mostraba el escalón de una transmisión.
 
-El autodiagnóstico previo comenzaba doce segundos antes de transmitir, no treinta y siete.
+Comparaste relojes.
 
-Comparaste el reloj del receptor con el ambiental.
+Receptor.
+
+Controlador ambiental.
+
+Batería.
 
 Coincidían dentro del margen normal.
 
-El ambiental con el controlador de batería.
+Eso no descartaba un error compartido.
 
-También.
+Receptor y baliza vivían dentro de la misma carcasa golpeada, húmeda y reparada demasiadas veces.
 
-Podían compartir un error.
-
-La cápsula llevaba días golpeada, húmeda y reparada con piezas trabajando fuera de su vida prevista.
-
-Buscaste interferencias internas.
-
-Ventilador.
-
-Bomba.
-
-Recirculación.
-
-Carga del visor.
-
-Ninguna había cambiado de estado durante aquellos dos segundos.
-
-El módulo térmico estaba apagado.
-
-La baliza, todavía en espera.
-
-Guardaste una copia del fragmento.
-
-Luego abriste la forma de onda de la transmisión posterior.
-
-No eran iguales.
-
-El primer fragmento compartía una subida escalonada del encabezado de la baliza y una interrupción breve después del segundo escalón.
-
-Acercaste ambas curvas hasta que los píxeles empezaron a separarse.
-
-Volviste a alejarlas.
-
-Apartaste las manos del panel.
-
-La rodilla latía por la postura torcida.
-
-La estiraste sobre el suelo.
-
----
-
-La siguiente transmisión automática llegaría cuarenta y seis minutos después.
-
-No modificaste el mensaje.
-
-No cambiaste potencia.
-
-No intentaste provocar nada.
-
-Ordenaste al receptor conservar el búfer completo de los dos minutos anteriores y posteriores.
-
-Luego lavaste el recipiente de agua.
-
-Volviste a colocar dos filtros que ya habías contado por la mañana.
-
-Revisaste la mano izquierda.
-
-Mismo color que la derecha.
-
-Misma temperatura dentro del margen del sensor.
-
-No añadiste otra fotografía.
-
-A los veinte minutos miraste el reloj.
-
-Lo cerraste.
-
-A los treinta y nueve lo abriste de nuevo.
-
-Esta vez lo dejaste visible.
-
-El receptor siguió mostrando ruido.
-
-Faltaban cuarenta segundos.
-
-Treinta y nueve.
-
-Treinta y ocho.
-
-Te quedaste inmóvil.
-
-Treinta y siete.
-
-Nada.
-
-Treinta y seis.
-
-Nada.
-
-El autodiagnóstico empezó doce segundos antes, como debía.
-
-La corriente subió un poco.
-
-El transmisor abrió canal.
-
-La baliza envió su llamada.
-
-Potencia estable.
-
-Durante la emisión el receptor quedó silenciado y después volvió al fondo normal.
-
-Sin respuesta.
+La forma de onda no era idéntica al encabezado posterior, pero compartía una subida escalonada y una interrupción breve.
 
 Guardaste el búfer.
 
----
+La siguiente transmisión llegó cuarenta y seis minutos después.
 
-Esperaste una transmisión más.
+Treinta y siete segundos antes: nada.
 
-La rodilla había mejorado lo suficiente para caminar por la cápsula sin arrastrar el pie.
+Doce segundos antes: autodiagnóstico.
 
-No saliste.
+Después, emisión.
 
-Comiste la segunda mitad de la ración.
+Sin respuesta.
 
-Fría otra vez.
+Esperaste un ciclo más.
 
-La luz exterior cambió detrás del ventanal hasta volver la niebla casi blanca. Durante unos minutos entró claridad suficiente para mejorar unas décimas la carga de batería.
-
-Después se oscureció de nuevo.
-
-Treinta y siete segundos antes de la siguiente emisión no ocurrió nada.
-
-Doce segundos antes, el autodiagnóstico.
-
-Luego la llamada.
-
-Luego silencio.
-
-Abriste un registro nuevo.
+Nada otra vez.
 
 Escribiste:
 
 **RECEPCIÓN ANÓMALA EN BANDA DE EMERGENCIA ANTES DE TRANSMISIÓN AUTOMÁTICA.**
 
-Debajo:
-
 **INTERVALO APROXIMADO: 37 s.**
-
-Esperaste antes de la tercera línea.
 
 **FUENTE NO DETERMINADA. NO REPRODUCIDA EN DOS CICLOS POSTERIORES.**
 
-Guardaste el archivo junto a la captura dañada de la entrada.
+Eso era defendible.
+
+No mucho más.
 
 ---
 
-Por la noche dejaste el receptor grabando.
+A la mañana siguiente el receptor había grabado toda la noche sin repetir el evento.
 
-Preparaste la zona de descanso sin retirar la lámina de la placa cobriza que seguía junto al mapa.
+La rodilla aceptaba mejor el peso, pero no saliste.
 
-Te tumbaste con la rodilla sobre una manta doblada.
+Necesitabas una prueba que pudiera fallar.
 
-La siguiente transmisión ocurrió con los ojos cerrados.
+La baliza transmitía según una tabla conocida por el controlador. Si una fuga de programación, una referencia temporal compartida o el bus de alimentación producían el artefacto, mover la hora podía mover también la anomalía sin que Elyndran tuviera nada que ver.
 
-Reconociste el cambio del ventilador cuando el sistema redistribuyó carga.
+Desplazaste la siguiente transmisión siete minutos y catorce segundos.
 
-Después el clic leve del relé.
+Un intervalo arbitrario, fuera de las rutinas de la cápsula.
 
-Luego nada que pudieras oír.
+No cambiaste frecuencia.
 
-Abriste los ojos.
+Ni potencia.
 
-En la pantalla, el registro seguía avanzando de izquierda a derecha.
+Ni mensaje.
 
-El pequeño grupo de pulsos de la mañana quedaba atrás, inmóvil en el búfer guardado.
+Solo la hora.
 
-La nueva línea siguió limpia.
+Esperaste.
+
+Ruido.
+
+Faltaba un minuto.
+
+Cincuenta segundos.
+
+Cuarenta.
+
+A treinta y ocho, la línea se levantó.
+
+Un fragmento.
+
+Otro.
+
+Un tercero apenas visible.
+
+La baliza seguía en espera.
+
+El autodiagnóstico aún no había empezado.
+
+La recepción terminó.
+
+Doce segundos antes de la nueva hora, el sistema inició la secuencia normal.
+
+La baliza transmitió.
+
+Sin respuesta.
+
+---
+
+Marcaste los dos instantes.
+
+**−36,91 s**
+
+La nueva forma de onda tampoco era una copia limpia de la anterior.
+
+Se parecía lo suficiente para obligarte a mirar y se diferenciaba lo suficiente para impedirte llamarla retransmisión adelantada.
+
+Abriste el esquema eléctrico.
+
+Receptor y controlador compartían referencia temporal.
+
+También compartían parte de la alimentación antes de separarse.
+
+La explicación interna seguía viva.
+
+Eso importaba más que la coincidencia.
+
+Devolviste la baliza a su ciclo habitual.
+
+En la siguiente llamada, treinta y siete segundos antes solo hubo ruido.
+
+Doce segundos antes, autodiagnóstico.
+
+Después transmisión.
+
+Sin respuesta.
+
+Añadiste al registro:
+
+**SEGUNDA RECEPCIÓN ANÓMALA OBSERVADA TRAS DESPLAZAR TRANSMISIÓN +7 min 14 s.**
+
+**INICIO: 36,91 s ANTES DE LA EMISIÓN.**
+
+**NO REPRODUCIDA EN EL CICLO AUTOMÁTICO POSTERIOR.**
+
+La última línea fue la importante:
+
+**EL CAMBIO DE HORA NO DESCARTA ACOPLAMIENTO INTERNO: EL CONTROLADOR CONOCÍA LA NUEVA PROGRAMACIÓN.**
+
+Cerraste el archivo.
+
+---
+
+Por la tarde una membrana exterior se tensó en la cámara.
+
+Tu cuerpo cambió de postura antes de que llegara la ráfaga.
+
+Preparaste el traje para el día siguiente.
+
+El receptor quedó grabando.
+
+La baliza conocía la hora de su próxima llamada.
+
+Tú también.
+
+De momento, eso era todo lo que podías afirmar.
