@@ -1,6 +1,6 @@
 # ELYNDRAN — Manifiesto de ilustración v0.5
 
-Este manifiesto sustituye `ILLUSTRATION_MANIFEST_V04.md` como referencia visual vigente. El manuscrito llega a XXVI. El texto maestro y `CONTINUITY.md` + sus deltas siguen siendo autoridad: ninguna imagen puede revelar más de lo que el protagonista ha descubierto.
+Este manifiesto sustituye `ILLUSTRATION_MANIFEST_V04.md` como referencia visual vigente. El manuscrito llega a XXVI. El texto maestro y `CONTINUITY.md` son la autoridad canónica: ninguna imagen puede revelar más de lo que el protagonista ha descubierto.
 
 ## Contrato visual vigente
 
@@ -116,6 +116,7 @@ La edición v0.2 termina en XIII. El manuscrito llega a XXVI: la edición queda 
 La reconstrucción v0.3 es necesaria por distancia narrativa, pero no debe llenarse con imágenes inferiores al estándar. Checkpoint mínimo recomendado:
 
 - texto maestro completo hasta XXVI;
+- `CONTINUITY.md` consolidado hasta XXVI;
 - resolver la imagen de X;
 - aprobar XIV, XV y XVI en fotorealismo coherente;
 - XVII–XXVI pueden entrar inicialmente con aperturas tipográficas limpias si su arte no alcanza el estándar;
