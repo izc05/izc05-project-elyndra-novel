@@ -6,39 +6,35 @@ No el sonido.
 
 La vibración.
 
-Se quedó en las botas después de que el aire volviera a estar quieto, una resonancia baja transmitida por la raíz que tardó varios segundos en apagarse.
+Se quedó en mis botas después de que el aire volviera a estar quieto, una resonancia baja transmitida por la raíz que tardó varios segundos en apagarse.
 
-Miraste el agua del disco más cercano.
+Miré el agua del disco más cercano.
 
 La superficie ya estaba inmóvil.
 
 Las dos criaturas seguían ocultas bajo el borde lechoso.
 
-No esperaste a que regresaran.
+No esperé a que regresaran.
 
-La ruta de subida era mala con la raíz quieta. Si aquello volvía a inclinarse mientras estabas sobre las fibras, sería peor.
+La ruta de subida era mala con la raíz quieta. Si aquello volvía a inclinarse mientras estaba sobre las fibras, sería peor.
 
-Guardaste la linterna.
+Guardé la linterna y comprobé la mochila.
 
-Comprobaste la mochila.
+La cremallera dañada había vuelto a abrirse dos centímetros. La cerré hasta el punto marcado con cinta y no más.
 
-La cremallera dañada había vuelto a abrirse dos centímetros.
+Luego empecé a subir.
 
-La cerraste hasta el punto marcado con cinta y no más.
+La primera parte resultó más difícil que la bajada. La rodilla derecha aceptaba el peso, pero no el impulso. Cada vez que intentaba elevar el cuerpo hasta una fibra superior, el músculo temblaba antes de responder.
 
-Luego empezaste a subir.
+A mitad del ascenso mi bota izquierda resbaló sobre la película elástica.
 
-La primera parte resultó más difícil que la bajada. La rodilla derecha aceptaba el peso, pero no el impulso. Cada vez que intentabas elevar el cuerpo hasta una fibra superior, el músculo temblaba antes de responder.
-
-A mitad del ascenso tu bota izquierda resbaló sobre la película elástica.
-
-No caíste.
+No caí.
 
 La rodilla derecha sí golpeó la fibra.
 
-El dolor llegó tan limpio que durante un instante dejaste de oír la lluvia.
+El dolor llegó tan limpio que durante un instante dejé de oír la lluvia.
 
-Te quedaste abrazado a la estructura, esperando a que la pierna decidiera si iba a seguir funcionando.
+Me quedé abrazado a la estructura, esperando a que la pierna decidiera si iba a seguir funcionando.
 
 Funcionó.
 
@@ -46,31 +42,29 @@ Peor que antes.
 
 Suficiente.
 
-Subiste dos metros más y encontraste un ensanchamiento donde podías sentarte.
+Subí dos metros más y encontré un ensanchamiento donde podía sentarme.
 
-No era descanso lo que necesitabas.
+No necesitaba descansar.
 
-Era dejar de fingir que la distancia hasta la cápsula seguía siendo pequeña.
+Necesitaba dejar de fingir que la distancia hasta la cápsula seguía siendo pequeña.
 
-Abriste el botiquín reducido.
+Abrí el botiquín reducido.
 
-Hasta entonces habías evitado el analgésico para conservar una lectura clara del daño. Ya no tenía sentido. La rodilla estaba convirtiéndose en un riesgo mayor que la posibilidad de ocultar dolor.
+Hasta entonces había evitado el analgésico para conservar una lectura clara del daño. Ya no tenía sentido. La rodilla empezaba a ser un riesgo mayor.
 
-Tomaste una dosis mínima.
-
-Esperaste cinco minutos.
+Tomé una dosis mínima y esperé cinco minutos.
 
 No para comprobar que funcionara.
 
 Para comprobar que no empeorara nada.
 
-Mientras esperabas, apagaste el ventilador secundario del casco.
+Mientras esperaba, apagué el ventilador secundario del casco.
 
 El mundo apareció por capas.
 
 Agua cayendo muy lejos.
 
-Goteo cerca de tu hombro.
+Goteo cerca de mi hombro.
 
 Un roce fino producido por las membranas.
 
@@ -80,11 +74,11 @@ Y, mucho más abajo, nada.
 
 Los golpes habían cesado.
 
-Eso no te tranquilizó.
+Eso no me tranquilizó.
 
-Te obligó a prestar más atención.
+Me obligó a prestar más atención.
 
-Volviste a mirar hacia la raíz inferior.
+Volví a mirar hacia la raíz inferior.
 
 Desde aquella altura los discos ya no parecían recipientes separados. Formaban manchas claras distribuidas a lo largo de la corteza, concentradas en depresiones y ausentes en las zonas más inclinadas.
 
@@ -94,23 +88,21 @@ Criaturas dentro del agua.
 
 Una estructura que flexionaba.
 
-No tenías una explicación.
+No tenía una explicación.
 
-Pero empezabas a tener relaciones.
+Pero empezaba a tener relaciones.
 
-Guardaste una fotografía amplia.
+Guardé una fotografía amplia y otra de la distribución de los discos.
 
-Después otra de la distribución de los discos.
-
-Y entonces viste que uno de ellos estaba vacío.
+Entonces vi que uno estaba vacío.
 
 No medio vacío.
 
 Vacío.
 
-Era el mismo disco que había empezado a derramar agua durante la inclinación.
+Era el mismo que había empezado a derramar agua durante la inclinación.
 
-Comparaste la grabación.
+Comparé la grabación.
 
 Antes del movimiento estaba lleno hasta aproximadamente dos tercios.
 
@@ -120,7 +112,7 @@ La raíz había recuperado casi la misma posición.
 
 El recipiente, no.
 
-Aumentaste la imagen.
+Aumenté la imagen.
 
 Había una línea oscura en el centro del disco.
 
@@ -136,17 +128,17 @@ Tres opciones.
 
 Ninguna exigía misterio.
 
-Marcaste el punto para revisarlo en otra visita.
+Marqué el punto para revisarlo en otra visita.
 
-No descendiste a comprobarlo.
+No descendí a comprobarlo.
 
 Eso también empezaba a ser una forma de aprendizaje.
 
 ---
 
-Alcanzaste la raíz superior cuando el analgésico empezaba a reducir el dolor hasta convertirlo en una presión caliente.
+Alcancé la raíz superior cuando el analgésico empezaba a reducir el dolor hasta convertirlo en una presión caliente.
 
-La niebla había cambiado mientras estabas abajo.
+La niebla había cambiado mientras estaba abajo.
 
 La ruta conocida ya no parecía la misma.
 
@@ -156,7 +148,7 @@ Por la visibilidad.
 
 La capa de nubes había ascendido y cubría parte del camino descendente. La tira reflectante de la bifurcación no era visible desde allí.
 
-Activaste la cámara del casco y buscaste tus referencias.
+Activé la cámara del casco y busqué mis referencias.
 
 Una protuberancia doble.
 
@@ -164,15 +156,13 @@ Una grieta blanca.
 
 El borde donde crecían cuatro membranas unidas.
 
-Las encontraste.
+Las encontré.
 
-Seguiste.
+Diez minutos después llegué a una bifurcación pequeña que no recordaba.
 
-Diez minutos después llegaste a una bifurcación pequeña que no recordabas.
+Me detuve.
 
-Te detuviste.
-
-Dos raíces se separaban delante de ti.
+Dos raíces se separaban delante de mí.
 
 La izquierda descendía ligeramente.
 
@@ -180,25 +170,25 @@ La derecha mantenía la altura.
 
 No aparecía ninguna bifurcación en la grabación de la bajada.
 
-Rebobinaste.
+Rebobiné.
 
 El vídeo mostraba el mismo tramo.
 
 Una única raíz.
 
-Volviste a mirar.
+Volví a mirar.
 
 Dos.
 
-No te moviste.
+No me moví.
 
 La niebla podía ocultar la unión.
 
-El ángulo podía engañarte.
+El ángulo podía engañarme.
 
 La fatiga también.
 
-Caminaste tres pasos hacia atrás.
+Caminé tres pasos hacia atrás.
 
 Desde allí se veía mejor.
 
@@ -206,19 +196,19 @@ La supuesta rama izquierda no nacía de la raíz.
 
 Pasaba por debajo.
 
-La niebla había borrado la separación vertical y tu cabeza había completado el resto.
+La niebla había borrado la separación vertical y mi cabeza había completado el resto.
 
-Soltaste el aire que estabas reteniendo.
+Solté el aire que estaba reteniendo.
 
-No anotaste anomalía.
+No anoté anomalía.
 
-Anotaste otra cosa.
+Anoté otra cosa.
 
 **ERROR DE PERSPECTIVA POR NIEBLA.**
 
-Era importante recordar que Elyndran no tenía que romper las reglas cada vez que tú no las entendías.
+Era importante recordar que Elyndran no tenía que romper las reglas cada vez que yo no las entendía.
 
-Continuaste.
+Continué.
 
 ---
 
@@ -226,25 +216,25 @@ La tira reflectante apareció casi cuarenta minutos después.
 
 La esquina levantada seguía igual.
 
-No la tocaste.
+No la toqué.
 
-Querías saber si cambiaría sin tu intervención.
+Quería saber si cambiaría sin mi intervención.
 
-Antes de tomar el camino de regreso a la cápsula te sentaste junto a la bifurcación y bebiste.
+Antes de tomar el camino de regreso me senté junto a la bifurcación y bebí.
 
 La rama ascendente seguía oscura y húmeda.
 
 La horizontal seguía perdida dentro de la nube.
 
-La descendente, detrás de ti, ya no mostraba el resplandor azul con la misma intensidad.
+La descendente ya no mostraba el resplandor azul con la misma intensidad.
 
-Habías elegido una de tres rutas.
+Había elegido una de tres rutas.
 
-No la habías terminado.
+No la había terminado.
 
-Solo habías aprendido que continuaba hacia abajo más de lo que podías seguir con el equipo actual.
+Solo sabía que continuaba hacia abajo más de lo que podía seguir con el equipo actual.
 
-Miraste el cable fino guardado en el lateral de la mochila.
+Miré el cable fino guardado en el lateral de la mochila.
 
 Dos metros.
 
@@ -256,15 +246,13 @@ No cuerda de escalada.
 
 Pero sí aislamiento, correas del asiento, malla de carga y partes del paracaídas secundario que quizá hubieran sobrevivido.
 
-La idea apareció de forma práctica antes que heroica.
-
-Podías fabricar algo mejor.
+Podía fabricar algo mejor.
 
 Eso significaba desmontar parte de lo poco que todavía funcionaba.
 
-Lo anotaste como una decisión para más tarde.
+Lo dejé como decisión para más tarde.
 
-Entonces escuchaste el sonido.
+Entonces escuché el sonido.
 
 No un golpe.
 
@@ -272,9 +260,9 @@ Un tono.
 
 Muy débil.
 
-Tan breve que pensaste que había salido del propio casco.
+Tan breve que pensé que había salido del propio casco.
 
-Miraste el panel de comunicaciones.
+Miré el panel de comunicaciones.
 
 El receptor estaba apagado.
 
@@ -288,11 +276,11 @@ Limpio.
 
 Una nota sostenida durante menos de medio segundo.
 
-Levantaste la cabeza.
+Levanté la cabeza.
 
 Procedía de la rama horizontal.
 
-Esperaste.
+Esperé.
 
 Nada.
 
@@ -300,11 +288,11 @@ Pasaron diecisiete segundos.
 
 El tono volvió.
 
-No anotaste un patrón.
+No anoté un patrón.
 
 Todavía no había patrón.
 
-Te acercaste dos pasos a la entrada de niebla.
+Me acerqué dos pasos a la entrada de niebla.
 
 El sonido llegó otra vez.
 
@@ -314,11 +302,11 @@ Dos tonos.
 
 Ninguno se parecía a la estática, a una alarma de Aster ni a ningún aviso del traje.
 
-Tampoco se parecían a los golpes de abajo.
+Tampoco a los golpes de abajo.
 
 Podían ser biológicos.
 
-Podían ser producidos por viento atravesando una cavidad.
+Podían ser viento atravesando una cavidad.
 
 Podían ser otra cosa.
 
@@ -326,18 +314,14 @@ La rama horizontal acababa de dejar de ser una ausencia en el mapa.
 
 Ahora tenía un sonido.
 
-Miraste la batería del traje.
+Miré la batería del traje.
 
-Miraste la rodilla.
+La rodilla.
 
-Miraste la dirección de la cápsula.
+La dirección de la cápsula.
 
-No entraste en la niebla.
+No entré en la niebla.
 
-Grabaste el audio.
+Grabé el audio, marqué la hora y regresé.
 
-Marcaste la hora.
-
-Y regresaste.
-
-Por segunda vez en Elyndran, elegiste dejar una pregunta sin responder porque querías seguir vivo el tiempo suficiente para volver a ella.
+Por segunda vez en Elyndran, elegí dejar una pregunta sin responder porque quería seguir vivo el tiempo suficiente para volver a ella.
