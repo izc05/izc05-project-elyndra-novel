@@ -88,6 +88,14 @@ Adjunto temporal de continuidad para `manuscript/25-lo-que-dejas-fuera.md`. Mant
 - La comida vuelve a bajar por consumo ordinario: 9 → 8,5 raciones seguras.
 - El motivo de los 37 segundos permanece deliberadamente en segundo plano.
 
+## REVISIÓN LITERARIA POSTERIOR
+
+- XXV recibió una nueva pasada de poda y prosa sin alterar canon.
+- Se eliminó una referencia temporal imprecisa que describía la primera lluvia tratada como ocurrida “meses atrás”; el manuscrito no necesita fijar ese salto cronológico.
+- Se comprimió la enumeración explicativa del final sobre la cadena de agua para devolver el cierre al cuerpo, al colector y a la responsabilidad material del protagonista.
+- Se eliminó la formulación final demasiado sentenciosa sobre “todo lo que no podía permitir que tocara” y se sustituyó por una imagen concreta de la lámina reparada esperando la próxima lluvia.
+- Ningún recurso, lugar, estado físico, misterio ni resultado analítico cambia por esta revisión.
+
 ## ESTADO DE INTEGRACIÓN
 
 - `CONTINUITY.md` contiene literalmente el canon hasta XX.
