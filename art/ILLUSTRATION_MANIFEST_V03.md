@@ -13,7 +13,7 @@ Este manifiesto sustituye como referencia de planificación a `ILLUSTRATION_MANI
 - Estructuras ambiguas hasta que la evidencia permita clasificarlas.
 - Ningún texto incrustado en las ilustraciones principales.
 - Ninguna imagen puede mostrar respiración directa del aire exterior hasta que el manuscrito lo autorice de forma explícita.
-- La primera piel desnuda del XVI se limita a mano/muñeca izquierdas; XVII–XXIII vuelven a conducta conservadora y no amplían exposición.
+- La primera piel desnuda del XVI se limita a mano/muñeca izquierdas; XVII–XXIV vuelven a conducta conservadora y no amplían exposición.
 
 ## Plan por sección
 
@@ -43,6 +43,7 @@ Este manifiesto sustituye como referencia de planificación a `ILLUSTRATION_MANI
 | XXI — La hora que cambias | Misma cápsula, receptor pasivo y prueba de horario desplazado con protagonista en espera | **pendiente** | no convertir la segunda anomalía en prueba visual de predicción o viaje temporal |
 | XXII — Antes de apoyar el pie | Paso conocido de dos raíces paralelas, apoyo inferior desplazado y protagonista corrigiendo el peso | **pendiente** | no exagerar caída, causa del golpe ni relación causal con membranas |
 | XXIII — Lo que entra | Criatura de seis apoyos transfiriendo película oscura por su estructura tubular mientras el protagonista observa a distancia | **pendiente** | no mostrar digestión, anatomía interna ni comestibilidad humana |
+| XXIV — La que no cuenta | Interior de cápsula, ración con sellado comprometido separada del resto y protagonista revisando inventario | **pendiente** | no convertirlo en HUD de hambre, contaminación visible o escena de laboratorio |
 
 ## Prioridad de reemplazo/generación
 
@@ -57,6 +58,7 @@ Este manifiesto sustituye como referencia de planificación a `ILLUSTRATION_MANI
 9. Generar XXI solo si puede diferenciar visualmente una prueba técnica controlada de una revelación sobrenatural. La recepción debe seguir siendo pequeña, ambigua y plausible como artefacto interno.
 10. Generar XXII solo si el cambio de geometría del paso puede leerse mediante postura y apoyos reales, sin convertirlo en una caída de acción ni mostrar una causa inexistente para los golpes profundos.
 11. Generar XXIII solo si la transferencia de película puede insinuarse en un detalle físicamente pequeño. Si hace falta mostrar órganos, brillo interno o corte anatómico para explicarla, usar apertura tipográfica.
+12. Generar XXIV solo si la pérdida de una ración puede leerse por materialidad, separación física y espacio vacío. Si la imagen necesita contadores, etiquetas grandes o pantallas explicativas, usar apertura tipográfica.
 
 ## Rechazo automático
 
@@ -72,25 +74,25 @@ Debe ser el mismo objeto: unos 2,5 m, tres brazos curvos, material oscuro gris-v
 
 La plataforma permanece incompleta. En VI aparece distante. En X solo se ve su parte inferior: capas, huecos, nervaduras y raíces entrelazadas. En XVII, si aparece, solo una o dos formas verticales borrosas ya conocidas. Ninguna imagen puede resolver origen, función, extensión ni superficie superior.
 
-### Cápsula — VII / IX / XV / XVI / XVIII / XX / XXI / XXIII
+### Cápsula — VII / IX / XV / XVI / XVIII / XX / XXI / XXIII / XXIV
 
-Debe conservar tamaño, materiales y reparaciones. XV introduce la línea de cinta como frontera de conducta, no hermética. XVI mantiene la cápsula a distancia de retirada inmediata. XVIII muestra el mismo refugio con un módulo térmico pequeño abierto y desgaste acumulado. XX vuelve al mismo interior durante una jornada de reposo: receptor de emergencia en registro pasivo, rodilla derecha descargada y baliza como indicador físico secundario. XXI conserva exactamente ese interior y añade únicamente el contexto de una prueba de horario desplazado; no introducir equipo nuevo para hacer visible el misterio. En XXIII, si se representa el inventario interior como imagen secundaria, el armario debe ser el mismo y la presión de comida puede mostrarse mediante espacio vacío y paquetes restantes, nunca mediante HUD de cuenta atrás.
+Debe conservar tamaño, materiales y reparaciones. XV introduce la línea de cinta como frontera de conducta, no hermética. XVI mantiene la cápsula a distancia de retirada inmediata. XVIII muestra el mismo refugio con un módulo térmico pequeño abierto y desgaste acumulado. XX vuelve al mismo interior durante una jornada de reposo: receptor de emergencia en registro pasivo, rodilla derecha descargada y baliza como indicador físico secundario. XXI conserva exactamente ese interior y añade únicamente el contexto de una prueba de horario desplazado; no introducir equipo nuevo para hacer visible el misterio. En XXIII, si se representa el inventario interior como imagen secundaria, el armario debe ser el mismo y la presión de comida puede mostrarse mediante espacio vacío y paquetes restantes, nunca mediante HUD de cuenta atrás. XXIV convierte ese mismo armario en escena principal: un único paquete queda separado por pérdida de sellado y el resto debe sentirse escaso por cantidad y hueco físico, no por cifras en pantalla.
 
-### Primera ruta — I / III / XII / XIV / XVI / XXII / XXIII
+### Primera ruta — I / III / XII / XIV / XVI / XXII / XXIII / XXIV
 
-Debe sentirse como el mismo corredor de raíces húmedas y niebla, no como un bioma nuevo cada vez. XXII regresa a terreno conocido: dos raíces paralelas forman un paso habitual, una membrana transparente crece en el borde y la raíz inferior queda unos centímetros más baja tras dos golpes profundos. XXIII confirma que la raíz inferior sigue desplazada y que la alternativa superior ya se utiliza como hábito. El cambio debe ser local y físicamente modesto. La imagen no debe presentar una grieta gigantesca, derrumbe, criatura responsable ni energía visible.
+Debe sentirse como el mismo corredor de raíces húmedas y niebla, no como un bioma nuevo cada vez. XXII regresa a terreno conocido: dos raíces paralelas forman un paso habitual, una membrana transparente crece en el borde y la raíz inferior queda unos centímetros más baja tras dos golpes profundos. XXIII confirma que la raíz inferior sigue desplazada y que la alternativa superior ya se utiliza como hábito. XXIV solo la observa desde la cámara exterior y confirma que el apoyo inferior continúa bajo; no debe inventarse un nuevo cambio físico. El cambio debe ser local y físicamente modesto. La imagen no debe presentar una grieta gigantesca, derrumbe, criatura responsable ni energía visible.
 
-### Zona de placas cobrizas — V / XIII / XIV / XIX / XXIII
+### Zona de placas cobrizas — V / XIII / XIV / XIX / XXIII / XXIV
 
-Debe sentirse como el mismo ecosistema: bóveda húmeda, columnas verdes, capas cobrizas superpuestas, filamentos blancos y aire cargado de partículas. XIII fija que la película oscura del reverso puede ser retirada durante contactos de una criatura; XIX vuelve a una placa concreta y solo demuestra que parte de la cobertura oscura ocupa de nuevo superficie previamente clara. XXIII añade que una porción oscura puede verse desplazándose por un tramo translúcido de la estructura tubular hacia el cuerpo de una criatura. Esto no autoriza representar digestión, metabolismo ni un recurso alimentario preparado. Visualmente la película no debe parecer musgo terrestre, moho o cultivo.
+Debe sentirse como el mismo ecosistema: bóveda húmeda, columnas verdes, capas cobrizas superpuestas, filamentos blancos y aire cargado de partículas. XIII fija que la película oscura del reverso puede ser retirada durante contactos de una criatura; XIX vuelve a una placa concreta y solo demuestra que parte de la cobertura oscura ocupa de nuevo superficie previamente clara. XXIII añade que una porción oscura puede verse desplazándose por un tramo translúcido de la estructura tubular hacia el cuerpo de una criatura. XXIV no vuelve a la zona ni obtiene nueva muestra: solo compara el informe antiguo con un control de alimento terrestre. Esto no autoriza representar digestión, metabolismo ni un recurso alimentario preparado. Visualmente la película no debe parecer musgo terrestre, moho o cultivo.
 
-### Protagonista — XIV–XXIII
+### Protagonista — XIV–XXIV
 
-XIV: totalmente sellado. XV: puede estar sin casco solo dentro de la cápsula después del retorno. XVI: casco cerrado y únicamente mano/muñeca izquierdas expuestas al aire. XVII: traje totalmente cerrado. XVIII: puede estar sin casco dentro de la cápsula, sin ninguna exposición exterior nueva. XIX: traje, casco y guantes completamente cerrados durante toda la revisita. XX: no sale al exterior; puede aparecer sin casco dentro del refugio, con la rodilla derecha en descarga y sin cambios extraordinarios en la mano izquierda. XXI permanece igualmente dentro de la cápsula durante la prueba de señal; la rodilla mejora pero sigue condicionando posturas. XXII vuelve al exterior con traje, casco y guantes completos; la rodilla derecha tolera la marcha pero condiciona la postura durante el incidente del paso. XXIII vuelve a la bóveda ascendente totalmente sellado, sin recoger nuevas muestras ni exponerse a materia local. Ninguna imagen posterior a XVI puede sugerir adaptación biológica visible.
+XIV: totalmente sellado. XV: puede estar sin casco solo dentro de la cápsula después del retorno. XVI: casco cerrado y únicamente mano/muñeca izquierdas expuestas al aire. XVII: traje totalmente cerrado. XVIII: puede estar sin casco dentro de la cápsula, sin ninguna exposición exterior nueva. XIX: traje, casco y guantes completamente cerrados durante toda la revisita. XX: no sale al exterior; puede aparecer sin casco dentro del refugio, con la rodilla derecha en descarga y sin cambios extraordinarios en la mano izquierda. XXI permanece igualmente dentro de la cápsula durante la prueba de señal; la rodilla mejora pero sigue condicionando posturas. XXII vuelve al exterior con traje, casco y guantes completos; la rodilla derecha tolera la marcha pero condiciona la postura durante el incidente del paso. XXIII vuelve a la bóveda ascendente totalmente sellado, sin recoger nuevas muestras ni exponerse a materia local. XXIV permanece dentro de la cápsula y puede mostrarse sin casco; la rodilla sigue descargada cuando está sentado y no hay nueva exposición exterior. Ninguna imagen posterior a XVI puede sugerir adaptación biológica visible.
 
-### Motivo de los 37 segundos — Prólogo / XX / XXI / XXII / XXIII
+### Motivo de los 37 segundos — Prólogo / XX / XXI / XXII / XXIII / XXIV
 
-El prólogo muestra la anomalía como dato humano imposible dentro de una situación física real. XX recupera el motivo sin convertirlo en iconografía sobrenatural. XXI añade una segunda recepción anómala tras desplazar una transmisión programada siete minutos y catorce segundos; su inicio se mide 36,91 s antes de la emisión. Esto **no demuestra** predicción: el controlador conocía la nueva programación y el acoplamiento interno sigue siendo una hipótesis válida. XXII devuelve el motivo al segundo plano: la baliza transmite durante la salida, el resumen no muestra una anomalía equivalente y el protagonista no abre el búfer completo. XXIII mantiene esa disciplina: una transmisión nocturna sigue sin respuesta y el receptor no marca una nueva elevación. Si el receptor aparece en ilustraciones de XX o XXI, sus trazas deben ser pequeñas, plausibles y no textuales; no mostrar el número 37 como glifo, cuenta atrás, señal alienígena ni mensaje de futuro.
+El prólogo muestra la anomalía como dato humano imposible dentro de una situación física real. XX recupera el motivo sin convertirlo en iconografía sobrenatural. XXI añade una segunda recepción anómala tras desplazar una transmisión programada siete minutos y catorce segundos; su inicio se mide 36,91 s antes de la emisión. Esto **no demuestra** predicción: el controlador conocía la nueva programación y el acoplamiento interno sigue siendo una hipótesis válida. XXII devuelve el motivo al segundo plano: la baliza transmite durante la salida, el resumen no muestra una anomalía equivalente y el protagonista no abre el búfer completo. XXIII mantiene esa disciplina: una transmisión nocturna sigue sin respuesta y el receptor no marca una nueva elevación. XXIV mantiene el receptor pasivo y no abre un nuevo episodio de señal; su conflicto es material y doméstico. Si el receptor aparece en ilustraciones de XX o XXI, sus trazas deben ser pequeñas, plausibles y no textuales; no mostrar el número 37 como glifo, cuenta atrás, señal alienígena ni mensaje de futuro.
 
 ## Estado de assets
 
@@ -98,15 +100,15 @@ El repositorio conserva sobre todo notas y manifiestos; no contiene toda la bibl
 
 ## Relación con la edición de lectura
 
-La v0.2 termina en XIII. El manuscrito llega a XXIII, por lo que la siguiente edición queda **diez capítulos por detrás** y ya no debe aplazarse por distancia narrativa. Sin embargo, no se incorporarán imágenes provisionales de calidad inferior solo para cubrir capítulos.
+La v0.2 termina en XIII. El manuscrito llega a XXIV, por lo que la siguiente edición queda **once capítulos por detrás** y ya no debe aplazarse por distancia narrativa. Sin embargo, no se incorporarán imágenes provisionales de calidad inferior solo para cubrir capítulos.
 
 Checkpoint editorial recomendado:
 
-- manuscrito completo hasta XXIII;
-- texto de XIII, XIX, XX, XXI, XXII y XXIII actualizado respecto a la v0.2 / primeras redacciones;
+- manuscrito completo hasta XXIV;
+- texto de XIII, XIX, XX, XXI, XXII, XXIII y XXIV actualizado respecto a la v0.2 / primeras redacciones;
 - imágenes fotorealistas aprobadas al menos para XIV, XV y XVI;
 - revisión/resolución del Capítulo X;
-- XVII–XXIII incluidos visualmente solo si alcanzan el mismo estándar; de lo contrario, usar aperturas tipográficas sobrias antes que ilustraciones incoherentes;
+- XVII–XXIV incluidos visualmente solo si alcanzan el mismo estándar; de lo contrario, usar aperturas tipográficas sobrias antes que ilustraciones incoherentes;
 - reconstrucción desde los `.md` maestros, nunca desde texto extraído de v0.2;
 - revisión visual página a página del PDF resultante.
 
