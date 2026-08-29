@@ -2,13 +2,13 @@
 
 La reparación seguía seca.
 
-Eso bastó para que al día siguiente sacaras dos recipientes estériles y dejaras el analizador sobre el banco.
+Eso bastó para que al día siguiente sacara dos recipientes estériles y dejara el analizador sobre el banco.
 
-Uno iría contigo.
+Uno iría conmigo.
 
 Las respuestas esperarían dentro.
 
-Bebiste de tu reserva terrestre antes de salir.
+Bebí de mi reserva terrestre antes de salir.
 
 Dos tragos.
 
@@ -18,9 +18,9 @@ No un tercero.
 
 La ruta descendente ya no era nueva.
 
-Reconociste la grieta del viento, la bifurcación y los apoyos malos antes de poner peso sobre ellos. La bajada seguía siendo incómoda para la rodilla, pero duró menos porque no necesitabas descubrirla otra vez.
+Reconocí la grieta del viento, la bifurcación y los apoyos malos antes de poner peso sobre ellos. La bajada seguía siendo incómoda para la rodilla, pero duró menos porque no necesitaba descubrirla otra vez.
 
-En la raíz inferior fuiste directo al disco donde habías visto a las criaturas.
+En la raíz inferior fui directo al disco donde había visto a las criaturas.
 
 Seguía allí.
 
@@ -32,19 +32,19 @@ No parecía una grieta abierta.
 
 Tampoco se parecía al tejido del disco.
 
-No la tocaste.
+No la toqué.
 
-Elegiste otro recipiente natural, lleno y sin criaturas visibles en el centro.
+Elegí otro recipiente natural, lleno y sin criaturas visibles en el centro.
 
 El primer frasco dejó de ser estéril cuando una gota cayó desde el casco sobre su exterior.
 
-Lo cerraste y lo guardaste.
+Lo cerré y lo guardé.
 
-Con el segundo esperaste a que dejara de gotear el traje. Lo abriste protegido dentro de la mochila y tomaste agua del centro con la pinza de la herramienta, lejos del borde verdoso.
+Con el segundo esperé a que dejara de gotear el traje. Lo abrí protegido dentro de la mochila y tomé agua del centro con la pinza de la herramienta, lejos del borde verdoso.
 
 El líquido entró transparente.
 
-Estabas cerrando el frasco cuando una forma plana salió del borde.
+Estaba cerrando el frasco cuando una forma plana salió del borde.
 
 Después otra.
 
@@ -58,19 +58,19 @@ Parecido.
 
 No idéntico.
 
-Activaste la cámara rápida.
+Activé la cámara rápida.
 
-No provocaste nada.
+No provoqué nada.
 
 La luz no se repitió.
 
-Guardaste la muestra.
+Guardé la muestra.
 
 ---
 
-El primer golpe profundo llegó mientras cerrabas la mochila.
+El primer golpe profundo llegó mientras cerraba la mochila.
 
-La raíz vibró bajo las botas.
+La raíz vibró bajo mis botas.
 
 Las criaturas se pegaron al fondo.
 
@@ -78,13 +78,13 @@ Segundo golpe.
 
 El agua tembló como una única superficie.
 
-A tu derecha, la línea del disco vacío cambió de tono: del negro a un gris pálido durante unos instantes.
+A mi derecha, la línea del disco vacío cambió de tono: del negro a un gris pálido durante unos instantes.
 
 Después volvió a oscurecerse.
 
 La cámara conservó tres fotogramas del cambio.
 
-No habías modificado la luz ni el ángulo lo suficiente para explicarlo con un reflejo simple.
+No había modificado la luz ni el ángulo lo suficiente para explicarlo con un reflejo simple.
 
 Podía ser tensión.
 
@@ -92,19 +92,19 @@ Algo desplazándose bajo la superficie.
 
 Una propiedad desconocida del material.
 
-No sabías cuál.
+No sabía cuál.
 
 El tercer golpe no llegó.
 
-Emprendiste la subida con menos de cien gramos de agua de Elyndran en la mochila y la sensación absurda de notarlos en cada apoyo.
+Emprendí la subida con menos de cien gramos de agua de Elyndran en la mochila y la sensación absurda de notarlos en cada apoyo.
 
-La rodilla protestó en la fibra final. Llegaste arriba descargando más peso en los brazos y bebiste de tu reserva.
+La rodilla protestó en la fibra final. Llegué arriba descargando más peso en los brazos y bebí de mi reserva.
 
 El frasco permaneció cerrado.
 
 ---
 
-Dentro de la cápsula esperaste hasta después de comer para analizarlo.
+Dentro de la cápsula esperé hasta después de comer para analizarlo.
 
 Sales.
 
@@ -120,38 +120,38 @@ Entonces apareció el amarillo.
 
 **FRACCIÓN ORGÁNICA NO CLASIFICADA.**
 
-Filtraste una porción.
+Filtré una porción.
 
 La señal bajó.
 
 No desapareció.
 
-Aplicaste calor a otra.
+Apliqué calor a otra.
 
 Algunos componentes dejaron de aparecer. Otros permanecieron.
 
-Cerraste el analizador antes de gastar más muestra para obtener versiones distintas de la misma incertidumbre.
+Cerré el analizador antes de gastar más muestra para obtener versiones distintas de la misma incertidumbre.
 
-A un lado del banco estaban tus envases terrestres.
+A un lado del banco estaban mis envases terrestres.
 
 Al otro, el frasco de Elyndran.
 
 La luz atravesaba los tres igual.
 
-Volviste al vídeo de las criaturas. A velocidad normal, sus puntos apenas parecían parpadear. En cámara lenta se separaban en grupos.
+Volví al vídeo de las criaturas. A velocidad normal, sus puntos apenas parecían parpadear. En cámara lenta se separaban en grupos.
 
-No escribiste *señal*.
+No escribí *señal*.
 
-No escribiste *comunicación*.
+No escribí *comunicación*.
 
-Tampoco bebiste del frasco.
+Tampoco bebí del frasco.
 
 La pregunta práctica seguía abierta.
 
-¿Podías usar aquella agua?
+¿Podía usar aquella agua?
 
 La respuesta seguía siendo no.
 
 Pero ya no era un no vacío.
 
-Ahora sabías qué parte de la pregunta no podías resolver todavía.
+Ahora sabía qué parte de la pregunta no podía resolver todavía.
