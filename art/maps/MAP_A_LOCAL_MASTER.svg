@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1800" viewBox="0 0 1200 1800" role="img" aria-labelledby="title desc">
+<title id="title">ELYNDRAN — Mapa A, sector local</title>
+<desc id="desc">Cartografía diegética del sector local explorado hasta el capítulo XII.</desc>
+<defs><style>
+.bg{fill:#f3efe4}.root{fill:none;stroke:#5b5a55;stroke-width:28;stroke-linecap:round;stroke-linejoin:round;opacity:.42}.route{fill:none;stroke:#242523;stroke-width:7;stroke-linecap:round;stroke-linejoin:round}.unknown{fill:none;stroke:#777771;stroke-width:5;stroke-dasharray:18 16;opacity:.7}.thin{fill:none;stroke:#62635f;stroke-width:3}.label{font:28px Georgia,serif;fill:#222321;letter-spacing:1px}.small{font:21px Georgia,serif;fill:#4f504c}.tiny{font:18px Georgia,serif;fill:#676862}.node{fill:#f3efe4;stroke:#242523;stroke-width:5}.water{fill:none;stroke:#555b5c;stroke-width:5}.fog{fill:#d8d8d1;opacity:.38}.warn{font:italic 19px Georgia,serif;fill:#555650}</style></defs>
+<rect class="bg" width="1200" height="1800"/>
+<text class="label" x="90" y="105">MAPA A · SECTOR LOCAL</text><text class="small" x="90" y="145">cartografía de expedición · escala operativa variable</text>
+<path class="fog" d="M0 720 C250 650 420 780 640 700 C850 625 1000 680 1200 610 L1200 970 C940 1020 760 910 520 1000 C300 1080 140 990 0 1040Z"/>
+<!-- organic substrate, deliberately incomplete -->
+<path class="root" d="M160 420 C300 500 370 610 500 720 C610 815 690 900 770 1030"/>
+<path class="root" d="M500 720 C370 790 270 900 205 1085"/><path class="root" d="M500 720 C690 700 820 710 1030 650"/><path class="root" d="M500 720 C610 610 650 490 720 330"/>
+<path class="root" d="M210 1085 C290 1220 245 1380 170 1510"/><path class="root" d="M1030 650 C1110 560 1160 500 1220 450"/><path class="root" d="M720 330 C850 250 930 180 1030 95"/>
+<!-- explored route -->
+<path class="route" d="M165 420 C280 490 360 600 500 720"/>
+<circle class="node" cx="165" cy="420" r="18"/><text class="label" x="90" y="375">CÁPSULA</text>
+<circle class="node" cx="325" cy="555" r="10"/><text class="small" x="75" y="575">PRIMER MIRADOR</text>
+<circle class="node" cx="405" cy="640" r="9"/><text class="tiny" x="170" y="675">DEPRESIONES</text>
+<circle class="node" cx="455" cy="690" r="9"/><text class="tiny" x="270" y="730">PASO VARIABLE</text>
+<circle class="node" cx="500" cy="720" r="16"/><text class="label" x="525" y="760">BIFURCACIÓN</text>
+<!-- descending branch -->
+<path class="route" d="M500 720 C380 800 280 910 210 1085"/><path class="unknown" d="M210 1085 C245 1210 220 1330 165 1515"/>
+<ellipse class="water" cx="245" cy="1015" rx="26" ry="13"/><ellipse class="water" cx="285" cy="1040" rx="22" ry="11"/><text class="small" x="75" y="980">DISCOS</text><text class="tiny" x="70" y="1125">agua no validada · fauna observada</text><text class="tiny" x="85" y="1455">BAJA · continuidad desconocida</text>
+<!-- horizontal -->
+<path class="route" d="M500 720 C690 700 820 710 1030 650"/><circle class="node" cx="720" cy="700" r="13"/><text class="small" x="625" y="660">TRES BRAZOS</text><path class="thin" d="M905 680 l45 -40 l45 32"/><text class="small" x="860" y="620">BORDE ROTO</text><path class="unknown" d="M1030 650 C1100 605 1150 560 1205 520"/><text class="tiny" x="850" y="735">PLATAFORMA · PARCIAL</text><text class="tiny" x="850" y="765">superficie superior no visitada</text>
+<!-- ascending -->
+<path class="route" d="M500 720 C600 615 655 500 720 330"/><text class="small" x="610" y="545">BÓVEDA</text><text class="tiny" x="665" y="505">mayor carga de filtro</text><circle class="node" cx="685" cy="420" r="9"/><text class="tiny" x="745" y="435">PLACAS · fauna terrestre</text><circle class="node" cx="720" cy="330" r="11"/><text class="small" x="755" y="330">TERRAZA</text><path class="unknown" d="M720 330 C830 250 930 175 1035 90"/>
+<!-- uncertainty toward future expansion -->
+<path class="unknown" d="M325 555 C230 480 150 390 70 300"/><text class="tiny" x="75" y="265">dirección observada · no recorrida</text>
+<text class="small" x="90" y="1635">LEYENDA</text><path class="route" d="M90 1680 h95"/><text class="tiny" x="210" y="1687">recorrido</text><path class="unknown" d="M390 1680 h95"/><text class="tiny" x="510" y="1687">observado / no recorrido</text><circle class="node" cx="805" cy="1680" r="9"/><text class="tiny" x="830" y="1687">referencia</text>
+<text class="tiny" x="90" y="1745">NO CARTOGRAFIADO — el dibujo representa una fracción local de una red suspendida.</text>
+</svg>
