@@ -1,8 +1,8 @@
 # Capítulo XXIII — Lo que dejas fuera
 
-La lluvia empezó mientras limpiabas el banco.
+La lluvia empezó mientras limpiaba el banco.
 
-La cámara exterior mostró el problema antes de que pudieras oírlo.
+La cámara exterior mostró el problema antes de que pudiera oírlo.
 
 Uno de los apoyos del colector había cedido. La lámina seguía unida a la cápsula, pero su borde limpio descansaba sobre la raíz.
 
@@ -16,21 +16,21 @@ El camino que seguía, sí.
 
 Había nueve raciones seguras en el armario.
 
-La cifra apareció mientras preparabas el traje aunque no tuviera nada que ver con el colector.
+La cifra apareció mientras preparaba el traje aunque no tuviera nada que ver con el colector.
 
 Cada salida costaba filtro, energía, limpieza y comida.
 
-Esta vez no necesitabas alejarte seis metros.
+Esta vez no necesitaba alejarme seis metros.
 
-Saliste con abrazaderas, cinta, herramienta y un paño limpio.
+Salí con abrazaderas, cinta, herramienta y un paño limpio.
 
 La cara interior de la lámina había tocado corteza.
 
 Dejó de ser limpia en ese instante.
 
-Enderezaste el soporte deformado mientras una ráfaga empujaba la lluvia de lado. Las membranas se habían tensado un segundo antes.
+Enderecé el soporte deformado mientras una ráfaga empujaba la lluvia de lado. Las membranas se habían tensado un segundo antes.
 
-Sujetaste la lámina contra la cápsula, esperaste a que el viento pasara y aseguraste los tres puntos de apoyo.
+Sujet é la lámina contra la cápsula, esperé a que el viento pasara y aseguré los tres puntos de apoyo.
 
 La inclinación volvió a funcionar.
 
@@ -40,9 +40,9 @@ Eso no deshacía el contacto anterior.
 
 ---
 
-Enjuagaste la lámina con varios volúmenes de lluvia, descartando los primeros. La lluvia empezó a debilitarse antes de que terminaras.
+Enjuagué la lámina con varios volúmenes de lluvia, descartando los primeros. La lluvia empezó a debilitarse antes de que terminara.
 
-Cuando regresaste, la recirculación tardó lo habitual.
+Cuando regresé, la recirculación tardó lo habitual.
 
 El filtro había acumulado poco comparado con una visita a la bóveda.
 
@@ -50,11 +50,11 @@ Poco no era cero.
 
 La lluvia siguió casi una hora y el colector volvió a producir un hilo separado de la corteza.
 
-No guardaste los primeros volúmenes.
+No guardé los primeros volúmenes.
 
 Una fracción posterior pasó a una bolsa distinta de la reserva terrestre.
 
-La filtraste y trataste térmicamente en una cantidad pequeña.
+La filtré y traté térmicamente en una cantidad pequeña.
 
 Acidez corregible.
 
@@ -70,9 +70,9 @@ La historia de recogida, no.
 
 Aquella lámina había tocado la raíz.
 
-Guardaste el volumen como **reserva experimental**.
+Guardé el volumen como **reserva experimental**.
 
-No bebiste.
+No bebí.
 
 El agua terrestre siguió siendo la fuente principal.
 
@@ -82,11 +82,11 @@ Al anochecer la lluvia cesó.
 
 La cámara mostró las tres abrazaderas firmes y una gota tardía recorriendo la cara interior hasta caer en el recipiente sin tocar corteza.
 
-Eso era todo lo que podías afirmar.
+Eso era todo lo que podía afirmar.
 
-Abriste una de las nueve raciones completas y comiste la mitad fría.
+Abrí una de las nueve raciones completas y comí la mitad fría.
 
-Guardaste la otra mitad.
+Guardé la otra mitad.
 
 Quedaban ocho raciones completas y una mitad segura.
 
@@ -96,4 +96,4 @@ La reserva experimental quedó separada.
 
 No era agua ganada todavía.
 
-Era una posibilidad que no pensabas confundir con sed.
+Era una posibilidad que no pensaba confundir con sed.
