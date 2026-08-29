@@ -2,9 +2,9 @@
 
 La lámina del colector seguía firme y la reserva experimental de lluvia continuaba separada del agua terrestre.
 
-No la bebiste.
+No la bebí.
 
-Abriste el armario.
+Abrí el armario.
 
 Ocho raciones completas y una mitad.
 
@@ -12,7 +12,7 @@ La rodilla derecha tardó menos en soltarse que el día anterior.
 
 Eso no significaba que estuviera bien.
 
-Miraste el mapa.
+Miré el mapa.
 
 La plataforma seguía siendo la pregunta que exigía menos distancia y más cuidado.
 
@@ -22,13 +22,13 @@ El borde inferior.
 
 ---
 
-Usaste la ruta horizontal y la alternativa superior del canal de raíces paralelas sin probar el apoyo antiguo.
+Usé la ruta horizontal y la alternativa superior del canal de raíces paralelas sin probar el apoyo antiguo.
 
-La estructura de tres brazos quedó atrás. Ambas cavidades visibles contenían película transparente. No te detuviste a medir tonos.
+La estructura de tres brazos quedó atrás. Ambas cavidades visibles contenían película transparente. No me detuve a medir tonos.
 
-Bajaste por la rama húmeda hasta situarte de nuevo bajo la plataforma.
+Bajé por la rama húmeda hasta situarme de nuevo bajo la plataforma.
 
-Repetiste primero la fotografía antigua.
+Repetí primero la fotografía antigua.
 
 Misma posición aproximada.
 
@@ -40,7 +40,7 @@ Unos doce centímetros más de material visible que en el registro anterior.
 
 Las referencias próximas coincidían suficientemente bien para que el cambio no desapareciera al alinear las imágenes.
 
-No sabías qué se había movido.
+No sabía qué se había movido.
 
 La corteza.
 
@@ -48,7 +48,7 @@ La raíz.
 
 La estructura.
 
-Escribiste:
+Escribí:
 
 **NERVADURA MÁS EXPUESTA ENTRE REGISTROS. MECANISMO NO DETERMINADO.**
 
@@ -60,17 +60,17 @@ Desgaste.
 
 Rotura.
 
-No metiste los dedos.
+No metí los dedos.
 
 ---
 
-La fibra gruesa próxima a la nervadura parecía capaz de sostenerte.
+La fibra gruesa próxima a la nervadura parecía capaz de sostenerme.
 
 A simple vista.
 
 Eso no significaba nada.
 
-La probaste primero con la mano y después con una línea y una herramienta suspendida.
+La probé primero con la mano y después con una línea y una herramienta suspendida.
 
 Flexionó unos milímetros y quedó estable.
 
@@ -78,49 +78,49 @@ La prueba demostraba que podía sostener una herramienta durante ese tiempo.
 
 Nada más.
 
-No subiste.
+No subí.
 
-Dejaste una vuelta floja de cinta como referencia visual y fotografiaste la separación entre fibra y nervadura.
+Dejé una vuelta floja de cinta como referencia visual y fotografié la separación entre fibra y nervadura.
 
 **POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.**
 
 **NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.**
 
-Volviste a la cápsula y comiste la mitad que quedaba abierta.
+Volví a la cápsula y comí la mitad que quedaba abierta.
 
 Ocho raciones completas.
 
-La siguiente prueba no usaría tu cuerpo como peso.
+La siguiente prueba no usaría mi cuerpo como peso.
 
 ---
 
-Construiste una carga con piezas de la cápsula que ya no tenían función: revestimientos deformados, cierres inútiles y una carcasa metálica del sistema de impacto.
+Construí una carga con piezas de la cápsula que ya no tenían función: revestimientos deformados, cierres inútiles y una carcasa metálica del sistema de impacto.
 
-Las envolviste en malla del paracaídas y las aseguraste con línea.
+Las envolví en malla del paracaídas y las aseguré con línea.
 
-El conjunto pesaba varias veces más que la herramienta y seguía muy por debajo de tu masa con traje.
+El conjunto pesaba varias veces más que la herramienta y seguía muy por debajo de mi masa con traje.
 
 Era un escalón de prueba.
 
-Lo arrastraste hasta la plataforma.
+Lo arrastré hasta la plataforma.
 
-El viaje fue lento porque cada paso debía ser seguro para ti y también dejar una trayectoria por la que la masa pudiera pasar sin tirarte desde atrás.
+El viaje fue lento porque cada paso debía ser seguro para mí y también dejar una trayectoria por la que la masa pudiera pasar sin tirarme desde atrás.
 
-En el canal de raíces paralelas cruzaste primero y pasaste el paquete por separado.
+En el canal de raíces paralelas crucé primero y pasé el paquete por separado.
 
 La rodilla se calentó, pero siguió aceptando carga.
 
 ---
 
-Bajo la plataforma, la cinta de referencia continuaba donde la habías dejado.
+Bajo la plataforma, la cinta de referencia continuaba donde la había dejado.
 
-Montaste el ensayo desde una posición que permitía perder el paquete sin perderte con él.
+Monté el ensayo desde una posición que permitía perder el paquete sin perderme con él.
 
-Pasaste una línea alrededor de la fibra gruesa y bajaste la masa hasta dejarla suspendida unos centímetros por debajo de la rama.
+Pasé una línea alrededor de la fibra gruesa y bajé la masa hasta dejarla suspendida unos centímetros por debajo de la rama.
 
 La fibra flexionó.
 
-Esperaste.
+Esperé.
 
 Cinco segundos.
 
@@ -130,7 +130,7 @@ Treinta.
 
 Quedó estable.
 
-Desplazaste después el punto de suspensión unos centímetros hacia un extremo para empeorar el brazo de palanca.
+Desplacé después el punto de suspensión unos centímetros hacia un extremo para empeorar el brazo de palanca.
 
 Volvió a flexionar.
 
@@ -160,9 +160,9 @@ La niebla y el ángulo no permitían una cifra mejor.
 
 La nervadura oscura no mostró movimiento apreciable.
 
-Esperaste.
+Esperé.
 
-La fibra mantuvo la nueva tensión y después cedió muy despacio. No pudiste demostrar que regresara exactamente a su posición inicial.
+La fibra mantuvo la nueva tensión y después cedió muy despacio. No pude demostrar que regresara exactamente a su posición inicial.
 
 Había sostenido la carga.
 
@@ -170,15 +170,15 @@ También había cambiado mientras la sostenía.
 
 La pregunta ya no era solo cuánto peso aguantaba.
 
-Era cuánto podía moverse mientras dependieras de ella.
+Era cuánto podía moverse mientras yo dependiera de ella.
 
 ---
 
-No repetiste el ensayo.
+No repetí el ensayo.
 
-Recuperaste el paquete y retiraste la línea de carga. La vuelta floja de cinta quedó como referencia.
+Recuperé el paquete y retiré la línea de carga. La vuelta floja de cinta quedó como referencia.
 
-Escribiste:
+Escribí:
 
 **FIBRA: CARGA INTERMEDIA SOSTENIDA SIN ROTURA OBSERVADA.**
 
@@ -186,16 +186,16 @@ Escribiste:
 
 Una estructura que soportaba peso no se volvía segura por eso.
 
-El regreso castigó la rodilla más que la ida. En una estrechez necesitó dos intentos para aceptar el peso al levantarte, sin dolor agudo ni inflamación nueva.
+El regreso castigó la rodilla más que la ida. En una estrechez necesité dos intentos para aceptar el peso al levantarme, sin dolor agudo ni inflamación nueva.
 
-Dentro limpiaste también el paquete antes de cruzarlo a la zona limpia.
+Dentro limpié también el paquete antes de cruzarlo a la zona limpia.
 
-Abriste una de las ocho raciones, comiste la mitad fría y sellaste la otra.
+Abrí una de las ocho raciones, comí la mitad fría y sellé la otra.
 
 Quedaban siete completas y una mitad segura.
 
 En la pantalla, la fibra seguía congelada bajo carga.
 
-Habías ido a comprobar cuánto podía sostener.
+Había ido a comprobar cuánto podía sostener.
 
-Volviste sabiendo que sostener no era lo mismo que quedarse quieta.
+Volví sabiendo que sostener no era lo mismo que quedarse quieta.
