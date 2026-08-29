@@ -1,4 +1,4 @@
-# ELYNDRAN — Estándar del mapa de expedición v0.9
+# ELYNDRAN — Estándar del mapa de expedición v1.0
 
 ## Función
 
@@ -8,42 +8,42 @@ Regla principal:
 
 > **Lo cartografiado debe parecer pequeño. Lo no cartografiado debe parecer inmenso.**
 
-Este estándar está alineado con el manuscrito vigente: **Prólogo + I–XXV**. Las especificaciones de producción son:
+El estándar está alineado con **Prólogo + I–XXV** y con:
 
 - `art/maps/MAP_A_LOCAL_SPEC.md`
 - `art/maps/MAP_B_XXV_EXPANSION_SPEC.md`
 
-## Jerarquía vigente
+## Regla temporal
 
-La edición v0.4 utiliza únicamente dos mapas editoriales completos.
+Cada mapa queda congelado en el conocimiento disponible en el punto editorial donde aparece. Un dato verdadero en XXV sigue siendo un **spoiler** si se imprime en una lámina situada tras XII.
 
-### Mapa A — Sector local
+## Mapa A — Sector local · conocimiento ≤ XII
 
-Momento recomendado: después de XII o como lámina de transición antes de XIII.
+Momento: después de XII o como transición antes de XIII.
 
 Debe mostrar:
 
 - cápsula;
 - primera ruta y primer mirador;
-- depresiones y paso variable;
+- depresiones, arañazos y depresión pequeña conocidos hasta XII;
 - bifurcación;
 - rama descendente: fibras, discos, fauna acuática y continuidad desconocida;
-- rama horizontal: estructura de tres brazos, borde roto y cara inferior parcial de plataforma;
+- rama horizontal: tres brazos, borde roto y plataforma parcial, incluida la aproximación inferior conocida;
 - rama ascendente: bóveda, placas cobrizas, criatura de seis apoyos y terraza;
-- verticalidad y niveles de niebla.
+- verticalidad y niebla.
 
-No debe revelar la superficie superior de la plataforma ni una ruta exterior que el protagonista aún no haya recorrido.
+No puede mostrar descubrimientos posteriores a XII. En particular: **no `PASO VARIABLE`, no raíz inferior desplazada, no alternativa superior habitual, no `NODO EXTERIOR 1`, no región de cascadas, no planeadores.**
 
-### Mapa B — Ampliación tras XXV
+## Mapa B — Ampliación tras XXV
 
 Momento: inmediatamente después de XXV — `La escala que faltaba`.
 
-Debe conservar el Mapa A como un sector pequeño y reconocible y añadir:
+Puede actualizar el sector local con conocimiento acumulado hasta XXV y debe añadir:
 
-- primer mirador como punto de salida del sector local;
+- primer mirador como salida del sector local;
 - tramo de raíz ensanchada;
 - `NODO EXTERIOR 1`;
-- dos continuidades del nodo todavía sin explorar;
+- dos continuidades del nodo sin explorar;
 - ruta izquierda recorrida;
 - región elevada sobre la niebla;
 - región de cascadas;
@@ -53,108 +53,71 @@ Debe conservar el Mapa A como un sector pequeño y reconocible y añadir:
 - ruptura provisional;
 - niveles inferiores visibles sin suelo planetario.
 
-El Mapa B sigue siendo **regional**, no planetario.
+Mapa B sigue siendo **regional**, no planetario.
 
 ## Escala
 
-No usar kilómetros, coordenadas globales ni porcentajes de planeta explorado si el texto no los sostiene.
+No usar kilómetros, coordenadas globales ni porcentajes del planeta si el texto no los sostiene. Se permiten distancias de recorrido canónicas, cotas relativas `SUBE` / `BAJA`, escala operativa variable y abanicos de incertidumbre.
 
-Se permiten:
-
-- distancias estimadas de recorrido cuando están en canon;
-- cotas relativas `SUBE` / `BAJA`;
-- escala operativa variable;
-- abanicos de incertidumbre para referencias lejanas.
-
-El dato de XXV según el cual el sector explorado ocupa menos de una quinta parte de la pantalla en la nueva escala describe únicamente la **pantalla operativa del protagonista**. Nunca debe convertirse en `20 % de Elyndran`.
+El dato de XXV de que el sector explorado ocupa menos de una quinta parte de la pantalla describe solo la pantalla operativa del protagonista; nunca `20 % de Elyndran`.
 
 ## Lenguaje gráfico
 
-- master vectorial o raster con fondo transparente; el papel marfil pertenece a la maqueta;
-- tinta gris carbón / grafito;
-- acentos mínimos y funcionales;
+- master vectorial o raster con fondo transparente cuando sea viable; el papel marfil pertenece a la maqueta;
+- tinta gris carbón/grafito;
+- acentos mínimos;
 - dibujo técnico-orgánico, no mapa fantástico;
-- ruta recorrida = línea continua;
+- recorrido = línea continua;
 - observado/no recorrido = línea discontinua;
-- dirección estimada = línea fina o abanico de incertidumbre;
-- límite no accesible = final explícito sin rellenar lo desconocido;
-- niebla y cortes laterales para expresar niveles verticales;
-- etiquetas sobrias, legibles a 6×9.
+- dirección estimada = línea fina o abanico;
+- límite no accesible = final explícito;
+- niebla/cortes laterales para niveles verticales;
+- etiquetas legibles en 6×9.
 
-Prohibidos: pergamino medieval, rosa de los vientos ornamental, runas, neón, radar, HUD, minimapa circular, iconos de misión, enemigos, tesoros o porcentaje explorado.
+Prohibidos: pergamino medieval, rosa ornamental, runas, neón, radar, HUD, minimapa circular, iconos de misión, enemigos, tesoros y porcentaje explorado.
 
 ## Regla de conocimiento
 
-El mapa solo contiene información disponible para el protagonista en el punto narrativo donde aparece.
-
-No introducir:
-
-- topónimos no usados por él;
-- accesos no recorridos;
-- estructuras ocultas;
-- ruta completa a la cascada;
-- superficie superior de la plataforma;
-- ciudades, ruinas o asentamientos;
-- señales de habitantes;
-- topografía global inventada.
-
-Una hipótesis se representa como incertidumbre, nunca como icono factual.
+No introducir topónimos no usados, accesos no recorridos, estructuras ocultas, ruta completa a la cascada, superficie superior de plataforma, ciudades, ruinas, asentamientos o señales de habitantes no demostradas. Una hipótesis se representa como incertidumbre, nunca como hecho.
 
 ## Espacio desconocido
 
 ### Mapa A
 
-Al menos 45–55 % de la lámina debe quedar sin cartografiar, disolverse en niebla o terminar en límites abiertos.
+Al menos 45–55 % sin cartografiar o disuelto en niebla/márgenes.
 
 ### Mapa B
 
-La red local debe reducirse visualmente. La zona realmente recorrida debe ocupar aproximadamente un tercio o menos de la lámina útil; el resto son márgenes sin datos, raíces observadas a distancia y niveles no recorridos.
+La red local se reduce visualmente. La zona realmente recorrida ocupa aproximadamente un tercio o menos de la lámina útil; el resto son márgenes sin datos, raíces observadas a distancia y niveles no recorridos.
 
-No dibujar el contorno del planeta.
+No dibujar contorno planetario.
 
 ## Integración editorial
 
-Los mapas son láminas editoriales y no cuentan como una de las 1–2 imágenes interiores habituales de un capítulo.
+Los mapas son láminas y no cuentan como una de las 1–2 imágenes interiores habituales. Pueden ir a página completa, doble página o transición. No superponer sobre ilustración cinematográfica ni convertirlos en interfaz flotante.
 
-Pueden aparecer:
+## Continuidad A → B
 
-- a página completa;
-- a doble página cuando la verticalidad lo exija;
-- como lámina de transición entre bloques.
+Cápsula, primera ruta, bifurcación y primer mirador mantienen geometría relativa. B escala y extiende A, pero también puede registrar **cambios posteriores** del sector local si se distinguen claramente del estado mostrado en A.
 
-No superponerlos sobre una ilustración cinematográfica ni presentarlos como interfaz flotante.
-
-## Continuidad entre A y B
-
-La geometría relativa de cápsula, primera ruta, bifurcación y primer mirador debe permanecer idéntica.
-
-El Mapa B **escala y extiende** el A; no lo rediseña.
-
-El primer mirador debe quedar en un borde útil del Mapa A para permitir que en B la nueva ruta salga de él hacia `NODO EXTERIOR 1`.
+El primer mirador queda en un borde útil de A para que B prolongue desde allí hacia `NODO EXTERIOR 1`.
 
 ## Evolución futura
 
-No crear un tercer mapa completo solo porque exista un capítulo nuevo.
-
-Actualizar la cartografía cuando cambie de verdad la comprensión espacial. La jerarquía futura será:
-
-1. mapa local para navegación concreta;
-2. mapa regional cuando varias rutas locales queden conectadas;
-3. mapa de Elyndran conocido solo cuando exista evidencia suficiente para sostener una escala mayor.
-
-Nunca rellenar un mapa global por deseo editorial.
+No crear un tercer mapa completo por existir un capítulo nuevo. Actualizar cartografía solo cuando cambie de verdad la comprensión espacial: local → regional → Elyndran conocido cuando exista evidencia suficiente. Nunca rellenar un mapa global por deseo editorial.
 
 ## Gate 10/10
 
-Un mapa se aprueba únicamente si cumple simultáneamente:
+Un mapa se aprueba únicamente si cumple:
 
-1. orientación útil para el lector;
-2. verticalidad comprensible;
-3. zona explorada claramente menor que el mundo visible;
-4. ningún spoiler;
-5. coherencia exacta con `CONTINUITY.md` y las specs A/B;
-6. apariencia de documento funcional de expedición, no interfaz de juego;
-7. legibilidad en 6×9 y, si procede, a doble página;
-8. capacidad de ampliarse sin redibujar la geografía ya establecida.
+1. frontera temporal correcta para su ubicación editorial;
+2. orientación útil;
+3. verticalidad comprensible;
+4. zona explorada claramente menor que el mundo visible;
+5. ningún spoiler;
+6. coherencia con `CONTINUITY.md` y spec correspondiente;
+7. apariencia de documento funcional de expedición;
+8. legibilidad en 6×9;
+9. capacidad de ampliarse sin redibujar geografía establecida.
 
 **El mapa debe ampliar la sensación de mundo, no reducirla.**
