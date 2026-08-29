@@ -1,4 +1,4 @@
-name: Fix reader image loading
+name: Anchor chapter X illustrations
 
 on:
   push:
@@ -9,28 +9,39 @@ permissions:
   contents: write
 
 jobs:
-  fix:
+  anchor:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - name: Patch chapter image loader
+      - name: Patch chapter X anchors
         run: |
           python3 - <<'PY'
           from pathlib import Path
           p = Path('book.html')
           s = p.read_text(encoding='utf-8')
-          old = "function ill(id,label,opening=false){const f=document.createElement('figure');f.className='ill missing'+(opening?' opening':'');const img=document.createElement('img');const cap=document.createElement('figcaption');cap.textContent=id+' · '+label;img.alt=label+' — ELYNDRAN';img.loading='lazy';f.append(img,cap);const paths=['art/masters/'+id+'.webp','art/masters/'+id+'.png','art/masters/'+id+'.jpg','art/masters/'+id+'.svg'];let n=0;img.onload=()=>{f.classList.remove('missing');atlas()};img.onerror=()=>{if(++n<paths.length)img.src=paths[n]};img.src=paths[0];return f}"
-          new = "function ill(id,label,opening=false){const f=document.createElement('figure');f.className='ill missing'+(opening?' opening':'');const img=document.createElement('img');const cap=document.createElement('figcaption');cap.textContent=id+' · '+label;img.alt=label+' — ELYNDRAN';img.decoding='async';if(opening)img.fetchPriority='high';f.append(img,cap);const paths=['art/masters/'+id+'.webp','art/masters/'+id+'.png','art/masters/'+id+'.jpg','art/masters/'+id+'.svg'];let n=0;const probe=new Image();const next=()=>{if(n>=paths.length)return;probe.src=paths[n++]+'?v=20260829-3'};probe.onload=()=>{img.src=probe.src;f.classList.remove('missing');atlas()};probe.onerror=next;next();return f}"
-          if old not in s:
-              raise SystemExit('Expected image loader not found; refusing unsafe patch')
-          p.write_text(s.replace(old, new, 1), encoding='utf-8')
+          old_label = "'Antes de tocar la raíz','Cara inferior de la plataforma','La órbita vacía'"
+          new_label = "'Antes de tocar la raíz','El margen de una hora','La órbita vacía'"
+          old_known = "const extraKnown={1:[['I-I1','Primer mirador',11]],25:[['XXV-I2','Región de cascadas y planeadores',18]]};"
+          new_known = "const extraKnown={1:[['I-I1','Primer mirador',11]],10:[['X-I1','La primera línea recta',22],['X-I2','La cara inferior parcial',36]],25:[['XXV-I2','Región de cascadas y planeadores',18]]};"
+          if old_label not in s:
+              raise SystemExit('Expected X opening label not found; refusing unsafe patch')
+          if old_known not in s:
+              raise SystemExit('Expected anchor map not found; refusing unsafe patch')
+          s = s.replace(old_label, new_label, 1).replace(old_known, new_known, 1)
+          p.write_text(s, encoding='utf-8')
           PY
-      - name: Commit fix
+      - name: Verify chapter X contract
+        run: |
+          grep -F "'El margen de una hora'" book.html
+          grep -F "['X-I1','La primera línea recta',22]" book.html
+          grep -F "['X-I2','La cara inferior parcial',36]" book.html
+          test -f manuscript/10-una-hora-mas.md
+      - name: Commit anchors
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add book.html
-          git commit -m 'fix: load chapter images before revealing hidden figures'
+          git commit -m 'feat: anchor chapter X illustrations to narrative beats'
           git push origin HEAD:main
