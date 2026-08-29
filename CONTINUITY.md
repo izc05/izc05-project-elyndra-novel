@@ -31,8 +31,9 @@ Este archivo es el canon operativo de la novela. Registra solo lo establecido po
 - Capítulo XXIV: `manuscript/24-la-que-no-cuenta.md` — **La que no cuenta**.
 - Capítulo XXV: `manuscript/25-lo-que-dejas-fuera.md` — **Lo que dejas fuera**.
 - Capítulo XXVI: `manuscript/26-el-borde-que-queda.md` — **El borde que queda**.
+- Capítulo XXVII: `manuscript/27-lo-que-pesa.md` — **Lo que pesa**.
 
-El protagonista sigue completamente solo respecto a su expedición. La cápsula continúa siendo el único refugio seguro conocido. Ha explorado parcialmente tres ramas principales de una red de raíces suspendidas, ha observado fauna acuática y terrestre sin capturarla, ha regresado varias veces a lugares conocidos para comprobar cambios y todavía no ha alcanzado la superficie superior de la plataforma regular. No ha respirado deliberadamente aire exterior sin filtrado, no ha ingerido materia de Elyndran y no ha declarado potable ninguna fuente local de agua. Al cierre de XXVI quedan **8 raciones completas seguras**.
+El protagonista sigue completamente solo respecto a su expedición. La cápsula continúa siendo el único refugio seguro conocido. Ha explorado parcialmente tres ramas principales de una red de raíces suspendidas, ha observado fauna acuática y terrestre sin capturarla, ha regresado varias veces a lugares conocidos para comprobar cambios y todavía no ha alcanzado la superficie superior de la plataforma regular. No ha respirado deliberadamente aire exterior sin filtrado, no ha ingerido materia de Elyndran y no ha declarado potable ninguna fuente local de agua. Al cierre de XXVII quedan **7 raciones completas + 1/2 ración segura**.
 
 ## HECHOS
 
@@ -62,7 +63,7 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 
 ### Atmósfera, filtrado, piel y retorno a la cápsula
 
-- El protagonista mantiene casco y filtrado en todas las salidas hasta XXVI.
+- El protagonista mantiene casco y filtrado en todas las salidas hasta XXVII.
 - Una muestra controlada de aire exterior mostró presión y composición gaseosa parcialmente compatibles con respiración humana, sin alarmas inmediatas de gases conocidos, pero con particulado y fracción orgánica no clasificada.
 - La atmósfera **no** está declarada segura para respirar sin filtro.
 - La bóveda de la ruta ascendente carga el filtro más rápido que tramos de la primera ruta y que observaciones provisionales de la horizontal; las condiciones no son idénticas y no existe una ley cuantitativa cerrada.
@@ -77,6 +78,7 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - El protagonista ya usa su reacción como conocimiento corporal para ajustar postura y paso.
 - En XXII tres membranas permanecieron tensas antes de dos golpes profundos y de un cambio de geometría de una raíz, pero no se demostró relación causal.
 - En XXV una membrana vuelve a anticipar una ráfaga durante la reparación del colector.
+- En XXVII pequeñas membranas del techo de corteza permanecieron tensas durante los golpes profundos observados bajo la plataforma, sin viento local visible; no se demostró que detectaran o causaran el mismo fenómeno.
 
 ### Primera ruta, marcas y canal de raíces paralelas
 
@@ -87,7 +89,7 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - En XXII, tras dos golpes profundos, la raíz inferior de un paso habitual descendió unos centímetros. El protagonista evitó caer usando la raíz superior y el aseguramiento corto como limitación de deslizamiento.
 - El aseguramiento improvisado **no** se considera capaz de detener una caída humana completa.
 - La alternativa superior quedó registrada como paso utilizable.
-- En XXIII y XXVI la raíz inferior seguía baja. La alternativa superior ya se usa de forma habitual sin probar el apoyo antiguo.
+- En XXIII, XXVI y XXVII la raíz inferior seguía baja. La alternativa superior ya se usa de forma habitual sin probar el apoyo antiguo.
 
 ### Ruta descendente, discos y fauna acuática
 
@@ -106,12 +108,14 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - El protagonista reparó el soporte en dos salidas muy cortas, mantuvo casco y filtrado, descartó los dos primeros volúmenes tras la limpieza y trató una pequeña cantidad posterior.
 - El colector volvió a producir agua sin contacto con la raíz. La nueva lluvia tratada quedó como **reserva experimental** y no se bebió.
 - Al inicio y final de XXVI el colector reparado seguía firme; la reserva experimental no mostraba cambio visible, pero continuó sin consumirse.
+- En XXVII no llovió; la reserva experimental siguió separada y el protagonista bebió únicamente agua terrestre.
 
 ### Ruta horizontal, estructura de tres brazos y plataforma
 
 - Una estructura de unos 2,5 m incrustada en una raíz tiene tres brazos curvos; al menos dos producen tonos agudo y grave mediante vibración física.
 - Películas transparentes interiores vibran antes del tono. En XVII el tono agudo desapareció con su cavidad casi seca y reapareció mientras una película transparente aumentaba de nivel, con frecuencia diferente.
 - En XXVI ambas cavidades visibles contenían película; no se realizó nueva medición de frecuencia.
+- En XXVII el tono agudo sonó unos segundos después de que una pieza del paquete de prueba golpeara una fibra durante el transporte; no se demostró relación causal.
 - La estructura tiene hendiduras regulares, pero no está demostrado que sean escritura o código.
 - Desde la horizontal se observa una plataforma con al menos seis formas verticales regulares, incluida una inclinada y otra con un hueco limpio. No se ha visto luz, humo, movimiento ni presencia humana.
 - Un borde roto casi plano presenta surcos paralelos. La distancia a la raíz opuesta impide saltar con seguridad.
@@ -120,10 +124,17 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - En XXVI se repitió la aproximación inferior. Una nervadura oscura próxima a una fibra gruesa aparece ahora expuesta en una franja de aproximadamente **12 cm**, diferencia que persiste al alinear dos referencias cercanas.
 - Cerca de esa nervadura se observó una depresión poco profunda de unos **7 cm** en material oscuro, con al menos un borde demasiado regular para confundirse con la corteza inmediata. No se sondó ni tocó.
 - La nervadura está aproximadamente a 1,5 m en horizontal y 1 m por encima del hombro desde el punto de observación; hay un hueco intermedio, por lo que no es un paso directo.
-- Una fibra gruesa cercana soportó solo una prueba pequeña: mano/línea y después una herramienta suspendida unos 30 s. Flexionó unos milímetros y se estabilizó.
-- Esa prueba **no** autoriza peso humano. El protagonista no escaló, no cargó el cuerpo sobre fibra ni nervadura y dejó solo una referencia floja de cinta.
-- Registro: `POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.`
-- Registro: `NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.`
+- En XXVI una fibra gruesa cercana soportó solo una prueba pequeña: mano/línea y después una herramienta suspendida unos 30 s. Flexionó unos milímetros y se estabilizó.
+- En XXVII el protagonista llevó un paquete de prueba construido con piezas de la cápsula ya sin función, malla y líneas del paracaídas. La masa era muy inferior a su peso con traje pero varias veces superior a la herramienta anterior.
+- La fibra sostuvo esa carga intermedia durante el ensayo sin rotura observada y flexionó más que con la herramienta.
+- Durante dos golpes profundos, con la carga aún suspendida, la fibra aumentó tensión y pareció acortarse aproximadamente unos centímetros respecto a una referencia visual. Después cedió lentamente, sin regresar de forma demostrable a la posición inicial.
+- Dos referencias laterales en las fotografías permanecieron alineadas, por lo que el cambio observado no se explica por completo por un movimiento grande de la cámara; la magnitud exacta sigue incierta.
+- La nervadura oscura no mostró movimiento evidente a simple vista durante el episodio.
+- La prueba **no** autoriza peso humano. El protagonista no escaló ni cargó su cuerpo en fibra o nervadura.
+- Registro de XXVI: `POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.`
+- Registro de XXVI: `NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.`
+- Registro de XXVII: `FIBRA: CARGA INTERMEDIA SOSTENIDA DURANTE EL ENSAYO SIN ROTURA OBSERVADA.`
+- Registro de XXVII: `CAMBIO DE LONGITUD/TENSIÓN COINCIDENTE CON GOLPES PROFUNDOS. MAGNITUD PEQUEÑA. CAUSA NO DETERMINADA.`
 
 ### Ruta ascendente, placas cobrizas y fauna terrestre
 
@@ -155,12 +166,13 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - Baliza, recirculación, análisis, bombas, tratamiento térmico y otras cargas compiten por energía finita; la recuperación depende en parte de la luz que atraviesa la niebla.
 - La baliza tiene prioridad explícita frente a cargas no esenciales y continúa sin respuesta confirmada incluso con potencia estable.
 - El receptor permanece en escucha pasiva ampliada tras XX; el seguimiento consume energía baja pero no nula.
+- En XXVII se reaprovecharon dos placas de revestimiento deformadas, un soporte partido, tres cierres inutilizados y una carcasa metálica del sistema de impacto, todos ya sin función operativa, para construir una masa de ensayo recuperable.
 
 ## HIPÓTESIS ACTIVAS
 
 - El intervalo de 37 s puede ser fallo, acoplamiento interno, referencia temporal compartida, interferencia, señal externa o fenómeno desconocido. La coincidencia entre entrada, XX y XXI puede ser significativa o accidental.
 - Aster puede seguir en otra órbita, estar dañada, haber perdido transpondedor, haber caído o estar fuera de la ventana calculada; nada está demostrado.
-- Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento; su coincidencia con golpes en XXII no demuestra que detecten el mismo fenómeno.
+- Las membranas pueden detectar presión, vibración, campo eléctrico u otra variable previa al viento; su coincidencia con golpes en XXII y XXVII no demuestra que detecten el mismo fenómeno.
 - Los golpes profundos pueden ser estructurales, geológicos o biológicos.
 - Las depresiones y arañazos pueden proceder de tránsito, erosión, flexión, impacto u otros mecanismos; no llamarlos huellas.
 - La mayor carga de filtro de la bóveda puede deberse a concentración de partículas, humedad o interacción de ambas.
@@ -169,7 +181,9 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - La plataforma puede ser artificial, biológica, mineral o una combinación. La relación mecánica e histórica entre raíz y estructura es desconocida.
 - La mayor exposición de la nervadura en XXVI puede deberse a retracción de raíz/corteza, desplazamiento relativo, cambio de carga, pérdida local de material o encuadre residual.
 - La depresión regular de 7 cm puede ser unión, desgaste, hueco funcional, rotura antigua u otra característica.
-- La fibra gruesa puede soportar más carga que la probada, pero no existe evidencia para extrapolar a peso humano.
+- La fibra gruesa puede soportar más carga que la probada, pero XXVII demuestra además que su geometría/tensión puede variar bajo carga coincidiendo con golpes profundos; fuerza y estabilidad no son equivalentes.
+- El cambio de longitud/tensión de la fibra en XXVII puede ser respuesta elástica tardía, transmisión estructural, cambio de presión, movimiento biológico local u otro mecanismo. No está demostrado que la fibra responda a la carga ni al protagonista.
+- El tono agudo oído tras el golpe del paquete contra una fibra puede ser coincidencia o estar relacionado con vibración transmitida; no se ha repetido la prueba.
 - La película oscura puede formar parte de la dieta o de otra función de la criatura de seis apoyos. La transferencia hacia el cuerpo no demuestra digestión.
 - La recuperación parcial de la película puede deberse a crecimiento, deposición, desplazamiento desde material vecino, humedad o combinación.
 - La lluvia tratada puede llegar a ser una fuente útil solo si recogida, limpieza, tratamiento, almacenamiento y energía resultan sostenibles.
@@ -192,7 +206,8 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - ¿Qué produjo los surcos del borde roto y la vibración fina cercana?
 - ¿Por qué está más expuesta la nervadura en XXVI: cambió la raíz, la estructura o ambas?
 - ¿Qué función tiene, si alguna, la depresión regular de 7 cm?
-- ¿Qué carga real soportan la fibra y la nervadura, y puede construirse una cadena segura de apoyos hasta la trama inferior?
+- ¿Qué carga real soportan la fibra y la nervadura, cuánto pueden moverse bajo carga y puede construirse una cadena segura de apoyos hasta la trama inferior?
+- ¿Los golpes profundos cambian de forma reproducible la longitud/tensión de fibras concretas o el episodio de XXVII fue circunstancial?
 - ¿Desde la trama inferior existe alguna vía hacia la superficie superior de la plataforma?
 - ¿Qué mecanismo mueve agua hacia arriba en la bóveda?
 - ¿Qué papel ecológico tiene la criatura de seis apoyos y qué sucede con la película tras entrar en su cuerpo?
@@ -206,14 +221,14 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - **Primera ruta:** conecta cápsula y bifurcación; conocida de memoria, pero XXII demuestra que la geometría puede cambiar.
 - **Zona del antiguo marcador:** raspado parcialmente cubierto; la referencia estable pasa a ser una alineación geométrica.
 - **Zona de las depresiones:** tres depresiones grandes, arañazos nuevos y una depresión pequeña posterior.
-- **Canal de raíces paralelas:** raíz inferior desplazada unos centímetros desde XXII; alternativa superior consolidada como paso habitual.
+- **Canal de raíces paralelas:** raíz inferior desplazada unos centímetros desde XXII; alternativa superior consolidada como paso habitual. En XXVII el protagonista logra pasar un paquete de prueba por separado, con coste físico y maniobra lenta.
 - **Bifurcación:** tres ramas exploradas parcialmente.
 - **Ruta descendente:** conduce a fibras, discos, fauna acuática y muestra de agua.
 - **Ruta horizontal:** conduce a la estructura de tres brazos, borde roto y aproximación inferior de plataforma. Coste de filtro provisionalmente menor que la bóveda ascendente.
 - **Estructura de tres brazos:** referencia física/acústica cuya condición sonora cambia con el estado de sus películas.
 - **Borde roto:** surcos paralelos y vista de raíz opuesta.
 - **Rama inferior de aproximación:** resbaladiza, permite observar la parte inferior de la plataforma.
-- **Parte inferior de la plataforma:** capas, nervaduras, huecos, banda oscura y crecimiento vivo; en XXVI aparece una posible aproximación de fibra + nervadura aún no segura.
+- **Parte inferior de la plataforma:** capas, nervaduras, huecos, banda oscura y crecimiento vivo; XXVI abre una posible aproximación de fibra + nervadura y XXVII demuestra que la fibra puede sostener una carga intermedia sin romperse, pero puede cambiar de tensión/longitud durante golpes profundos.
 - **Plataforma regular:** superficie superior no visitada.
 - **Ruta ascendente / bóveda:** mayor coste de filtrado observado, vegetación densa, placas cobrizas y terraza alta.
 - **Zona de placas cobrizas:** lugar de la criatura de seis apoyos y de la película oscura investigada.
@@ -235,7 +250,7 @@ El protagonista sigue completamente solo respecto a su expedición. La cápsula 
 - Películas transparentes de la estructura de tres brazos: asociadas a cavidades y tonos.
 - Particulado exterior: mezcla de minerales, fibras, fragmentos translúcidos y estructuras microscópicas con fracción orgánica no clasificada.
 - Raíz/corteza de la trama inferior: cambia de cobertura aparente entre registros en al menos un punto; mecanismo no determinado.
-- Fibra gruesa próxima a la plataforma: flexiona bajo carga pequeña; capacidad estructural humana no demostrada.
+- Fibra gruesa próxima a la plataforma: flexiona bajo carga pequeña e intermedia. En XXVII modifica tensión/longitud unos centímetros coincidiendo con golpes profundos; capacidad y estabilidad para carga humana siguen sin demostrarse.
 
 ## FAUNA CONFIRMADA
 
@@ -258,7 +273,7 @@ No confirmado: identidad entre individuos observados, dieta fisiológica, digest
 - Búferes del receptor con anomalías de XX y XXI y ciclos posteriores sin repetición equivalente.
 - Cámara y registros comparativos de rutas, plataforma, placas, fauna y estructura de tres brazos.
 - Sistema improvisado de aseguramiento, explícitamente no certificado para sostener una caída humana.
-- Líneas, correas y malla recuperadas del paracaídas; dos líneas se usan como herramientas de control en XXVI.
+- Líneas, correas y malla recuperadas del paracaídas; dos líneas se usan como herramientas de control en XXVI y XXVII.
 - Colector experimental de lluvia, reparado en XXV.
 - Bolsas reutilizadas para lluvia; reserva experimental separada del agua terrestre.
 - Analizador, reactivos y material de tratamiento limitados.
@@ -269,27 +284,29 @@ No confirmado: identidad entre individuos observados, dieta fisiológica, digest
 - Marca física del armario de comida y marca del alojamiento de filtros.
 - Módulo térmico reparado y operativo, normalmente apagado.
 - Regla de prioridad eléctrica que bloquea cargas no esenciales durante emisiones automáticas.
-- Referencia floja de cinta dejada en XXVI alrededor de una fibra próxima a la plataforma; no es un anclaje.
+- Referencia floja de cinta dejada en XXVI alrededor de una fibra próxima a la plataforma; no es un anclaje y en XXVII sirve para observar un cambio relativo durante la prueba.
+- Paquete de prueba de XXVII: piezas de la cápsula ya sin función envueltas en malla de paracaídas y controladas con líneas; regresó a la zona de entrada y fue limpiado antes de cruzar a la zona limpia.
 
 ## ESTADO FÍSICO
 
 - Costado izquierdo en mejoría; cuello con rigidez residual; nudillos antiguos con movilidad conservada.
 - Rodilla derecha sigue siendo la limitación persistente principal: rigidez, molestias con flexión y endurecimiento durante esperas o cambios de altura.
 - El incidente de XXII dobló la rodilla antes de tiempo al perder un apoyo, pero no produjo lesión aguda nueva demostrada.
-- XXIII, XXV y XXVI muestran que tolera marcha y salidas si evita flexión profunda y descarga peso; al final de XXVI queda rígida pero sin inflamación visible nueva.
+- XXIII, XXV y XXVI muestran que tolera marcha y salidas si evita flexión profunda y descarga peso.
+- En XXVII arrastrar y maniobrar el paquete de prueba aumenta la carga física: la rodilla se calienta y al final queda rígida; en un punto tarda dos intentos en aceptar peso al levantarse, pero no aparece inflamación visible ni lesión aguda nueva demostrada.
 - Capacidad motora general conservada.
 - No hay nueva exposición dérmica después de XVI.
 - No ha respirado deliberadamente aire exterior sin filtrado.
 
 ## RECURSOS
 
-- **Comida:** presión explícita y físicamente contada. XXIII: 11,5 → 10,5 raciones. XXIV: una ración con sellado comprometido se descarta y se consume 0,5 → 9 raciones completas. XXV: consume 0,5 y deja **8 raciones completas + 0,5 ración segura**. XXVI consume esa mitad separada y termina con **8 raciones completas seguras**.
-- **Agua:** agua terrestre sigue siendo fuente principal. Agua de discos no consumida. Lluvia tratada solo como reserva experimental; la muestra de XXV tampoco se bebe.
-- **Filtros:** finitos; bóveda ascendente consume más capacidad y más batería por compensación de caudal.
-- **Energía:** finita, con recuperación variable por luz. Baliza, recirculación, análisis, tratamiento, bombas y calor compiten.
-- **Reactivos:** limitados. XXIV consume una porción adicional para el control de alimento terrestre. No se repite muestreo de película sin pregunta concreta.
-- **Limpieza:** cada salida consume paños, agua/humedad y energía de recirculación, incluso salidas breves junto a la cápsula.
-- **Equipo de ascenso:** no existe todavía un sistema certificado para peso humano; las pruebas de XXVI son deliberadamente pequeñas.
+- **Comida:** presión explícita y físicamente contada. XXIII: 11,5 → 10,5 raciones. XXIV: una ración con sellado comprometido se descarta y se consume 0,5 → 9 raciones completas. XXV: consume 0,5 y deja **8 raciones completas + 0,5 ración segura**. XXVI consume esa mitad separada y termina con **8 raciones completas seguras**. XXVII abre un paquete, consume 0,5 y deja **7 raciones completas + 0,5 ración segura**.
+- **Agua:** agua terrestre sigue siendo fuente principal. Agua de discos no consumida. Lluvia tratada solo como reserva experimental; la muestra de XXV tampoco se bebe. XXVII consume únicamente agua terrestre.
+- **Filtros:** finitos; bóveda ascendente consume más capacidad y más batería por compensación de caudal. XXVII añade una salida completa por la horizontal y retorno con carga externa contaminada.
+- **Energía:** finita, con recuperación variable por luz. Baliza, recirculación, análisis, tratamiento, bombas y calor compiten. XXVII exige recirculación/limpieza adicional por el paquete de ensayo, pero no usa analizador ni tratamiento térmico.
+- **Reactivos:** limitados. XXIV consume una porción adicional para el control de alimento terrestre. No se repite muestreo de película sin pregunta concreta. XXVII no consume reactivo.
+- **Limpieza:** cada salida consume paños, agua/humedad y energía de recirculación, incluso salidas breves junto a la cápsula. En XXVII también se limpian malla, líneas y piezas del paquete antes de pasarlas a zona limpia.
+- **Equipo de ascenso:** no existe todavía un sistema certificado para peso humano; XXVII aumenta la carga probada pero demuestra además variabilidad de tensión/longitud de la fibra.
 
 ## CONSECUENCIAS PERSISTENTES
 
@@ -297,8 +314,8 @@ No confirmado: identidad entre individuos observados, dieta fisiológica, digest
 - El motivo de 37 s reaparece en comunicaciones sin explicación y no domina cada capítulo.
 - Las rutas conocidas ya no se tratan como geometría fija; el protagonista verifica apoyos y usa referencias geométricas más estables que marcas superficiales.
 - La alternativa superior del canal ha pasado de maniobra de emergencia a hábito corporal.
-- La plataforma vuelve al primer plano, pero XXVI abre solo una **aproximación inferior potencial**, no una vía segura ni una escalada autorizada.
-- La comida baja a 8 raciones completas sin fuente local declarada segura.
+- La plataforma vuelve al primer plano, pero XXVI abre solo una **aproximación inferior potencial** y XXVII demuestra que una fibra cercana puede sostener una carga intermedia sin romperse a la vez que puede cambiar de geometría durante fenómenos profundos. Sigue sin existir vía segura ni escalada autorizada.
+- La comida baja a **7 raciones completas + 1/2** sin fuente local declarada segura.
 - La conducta alimentaria de la criatura aporta evidencia ecológica sin autorizar ingestión humana.
 - La lluvia puede ampliar autonomía, pero depende de integridad del colector, limpieza, tratamiento, almacenamiento y energía.
 - El aire exterior pasa de prohibición abstracta a recurso medible, pero el riesgo biológico y la finitud de filtros siguen sin resolver.
@@ -319,4 +336,4 @@ Estas notas orientan la escritura; **no son conocimiento del protagonista**.
 - Retirar el casco en exterior requiere evidencia respiratoria adicional; composición gaseosa favorable y tolerancia dérmica no bastan.
 - La contaminación de retorno debe permanecer material y ambigua, no convertirse sin evidencia en una trama de infección.
 - La energía debe comportarse como un sistema físico con generación variable, cargas competidoras y componentes degradables.
-- La plataforma no debe convertirse prematuramente en puerta, templo, nave o interfaz. En XXVI solo existen geometría, cambio local, una depresión regular y una aproximación todavía insegura.
+- La plataforma no debe convertirse prematuramente en puerta, templo, nave o interfaz. XXVI abre una aproximación; XXVII complica su seguridad mediante movimiento de una fibra bajo carga. No convertir ese movimiento en respuesta inteligente sin evidencia repetida.
