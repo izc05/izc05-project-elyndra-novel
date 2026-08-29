@@ -2,223 +2,129 @@
 
 El problema de una prueba de carga era que necesitaba una carga.
 
-Lo pensaste sentado en el suelo de la cápsula, con la espalda contra el armario y la rodilla derecha casi estirada. En la pantalla seguía congelada la fotografía de la fibra bajo la plataforma: la vuelta de cinta, la nervadura oscura, el hueco entre ambas.
+Lo pensaste sentado en el suelo de la cápsula, con la espalda contra el armario y la rodilla derecha casi estirada. En la pantalla seguía congelada la fotografía de la fibra bajo la plataforma: la vuelta de cinta, la nervadura oscura y el hueco entre ambas.
 
-Una herramienta colgada durante medio minuto había servido para una sola cosa.
-
-Para demostrar que una herramienta podía colgar allí medio minuto.
+Una herramienta colgada durante medio minuto solo había demostrado que una herramienta podía colgar allí medio minuto.
 
 Apagaste la imagen.
 
-No ibas a convertir el siguiente paso en tu propio cuerpo.
+El siguiente ensayo no iba a ser tu cuerpo.
 
 ---
 
-Buscaste peso entre cosas que pudieras permitirte perder.
+Buscaste peso entre cosas que pudieras permitirte perder, y la cápsula se quedó sin opciones deprisa.
 
-Eso redujo la cápsula con rapidez.
+Las baterías, no. Los filtros tampoco. El agua terrestre ni las herramientas buenas podían convertirse en lastre.
 
-Las baterías no.
-
-Los filtros no.
-
-El agua terrestre no.
-
-Las herramientas buenas tampoco.
-
-Terminaste delante del compartimento bajo el asiento, donde desde la caída se acumulaban piezas que no habías tirado porque en un lugar como aquel la palabra *inútil* necesitaba tiempo.
+Terminaste delante del compartimento bajo el asiento, donde desde la caída se acumulaban piezas que no habías tirado porque, en un lugar como aquel, la palabra *inútil* necesitaba tiempo.
 
 Había dos placas de revestimiento deformadas, un soporte de fijación partido, tres cierres que ya no encajaban en ningún alojamiento y una carcasa metálica del sistema de impacto que había quedado sin función después de las reparaciones iniciales.
 
-Las sacaste una por una.
+Las sacaste una por una. Separadas no parecían gran cosa. Juntas, sí.
 
-No parecían mucho.
+Las envolviste con una sección de malla del paracaídas y tensaste dos vueltas de línea alrededor del conjunto. No buscabas un objeto limpio ni cómodo, solo una masa que no pudiera deshacerse si golpeaba una raíz.
 
-Juntas sí.
-
-Las envolviste con una sección de malla del paracaídas y tensaste dos vueltas de línea alrededor del conjunto. No buscabas un objeto bonito. Buscabas que ninguna pieza pudiera escapar si el paquete golpeaba una raíz.
-
-Lo levantaste apenas del suelo.
+Intentaste levantarla apenas del suelo.
 
 La rodilla protestó antes que los brazos.
 
-Volviste a dejarlo.
+Volviste a dejarla.
 
-Eso resolvía otra parte de la prueba.
-
-No lo llevarías cargado.
+Aquello resolvía otra parte de la prueba: el paquete viajaría arrastrado.
 
 ---
 
-Preparaste una línea de arrastre corta y una segunda para control lateral. En suelo plano habría sido una solución torpe. Sobre raíces suspendidas, torpe seguía siendo mejor que caer por intentar ahorrar un viaje de cuerda.
+Preparaste una línea corta para tirar y otra para controlar el giro. En suelo plano habría sido una solución torpe. Sobre raíces suspendidas, la torpeza seguía siendo preferible a caer por ahorrar un viaje de cuerda.
 
-Probaste el paquete dentro de la cápsula.
-
-Tiraste de él hasta que rozó el umbral.
-
-Una de las placas quiso girar.
-
-Rehiciste la malla.
-
-Volviste a probar.
+Probaste el paquete dentro de la cápsula. Al primer tirón, una de las placas quiso girar y asomó por la malla. Deshiciste el amarre, la encajaste de otra forma y repetiste el movimiento.
 
 Esta vez se desplazó como una sola masa.
 
-No calculaste una cifra exacta. Conocías el peso de cada pieza por sus registros de mantenimiento y el total quedaba muy por debajo de tu masa con traje, pero varias veces por encima de la herramienta usada el día anterior.
+No calculaste una cifra exacta. Conocías el peso aproximado de cada pieza por los registros de mantenimiento: el total seguía muy por debajo de tu masa con traje, pero multiplicaba varias veces la herramienta usada el día anterior.
 
-Era un escalón.
+Era un escalón de prueba. Nada más.
 
-Nada más.
+En la pantalla secundaria, el receptor continuaba en escucha pasiva. La baliza había transmitido durante la noche sin respuesta.
 
-En la pantalla secundaria, el receptor continuaba abierto en escucha pasiva.
-
-La baliza había transmitido durante la noche.
-
-Sin respuesta.
-
-No miraste el búfer.
+No abriste el búfer.
 
 ---
 
 La niebla estaba alta cuando saliste.
 
-El paquete quedó detrás de ti, unido por la línea corta.
+El paquete quedó detrás de ti, unido por la línea corta, y los primeros metros fueron lentos por una razón nueva. Ya no bastaba con que tus botas encontraran apoyo; cada paso debía dejar también un recorrido por el que aquella masa pudiera pasar sin engancharse, rodar ni tirar de ti desde un ángulo inesperado.
 
-Los primeros metros fueron lentos por una razón nueva: no bastaba con que tus pies encontraran un apoyo. Tenías que comprobar que el bulto podía pasar después sin engancharse, rodar o tirar de ti desde un ángulo que no esperabas.
-
-En la primera estrechez lo dejaste quieto, avanzaste dos pasos y recuperaste la línea desde una postura estable.
-
-La placa inferior raspó la corteza.
-
-El sonido viajó por la raíz con una claridad desagradable.
+En la primera estrechez lo dejaste quieto, avanzaste dos pasos y recuperaste la línea desde una postura estable. La placa inferior raspó la corteza y el sonido viajó por la raíz con una claridad desagradable.
 
 Esperaste.
 
-Nada respondió.
+Nada cambió a tu alrededor.
 
 Seguiste.
 
-El canal de raíces paralelas apareció entre dos bancos de niebla. Usaste la alternativa superior sin mirar siquiera el apoyo antiguo. Después pasaste el paquete por separado, manteniéndolo siempre por debajo de la cadera.
+El canal de raíces paralelas apareció entre dos bancos de niebla. Usaste la alternativa superior sin mirar el apoyo antiguo y, desde el otro lado, pasaste el paquete por separado manteniéndolo siempre por debajo de la cadera.
 
 La maniobra tardó casi dos minutos.
 
-Cuando llegaste al otro lado, la rodilla estaba caliente dentro del traje.
+Cuando terminó, la rodilla estaba caliente dentro del traje. No dolorida: caliente.
 
-No dolorida.
-
-Caliente.
-
-Apoyaste la espalda en una raíz lateral y esperaste a que bajara.
-
-Las membranas cercanas permanecían flojas.
+Apoyaste la espalda en una raíz lateral y esperaste a que la sensación bajara. Las membranas cercanas permanecían flojas.
 
 ---
 
-En la bifurcación, la rama horizontal recibió el peso peor de lo que esperabas.
+La rama horizontal recibió peor el paquete de lo que esperabas, no por la pendiente sino por sus cambios de ancho.
 
-No por la pendiente.
-
-Por los cambios de ancho.
-
-Dos veces tuviste que retroceder el paquete y girarlo usando la línea lateral. La segunda, uno de los cierres atrapados bajo la malla golpeó una fibra y quedó vibrando.
+Dos veces tuviste que retrocederlo y girarlo con la línea lateral. En la segunda, uno de los cierres atrapados bajo la malla golpeó una fibra y quedó vibrando.
 
 El tono agudo de la estructura llegó unos segundos después.
 
-No sabías si había relación.
+No sabías si existía relación. Tampoco necesitabas saberlo para dejar quieto el paquete hasta que el sonido terminó.
 
-Tampoco necesitabas saberlo para dejar de mover el paquete hasta que el sonido terminó.
-
-Cuando pasaste junto a los tres brazos no te detuviste. Ambas cavidades seguían mostrando película transparente. La niebla cubría la parte superior de la estructura y dejaba visible solo la base incrustada en corteza.
+Cuando pasaste junto a los tres brazos no te detuviste. Ambas cavidades seguían mostrando película transparente; la niebla cubría la parte superior de la estructura y dejaba visible solo la base incrustada en corteza.
 
 Más adelante, la plataforma apareció como una interrupción oscura en el blanco.
 
-El paquete arrastró detrás de ti con un golpe seco.
+El paquete arrastró detrás de ti con otro golpe seco.
 
-Esta vez el sonido no te gustó por otra razón.
-
-Tenías que llevarlo de vuelta.
+Esta vez el ruido no te gustó por una razón mucho más simple: todo lo que habías llevado hasta allí tendría que volver contigo.
 
 ---
 
-La rama inferior estaba más húmeda que el día anterior.
+La rama inferior estaba más húmeda que el día anterior. No llovía, pero la película oscura del descenso retenía agua donde la superficie parecía seca.
 
-No llovía, pero el agua permanecía atrapada en la película oscura del descenso. Dejaste el paquete antes de la zona resbaladiza y bajaste solo para revisar el lugar.
+Dejaste el paquete antes de la zona resbaladiza y bajaste solo para revisar el lugar.
 
-La vuelta de cinta seguía allí.
+La vuelta de cinta seguía allí. También la fibra gruesa, la nervadura expuesta y el pequeño entrante oscuro. Nada había cambiado de una forma que justificara acercar todavía la masa.
 
-La fibra gruesa también.
+Volviste arriba y montaste la prueba desde una distancia que te permitiera perder el paquete sin perderte con él.
 
-La nervadura conservaba la franja expuesta.
+Una línea pasó alrededor de la fibra gruesa. La otra quedó sujeta a una raíz detrás de ti únicamente como retención del paquete, no como protección de tu cuerpo.
 
-El pequeño entrante oscuro no parecía distinto desde aquella posición.
+Bajaste la masa poco a poco hasta dejarla suspendida unos centímetros por debajo de la rama.
 
-No viste nada que justificara traer el peso más cerca todavía.
+La fibra flexionó más que con la herramienta.
 
-Volviste arriba.
+Esperaste cinco segundos. Diez. Treinta.
 
-Entonces montaste la prueba desde una distancia que te permitiera perder el paquete sin perderte con él.
+La posición dejó de cambiar y la malla permaneció estable.
 
-Una línea pasó alrededor de la fibra gruesa. La otra quedó asegurada a una raíz detrás de ti solo como retención del paquete, no como protección de tu cuerpo.
-
-Bajaste la masa poco a poco hasta que quedó suspendida unos centímetros por debajo de la rama.
-
-La fibra flexionó.
-
-Más que con la herramienta.
-
-No mucho.
-
-Esperaste.
-
-Cinco segundos.
-
-Diez.
-
-Treinta.
-
-La posición dejó de cambiar.
-
-La malla tampoco.
-
-No significaba que la fibra pudiera soportarte.
-
-Significaba que había soportado aquello.
+Aquello no significaba que la fibra pudiera sostenerte. Solo que había sostenido esa carga durante ese tiempo.
 
 ---
 
-Aumentaste la prueba sin añadir peso.
+Aumentaste la exigencia sin añadir peso. Desplazaste el punto de suspensión unos centímetros hacia el extremo de la fibra, donde el brazo de palanca era peor.
 
-Desplazaste el punto de suspensión unos centímetros hacia el extremo de la fibra, donde el brazo de palanca era peor.
+La línea chirrió contra la superficie húmeda. El paquete descendió un poco más y la fibra volvió a encontrar una posición estable.
 
-La línea chirrió contra la superficie húmeda.
-
-El paquete descendió otro poco.
-
-La fibra cedió y volvió a estabilizarse.
-
-Te agachaste lo justo para alinear la cinta de referencia con una mancha pálida de la raíz del fondo.
-
-La diferencia era visible.
-
-Guardaste una fotografía.
-
-Después otra.
+Te agachaste lo justo para alinear la cinta de referencia con una mancha pálida de la raíz del fondo. La diferencia podía verse. Guardaste una fotografía y después otra.
 
 Estabas levantándote cuando llegó el primer golpe profundo.
 
-No sonó cerca.
-
-Se sintió.
-
-La raíz bajo tus botas transmitió una presión breve hacia las piernas.
+No sonó cerca. Se transmitió por la raíz bajo tus botas como una presión breve que te subió por las piernas.
 
 El paquete osciló.
 
-La fibra se tensó.
-
-No hacia abajo.
-
-Hacia arriba.
+La fibra se tensó, pero no hacia abajo.
 
 La masa subió lo suficiente para que la línea de retención perdiera holgura.
 
@@ -226,81 +132,37 @@ Te quedaste inmóvil.
 
 Un segundo golpe llegó desde más abajo.
 
-La fibra volvió a acortarse.
+La fibra volvió a recogerse. Esta vez lo viste contra la cinta: dos o tres centímetros, quizá menos. La niebla y el ángulo no permitían una medida mejor.
 
-Esta vez lo viste contra la cinta.
+Pero no era solo el paquete oscilando.
 
-Dos o tres centímetros.
-
-Quizá menos.
-
-La niebla y el ángulo no permitían más precisión.
-
-Pero no era el paquete oscilando.
-
-El punto marcado se había desplazado respecto a la mancha pálida del fondo.
+El punto marcado había cambiado respecto a la mancha pálida del fondo.
 
 ---
 
-No tocaste nada.
+Mantuviste una mano sobre la línea de retención y esperaste.
 
-Esperaste con una mano sobre la línea de retención.
+La fibra conservó la nueva tensión durante varios segundos. Después cedió muy despacio y el paquete bajó de nuevo, aunque no pudiste demostrar que regresara exactamente a la posición inicial.
 
-La fibra mantuvo la nueva tensión durante varios segundos.
-
-Después cedió muy despacio.
-
-El paquete bajó.
-
-No hasta la posición inicial.
-
-O no pudiste demostrarlo con suficiente precisión desde donde estabas.
-
-Las membranas pequeñas del techo de corteza permanecían tensas.
-
-No había viento allí debajo.
-
-La nervadura oscura seguía inmóvil a simple vista.
+Las pequeñas membranas del techo de corteza seguían tensas. Allí debajo no había viento visible. La nervadura oscura, en cambio, no mostró movimiento apreciable.
 
 Tomaste tres fotografías sin cambiar de postura.
 
-La fibra era capaz de soportar una carga mayor que la herramienta.
+La fibra había soportado una carga mayor que la herramienta y, al mismo tiempo, había demostrado que podía variar de longitud o tensión mientras la soportaba.
 
-También era capaz de cambiar de longitud mientras la soportaba.
+La pregunta ya no era cuánto peso aguantaba.
 
-Eso convertía la pregunta anterior en otra.
-
-No cuánto peso aguantaba.
-
-Cuánto podía moverse mientras tú dependías de ella.
+Era cuánto podía moverse mientras dependieras de ella.
 
 ---
 
-Recuperar el paquete resultó más difícil que bajarlo.
+Recuperar el paquete resultó más difícil que bajarlo, sobre todo por la tentación de seguir probando.
 
-No por el peso.
-
-Por la tentación de seguir probando.
-
-Podías haber repetido el golpe de carga.
-
-Podías haber esperado otro fenómeno profundo.
-
-Podías haber desplazado la línea un poco más.
-
-No hiciste ninguna de las tres cosas.
+Podías haber repetido la carga, esperar otro golpe profundo o desplazar la línea unos centímetros más. No hiciste ninguna de las tres cosas.
 
 Una estructura que cambiaba bajo carga no se volvía segura porque sobreviviera a un ensayo.
 
-Subiste la masa hasta la rama y la apartaste de la zona húmeda.
-
-Quitaste la línea de la fibra.
-
-La vuelta floja de cinta quedó en su sitio.
-
-No añadiste otra marca.
-
-La referencia que ya tenías era suficiente para comparar.
+Subiste la masa hasta la rama, la apartaste de la zona húmeda y quitaste la línea de la fibra. La vuelta floja de cinta quedó en su sitio; la referencia que ya tenías bastaba.
 
 Antes de marcharte miraste la nervadura.
 
@@ -312,75 +174,39 @@ No escribiste que lo fuera.
 
 El regreso castigó más la rodilla.
 
-El paquete tenía la mala costumbre de llegar a cada estrechez después que tú, cuando ya habías empezado a pensar en el siguiente apoyo.
+El paquete tenía la mala costumbre de llegar a cada estrechez después que tú, justo cuando el cuerpo ya empezaba a pensar en el apoyo siguiente. En el canal de raíces paralelas tuviste que sentarte para pasarlo por debajo de la línea superior, con la pierna derecha casi recta mientras trabajabas con los brazos.
 
-En el canal de raíces paralelas tuviste que sentarte para pasarlo por debajo de la línea superior. La rodilla derecha quedó casi recta mientras trabajabas con los brazos.
+Al levantarte, la rodilla necesitó dos intentos para aceptar el peso.
 
-Al levantarte tardó dos intentos en aceptar el peso.
+Eso bastó para apartar la plataforma de tu cabeza durante un rato.
 
-Eso bastó para que dejaras de pensar en la plataforma durante un rato.
+Bebiste agua terrestre por la toma del traje, esperaste y continuaste.
 
-Bebiste agua terrestre sin quitarte el casco, usando la toma del traje.
+La cápsula apareció con el colector inclinado donde debía. No había lluvia. La bolsa de reserva experimental seguía dentro.
 
-Esperaste.
-
-Después seguiste.
-
-La cápsula apareció con el colector inclinado donde debía.
-
-No había lluvia.
-
-La bolsa de reserva experimental seguía dentro.
-
-El paquete de prueba llegó a la escotilla cubierto de humedad y partículas.
-
-Lo dejaste en la zona de entrada.
-
-No volvió al compartimento bajo el asiento.
-
-Todavía no.
+El paquete llegó a la escotilla cubierto de humedad y partículas y quedó en la zona de entrada. Todavía no regresó al compartimento bajo el asiento.
 
 ---
 
 La recirculación tardó más porque el paquete también había estado fuera.
 
-Limpiaste malla, placas y líneas antes de cruzar la cinta de la zona limpia. El trabajo era absurdo y necesario: habías construido una masa para no arriesgar el cuerpo y ahora tenías que descontaminarla como cualquier otra cosa que regresaba de Elyndran.
+Limpiaste malla, placas y líneas antes de cruzar la cinta de la zona limpia. Habías construido una masa para no arriesgar el cuerpo y ahora tenías que descontaminarla como cualquier otra cosa que volvía de Elyndran.
 
-Cuando por fin te quitaste el casco, la rodilla estaba rígida.
+Cuando por fin te quitaste el casco, la rodilla estaba rígida, pero no mostraba inflamación nueva. La dejaste extendida y abriste las fotografías.
 
-Sin inflamación visible.
+En la primera, la fibra permanecía estable bajo carga. En la siguiente, tomada después del primer golpe profundo, la cinta aparecía ligeramente más alta respecto a la mancha pálida. La tercera conservaba la diferencia.
 
-La dejaste extendida y abriste las fotografías.
-
-La primera mostraba la fibra bajo carga, estable.
-
-La siguiente, tomada después del primer golpe profundo, enseñaba la cinta ligeramente más alta respecto a la mancha pálida.
-
-La tercera confirmaba el cambio.
-
-No podías extraer una medida limpia.
-
-Sí podías excluir que la cámara se hubiera movido lo suficiente para explicar toda la diferencia: dos referencias laterales permanecían alineadas.
+No podías obtener una medida limpia. Sí podías excluir que un movimiento grande de la cámara explicara todo el cambio: dos referencias laterales seguían alineadas.
 
 Escribiste:
 
-**FIBRA: CARGA INTERMEDIA TOLERADA EN REPOSO.**
+**FIBRA: CARGA INTERMEDIA SOSTENIDA DURANTE EL ENSAYO SIN ROTURA OBSERVADA.**
 
 Debajo:
 
 **CAMBIO DE LONGITUD/TENSIÓN COINCIDENTE CON GOLPES PROFUNDOS. MAGNITUD PEQUEÑA. CAUSA NO DETERMINADA.**
 
-Te quedaste mirando la primera línea.
-
-La borraste.
-
-*Tolerada* sonaba demasiado cerca de *segura*.
-
-Escribiste otra vez:
-
-**FIBRA: CARGA INTERMEDIA SOSTENIDA DURANTE EL ENSAYO SIN ROTURA OBSERVADA.**
-
-Eso sí.
+Las releíste una vez y cerraste el registro.
 
 ---
 
@@ -392,16 +218,12 @@ Quedaban siete completos y una mitad segura.
 
 No moviste todavía la marca del armario.
 
-En la pantalla, la fotografía de la fibra seguía abierta.
+En la pantalla seguía abierta la fotografía de la fibra.
 
-La prueba había hecho exactamente lo contrario de lo que esperabas.
-
-Habías ido para averiguar cuánto podía sostener una cosa.
-
-Habías vuelto sabiendo que sostener no era lo mismo que quedarse quieta.
+Habías ido para averiguar cuánto podía sostener una cosa y habías vuelto con un problema distinto: sostener no era lo mismo que quedarse quieta.
 
 Apagaste la imagen.
 
-La plataforma seguía un metro más allá de un apoyo que quizá fuera fuerte.
+La plataforma seguía al otro lado del hueco.
 
-Ahora sabías que también podía moverse.
+Ahora el posible apoyo entre ambos tenía una propiedad más que comprobar.
