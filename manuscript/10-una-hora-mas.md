@@ -1,38 +1,26 @@
 # Capítulo X — Una hora más
 
-A la mañana siguiente la lluvia había dejado de caer.
+A la mañana siguiente no había fiebre, irritación ni ningún cambio que el equipo médico reconociera como reacción a la lluvia tratada.
 
-La bolsa marcada seguía colgada del lateral de la cápsula.
-
-La miraste antes de abrir el armario del agua.
-
-Durante la noche no había aparecido fiebre, irritación, cambios de pulso ni nada que el equipo médico supiera reconocer como una reacción. Tampoco había aparecido ninguna razón para llamar segura a la lluvia.
+Eso no la convertía en agua segura.
 
 Diez mililitros seguían siendo diez mililitros.
 
-Aun así, por primera vez desde la caída, el volumen de agua terrestre dejó de ser la única cifra que decidía cuánto podías alejarte.
+Aun así, por primera vez desde la caída, la reserva terrestre dejó de ser la única cifra que decidía cuánto podías alejarte.
 
-No bebiste de la bolsa.
+Pesaste una de las bolsas de lluvia tratada.
 
-La pesaste.
+Ciento ochenta y seis gramos con cierre y marca.
 
-Ciento ochenta y seis gramos con el cierre y la tira de identificación.
-
-La guardaste en el bolsillo exterior de la mochila, separada de la reserva terrestre.
+La guardaste separada del agua terrestre.
 
 No como agua.
 
 Como margen.
 
-Preparaste el resto del equipo con menos entusiasmo que cuidado. Una ración. Botiquín reducido. Batería. Herramienta. Linterna. El sistema de aseguramiento improvisado. Un solo recipiente de agua terrestre, lleno.
+Llevaste un solo recipiente terrestre.
 
-La elección te hizo volver a abrir el armario.
-
-Hasta entonces siempre habías llevado dos cuando la distancia lo permitía.
-
-Miraste el hueco donde faltaba el segundo.
-
-Cerraste.
+La elección dejó un hueco visible en el armario.
 
 No estabas confiando en Elyndran.
 
@@ -40,336 +28,138 @@ Estabas decidiendo cuánto pesaba una hora más.
 
 ---
 
-El camino hasta la bifurcación no cambió porque tú llevaras menos agua de casa.
+En la bifurcación tomaste la ruta horizontal.
 
-La grieta seguía donde debía.
+Pasaste junto a la estructura de tres brazos sin detenerte. La lluvia nocturna explicaba el agua nueva en sus cavidades hasta que apareciera una razón para pensar otra cosa.
 
-Las membranas se tensaron antes de la primera ráfaga.
+La plataforma permanecía oculta.
 
-La zona raspada de la antigua cinta apareció a la salida de la curva.
+En la división elegiste la rama descendente.
 
-La rama descendente recibió una claridad azul apagada. La ascendente estaba más oscura que el día anterior. La horizontal apenas se distinguía tras la niebla.
+La película oscura retenía agua bajo una superficie que parecía seca. Caminaste con pasos cortos hasta que la raíz dejó de bajar y se metió bajo la principal.
 
-Tomaste esa.
+La niebla quedó a la altura de las rodillas.
 
-Los tonos tardaron en llegar.
+Arriba, la cara inferior de la raíz formaba un techo de fibras y corteza.
 
-No miraste el reloj.
+Entonces apareció la primera línea recta.
 
-Primero reconociste las placas lisas bajo las botas. Después los filamentos azul grisáceos. Solo entonces sonó el agudo, amortiguado por la niebla.
+Una banda oscura, de casi medio metro de ancho, estaba encajada en la raíz superior. La corteza la cubría por los lados. Surcos transversales dividían la superficie visible y la banda continuaba en dirección a la plataforma.
 
-El grave no respondió.
+No la tocaste.
 
 Seguiste.
 
-La estructura de tres brazos apareció de frente.
-
-Había agua nueva en dos hendiduras.
-
-No la examinaste.
-
-Una noche de lluvia bastaba como explicación hasta que algo demostrara lo contrario.
-
-La plataforma no se veía.
-
-Avanzaste hacia la división de la raíz.
-
-Esta vez no elegiste el borde roto.
-
-Elegiste la rama que bajaba.
-
----
-
-La película oscura era más resbaladiza de lo que parecía desde arriba.
-
-Probaste el primer metro con la punta de la bota. La superficie cedió apenas, como una capa fina sobre corteza dura. No se desprendía, pero retenía agua en depresiones invisibles hasta que el peso la hacía salir alrededor de la suela.
-
-Acortaste el paso.
-
-La pendiente no era fuerte. El problema era no ver dónde terminaba.
-
-A seis metros de la división, la niebla te cubría desde las rodillas.
-
-A diez, la estructura sonora desapareció por completo detrás.
-
-Los tonos seguían llegando, más apagados, sin una dirección clara.
-
-A quince metros la rama dejó de bajar.
-
-No había terminado.
-
-Se había metido debajo de la raíz principal.
-
-Levantaste la cabeza.
-
-Por encima de ti, a menos de cuatro metros, la cara inferior de la raíz formaba un techo irregular. Fibras gruesas descendían en algunos puntos y volvían a entrar en la corteza. Entre ellas colgaban membranas pequeñas que apenas se movían porque allí el viento llegaba roto.
-
-La niebla se desplazó.
-
-Apareció algo recto.
-
-No delante.
-
-Arriba.
-
-Te acercaste dos pasos.
-
-Era una banda oscura encajada en la raíz superior.
-
-No la línea que habías visto desde el borde.
-
-Demasiado ancha.
-
-Casi medio metro.
-
-La corteza la cubría por los lados, pero dejaba visible una superficie lisa dividida por surcos transversales.
-
-Uno.
-
-Otro.
-
-Otro.
-
-Seguiste la banda con la luz.
-
-Se perdía detrás de una masa de fibras hacia la dirección de la plataforma.
-
-No tocaste.
-
-No necesitabas hacerlo para saber que no era una veta mineral común.
-
-Eso tampoco te decía qué era.
-
-Avanzaste.
-
-La niebla se abrió otra vez.
+La niebla se abrió.
 
 Y la parte inferior de la plataforma apareció sobre ti.
 
 ---
 
-La primera vez la habías visto como una superficie con columnas.
+Desde arriba habías visto una superficie con formas verticales.
 
-Desde abajo no parecía una superficie.
+Desde abajo era otra cosa.
 
-Parecía una acumulación de capas.
+Capas.
 
-La raíz ascendía hasta ella y desaparecía dentro de una trama oscura de bandas, nervaduras y huecos. Algunas piezas seguían líneas casi paralelas. Otras se cruzaban alrededor de la madera viva. La corteza había crecido por encima de varias y se hundía entre ellas donde quedaban espacios.
+Nervaduras.
 
-No podías ver dónde terminaba una cosa y empezaba la otra.
+Huecos.
 
-Algunas nervaduras estaban expuestas.
+Material oscuro atravesado por raíz y corteza.
 
-Otras solo se intuían bajo capas de crecimiento nuevo.
+Algunas piezas seguían líneas casi paralelas. Otras desaparecían bajo crecimiento vivo y reaparecían metros después. Una sección completa estaba ausente y dejaba la raíz desnuda.
 
-Una sección, quizá de tres metros, había desaparecido por completo y dejaba la raíz desnuda.
+No podías afirmar si la estructura había sido construida alrededor de la raíz, si la raíz la había atravesado después o si ambas llevaban tanto tiempo cambiando juntas que la distinción ya no servía.
 
-La estructura no descansaba simplemente sobre ella.
+Fotografiaste sin elegir ninguna explicación.
 
-La raíz la atravesaba.
+La banda oscura que habías seguido se dividía bajo una zona protegida: una parte ascendía hacia la trama de la plataforma; la otra desaparecía bajo corteza nueva.
 
-O la estructura había sido construida alrededor de la raíz.
+El tono agudo de la estructura llegó desde lejos.
 
-O ambas cosas habían cambiado juntas durante tanto tiempo que ya no podías separar una historia de la otra.
+Nada respondió bajo tus botas.
 
-Guardaste la tercera frase.
-
-Las otras dos eran hipótesis.
-
-Te acercaste hasta una depresión protegida de la lluvia directa.
-
-Allí la banda oscura que habías seguido se dividía.
-
-Una rama subía hacia la trama inferior de la plataforma.
-
-La otra continuaba pegada a la raíz y desaparecía bajo corteza nueva.
-
-La superficie mostraba pequeñas líneas transversales, separadas a distancias casi iguales.
-
-Acercaste la cámara.
-
-No eran marcas pintadas.
-
-Formaban parte del material.
-
-La niebla volvió a cubrirlo todo.
-
-Esperaste.
-
-El agudo sonó a lo lejos.
-
-No ocurrió nada en la banda.
-
-Cinco segundos.
-
-Diez.
-
-El grave llegó amortiguado.
+Después el grave.
 
 Nada.
 
-Te alegraste de no haber visto una respuesta.
+Te alegró no encontrar relación.
 
-La alegría te sorprendió.
-
-Era más fácil sostener una pregunta cuando no empezaba a contestar todas las demás.
+Una pregunta era más fácil de sostener cuando no intentaba explicar todas las demás.
 
 ---
 
 El accidente fue pequeño.
 
-Por eso estuvo cerca de ser peor.
+Giraste para buscar otro ángulo y la bota izquierda cayó sobre una película de agua oculta por la niebla.
 
-Giraste para buscar un ángulo mejor de la parte inferior de la plataforma y la bota izquierda cayó sobre una película de agua que la niebla había ocultado.
-
-El pie se fue hacia delante.
-
-La mochila tiró hacia atrás.
-
-La rodilla derecha se dobló más de lo que querías y el cuerpo respondió antes que el dolor.
+El pie se fue hacia delante. La mochila tiró hacia atrás. La rodilla derecha se dobló más de lo que querías.
 
 Clavaste la herramienta entre dos fibras.
 
-La punta entró apenas unos centímetros.
+Entró apenas unos centímetros.
 
 Suficientes.
 
-Te detuviste de lado, con una pierna más baja que la otra y el hombro apoyado contra la raíz.
-
-Algo golpeó la corteza detrás de ti.
-
-Después otro sonido.
-
-Más ligero.
-
-Una bolsa rozando.
-
 Te quedaste inmóvil hasta que el pulso dejó de ocupar todo el casco.
 
-La rodilla dolía.
+La rodilla dolía, pero no de una forma nueva.
 
-No de una manera nueva.
-
-Eso era lo primero.
-
-Lo segundo estaba en el bolsillo exterior de la mochila.
+Entonces notaste el bolsillo exterior de la mochila.
 
 Vacío.
 
-La bolsa de lluvia se había abierto por una esquina al engancharse con una protuberancia. El material no estaba rasgado del todo. Una línea blanca de tensión atravesaba la unión térmica y el cierre seguía puesto.
+La bolsa de lluvia se había abierto por una esquina al engancharse con una protuberancia.
 
-El agua, no.
+El cierre seguía puesto.
 
-Miraste la corteza bajo ti.
+El agua no.
 
-La película oscura brillaba un poco más donde el contenido había caído.
+La película oscura bajo ti brillaba un poco más donde había caído.
 
-Ciento ochenta y seis gramos.
+Ciento ochenta y seis gramos de margen reducidos a una bolsa rota.
 
-Menos la bolsa.
+La doblaste y la guardaste.
 
-El margen de una hora había durado menos de veinte minutos debajo de la plataforma.
-
-Sacaste la bolsa rota y la doblaste.
-
-No la tiraste.
-
-Podía seguir sirviendo para otra cosa.
-
-Comprobaste la herramienta.
-
-La punta estaba ligeramente marcada, pero recta.
-
-Te incorporaste despacio.
-
-La rodilla aceptó el peso.
-
-No seguiste avanzando.
+No avanzaste más.
 
 ---
 
-Antes de regresar tomaste una última fotografía de la trama inferior.
+Antes de regresar tomaste una última fotografía.
 
-La niebla permitió ver tres de las nervaduras oscuras entrando en la plataforma y dos zonas donde la corteza las había cubierto casi por completo.
+Tres nervaduras oscuras entraban en la plataforma. En dos zonas, la corteza las cubría casi por completo. Sobre esa corteza crecían pequeñas membranas transparentes como las de otras raíces.
 
-En una de ellas crecían las mismas pequeñas membranas transparentes que aparecían bajo otras raíces.
+No sobre el material oscuro.
 
-No sobre el metal.
+Sobre el crecimiento que lo envolvía.
 
-Sobre la corteza que lo envolvía.
+Aquello no demostraba origen ni edad.
 
-Aquello te gustó menos de lo que esperabas.
+Solo integración.
 
-No porque fuera peligroso.
+Subiste de nuevo hasta la división.
 
-Porque parecía viejo.
+Desde allí la plataforma reapareció unos segundos entre la niebla, incompleta y lejana.
 
-Mucho más viejo que una pieza abandonada en una superficie.
-
-Guardaste la cámara.
-
-Subiste por la rama con los pasos cortos.
-
-Al salir de la niebla viste primero la división.
-
-Después el borde roto.
-
-La plataforma reapareció un instante entre las nubes, ahora por encima de ti y a distancia.
-
-Sabías algo que aquella imagen no mostraba.
+Ya sabías algo que aquella vista no enseñaba.
 
 Debajo había capas.
 
-Bandas.
+Nervaduras.
 
 Raíz creciendo entre ellas.
 
 La próxima vez que la vieras desde arriba ya no podría volver a ser una simple plataforma.
 
----
-
-La estructura de tres brazos sonó cuando pasaste a su lado.
-
-Agudo.
-
-Seguiste.
-
-Grave.
-
-No contaste pasos.
-
-En la bifurcación bebiste de la reserva terrestre.
-
-Dos tragos.
-
-Miraste el bolsillo donde había estado la bolsa.
-
-No tenías sed suficiente para lamentarla.
-
-Todavía.
-
-El camino de regreso volvió a estrecharse en la grieta del viento. Las membranas se tensaron. Bajaste el cuerpo.
-
-La ráfaga te encontró preparado.
-
-Al llegar a la cápsula quedaba algo más de media luz.
+En la bifurcación bebiste dos tragos de agua terrestre y miraste el bolsillo vacío.
 
 Habías regresado antes de la hora que te habías concedido.
 
-Entraste.
-
-Te quitaste el casco.
-
-Revisaste la rodilla.
-
-Después pusiste la bolsa rota sobre el banco y la fotografía de la plataforma en la pantalla.
-
-Durante unos segundos miraste ambas cosas.
+Dentro de la cápsula pusiste la bolsa rota sobre el banco y la fotografía de la estructura en la pantalla.
 
 La primera era un problema sencillo.
 
 La segunda no.
 
-Elegiste la bolsa.
-
-Buscaste el sellador térmico y empezaste a reparar la esquina.
+Elegiste reparar la bolsa.
