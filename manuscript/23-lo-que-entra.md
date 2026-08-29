@@ -1,389 +1,173 @@
 # Capítulo XXIII — Lo que entra
 
-La mañana siguiente empezó con el armario de comida abierto.
-
-El receptor seguía grabando. El mapa seguía en la pared. Ninguno de los dos era lo primero que necesitabas mirar.
-
-Sacaste todas las raciones y las pusiste sobre el banco, una junto a otra. El gesto ocupó menos espacio del que recordabas.
+La mañana empezó con el armario de comida abierto.
 
 Once paquetes completos.
 
-Una mitad envuelta dentro de una bolsa transparente.
+Una mitad.
 
 Volviste a contarlos.
 
 Once y medio.
 
-La cifra no necesitaba convertirse en fecha para hacerse incómoda.
+La cifra no necesitaba convertirse en fecha para resultar incómoda.
 
-Guardaste diez.
+Comiste la mitad que ya estaba abierta y guardaste las demás.
 
-Dejaste una y la mitad sobre el banco.
+Después abriste las imágenes de la criatura cobriza.
 
-La rodilla derecha seguía rígida al principio de la flexión, pero había perdido la resistencia del día anterior. La comprobaste apoyando el pie en el travesaño bajo, sin obligarla a flexionarse más de lo necesario.
-
-Aceptó.
-
-Te sentaste otra vez.
-
-En la pantalla secundaria, la baliza había transmitido durante la noche.
-
-Potencia estable.
-
-Sin respuesta.
-
-El receptor no marcaba ninguna elevación nueva.
-
-Cerraste el resumen.
-
-Después abriste las imágenes de la placa cobriza.
-
----
-
-La criatura aparecía congelada sobre el reverso oscuro.
-
-Seis apoyos.
-
-Cuerpo bajo.
-
-Placas del mismo cobre sucio que parte de la bóveda.
-
-La estructura tubular descendía hasta tocar la película.
-
-Avanzaste un fotograma.
-
-Después otro.
-
-La película se deformaba alrededor del punto de contacto y quedaba una línea más clara detrás.
-
-Nada de aquello decía adónde iba el material.
-
-Las imágenes de la visita posterior tampoco.
-
-Solo demostraban que parte de la cobertura había vuelto a ocupar algunos bordes de la franja.
+La película oscura desaparecía bajo su estructura tubular, pero las grabaciones antiguas no mostraban adónde iba.
 
 Podías gastar otro reactivo.
 
-Podías cortar otra muestra.
+Podías tomar otra muestra.
 
-Podías obtener una segunda lista de compuestos que el analizador no sabría traducir en seguridad.
-
-No lo hiciste.
-
-Abriste el inventario de reactivos.
-
-Lo cerraste casi de inmediato.
-
-La pregunta más barata seguía siendo otra.
+La pregunta más barata era otra.
 
 ¿Entraba realmente el material en el animal?
 
-La primera vez habías mirado lo que quedaba en la placa.
-
-Esta vez mirarías lo que desaparecía.
-
 ---
 
-Preparaste el traje después de comer la mitad guardada del día anterior.
+Saliste sin analizador ni recipientes.
 
-Fría.
+La ruta conocida pasó deprisa. En el canal de raíces paralelas no probaste el apoyo desplazado: utilizaste la alternativa superior que ya empezaba a ser costumbre.
 
-La otra ración quedó intacta.
+La bóveda volvió a cargar el filtro con mayor rapidez.
 
-No llevaste analizador.
-
-No llevaste recipientes de muestra.
-
-Cámara, linterna, regla flexible, agua terrestre, dos tiras de cinta y el aseguramiento corto.
-
-No necesitabas más para mirar.
-
-El casco cerró bien al primer intento.
-
-La escotilla abrió sobre niebla baja y luz uniforme.
-
-Bajaste la pierna izquierda.
-
-Después la derecha.
-
-La primera ruta estaba húmeda.
-
-No diste por hecho el siguiente paso.
-
----
-
-En el canal de raíces paralelas te detuviste antes de llegar al borde.
-
-La raíz inferior seguía más baja.
-
-No mucho.
-
-Los mismos centímetros suficientes para que el cuerpo quisiera buscar una altura que ya no existía.
-
-No probaste si podía volver a subir.
-
-No golpeaste.
-
-No saltaste sobre ella.
-
-Enganchaste el aseguramiento y utilizaste la alternativa superior que habías marcado el día anterior.
-
-Dos apoyos de mano.
-
-Giro de cadera.
-
-Rodilla derecha casi extendida.
-
-Al otro lado miraste hacia atrás.
-
-La diferencia de altura era visible solo porque sabías dónde mirar.
-
-Fotografiaste desde el mismo ángulo que la última vez.
-
-Persistía.
-
-Eso bastaba por ahora.
-
-Seguiste hasta la bifurcación.
-
----
-
-La ruta ascendente cargó el filtro más deprisa en cuanto entraste en la bóveda.
-
-No necesitabas la pantalla para recordarlo, pero la miraste de todas formas.
-
-El valor subía.
-
-Lento al principio.
-
-Más rápido entre las columnas.
-
-Los filamentos blancos se apartaron de la linterna cuando la usaste para comprobar una zona oscura y volvieron después hacia su posición anterior.
-
-A tu izquierda, agua ascendía por dos hilos finos hasta una bolsa translúcida.
-
-No te detuviste.
-
-Las placas cobrizas aparecieron entre las columnas verdes.
-
-Buscaste primero el borde roto de la placa que habías seguido en las visitas anteriores.
-
-Lo encontraste.
-
-La franja seguía allí.
-
-Los márgenes oscuros parecían algo más anchos en un extremo, pero no intentaste medirlos desde arriba. El ángulo y la humedad podían mentirte con demasiada facilidad.
-
-Colocaste la cámara en modo de seguimiento manual.
+En las placas cobrizas encontraste el mismo borde roto y la franja parcialmente cubierta.
 
 Esperaste.
 
----
+A los veintitrés minutos apareció una criatura de seis apoyos bajo dos capas superpuestas.
 
-A los nueve minutos no había ocurrido nada.
+No sabías si era la misma.
 
-A los dieciséis, tampoco.
+Se detuvo sobre una placa cubierta de película oscura.
 
-La rodilla empezó a endurecerse antes que el cuello.
+La estructura tubular descendió.
 
-Cambiaste de postura sin acercarte a la placa.
+Contacto.
 
-A los veintitrés minutos viste movimiento bajo dos capas superpuestas a unos cinco metros.
+La película se deformó.
 
-No levantaste la cámara de golpe.
+La criatura avanzó unos milímetros y dejó detrás una línea clara.
 
-Primero apareció un apoyo cobrizo.
+En el tercer ciclo viste algo nuevo.
 
-Luego otro.
-
-La criatura salió de debajo de las placas como si hubiera estado pegada a su cara inferior.
-
-No supiste si era el mismo individuo que habías visto antes.
-
-No había marca que lo permitiera.
-
-Era del tamaño de una palma y avanzaba con el cuerpo casi rozando la superficie.
-
-Se detuvo en una placa distinta de la que estabas vigilando.
-
-El reverso estaba cubierto por película oscura.
-
-La estructura tubular apareció por debajo.
-
-Esta vez estabas preparado.
-
-Acercaste el zoom.
-
-No demasiado.
-
-La imagen perdió algo de luz, pero conservó el punto de contacto.
-
-El tubo tocó la película.
-
-La superficie cedió alrededor.
-
-La criatura permaneció inmóvil casi dos segundos.
-
-Después avanzó unos milímetros.
-
-La línea clara quedó detrás.
-
-Volvió a detenerse.
-
-Otro contacto.
-
-Otro avance.
-
-En el tercer ciclo viste algo que no habías visto antes.
-
-Una zona del tubo era translúcida.
-
-No toda.
-
-Solo un tramo estrecho cerca del cuerpo.
+Un tramo del tubo era translúcido.
 
 Dentro apareció una sombra oscura.
 
-Pequeña.
+Se desplazó hacia el cuerpo.
 
-Irregular.
+Desapareció en él.
 
-Se desplazó hacia arriba.
+La criatura repitió la acción una vez más.
 
-Desapareció dentro del cuerpo.
+Otra porción oscura recorrió el tubo.
 
-Dejaste de respirar durante un instante y el traje lo notó antes que tú.
-
-El indicador de flujo corrigió ligeramente.
-
-No apartaste la cámara.
-
-La criatura repitió el contacto.
-
-Otra porción oscura recorrió el tramo translúcido.
-
-Esta vez duró menos de un segundo.
-
-Después el tubo se plegó contra la parte inferior del cuerpo.
-
-La criatura avanzó hacia el borde y desapareció bajo otra placa.
+Después plegó la estructura y desapareció bajo la placa.
 
 No la seguiste.
 
----
-
 Revisaste el vídeo allí mismo.
 
-En la secuencia se repetía el mismo orden: contacto, deformación de la película, franja clara; después la sombra oscura dentro del tubo y su desplazamiento hacia el cuerpo. En el segundo ciclo ocurría otra vez.
-
-No podías ver qué sucedía después.
-
-Tampoco saber si aquello era digestión, transporte, almacenamiento o cualquier otra cosa para la que no tenías nombre.
-
-Pero el material no se limitaba a desaparecer de la placa.
-
-Entraba.
-
-Guardaste la secuencia.
-
-No recogiste muestra.
-
-No necesitabas gastar un recipiente para demostrar lo que la cámara acababa de registrar.
-
-Escribiste una nota breve en el visor:
-
-**MATERIAL OSCURO OBSERVADO DESPLAZÁNDOSE HACIA EL INTERIOR A TRAVÉS DE ESTRUCTURA TUBULAR. DESTINO POSTERIOR NO OBSERVADO.**
-
-Debajo:
-
-**NO IMPLICA COMPATIBILIDAD HUMANA.**
-
-La segunda línea te pareció innecesaria durante un segundo.
-
-La dejaste.
-
----
-
-En el regreso el filtro ya había acumulado suficiente carga para justificar no alargar la visita.
-
-La rodilla respondió bien mientras no la mantuviste flexionada.
-
-En la bifurcación no miraste hacia la ruta horizontal.
-
-Tampoco hacia los discos.
-
-Tomaste la primera ruta.
-
-En el canal de raíces paralelas volviste a usar la alternativa superior.
-
-La raíz inferior seguía donde la habías dejado unas horas antes.
-
-Ni más alta.
-
-Ni más baja a simple vista.
-
-Las membranas del borde estaban flojas.
-
-No hubo golpes profundos.
-
-La cápsula apareció entre la niebla antes de que el indicador del filtro alcanzara el nivel que habías fijado como regreso obligatorio.
-
-Subiste.
-
-Sellaste.
-
-Limpiaste.
-
-Esperaste la recirculación con el casco puesto.
-
-El procedimiento te pareció más largo porque sabías que quedaba comida contada al otro lado de la línea de cinta.
-
----
-
-Cuando la lectura interior bajó, descargaste el vídeo en la pantalla grande.
-
-La sombra dentro del tubo era menos evidente ampliada de lo que había parecido en el visor.
-
-Ajustaste contraste.
-
-La volviste a ver.
-
-Dos veces.
-
-No era un reflejo fijo: cambiaba de posición entre fotogramas y avanzaba hacia el cuerpo después de cada contacto con la película.
-
-Guardaste la versión sin procesar y la ajustada.
-
-No añadiste la palabra *comer* al registro.
-
-Escribiste:
+Lo único defendible era sencillo:
 
 **TRANSFERENCIA DE MATERIAL HACIA EL CUERPO: OBSERVADA.**
 
-Luego cerraste el archivo.
+No escribiste *comer*.
 
-El armario seguía abierto.
+No escribiste *digestión*.
 
-Sacaste una ración completa.
+No escribiste *alimento humano*.
 
-La partiste por la marca del fabricante.
+Regresaste antes de gastar más filtro.
 
-Guardaste una mitad.
+---
 
-La otra quedó en tu mano.
+Dentro descargaste la grabación.
 
-Encendiste el módulo térmico.
+La sombra del tubo era más difícil de ver en pantalla grande, pero cambiaba de posición entre fotogramas y avanzaba hacia el cuerpo después de cada contacto.
 
-El contacto reparado respondió a la primera.
+Eso bastaba.
 
-Miraste el consumo durante tres segundos.
+Abriste una ración completa, comiste la mitad fría y guardaste la otra.
 
-Lo apagaste.
+Al terminar quedaban diez y media.
 
-Comiste frío.
+Fue entonces cuando uno de los paquetes cedió al apretarlo.
 
-En la pantalla, la criatura seguía congelada justo antes de que la primera sombra oscura recorriera el tubo.
+Una corriente mínima salió por una esquina.
 
-La fila del banco había empezado la mañana con once paquetes y medio.
+Lo bajaste al banco.
 
-Ahora quedaban diez y medio.
+No lo abriste.
+
+La perforación parecía antigua, atrapada alguna vez contra una pieza deformada por el impacto.
+
+Podía llevar horas perdiendo vacío.
+
+Podía llevar días.
+
+Revisaste los demás paquetes.
+
+Ninguno respiró.
+
+Separaste el dañado y escribiste:
+
+**NO CONSUMIR. SELLADO COMPROMETIDO.**
+
+La comida segura acababa de disminuir sin que hubieras comido.
+
+---
+
+No tiraste la ración dañada todavía.
+
+Ya que no podías confiar en ella como alimento, podía servir como algo que ninguna muestra de Elyndran podía darte.
+
+Un control conocido.
+
+Cortaste el envase lejos de la perforación y tomaste menos de un gramo.
+
+El analizador utilizó el mismo protocolo conservador que con la película oscura.
+
+Esta vez reconoció sin dificultad lípidos, carbohidratos, proteínas procesadas, sales y micronutrientes.
+
+La base de datos humana encontró referencias por todas partes.
+
+Abriste a su lado el análisis de la película.
+
+A la izquierda, algo fabricado para mantenerte vivo.
+
+A la derecha, algo que un animal de Elyndran trasladaba hacia su cuerpo.
+
+Había coincidencias químicas demasiado generales para servir de permiso.
+
+Después empezaban las diferencias.
+
+El alimento terrestre se deshacía en categorías conocidas.
+
+La película seguía mostrando:
+
+**ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES.**
+
+**COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA.**
+
+No habías demostrado que fuera peligrosa.
+
+Tampoco que el analizador fuese incapaz de reconocer comida humana cuando la tenía delante.
+
+Escribiste:
+
+**CONTROL HUMANO RECONOCIDO POR EL MISMO PROTOCOLO. LA PELÍCULA SIGUE SIN CLASIFICACIÓN METABÓLICA HUMANA.**
+
+La ración dañada quedó descartada.
+
+Después comiste la mitad segura que seguía abierta.
+
+Al cerrar el armario quedaban nueve raciones completas.
+
+La criatura podía introducir materia de Elyndran en su cuerpo.
+
+Tú seguías sin tener derecho a hacerlo.
