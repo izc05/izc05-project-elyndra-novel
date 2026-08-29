@@ -23,14 +23,23 @@ Cada avance literario sigue este ciclo:
 5. actualizar continuidad y preguntas abiertas;
 6. volver a leer como novela, no como borrador de videojuego.
 
+La revisión editorial actual trabaja **página por página**, en primera persona inmersiva y pensando también en escucha TTS/audiolibro.
+
 ## Estructura
 
-- `MASTER_PROMPT.md` — contrato literario de la novela.
-- `CONTINUITY.md` — memoria canónica del protagonista y del mundo descubierto.
+- `MASTER_PROMPT.md` — contrato literario general de la novela.
+- `ELYNDRAN_WRITING_SUPERPROMPT.md` — contrato operativo para reescribir cada página.
+- `WRITING_STYLE_V2.md` — estilo, recorte, ritmo, voz y audio.
+- `ELYNDRAN_WORLD_BIBLE_V1.md` — lógica física, ecológica y creativa del planeta.
+- `CONTINUITY.md` — memoria canónica: HECHOS, HIPÓTESIS y PREGUNTAS.
 - `manuscript/` — capítulos de la novela.
-- `notes/` — decisiones, misterios, lugares, flora, fauna y objetos.
+- `art/VISUAL_BIBLE_WEB_V1.md` — continuidad visual del protagonista, traje, cápsula y mundo.
 - `art/` — dirección y prompts de ilustración.
 - `editions/` — futuras ediciones maquetadas y PDF.
+
+## Canon de nombres
+
+**Aster es la nave de la expedición.** El protagonista humano se narra en primera persona y no debe ser llamado Aster por error en documentos editoriales o visuales.
 
 ## Principio creativo
 
