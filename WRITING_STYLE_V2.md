@@ -29,7 +29,7 @@ Si un dato no cambia nada, se recorta.
 
 La voz debe sonar humana.
 
-Aster puede:
+El protagonista puede:
 
 - tener miedo sin declararlo siempre,
 - equivocarse,
