@@ -40,7 +40,7 @@ Después abriste las imágenes de la placa cobriza.
 
 ---
 
-La criatura del Capítulo XIII aparecía congelada sobre el reverso oscuro.
+La criatura aparecía congelada sobre el reverso oscuro.
 
 Seis apoyos.
 
@@ -58,7 +58,7 @@ La película se deformaba alrededor del punto de contacto y quedaba una línea m
 
 Nada de aquello decía adónde iba el material.
 
-Las imágenes de XIX tampoco.
+Las imágenes de la visita posterior tampoco.
 
 Solo demostraban que parte de la cobertura había vuelto a ocupar algunos bordes de la franja.
 
@@ -166,7 +166,7 @@ No te detuviste.
 
 Las placas cobrizas aparecieron entre las columnas verdes.
 
-Buscaste primero el borde roto de la placa de XIII.
+Buscaste primero el borde roto de la placa que habías seguido en las visitas anteriores.
 
 Lo encontraste.
 
@@ -234,7 +234,7 @@ Otro contacto.
 
 Otro avance.
 
-En el tercer ciclo viste algo que no habías visto en XIII.
+En el tercer ciclo viste algo que no habías visto antes.
 
 Una zona del tubo era translúcida.
 
@@ -274,25 +274,11 @@ No la seguiste.
 
 Revisaste el vídeo allí mismo.
 
-Primer paso.
+En la secuencia se repetía el mismo orden: contacto, deformación de la película, franja clara; después la sombra oscura dentro del tubo y su desplazamiento hacia el cuerpo. En el segundo ciclo ocurría otra vez.
 
-Contacto.
+No podías ver qué sucedía después.
 
-Deformación.
-
-Franja clara.
-
-Sombra dentro del tubo.
-
-Movimiento hacia el cuerpo.
-
-Segundo ciclo.
-
-Lo mismo.
-
-No podías ver qué ocurría después.
-
-No podías saber si aquello era digestión, transporte, almacenamiento o cualquier otra cosa para la que no tenías nombre.
+Tampoco saber si aquello era digestión, transporte, almacenamiento o cualquier otra cosa para la que no tenías nombre.
 
 Pero el material no se limitaba a desaparecer de la placa.
 
