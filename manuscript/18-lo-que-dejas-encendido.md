@@ -4,23 +4,9 @@ El módulo térmico se apagó antes de que la ración empezara a ablandarse.
 
 No lo reiniciaste.
 
-La barra quedó dentro del recipiente, fría en el centro y tibia solo por un borde.
+Comiste frío y desmontaste la tapa frontal.
 
-Esperaste unos segundos.
-
-La luz de fallo no volvió a encenderse.
-
-Tampoco la de funcionamiento.
-
-Sacaste el recipiente.
-
-Comiste de pie, con la espalda apoyada en la pared de la cápsula.
-
-La mano izquierda seguía igual que la derecha.
-
-No la fotografiaste.
-
-Habían pasado más de treinta horas.
+La mano izquierda seguía igual que la derecha. Habían pasado más de treinta horas.
 
 El registro podía esperar.
 
@@ -28,318 +14,114 @@ El módulo térmico, no.
 
 ---
 
-Lo habías reiniciado demasiadas veces desde el accidente.
-
-En Aster habría sido una avería pequeña.
-
-Aquí cualquier cosa que dejaba de hacer su trabajo empezaba a ocupar espacio en la cabeza.
-
-Retiraste la tapa frontal.
-
-El tornillo inferior cayó al suelo y rodó hasta la línea de cinta.
-
-Lo recogiste antes de que cruzara al lado limpio.
-
-Dentro no había nada quemado a simple vista.
-
-Olía a metal caliente y aislamiento viejo.
-
-Desconectaste el módulo y lo apoyaste sobre una bolsa vacía de ración para no ensuciar el banco.
-
 La placa de potencia estaba oscura alrededor de uno de los contactos.
 
-No negra.
+No quemada.
 
-Oscura.
+Marcada.
 
-Pasaste una punta fina por el borde del conector.
+Había una pátina opaca, pequeñas señales de arco y un muelle que ya no presionaba como debía.
 
-El metal cedió una fracción de milímetro.
+Abriste el historial eléctrico.
 
-La soldadura no se había roto. El problema estaba en la unión: una pátina opaca, pequeñas marcas de arco y un muelle que ya no presionaba como debía.
+Los últimos arranques del módulo coincidían con caídas breves de tensión del bus. En tres ocasiones, una transmisión de la baliza ocurrió durante esos picos.
 
-Fotografiaste el daño.
-
-Después abriste el historial eléctrico de la cápsula.
-
-La gráfica ocupó media pantalla.
-
-Al principio no viste nada útil.
-
-Tensión de bus.
-
-Carga ambiental.
-
-Recirculación.
-
-Baliza.
-
-Batería.
-
-Picos de consumo.
-
-Acercaste la escala a las últimas cuarenta y ocho horas.
-
-Los arranques del módulo térmico coincidían con pequeñas caídas de tensión.
-
-Una línea amarilla marcaba compensación del convertidor.
-
-En los últimos usos, la compensación duraba cada vez más.
-
-El fallo de aquella mañana había sido el peor.
-
-Buscaste la corriente del módulo.
-
-Estaba por encima de su rango normal durante casi cuatro segundos antes de desconectarse.
-
-Eso explicaba el apagado.
-
-Seguiste mirando.
-
-La baliza había transmitido durante uno de esos cuatro segundos.
-
-La potencia de salida descendió.
-
-No a cero.
+La potencia de salida no llegó a cero.
 
 Descendió.
 
-Abriste otros días.
+Eso bastó para que dejaras de mirar el módulo como una avería aislada.
 
-Encontraste dos coincidencias más.
+La cápsula tenía un solo sistema de energía repartido entre demasiadas cosas.
 
-Pequeñas.
+Baliza.
 
-Breves.
+Recirculación.
 
-Suficientes para aparecer en el registro.
+Bombas.
 
-No podías saber si alguien había estado escuchando entonces.
+Tratamiento de agua.
 
-Marcaste los tres eventos.
+Calor.
 
-No escribiste ninguna conclusión.
+Carga de baterías.
 
----
+La luz exterior recuperaba parte de lo gastado cuando la niebla lo permitía.
 
-La cápsula tenía prioridades automáticas.
-
-La baliza estaba por encima del módulo térmico.
-
-El sistema había hecho lo correcto: mantener la transmisión y recortar lo demás.
-
-Pero el convertidor que alimentaba ese bus había absorbido cada pico.
-
-Su temperatura máxima había aumentado lentamente desde el accidente.
-
-Nada estaba todavía fuera de límite.
-
-Apagaste la pantalla.
-
-Volviste a encenderla.
-
-Miraste el estado de batería.
-
-La cifra subía algunas horas y bajaba otras. La niebla cambiaba la carga que llegaba de las superficies exteriores; la recirculación dejaba una pendiente distinta a la baliza; una bomba breve podía borrar parte de lo recuperado durante la última hora.
-
-Dejaste abiertas las tres curvas en la pantalla.
+Nada era gratis.
 
 ---
 
-No reparaste el módulo inmediatamente.
+La baliza tenía prioridad automática sobre el calentador, y el sistema había hecho lo correcto al recortar otras cargas.
 
-Primero revisaste qué necesitaba calor de verdad.
+Aun así, el convertidor había absorbido cada pico y su temperatura máxima venía subiendo desde el accidente.
 
-La comida podía comerse fría.
+Reparaste el contacto con una cantidad mínima de solvente, recuperaste presión del muelle y añadiste una lámina conductora del kit de mantenimiento.
 
-Era peor.
+El primer montaje quedó mal.
 
-No peligrosa.
+Lo repetiste.
 
-El tratamiento térmico del agua era distinto.
+La segunda vez la corriente subió y se estabilizó sin calentamiento anormal del contacto.
 
-Los protocolos que habías usado con lluvia y muestras necesitaban alcanzar temperatura y mantenerla.
+El módulo volvía a funcionar.
 
-El botiquín tenía algunos consumibles que también dependían de control térmico para ciertos procedimientos.
-
-La cápsula necesitaba calor mínimo para evitar condensación en puntos concretos cuando bajaba la temperatura exterior.
-
-El módulo de comida era solo una de varias resistencias.
-
-Pero era la que estaba fallando.
-
-Abriste el inventario de cargas y quitaste el acceso directo de calentamiento del menú principal.
-
-No lo desactivaste por completo.
-
-Lo moviste detrás de una confirmación manual.
-
-Después escribiste en una tira de cinta:
-
-**CALOR = ENERGÍA + CONVERTIDOR**
-
-La pegaste junto al módulo.
-
-La miraste.
-
-La arrancaste.
-
-Pegaste una cinta sin texto sobre el interruptor.
-
-Eso bastaba.
+No calentaste la siguiente comida.
 
 ---
 
-La reparación llevó menos de una hora.
+Por la tarde revisaste el historial de la baliza.
 
-Limpiaste el contacto con la mínima cantidad posible de solvente técnico. Recuperaste tensión del muelle doblándolo apenas con la herramienta y añadiste una lámina conductora del kit de mantenimiento.
-
-El primer cierre quedó mal.
-
-Lo desmontaste.
-
-La segunda vez el conector asentó sin holgura.
-
-Probaste el módulo vacío durante tres segundos.
-
-La corriente subió y se estabilizó.
-
-Cinco segundos.
-
-Diez.
-
-La temperatura del contacto dejó de crecer.
-
-Lo apagaste.
-
-No calentaste la ración siguiente.
-
----
-
-Al mediodía revisaste la mano izquierda.
-
-Nada nuevo.
-
-Temperatura equivalente.
-
-Color equivalente.
-
-Movilidad normal.
-
-Guardaste una fotografía sin añadir otra exposición.
-
-Después saliste solo hasta el colector.
-
-Casco cerrado.
-
-Guantes puestos.
-
-El recipiente tenía poca agua.
-
-La lluvia había sido demasiado irregular.
-
-Cambiaste la bolsa, revisaste el desvío y regresaste.
-
-El ciclo de entrada gastó lo mismo que siempre.
-
-Limpiar.
-
-Recircular.
-
-Esperar.
-
-La gráfica de energía bajó un poco más durante la recirculación.
-
-Esta vez la viste hacerlo.
-
----
-
-Por la tarde abriste el historial de la baliza.
-
-No buscaste Aster.
-
-Buscaste fallos propios.
-
-Las transmisiones automáticas estaban completas salvo las tres caídas breves de potencia coincidentes con el módulo térmico.
+Las transmisiones estaban completas salvo aquellas caídas breves de potencia.
 
 No había pérdidas totales.
 
-No había respuesta.
+Tampoco respuesta.
 
-Programaste una regla sencilla: durante la ventana de transmisión de la baliza, las cargas no esenciales no podrían arrancar.
+Programaste una regla sencilla: durante las transmisiones automáticas, ninguna carga no esencial podría arrancar.
 
 El sistema aceptó el cambio.
 
-Probaste una transmisión de diagnóstico sin emitir fuera de banda.
+Probaste la secuencia sin emitir fuera de banda.
 
-La tensión se mantuvo estable.
+Tensión estable.
 
 Guardaste la configuración.
 
-La próxima llamada saldría con menos competencia dentro de la cápsula.
+Después miraste la gráfica general.
+
+La recirculación dejaba una pendiente.
+
+Las bombas, otra.
+
+Una hora clara podía recuperar parte de ambas. Una hora de niebla, casi nada.
+
+Hasta entonces habías tratado comida, agua, aire y comunicación como problemas separados.
+
+La gráfica no.
 
 ---
 
 La cena fue media ración fría.
 
-La partiste con la herramienta.
-
-El borde se desmigó sobre el recipiente.
-
-Recogiste las migas con un dedo y te las llevaste a la boca.
-
 El módulo térmico estaba a menos de un metro.
 
-Funcionaba otra vez.
+Funcionaba.
 
 No lo encendiste.
 
-Mientras comías, la baliza inició su secuencia.
-
-Una luz verde recorrió el indicador.
-
-La cápsula bajó durante unos segundos el ventilador secundario.
-
-El convertidor mantuvo temperatura.
+La baliza inició su secuencia. El ventilador secundario redujo carga y el convertidor mantuvo temperatura.
 
 La potencia de salida permaneció estable.
 
-Escuchaste la transmisión terminar.
+La llamada terminó.
 
-Después volvió el zumbido normal de la cabina.
-
-No hubo respuesta.
+Sin respuesta.
 
 Guardaste la otra mitad de la ración.
 
-En el armario, la marca que habías puesto días antes quedaba ya por encima de la fila superior de paquetes.
-
-Moviste la mano hacia ella.
-
-No la bajaste.
-
-Todavía medía algo útil.
-
-Cerraste la puerta.
-
----
-
-Antes de dormir revisaste el exterior por la pequeña cámara de la escotilla.
-
-Niebla.
-
-Raíces oscuras.
-
-Una membrana se tensó y volvió a aflojarse.
-
-No saliste.
-
-Apagaste la pantalla principal.
-
-Dejaste activa la ambiental.
-
-Dejaste activa la baliza.
+Antes de dormir dejaste activa la ambiental y la baliza.
 
 El módulo térmico quedó apagado.
 
-En la oscuridad siguieron el ventilador primario y el pulso verde de la transmisión programada.
+En la oscuridad siguieron funcionando solo las cosas que todavía no podías permitirte perder.
