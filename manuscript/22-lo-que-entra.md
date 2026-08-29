@@ -6,21 +6,21 @@ Once paquetes completos.
 
 Una mitad.
 
-Volviste a contarlos.
+Volví a contarlos.
 
 Once y medio.
 
 La cifra no necesitaba convertirse en fecha para resultar incómoda.
 
-Comiste la mitad que ya estaba abierta y guardaste las demás.
+Comí la mitad que ya estaba abierta y guardé las demás.
 
-Después abriste las imágenes de la criatura cobriza.
+Después abrí las imágenes de la criatura cobriza.
 
 La película oscura desaparecía bajo su estructura tubular, pero las grabaciones antiguas no mostraban adónde iba.
 
-Podías gastar otro reactivo.
+Podía gastar otro reactivo.
 
-Podías tomar otra muestra.
+Podía tomar otra muestra.
 
 La pregunta más barata era otra.
 
@@ -28,19 +28,19 @@ La pregunta más barata era otra.
 
 ---
 
-Saliste sin analizador ni recipientes.
+Salí sin analizador ni recipientes.
 
-La ruta conocida pasó deprisa. En el canal de raíces paralelas no probaste el apoyo desplazado: utilizaste la alternativa superior que ya empezaba a ser costumbre.
+La ruta conocida pasó deprisa. En el canal de raíces paralelas no probé el apoyo desplazado: utilicé la alternativa superior que ya empezaba a ser costumbre.
 
 La bóveda volvió a cargar el filtro con mayor rapidez.
 
-En las placas cobrizas encontraste el mismo borde roto y la franja parcialmente cubierta.
+En las placas cobrizas encontré el mismo borde roto y la franja parcialmente cubierta.
 
-Esperaste.
+Esperé.
 
 A los veintitrés minutos apareció una criatura de seis apoyos bajo dos capas superpuestas.
 
-No sabías si era la misma.
+No sabía si era la misma.
 
 Se detuvo sobre una placa cubierta de película oscura.
 
@@ -52,7 +52,7 @@ La película se deformó.
 
 La criatura avanzó unos milímetros y dejó detrás una línea clara.
 
-En el tercer ciclo viste algo nuevo.
+En el tercer ciclo vi algo nuevo.
 
 Un tramo del tubo era translúcido.
 
@@ -68,31 +68,31 @@ Otra porción oscura recorrió el tubo.
 
 Después plegó la estructura y desapareció bajo la placa.
 
-No la seguiste.
+No la seguí.
 
-Revisaste el vídeo allí mismo.
+Revisé el vídeo allí mismo.
 
 Lo único defendible era sencillo:
 
 **TRANSFERENCIA DE MATERIAL HACIA EL CUERPO: OBSERVADA.**
 
-No escribiste *comer*.
+No escribí *comer*.
 
-No escribiste *digestión*.
+No escribí *digestión*.
 
-No escribiste *alimento humano*.
+No escribí *alimento humano*.
 
-Regresaste antes de gastar más filtro.
+Regresé antes de gastar más filtro.
 
 ---
 
-Dentro descargaste la grabación.
+Dentro descargué la grabación.
 
 La sombra del tubo era más difícil de ver en pantalla grande, pero cambiaba de posición entre fotogramas y avanzaba hacia el cuerpo después de cada contacto.
 
 Eso bastaba.
 
-Abriste una ración completa, comiste la mitad fría y guardaste la otra.
+Abrí una ración completa, comí la mitad fría y guardé la otra.
 
 Al terminar quedaban diez y media.
 
@@ -100,9 +100,9 @@ Fue entonces cuando uno de los paquetes cedió al apretarlo.
 
 Una corriente mínima salió por una esquina.
 
-Lo bajaste al banco.
+Lo bajé al banco.
 
-No lo abriste.
+No lo abrí.
 
 La perforación parecía antigua, atrapada alguna vez contra una pieza deformada por el impacto.
 
@@ -110,25 +110,25 @@ Podía llevar horas perdiendo vacío.
 
 Podía llevar días.
 
-Revisaste los demás paquetes.
+Revisé los demás paquetes.
 
 Ninguno respiró.
 
-Separaste el dañado y escribiste:
+Separé el dañado y escribí:
 
 **NO CONSUMIR. SELLADO COMPROMETIDO.**
 
-La comida segura acababa de disminuir sin que hubieras comido.
+La comida segura acababa de disminuir sin que hubiera comido.
 
 ---
 
-No tiraste la ración dañada todavía.
+No tiré la ración dañada todavía.
 
-Ya que no podías confiar en ella como alimento, podía servir como algo que ninguna muestra de Elyndran podía darte.
+Ya que no podía confiar en ella como alimento, podía servir como algo que ninguna muestra de Elyndran podía darme.
 
 Un control conocido.
 
-Cortaste el envase lejos de la perforación y tomaste menos de un gramo.
+Corté el envase lejos de la perforación y tomé menos de un gramo.
 
 El analizador utilizó el mismo protocolo conservador que con la película oscura.
 
@@ -136,9 +136,9 @@ Esta vez reconoció sin dificultad lípidos, carbohidratos, proteínas procesada
 
 La base de datos humana encontró referencias por todas partes.
 
-Abriste a su lado el análisis de la película.
+Abrí a su lado el análisis de la película.
 
-A la izquierda, algo fabricado para mantenerte vivo.
+A la izquierda, algo fabricado para mantenerme vivo.
 
 A la derecha, algo que un animal de Elyndran trasladaba hacia su cuerpo.
 
@@ -154,20 +154,20 @@ La película seguía mostrando:
 
 **COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA.**
 
-No habías demostrado que fuera peligrosa.
+No había demostrado que fuera peligrosa.
 
 Tampoco que el analizador fuese incapaz de reconocer comida humana cuando la tenía delante.
 
-Escribiste:
+Escribí:
 
 **CONTROL HUMANO RECONOCIDO POR EL MISMO PROTOCOLO. LA PELÍCULA SIGUE SIN CLASIFICACIÓN METABÓLICA HUMANA.**
 
 La ración dañada quedó descartada.
 
-Después comiste la mitad segura que seguía abierta.
+Después comí la mitad segura que seguía abierta.
 
 Al cerrar el armario quedaban nueve raciones completas.
 
 La criatura podía introducir materia de Elyndran en su cuerpo.
 
-Tú seguías sin tener derecho a hacerlo.
+Yo seguía sin tener derecho a hacerlo.
