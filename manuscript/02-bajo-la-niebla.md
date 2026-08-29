@@ -1,46 +1,46 @@
 # Capítulo II — Bajo la niebla
 
-Dormiste en intervalos de pocos minutos.
+Dormí en intervalos de pocos minutos.
 
 No porque el golpe volviera.
 
 Precisamente porque no volvió.
 
-Cada vez que empezabas a dormir, tu cuerpo recordaba la sombra que había cruzado bajo la cápsula y te devolvía al ventanal.
+Cada vez que empezaba a dormirme, mi cuerpo recordaba la sombra que había cruzado bajo la cápsula y me devolvía al ventanal.
 
-Al final encendiste la luz interior.
+Al final encendí la luz interior.
 
-La rodilla se había endurecido durante el reposo. El costado dolía menos. Cambiaste el filtro, bebiste y revisaste la baliza.
+La rodilla se había endurecido durante el reposo. El costado dolía menos. Cambié el filtro, bebí y revisé la baliza.
 
 Transmitiendo.
 
 Sin respuesta.
 
-Antes de salir recuperaste la grabación nocturna.
+Antes de salir recuperé la grabación nocturna.
 
-La sombra ocupaba siete fotogramas. Aumentar contraste solo añadía artefactos. No había patas, alas ni contorno suficiente para asegurar siquiera que hubiese un cuerpo.
+La sombra ocupaba siete fotogramas. Aumentar el contraste solo añadía artefactos. No había patas, alas ni contorno suficiente para asegurar siquiera que hubiese un cuerpo.
 
 Podía ser niebla más densa.
 
 Una sombra de las raíces.
 
-O algo que todavía no podías resolver.
+O algo que todavía no podía resolver.
 
-Archivaste el vídeo:
+Archivé el vídeo:
 
 **OSCURECIMIENTO MÓVIL. ORIGEN NO DETERMINADO.**
 
-Después abriste la escotilla.
+Después abrí la escotilla.
 
 La luz había cambiado el mundo.
 
 La corteza negra mostraba verdes y rojizos; las membranas transparentes, venas finísimas. Más abajo, las nubes se desplazaban de izquierda a derecha.
 
-Preparaste la mochila con menos peso que el día anterior y siguió la ruta conocida.
+Preparé una mochila más ligera que el día anterior y seguí la ruta conocida.
 
 Los primeros cien metros parecieron más cortos.
 
-La depresión de agua seguía llena. La grieta del viento ya no era una frontera, sino un lugar concreto: sabías dónde reducir el paso y cuándo mirar las membranas.
+La depresión de agua seguía llena. La grieta del viento ya no era una frontera. Sabía dónde reducir el paso y cuándo mirar las membranas.
 
 En la bifurcación la tira reflectante seguía pegada, aunque una esquina empezaba a levantarse.
 
@@ -50,11 +50,11 @@ Horizontal.
 
 Descendente.
 
-Elegiste la última.
+Elegí la última.
 
 No porque pareciera segura.
 
-Porque querías saber qué había debajo.
+Porque quería saber qué había debajo.
 
 ---
 
@@ -66,51 +66,51 @@ Tensión.
 
 Ráfaga.
 
-A la tercera ya inclinabas el cuerpo antes de pensarlo.
+A la tercera ya inclinaba el cuerpo antes de pensarlo.
 
 Más abajo la temperatura empezó a subir. Dos décimas. Luego tres más. La humedad aumentó mientras la niebla se hacía menos compacta.
 
 Entonces apareció una raíz inferior, ancha y casi plana, unos treinta metros por debajo.
 
-Las manchas pálidas que habías visto desde arriba cubrían buena parte de su superficie.
+Las manchas pálidas que había visto desde arriba cubrían buena parte de su superficie.
 
 Con el zoom parecían círculos irregulares, algunos de más de un metro.
 
-La ruta terminó en una fractura antigua. Fibras endurecidas, más gruesas que tu torso, descendían hacia niveles inferiores.
+La ruta terminó en una fractura antigua. Fibras endurecidas, más gruesas que mi torso, descendían hacia niveles inferiores.
 
 Dos metros de cable no servían para aquello.
 
-Buscaste otra opción.
+Busqué otra opción.
 
 A la derecha, una fibra gruesa bajaba en diagonal hasta una raíz intermedia. Era lo bastante ancha para una bota y estaba cubierta por una película mate y elástica.
 
-La probaste con la herramienta.
+La probé con la herramienta.
 
 Cedió y recuperó lentamente la forma.
 
-Apoyaste una bota.
+Apoyé una bota.
 
 La fibra apenas se movió.
 
-Entonces una ráfaga te golpeó de costado.
+Entonces una ráfaga me golpeó de costado.
 
-Habías dejado de mirar las membranas.
+Había dejado de mirar las membranas.
 
-Retrocediste y esperaste.
+Retrocedí y esperé.
 
 Tensión.
 
 Viento.
 
-Solo entonces empezaste a bajar.
+Solo entonces empecé a bajar.
 
-La rodilla obligaba a mantener posturas incómodas y dos veces regresaste al apoyo anterior porque el siguiente parecía mejor desde lejos que desde cerca.
+La rodilla me obligaba a mantener posturas incómodas y dos veces regresé al apoyo anterior porque el siguiente parecía mejor desde lejos que desde cerca.
 
-Alcanzaste la raíz intermedia diez minutos después.
+Alcancé la raíz intermedia diez minutos después.
 
 La capa inferior quedaba ya a menos de ocho metros.
 
-Ahora podías ver las manchas pálidas con claridad.
+Ahora podía ver las manchas pálidas con claridad.
 
 No eran manchas.
 
@@ -118,17 +118,17 @@ Eran discos.
 
 Decenas de estructuras bajas y cóncavas pegadas a la corteza, con bordes translúcidos y centros lechosos. Algunas estaban vacías; otras retenían agua de lluvia hasta rebosar.
 
-Encontraste una bajada entre fibras más finas y llegaste a la raíz inferior.
+Encontré una bajada entre fibras más finas y llegué a la raíz inferior.
 
 La temperatura exterior era casi cuatro grados mayor que junto a la cápsula.
 
 El aire olía más húmedo y mineral incluso a través del filtro.
 
-Te acercaste al disco más próximo.
+Me acerqué al disco más próximo.
 
 Medía algo más de metro y medio. El agua parecía limpia.
 
-No la tocaste.
+No la toqué.
 
 Varias líneas paralelas recorrían la pared interior.
 
@@ -140,11 +140,11 @@ No estaban en el disco.
 
 Estaban dentro del agua.
 
-Retrocediste.
+Retrocedí.
 
 El movimiento cesó.
 
-Bajaste la intensidad de la linterna y la dejaste apuntando hacia el borde.
+Bajé la intensidad de la linterna y la dejé apuntando hacia el borde.
 
 Entonces aparecieron.
 
@@ -154,15 +154,15 @@ No nadaban como peces. Se desplazaban mediante ondulaciones que cruzaban el cuer
 
 Una de ellas pasó varias veces sobre una película verdosa adherida al disco y dejó una franja más clara.
 
-Anotaste:
+Anoté:
 
 **POSIBLE ALIMENTACIÓN.**
 
 Con interrogación.
 
-No intentaste capturarlas.
+No intenté capturarlas.
 
-Por primera vez desde la caída podías afirmar que estabas viendo animales.
+Por primera vez desde la caída podía afirmar que estaba viendo animales.
 
 ---
 
@@ -170,41 +170,41 @@ Las dos criaturas se detuvieron al mismo tiempo.
 
 Sus cuerpos se pegaron al fondo.
 
-Miraste las membranas de la raíz.
+Miré las membranas de la raíz.
 
 No había viento.
 
 El visor mostró un pequeño aumento del consumo térmico del traje: la humedad había enfriado la pierna izquierda y el calentador acababa de compensarlo.
 
-Las formas huyeron hacia el borde opuesto del disco antes de que tú notaras ningún cambio.
+Las formas huyeron hacia el borde opuesto antes de que yo notara ningún cambio.
 
-Esperaste a que regresaran.
+Esperé a que regresaran.
 
-Activaste manualmente la compensación durante un instante.
+Activé manualmente la compensación durante un instante.
 
 Volvieron a apartarse.
 
-Repetiste una sola vez.
+Repetí una sola vez.
 
 Mismo resultado.
 
-Cerraste el control.
+Cerré el control.
 
 El visor tardaba en mostrar la consecuencia.
 
 Ellas no.
 
-Pensaste en las membranas que se tensaban antes del viento.
+Pensé en las membranas que se tensaban antes del viento.
 
 Dos organismos diferentes.
 
-Dos respuestas anteriores a tu percepción o a la lectura visible del instrumento.
+Dos respuestas anteriores a mi percepción o a la lectura visible del instrumento.
 
 La palabra *antes* apareció demasiado deprisa.
 
-La apartaste.
+La aparté.
 
-No tenías evidencia para unir ambas cosas.
+No tenía evidencia para unir ambas cosas.
 
 Un golpe seco llegó desde lejos.
 
@@ -224,18 +224,18 @@ Muy poco.
 
 Suficiente.
 
-Te apoyaste con ambas manos hasta que el movimiento cesó.
+Me apoyé con ambas manos hasta que el movimiento cesó.
 
 Entonces llegó un tercer golpe desde abajo.
 
-No procedía de la raíz sobre la que estabas.
+No procedía de la raíz sobre la que estaba.
 
 Venía de más profundidad.
 
 Mucha más.
 
-Miraste la ruta de regreso, los discos y la niebla inferior.
+Miré la ruta de regreso, los discos y la niebla inferior.
 
-Habías bajado para averiguar qué había debajo.
+Había bajado para averiguar qué había debajo.
 
 La respuesta había sido otra capa del mundo.
