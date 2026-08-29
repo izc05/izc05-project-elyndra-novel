@@ -4,264 +4,122 @@ El envoltorio no pesaba nada.
 
 Aun así lo doblaste antes de tirarlo.
 
-Una vez por la mitad.
-
-Otra.
-
-Lo apretaste entre dos dedos hasta convertirlo en una tira de plástico plateado y lo dejaste junto a los demás.
-
-La pila ocupaba poco espacio.
+La pila de plástico plateado ocupaba poco espacio.
 
 Ese era el problema.
 
-Abriste el compartimento de las raciones.
+Abriste el compartimento de comida. Había demasiado fondo visible.
 
-No necesitabas contarlas para notar que había demasiado fondo visible.
+Sacaste una ración y la partiste por la línea del fabricante. Durante el viaje aquella marca había sido una cuestión de apetito.
 
-Sacaste una.
-
-La barra compacta tenía una línea de corte marcada por el fabricante. Nunca habías utilizado aquella línea durante el viaje. Aster llevaba comida suficiente para que partir una ración fuera una cuestión de apetito, no de cálculo.
-
-La apoyaste sobre el banco.
-
-La herramienta atravesó el bloque con más dificultad de la esperada.
+Ahora era una medida.
 
 Guardaste una mitad.
 
-Calentaste la otra.
+Comiste la otra mirando el colector.
 
-El módulo térmico volvió a necesitar dos intentos.
-
-Mientras comías miraste el recipiente del colector.
-
-La lluvia había resuelto una parte del problema sin pedirte permiso.
+La lluvia había abierto una posibilidad para el agua.
 
 La comida no parecía dispuesta a hacer lo mismo.
 
 ---
 
-Volviste a la ruta ascendente porque allí habías visto a un animal detenerse sobre las placas cobrizas.
+Volviste a la ruta ascendente por la criatura de seis apoyos.
 
-No llevabas un recipiente para traer comida.
+No llevabas un recipiente para traer alimento.
 
-Llevabas cámara, una cápsula de muestra y el analizador portátil.
+Llevabas cámara, una cápsula de muestra y el analizador.
 
-La ruta estaba húmeda en las zonas profundas de la bóveda y casi seca en las partes expuestas. Las placas cobrizas retenían pequeñas gotas entre sus capas. Los filamentos blancos se abrieron delante de la linterna y volvieron a cerrarse detrás de ti.
+Los filamentos blancos se apartaron de la linterna. Las placas cobrizas aparecieron entre las columnas.
 
-Ya no te giraste para comprobarlo.
+A mitad de la bóveda encontraste otra criatura.
 
-A mitad del camino encontraste otra de las pequeñas criaturas de seis apoyos.
+O la misma.
 
-No supiste si era la misma de la tormenta.
+No podías distinguirlas.
 
-No había ninguna marca que te permitiera distinguirla.
+Estaba inmóvil sobre una placa caída. La estructura tubular surgió por debajo y tocó el reverso oscuro.
 
-Estaba inmóvil sobre una placa cobriza caída, tan plana que durante unos segundos la confundiste con una protuberancia del material.
+No había agua.
 
-Te detuviste a tres metros.
+El tubo rozó la superficie, avanzó unos centímetros y volvió a apoyarse.
 
-La criatura levantó dos apoyos.
-
-Después otros dos.
-
-La parte delantera del cuerpo se desplazó hacia el borde de la placa.
-
-Esperaste.
-
-La estructura tubular apareció por debajo.
-
-La primera vez la habías visto tocar una gota.
-
-Esta vez no había agua donde la apoyó.
-
-El tubo rozó el reverso de la placa.
-
-Una vez.
-
-Dos.
-
-La criatura avanzó unos centímetros.
-
-Volvió a hacerlo.
-
-Te agachaste despacio, sin acercarte más.
-
-En la superficie quedó una línea más clara.
+Detrás quedó una línea más clara.
 
 No un corte.
 
 Algo retirado.
 
-La criatura continuó hasta el borde, plegó los apoyos de un lado y desapareció bajo las capas cobrizas.
-
-Esperaste un minuto.
-
-No volvió.
+La criatura desapareció bajo las placas.
 
 Te acercaste.
 
-El reverso de la placa estaba cubierto por una película mate, casi negra, salvo en el recorrido que acababas de observar. Allí quedaba una franja de color pardo claro del ancho de un dedo.
+El reverso estaba cubierto por una película casi negra salvo en el recorrido recién despejado. En otras placas había franjas semejantes que la primera vez no habías sabido mirar.
 
-Pasaste la luz de lado.
+Encontraste una placa desprendida y tomaste un fragmento de película del tamaño de una uña.
 
-La película tenía espesor.
+Solo uno.
 
-Muy poco.
+Después seguiste hasta la terraza.
 
-Suficiente para dejar relieve.
+Allí las masas cobrizas dejaron de ser solo paisaje durante unos segundos.
 
-No tocaste todavía.
+Cuánta superficie.
 
-Buscaste alrededor.
+Cuánta película.
 
-En otras dos placas caídas aparecían franjas semejantes.
+Cuánto material que existía sin depender de tus reservas.
 
-Algunas estrechas.
+El estómago sonó dentro del traje.
 
-Una de casi diez centímetros.
-
-No habías reparado en ellas la primera vez.
-
-Entonces tampoco sabías qué buscar.
+Apartaste la mirada y regresaste.
 
 ---
 
-Encontraste una placa desprendida lejos de las demás.
-
-La cara superior seguía mostrando el color cobre. El reverso conservaba una zona amplia de película oscura y otra ya limpia.
-
-La levantaste con la herramienta.
-
-Nada se movió debajo.
-
-La placa pesaba menos de lo que recordabas.
-
-Era rígida en el centro y flexible en los bordes.
-
-Cortaste un fragmento del tamaño de una uña de la película, no de la placa.
-
-El material se estiró antes de separarse.
-
-Guardaste la muestra en uno de los recipientes pequeños que quedaban.
-
-Marcaste la ubicación.
-
-No recogiste más.
-
-El regreso a la cápsula habría sido más corto si hubieras dado media vuelta entonces.
-
-Seguiste hasta la terraza.
-
-Las formaciones cobrizas que antes habían sido color y estructura empezaron a dividirse solas en porciones mientras avanzabas.
-
-Cuántas placas.
-
-Cuánta superficie oscura bajo cada una.
-
-Cuántas veces habías visto aquellas columnas sin pensar en su masa.
-
-Apartaste la vista.
-
-Más allá de la terraza, la geometría regular aparecía por intervalos entre la niebla.
-
-Recta.
-
-Ángulo.
-
-Recta.
-
-Seguía igual.
-
-El estómago hizo un ruido dentro del traje.
-
-Bebiste agua terrestre.
-
-Después emprendiste el regreso.
-
----
-
-La cápsula podía analizar muchas cosas.
-
-No podía decirte si debías comértelas.
-
-Colocaste la muestra en la bandeja y elegiste el protocolo más conservador que todavía tenía reactivos suficientes.
-
-El material no se comportó como tejido vegetal terrestre.
-
-Tampoco como grasa o proteína simple.
-
-El sistema detectó cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética que habría sido tentador convertir en calorías.
+El analizador detectó cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética que habría sido fácil convertir mentalmente en calorías.
 
 No lo hiciste.
 
-La siguiente línea era más útil.
+Las líneas importantes fueron otras:
 
 **ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES.**
 
-Después:
-
 **COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA.**
 
-Esperaste al resto.
-
-El equipo tardó más de cuatro minutos y consumió una porción de reactivo que ya no podrías recuperar.
-
-No apareció ningún veneno humano conocido por encima del umbral de detección.
+No apareció ningún veneno humano conocido por encima del umbral del equipo.
 
 Eso solo significaba que no había encontrado uno de los que sabía buscar.
 
-Guardaste el resultado.
+La criatura retiraba la película.
 
-La película oscura podía alimentar a la criatura.
+No sabías aún qué hacía con ella.
 
-O la criatura podía estar retirándola por otra razón.
+Y aunque la ingiriera, aquello no la convertiría en comida para ti.
 
-Incluso si la ingería, aquello no convertía el material en comida para ti.
+Sacaste la mitad de ración guardada por la mañana.
 
-Abriste el compartimento de raciones.
+Durante un instante quedó junto al recipiente de muestra.
 
-Sacaste la mitad que habías guardado por la mañana.
+Una cosa era conocida y cada vez más escasa.
 
-Durante un segundo la sostuviste junto al recipiente de muestra.
-
-Una cosa era seca, conocida y cada vez más escasa.
-
-La otra cubría buena parte de una ruta del planeta.
+La otra cubría parte de Elyndran y seguía siendo biológicamente ilegible.
 
 Te comiste la conocida.
 
 ---
 
-Por la tarde regresaste a las imágenes de la criatura.
+Revisaste el vídeo una última vez.
 
-No para mirar su cuerpo.
+El tubo tocaba la película, la deformaba y dejaba detrás una franja clara.
 
-Miraste la placa.
-
-Fotograma a fotograma, la estructura tubular tocaba la película, permanecía allí y avanzaba. En dos momentos el material se deformaba alrededor del contacto antes de dejar la franja clara.
-
-No bastaba para demostrar ingestión.
-
-Pero era mejor que la primera observación.
-
-Añadiste al registro:
+Escribiste:
 
 **PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.**
 
 Cerraste el archivo.
 
-El compartimento de raciones quedó a tu derecha.
-
-El colector, a la izquierda.
-
-Fuera, una gota cayó desde alguna raíz superior y golpeó la cubierta.
-
-Esperaste otra.
-
-No llegó.
-
-Sacaste una tira de cinta y pegaste en el interior del armario de comida una marca junto al borde de las raciones que quedaban.
+Después pegaste una tira de cinta en el armario, alineada con el borde de las raciones restantes.
 
 No escribiste una fecha.
 
-Todavía no sabías qué duración ponerle.
+Todavía no sabías cuánto tiempo representaba aquel espacio vacío.
