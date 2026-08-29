@@ -16,6 +16,31 @@ El objetivo inicial es sencillo: sobrevivir y encontrar una forma de volver a ca
 
 Con el tiempo, para marcharse tendrá que comprender el planeta. Esa comprensión debe cambiar lentamente su relación emocional con Elyndran.
 
+## Voz narrativa canónica
+
+Toda la novela se narra en **primera persona física e inmersiva**.
+
+El protagonista cuenta lo que vive desde dentro: lo que ve, oye, toca, pesa, calcula, teme, duda y decide en ese momento.
+
+Usar de forma natural formas como:
+
+- *miré*;
+- *sentí*;
+- *no sabía*;
+- *me detuve*;
+- *apoyé la mano*;
+- *no podía demostrarlo*.
+
+Evitar la segunda persona narrativa —*miraste, sentiste, te detuviste, podías*— y evitar también una tercera persona externa que describa al protagonista desde fuera.
+
+La primera persona no debe convertirse en pensamiento explicativo constante. La inmersión nace primero del cuerpo y de la acción.
+
+Regla práctica:
+
+> No contarme desde fuera lo que me está ocurriendo. Hacer que lo viva mientras ocurre.
+
+Esta voz se aplica al Prólogo y a todos los capítulos presentes y futuros.
+
 ## Regla del conocimiento
 
 El lector nunca puede saber más que el protagonista.
@@ -55,7 +80,7 @@ Orden preferente:
 
 CUERPO -> ESPACIO INMEDIATO -> MEDIA DISTANCIA -> HORIZONTE -> CONTRADICCIÓN -> PREGUNTA.
 
-El lector debe saber dónde están los pies del protagonista, qué puede tocar, qué tiene cerca, qué domina el horizonte y qué detalle no encaja.
+El lector debe saber dónde están mis pies, qué puedo tocar, qué tengo cerca, qué domina el horizonte y qué detalle no encaja.
 
 ## Mundo abierto
 
@@ -113,7 +138,7 @@ Primera visita: no entiendo.
 
 Segundo regreso: sé algo que antes no sabía.
 
-Regreso posterior: el lugar ha cambiado o el protagonista ha cambiado lo suficiente para leerlo de otra manera.
+Regreso posterior: el lugar ha cambiado o yo he cambiado lo suficiente para leerlo de otra manera.
 
 Efecto buscado:
 
@@ -141,9 +166,9 @@ Evitar exposición enciclopédica, metáforas acumuladas, frases que intentan so
 
 Mostrar mediante conducta.
 
-NO: "Sintió mucho miedo."
+NO: "Sentí mucho miedo."
 
-MEJOR: "Tardó tres intentos en conseguir que el cierre del casco encajara."
+MEJOR: "Tardé tres intentos en conseguir que el cierre del casco encajara."
 
 La belleza debe surgir sobre todo de lo observado.
 
@@ -195,12 +220,13 @@ No importar automáticamente NPC humanos, otros tripulantes o líneas narrativas
 En cada sesión:
 
 1. releer el capítulo actual y las secciones relevantes anteriores;
-2. auditar contradicciones, ritmo, prosa genérica, exposición prematura y continuidad;
-3. reescribir primero lo que no esté a la altura;
-4. leer de nuevo el fragmento corregido;
-5. continuar únicamente si la escena previa ya funciona;
-6. actualizar CONTINUITY.md;
-7. detenerse en un punto narrativamente natural.
+2. auditar contradicciones, ritmo, prosa genérica, exposición prematura, continuidad y voz narrativa;
+3. comprobar que toda la narración permanece en primera persona física;
+4. reescribir primero lo que no esté a la altura;
+5. leer de nuevo el fragmento corregido;
+6. continuar únicamente si la escena previa ya funciona;
+7. actualizar CONTINUITY.md;
+8. detenerse en un punto narrativamente natural.
 
 Cada sección importante debe superar tres lecturas:
 
@@ -208,10 +234,10 @@ Cada sección importante debe superar tres lecturas:
 ¿Quiero saber qué sucede después?
 
 ### Lectura de mundo
-¿Elyndran parece existir más allá del protagonista?
+¿Elyndran parece existir más allá de mí?
 
 ### Lectura de continuidad
-¿Todo respeta lo que realmente se ha descubierto?
+¿Todo respeta lo que realmente he descubierto?
 
 Si falla una de las tres, reescribir antes de avanzar.
 
