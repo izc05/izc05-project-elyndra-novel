@@ -2,207 +2,65 @@
 
 A la mañana siguiente la mano izquierda seguía igual.
 
-La fotografiaste antes de desayunar.
-
-Misma temperatura que la derecha.
+Misma temperatura.
 
 Mismo color.
 
 Misma movilidad.
 
-La pequeña marca del guante había desaparecido durante la noche.
+Guardaste una fotografía y no preparaste otra exposición.
 
-Guardaste la imagen y cerraste el registro.
+Mientras comías media ración fría miraste el mapa.
 
-No preparaste otra exposición.
+La descendente exigía una bajada que no necesitabas. La ascendente gastaba más filtro. La horizontal llevaba demasiado tiempo reducida a fotografías y dos tonos que ya utilizabas para orientarte sin entenderlos.
 
-Calentaste media ración.
-
-El módulo térmico volvió a apagarse antes de tiempo. Esta vez no intentaste reiniciarlo. Comiste la parte fría primero y dejaste la más blanda para el final.
-
-Mientras masticabas miraste el mapa local.
-
-La ruta ascendente estaba marcada con la nota de carga de filtro.
-
-La descendente exigía rodilla, cuerda y una bajada que no necesitabas hacer aquel día.
-
-La horizontal llevaba demasiado tiempo reducida a fotografías antiguas y dos tonos que ya utilizabas para orientarte sin haber vuelto a preguntar qué los producía.
-
-Terminaste la ración.
-
-Revisaste el cierre del guante izquierdo.
-
-Saliste.
+Elegiste esa.
 
 ---
 
-La primera ruta estaba más seca.
+La ruta horizontal cargó el filtro menos que la bóveda ascendente durante los primeros minutos.
 
-Las membranas del borde se tensaron una vez antes de una ráfaga corta. Bajaste el centro de gravedad sin mirar hacia ellas y seguiste caminando.
+Pasaste las depresiones sin detenerte y entraste en la niebla.
 
-En la zona de las depresiones no te detuviste.
-
-Las tres marcas grandes seguían donde las recordabas. La pequeña aparecía más adelante, apenas visible con aquella luz.
-
-No habías venido por ellas.
-
-En la bifurcación giraste hacia la niebla horizontal.
-
-El aire se volvió más frío después de los primeros metros.
-
-Anotaste la carga inicial del filtro.
-
-Durante diez minutos subió poco.
-
-Menos que en la bóveda ascendente durante la comparación anterior.
-
-Guardaste el dato.
-
-La niebla se espesó.
-
-Buscaste las dos protuberancias juntas, la cicatriz clara y el grupo de membranas bajo el borde derecho.
-
-Seguían allí.
-
-Unos metros después esperabas oír el agudo.
+Esperabas oír el agudo antes de ver la estructura.
 
 No llegó.
 
-Seguiste.
+El grave apareció solo.
 
-El grave apareció muy lejos, deformado por la niebla.
+Después otra vez.
 
-Te detuviste.
+La estructura de tres brazos surgió entre la niebla sin mostrar cambios evidentes en su forma ni en las hendiduras de la base.
 
-Esperaste el segundo tono.
+El brazo inferior volvió a producir el tono grave.
 
-Nada.
+En su cavidad había una película transparente más abundante que en las primeras imágenes.
 
-Caía agua desde raíces superiores. El traje movía aire junto a tus oídos. Algo crujió en la corteza detrás de ti y no volvió a repetirse.
+Fuiste al brazo asociado al agudo.
 
-El grave sonó otra vez.
+La cavidad parecía casi seca.
 
-Solo.
-
-Abriste la grabación antigua mientras caminabas.
-
-Agudo.
-
-Grave.
-
-Agudo.
-
-Intervalos irregulares.
-
-Cerraste el archivo.
-
-La estructura estaba delante aunque todavía no pudieras verla.
-
-La encontraste primero por el grave.
-
----
-
-La niebla se apartó unos segundos.
-
-Los tres brazos aparecieron oscuros entre la corteza.
-
-No parecían distintos.
-
-Te acercaste hasta la distancia de trabajo de la primera visita.
-
-La raíz había acumulado agua alrededor de la base. Una película húmeda cubría parte de las placas lisas y hacía más oscura la corteza que crecía sobre la estructura.
-
-Sacaste las fotografías antiguas.
-
-Las bandas horizontales coincidían.
-
-Las hendiduras seguían visibles.
-
-Tres pequeñas y una grande.
-
-Debajo, una grande y dos pequeñas.
-
-No habían aparecido marcas nuevas que pudieras distinguir.
-
-El tono grave vibró bajo tu mano derecha antes de que llegaras a tocar nada.
-
-Lo sentiste a través de la herramienta.
-
-Miraste el brazo inferior.
-
-La película transparente de su cavidad estaba allí.
-
-Más gruesa que en las primeras imágenes.
-
-Subía casi hasta el borde interior.
-
-Fuiste al brazo que producía el agudo.
-
-La cavidad parecía vacía.
-
-No del todo.
-
-En el fondo quedaba una lámina transparente tan fina que solo se veía cuando movías la linterna de lado.
-
-Acercaste la cámara.
-
-Nada vibró.
+Solo una lámina finísima permanecía en el fondo.
 
 Esperaste.
 
-El grave volvió a sonar.
+Grave.
 
-La película del brazo inferior tembló primero.
+Silencio arriba.
 
-Después respondió la estructura.
+Otra vez grave.
 
-En el brazo superior no ocurrió nada.
+Nada en el brazo superior.
 
 ---
 
-La lluvia de la tarde anterior había dejado agua en todas partes.
+La lluvia reciente hacía difícil interpretar niveles de humedad, pero la diferencia entre las cavidades era clara.
 
-Eso hacía más extraña la diferencia entre las dos cavidades.
+No encontraste una entrada abierta ni una conexión visible entre ellas.
 
-Buscaste una entrada visible.
+A los catorce minutos una ráfaga limpió la niebla.
 
-No la encontraste.
-
-Las películas no parecían conectadas por un tubo abierto. Las bandas de la superficie continuaban de un brazo a otro, pero no podías ver qué había debajo.
-
-Pasaste el sensor térmico por ambos.
-
-Diferencia pequeña.
-
-El brazo grave estaba algo más frío.
-
-La corteza húmeda a su alrededor también.
-
-La medida no separaba causa y consecuencia.
-
-Sacaste el tubo de muestreo vacío, sin conectarlo al analizador, y lo utilizaste como referencia de escala junto a la cavidad superior.
-
-Fotografiaste el nivel.
-
-Luego esperaste.
-
-Cinco minutos.
-
-Diez.
-
-El grave sonó tres veces.
-
-El agudo ninguna.
-
-A los catorce minutos una ráfaga movió la niebla.
-
-Las membranas cercanas se habían tensado un instante antes.
-
-La estructura no sonó durante el viento.
-
-Cuando el aire volvió a quedar casi inmóvil viste algo en la cavidad superior.
-
-Una línea brillante avanzaba por uno de los bordes.
+Cuando el aire volvió a quedar casi inmóvil viste una línea brillante avanzando por el borde de la cavidad superior.
 
 No caía desde arriba.
 
@@ -210,172 +68,78 @@ Subía desde la zona donde la corteza abrazaba el brazo.
 
 Muy despacio.
 
-Acercaste la cámara sin tocar.
-
-La línea ganó menos de un milímetro.
-
-Se detuvo.
-
-Esperaste otros seis minutos.
-
-Volvió a avanzar.
-
-La película fina del fondo se hizo visible como una sola superficie.
-
-Anotaste la hora.
-
----
-
-El primer temblor fue tan pequeño que la cámara lo detectó antes que tú.
-
-La película superior se onduló.
-
-El brazo no respondió.
+La cámara registró el aumento.
 
 Esperaste.
 
-La película volvió a moverse.
+La película volvió a subir una fracción.
 
-Esta vez el material oscuro vibró después.
+Después se onduló.
 
-El tono agudo fue corto y más bajo que en la grabación de la primera visita.
+El brazo no respondió a la primera vibración.
 
-Reprodujiste el audio antiguo.
+A la segunda, sí.
 
-La diferencia era audible incluso a través del casco.
+El tono agudo reapareció.
 
-Mediste la frecuencia.
+Era más bajo que en la grabación antigua.
 
-Había bajado.
+Mediste la frecuencia y comparaste.
 
-Miraste el nivel de la película.
+La diferencia era real dentro del margen del equipo.
 
-Luego el brazo inferior, todavía lleno.
-
-El grave sonó y mantuvo prácticamente el mismo rango que en tus registros anteriores.
+El brazo inferior, con mayor cantidad de película, seguía produciendo el grave aproximadamente en el rango anterior.
 
 Escribiste:
 
 **TONO AGUDO AUSENTE CON CAVIDAD CASI SECA. REAPARECE TRAS AUMENTO DE PELÍCULA. FRECUENCIA DIFERENTE.**
 
-Debajo:
-
 **RELACIÓN ENTRE NIVEL DE PELÍCULA Y TONO: POSIBLE. MECANISMO DE CARGA NO DETERMINADO.**
 
-Guardaste el registro.
+Nada más.
 
 ---
 
-Rodeaste la base una vez más.
+La niebla abrió una ventana breve hacia la plataforma.
 
-La raíz cubría la estructura de forma irregular. En algunos puntos la corteza parecía haberse hinchado con la humedad y ocultaba uno o dos milímetros más de las bandas que en las fotografías antiguas.
+Las mismas formas verticales.
 
-En otros no había diferencia visible.
+La inclinada.
 
-Tomaste referencias.
+La del hueco limpio.
 
-Detrás de la estructura la niebla abrió una ventana breve hacia la plataforma.
+Sin luces.
 
-Las formas verticales aparecieron al fondo.
+Sin movimiento.
 
-Una inclinada.
+Volviste a la estructura.
 
-Otra con el hueco limpio cerca de la parte superior.
+El agudo sonó dos veces más. En ambas, la película vibró primero y el brazo después. La segunda nota resultó ligeramente más alta mientras el nivel transparente había aumentado un poco.
 
-Las mismas.
+Guardaste la secuencia.
 
-No viste luces.
+No convertiste la estructura en instrumento, interfaz ni mensaje.
 
-No viste movimiento.
+Solo había una relación física que merecía otra visita.
 
-La abertura se cerró.
+La rodilla empezó a endurecerse y el filtro seguía acumulando carga.
 
-Te quedaste allí el tiempo suficiente para que el agudo sonara dos veces más.
-
-Cada vez la película tembló primero.
-
-Cada vez el brazo respondió después.
-
-La segunda nota fue ligeramente más alta que la primera.
-
-El nivel transparente había subido un poco más.
-
-Guardaste otra grabación.
+Regresaste.
 
 ---
 
-La carga del filtro seguía aumentando despacio.
+Dentro de la cápsula repetiste la rutina de entrada y retiraste el guante izquierdo al final.
 
-La rodilla derecha empezaba a endurecerse.
+La piel seguía sin cambios visibles, ya cerca de un día después de la exposición.
 
-Guardaste el equipo.
+Después aceleraste el vídeo de la cavidad superior.
 
-Antes de marcharte apoyaste la cámara frente a las hendiduras y repetiste el mismo encuadre de la primera visita.
+La película ascendía desde la base a intervalos. Luego vibraba. Después respondía el brazo.
 
-Tres pequeñas.
+Fuera, la baliza transmitió sin respuesta.
 
-Una grande.
+Detuviste la grabación.
 
-Una grande.
+La estructura había recuperado un tono.
 
-Dos pequeñas.
-
-Sin cambio visible.
-
-El agudo sonó detrás de ti cuando ya habías dado varios pasos.
-
-No te detuviste.
-
-El grave llegó después.
-
-Tampoco te detuviste.
-
-En la bifurcación comprobaste el filtro.
-
-La ruta horizontal había cargado menos el cartucho que la bóveda durante una permanencia comparable, aunque las condiciones no eran idénticas.
-
-Marcaste el dato como comparación provisional.
-
----
-
-De vuelta en la cápsula hiciste el recorrido habitual.
-
-Cerrar.
-
-Limpiar.
-
-Recircular.
-
-Esperar.
-
-El guante izquierdo salió al final.
-
-La piel continuaba sin cambios visibles.
-
-Habían pasado casi veinticuatro horas.
-
-Tomaste una fotografía.
-
-Después abriste las grabaciones de la estructura.
-
-En la pantalla, la línea transparente del brazo superior ascendía tan despacio que a velocidad normal parecía inmóvil.
-
-Aceleraste el vídeo.
-
-Entrada desde la base.
-
-Pausa.
-
-Otra subida.
-
-Después la primera vibración.
-
-Pusiste al lado la fotografía de la primera visita.
-
-Fuera, la baliza transmitió su llamada automática.
-
-El tono grave de la grabación llenó la cápsula un instante.
-
-Lo detuviste.
-
-El silencio volvió a ocupar el espacio.
+No te había dicho nada.
