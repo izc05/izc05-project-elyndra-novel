@@ -1,154 +1,208 @@
 # Capítulo V — La ruta que sube
 
-Dormí algo mejor.
+Dormí mejor.
 
-Al despertar, la rodilla seguía rígida y el costado dolía solo al girarme. En la pantalla permanecían las imágenes de la estructura de tres brazos, las hendiduras y la plataforma lejana.
+No bien.
 
-No las amplié.
+Mejor.
 
-Miré el mapa.
+La diferencia empezaba a parecer importante.
 
-La rama descendente exigía equipo que aún no tenía. La horizontal llevaba a los tonos y a la geometría regular. La ascendente seguía siendo una línea hacia vegetación oscura.
+Al despertar, las imágenes de la estructura seguían en la pantalla. Los tres brazos. Las hendiduras. Las formas lejanas entre la niebla.
 
-Elegí esa.
+Las apagué.
 
-No era la más urgente.
+Ya había pasado demasiado tiempo mirándolas sin entender nada.
 
-Precisamente por eso.
+El mapa me ofrecía tres rutas y ninguna respuesta.
 
-Llevé agua, una ración, botiquín, batería, herramienta y linterna. Dejé el aseguramiento improvisado en la cápsula: si aparecía un descenso serio, volvería.
+La descendente terminaba demasiado abajo para mi equipo. La horizontal llevaba otra vez a los tonos.
 
-El camino hasta la bifurcación ya no exigía revisar cada referencia.
+La ascendente seguía casi vacía.
 
-La depresión de agua.
+—Pues arriba.
 
-La grieta del viento.
+Preparé agua, una ración, botiquín, batería, linterna y herramienta. Nada más.
 
-Las membranas.
+El camino hasta la bifurcación ya no parecía un territorio desconocido. Reconocí la depresión de agua antes de verla completa. Me agaché junto a la grieta justo cuando las membranas empezaban a tensarse.
 
-La curva tras la que desaparecía la cápsula.
+La ráfaga pasó.
 
-No caminaba más rápido.
+Seguí.
 
-Simplemente gastaba menos atención en lo conocido.
+No iba más rápido.
 
-Tomé la ruta ascendente.
+Solo tenía menos miedo de cada piedra, cada curva, cada sombra.
+
+Eso podía ser bueno.
+
+O podía ser exactamente la clase de confianza que acaba contigo.
+
+En la bifurcación miré hacia arriba.
+
+La ruta desaparecía bajo una masa oscura de vegetación.
+
+Entré.
+
+A los pocos pasos la lluvia dejó de golpear el casco.
+
+El silencio repentino me hizo parar.
+
+No era silencio de verdad.
+
+El agua seguía cayendo.
+
+Solo que ahora lo hacía sobre algo que estaba encima de mí.
+
+Levanté la cabeza.
+
+La raíz había dejado de ser un camino abierto.
+
+Había entrado bajo una bóveda viva.
 
 ---
 
-El cambio empezó por el sonido.
+Las columnas verdes nacían de la corteza y se arqueaban unas sobre otras. Algunas seguían creciendo por debajo de raíces superiores, como si para ellas arriba y abajo fueran solo sugerencias.
 
-La lluvia dejó de golpear directamente el casco. Caía sobre una bóveda de crecimiento denso que cubría la raíz.
+El aire se volvió más pesado.
 
-Columnas verdes emergían de la corteza, cubiertas por placas superpuestas. Algunas subían veinte metros antes de abrirse; otras se arqueaban hasta tocar raíces superiores y continuaban creciendo por debajo de ellas.
+El filtro aumentó de esfuerzo.
 
-No parecían distinguir entre suelo y techo.
+Eso sí lo entendí.
 
-La humedad aumentó. También el trabajo del filtro.
+Entre las columnas aparecían placas de color cobre. Cuando las iluminaba de frente devolvían una luz apagada, casi metálica.
 
-Entre las columnas aparecieron láminas rígidas de color cobre, encajadas unas sobre otras. Levanté una desprendida con la herramienta: ligera, con conductos oscuros en el reverso y una superficie que devolvía la luz en una banda mate.
+No arranqué ninguna.
 
-La dejé donde estaba.
+Ya empezaba a aprender a dejar cosas donde estaban.
 
-Más adelante una cortina de filamentos blancos bloqueaba la ruta.
+Más adelante una cortina de filamentos blancos cerraba el paso.
 
-Moví la linterna.
+Me acerqué.
 
-Los filamentos se apartaron del haz.
+Se apartaron de la linterna.
 
 Apagué.
 
-Volvieron lentamente.
+Volvieron.
 
-A mínima potencia se abría un paso estrecho. Con más intensidad, uno suficiente para cruzar.
+Encendí otra vez.
 
-Atravesé con la luz delante. Al apagarla, varios filamentos rozaron el casco y los hombros mientras recuperaban su posición.
+Se abrieron.
 
-No se adhirieron al traje.
+—Por fin algo colaborador.
 
-Dentro de la bóveda el agua se comportaba de otro modo.
+Crucé antes de que cambiaran de opinión.
 
-Corría por surcos, se acumulaba bajo películas brillantes y, en algunos puntos, ascendía por hilos casi invisibles hasta bolsas vegetales translúcidas.
+Uno me rozó el hombro al recuperar su posición. Di un salto bastante menos digno de lo que me habría gustado.
 
-La primera vez solté una tuerca junto a la bota para comprobar que la gravedad seguía siendo la misma.
+Dentro de la bóveda el agua hacía cosas raras.
+
+Corría por surcos y desaparecía bajo películas transparentes. En un punto vi una gota subir por un hilo fino hasta una bolsa vegetal.
+
+La seguí con la mirada.
+
+Subía.
+
+Miré mi bota.
+
+Solté una tuerca pequeña.
 
 Cayó.
 
-Arriba, otra gota subió por el filamento.
+—Bien. La gravedad sigue trabajando.
 
-Capilaridad. Presión. Transporte activo.
+No necesitaba resolver lo otro todavía.
 
-No necesitaba una explicación todavía.
+Un ruido leve llegó desde las placas a mi derecha.
 
-Algo rozó las placas cobrizas a mi derecha.
+Me giré.
 
-Una forma pequeña salió de debajo de una de ellas.
+Algo pequeño salió de debajo de una de ellas.
 
-Cabía sobre mi palma.
+Tenía seis apoyos finos alrededor de un cuerpo bajo y redondeado. Su parte superior copiaba tan bien el tono cobrizo que, cuando se quedó quieto, casi desapareció.
 
-Tenía seis apoyos finos alrededor de un cuerpo bajo y casi circular. La parte superior estaba cubierta por placas del mismo color cobrizo del entorno.
+Me agaché.
 
-Quieta, desaparecía.
+Una especie de tubo corto salió de su parte inferior, tocó una gota atrapada en un surco y volvió a plegarse.
 
-Una estructura tubular surgió de la cara inferior, tocó una gota atrapada en un surco y volvió a plegarse.
+Moví un poco la bota.
 
-Moví una bota.
+El animal se pegó a la corteza.
 
-El animal se aplastó contra la corteza y el visor perdió su contorno.
+—Tranquilo. Yo tampoco sé qué hago aquí.
 
 Esperé.
 
-Levantó dos apoyos. Luego otros.
+Levantó dos apoyos.
 
-Cuando miré la batería y volví a la placa, ya no supe dónde estaba.
+Luego otros dos.
 
-No busqué debajo.
+Miré un instante la batería del traje.
 
-Perder de vista algo allí no significaba que se hubiera marchado.
+Cuando volví a buscarlo, ya no estaba.
+
+Eso me hizo mirar dos veces antes de apoyar la mano en ninguna placa.
 
 ---
 
-La raíz terminó en una terraza alta.
+La bóveda terminó en una terraza abierta.
 
-La vegetación se abría y dejaba ver kilómetros de capas suspendidas: raíces hundiéndose en nubes, masas vegetales oscuras, una franja de roca gris bajo una tormenta lejana.
+El viento volvió de golpe.
+
+Y con él, la escala.
+
+Me acerqué despacio al borde.
+
+Raíces enormes atravesaban el aire a distintas alturas. Algunas se hundían en nubes inferiores. Otras sostenían manchas oscuras de vegetación. A lo lejos, una tormenta gris cubría una región entera.
 
 La columna de vapor del primer día seguía allí.
 
 Busqué los destellos.
 
-Apareció uno.
+Uno.
 
-Luego otro, más a la derecha.
+Después otro.
 
-Después dos casi seguidos.
+Más a la derecha.
 
-Con poco zoom distinguí entre la niebla una geometría que no pertenecía a las raíces inmediatas.
+Ajusté el zoom.
 
-Un tramo recto.
+Entre la niebla apareció una línea recta.
 
-Un ángulo.
+Luego un ángulo.
 
-Otro tramo recto.
+Después otra línea.
 
-No se movía con la vegetación. La niebla lo ocultaba y lo devolvía siempre al mismo lugar.
+Me quedé quieto.
 
-Podía ser parte de la plataforma vista desde la ruta horizontal.
+No porque supiera qué estaba viendo.
 
-Tomé tres fotografías.
+Porque se parecía demasiado a lo que había visto desde la ruta horizontal.
 
-En la última un reflejo recorrió la línea y se apagó.
+La misma zona.
 
-No parecía una luz propia.
+Otra perspectiva.
 
-Debajo de la terraza, las membranas llevaban demasiado tiempo tensas.
+Tomé una fotografía.
 
-La tormenta había avanzado.
+Un reflejo recorrió la línea y desapareció.
 
-Recordé el regreso sin abrir el mapa.
+Bajé la cámara.
+
+—Sigues ahí.
+
+Las membranas bajo la terraza llevaban demasiado tiempo tensas.
+
+Miré la tormenta.
+
+Estaba más cerca.
+
+No necesité consultar el mapa para recordar el regreso.
 
 Terraza.
 
-Cortina blanca.
+Filamentos blancos.
 
 Placas cobrizas.
 
@@ -156,60 +210,96 @@ Bifurcación.
 
 Cápsula.
 
+Por primera vez esa secuencia apareció completa en mi cabeza sin esfuerzo.
+
+Sonreí dentro del casco.
+
+Solo un poco.
+
+Entonces el viento cambió.
+
+Las placas de la bóveda empezaron a golpear unas contra otras.
+
+La sonrisa se fue.
+
 Di media vuelta.
 
 ---
 
-La tormenta me alcanzó antes de salir de la bóveda.
+La tormenta me alcanzó dentro de la bóveda.
 
-Llegó como presión antes que como lluvia.
+Primero llegó la presión.
 
-El aire cambió de dirección varias veces y las placas cobrizas vibraron unas contra otras.
+Después el ruido.
 
-Me cubrí detrás de una elevación de corteza.
+El aire cambió de dirección tan rápido que tuve que agacharme detrás de una elevación de corteza.
 
-Entonces vi movimiento.
+Las placas cobrizas vibraban sobre mi cabeza.
 
-La criatura de seis apoyos —o una igual— estaba siendo arrastrada por el viento. Dos patas intentaban alcanzar una grieta sin conseguirlo.
+Entonces vi algo rodando con el viento.
 
-Otra ráfaga la desplazó.
+La criatura de seis patas.
 
-Extendí una mano abierta contra la corteza, formando una barrera con el guante.
+O una igual.
 
-El animal chocó contra mis dedos.
+Dos de sus apoyos buscaban una grieta y no llegaban.
 
-No cerré la mano.
+Otra ráfaga la empujó hacia el borde.
 
-Durante dos segundos permaneció adherido al tejido. Sentí una vibración finísima.
+No pensé demasiado.
 
-Después desplegó varios apoyos, alcanzó la grieta y desapareció.
+Apoyé una mano abierta contra la corteza, formando una barrera.
 
-No decidí si aquello contaba como ayuda.
+El animal chocó contra el guante.
+
+Por un instante se quedó pegado a mis dedos.
+
+Sentí una vibración muy fina.
+
+Después encontró la grieta y desapareció dentro.
+
+—De nada.
+
+La frase sonó absurda incluso para mí.
 
 Seguí regresando.
 
-En la bifurcación tardé dos segundos en entender qué faltaba.
+Cuando llegué a la bifurcación tardé unos segundos en entender qué faltaba.
 
 La tira reflectante había desaparecido.
 
-La zona raspada seguía allí.
+Miré la zona raspada donde había estado pegada.
 
-La tormenta bastaba como explicación.
+La tormenta era una explicación bastante buena.
 
-Descendente.
+Aun así, sentí un vacío desagradable en el estómago.
 
-Horizontal.
+Tres caminos.
 
-Ascendente.
-
-Tres rutas.
-
-Sin marca blanca.
+Sin la marca.
 
 No abrí el mapa.
 
-Giré hacia la cápsula.
+Me giré hacia la ruta correcta.
 
-Antes de llegar a la curva supe exactamente dónde iba a aparecer.
+La grieta apareció donde esperaba.
 
-Y apareció.
+Después la depresión de agua.
+
+Después la curva.
+
+Antes de verla, supe que la cápsula estaría detrás.
+
+Y allí estaba.
+
+Me quedé mirándola unos segundos bajo la lluvia.
+
+No había encontrado una salida.
+
+No había entendido las estructuras.
+
+Ni siquiera sabía qué demonios era el animal que acababa de tocarme la mano.
+
+Pero había vuelto sin una cinta que me indicara el camino.
+
+Por primera vez, una parte diminuta de Elyndran estaba empezando a quedarse dentro de mi cabeza.
