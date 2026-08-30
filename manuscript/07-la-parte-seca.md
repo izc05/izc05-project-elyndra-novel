@@ -1,127 +1,211 @@
 # Capítulo VII — La parte seca
 
-La cápsula olía distinto cuando regresé.
+Supe que algo iba mal antes de encender la luz.
 
-A humedad.
+La cápsula olía a humedad.
 
-Había agua en el suelo.
+No a lluvia.
 
-No mucha. Lo suficiente para reflejar la luz de emergencia junto a la batería auxiliar.
+A interior mojado.
 
-Entré, cerré la escotilla y esperé a ver caer la siguiente gota.
+Encendí la iluminación de emergencia y vi el reflejo en el suelo.
 
-Llegó desde una unión superior del mamparo, resbaló por una junta y cayó sobre la carcasa.
+Agua.
 
-—Bien —dije.
+Muy poca.
 
-No porque lo fuera.
+Demasiado cerca de la batería auxiliar.
 
-Porque era un problema que entendía.
+—No.
 
-Aislé la batería, sequé la zona y desmonté el revestimiento. Detrás, una línea de agua descendía por la misma parte del casco deformada durante el impacto.
+Dejé la mochila donde estaba y me arrodillé junto a la carcasa.
 
-La tormenta no había abierto una grieta nueva.
-
-Había encontrado la antigua.
-
-Podía sellarla.
-
-Probablemente.
-
----
-
-Trabajé desde fuera.
-
-La fisura recorría una junta hundida unos milímetros. La cinta adhería sobre metal seco; conseguir metal seco era el problema.
-
-Usé calor en intervalos cortos. El agua desaparecía y regresaba desde los bordes.
-
-Entonces miré el fragmento de paracaídas que aún colgaba bajo la cápsula.
-
-Ya le había quitado líneas.
-
-Le corté también una pieza de tejido.
-
-No servía como sellado.
-
-Sí como techo.
-
-La tensé sobre la zona dañada para desviar la lluvia. El primer montaje vibró demasiado con una ráfaga y soltó una esquina. Añadí un segundo punto de sujeción y esperé al siguiente aviso de las membranas.
-
-Se tensaron.
-
-Llegó el viento.
-
-La tela aguantó.
-
-Con la junta protegida, sequé una última vez y apliqué cinta, aislamiento y otra capa de cinta.
-
-Nada entró.
+Una gota cayó desde arriba.
 
 Esperé.
 
-Seguía seco.
+Otra.
 
-Entonces me di cuenta de que llevaba casi una hora trabajando fuera sin pensar en el vacío bajo la raíz.
+Seguí el rastro hasta una junta del mamparo, justo en la zona deformada por el impacto.
 
-No porque hubiera desaparecido.
+La tormenta no había roto nada nuevo.
 
-Porque tenía otra cosa que hacer.
+Había encontrado una herida vieja.
+
+Y ahora estaba entrando por ella.
+
+Aislé la batería y sequé el suelo con lo primero que encontré.
+
+No pensé en la estructura de tres brazos.
+
+Ni en los tonos.
+
+Ni en la línea oscura bajo la raíz.
+
+Por primera vez en varios días tenía delante un problema que entendía perfectamente.
+
+Agua donde no debía haber agua.
+
+Eso casi me tranquilizó.
+
+Casi.
+
+Desmonté el revestimiento y encontré la junta hundida detrás.
+
+El agua descendía por ella en un hilo fino.
+
+La toqué con el guante.
+
+—Vale. Tú y yo.
+
+Podía sellarla.
+
+Necesitaba que dejara de mojarse el tiempo suficiente.
+
+Fuera empezó a llover otra vez.
+
+Me reí una sola vez.
+
+Sin ganas.
 
 ---
 
-Dentro, reconecté la batería después de comprobar el aislamiento.
+Trabajé desde el exterior.
 
-Todo siguió funcionando.
+La cinta agarraba bien sobre metal seco.
 
-La cápsula, en cambio, ya no parecía la misma.
+Conseguir metal seco en Elyndran resultó ser la parte complicada.
 
-Un panel descansaba contra la pared. Había cortado parte del paracaídas. Una línea salía del casco hacia la raíz. El suelo conservaba marcas de barro.
+Calenté la junta. Esperé. Sequé.
 
-Los primeros días había intentado mantener aquel interior como un fragmento intacto de Aster.
+La humedad regresó desde los bordes.
 
-Ya no podía serlo.
+Otra vez.
+
+Y otra.
+
+—Vamos, dame cinco minutos.
+
+La cápsula no respondió.
+
+Miré el paracaídas que aún colgaba del casco.
+
+Ya le había quitado líneas para fabricar el arnés.
+
+Me quedaba tela.
+
+La corté.
+
+Cada vez que desmontaba algo de la cápsula sentía la misma resistencia absurda, como si pudiera necesitar aquella pieza para volver a volar.
+
+No iba a volar.
+
+Lo sabía.
+
+Aun así, dolía cortar.
+
+Tensé el tejido sobre la zona dañada para desviar la lluvia.
+
+La primera ráfaga soltó una esquina.
+
+—Claro.
+
+Añadí otro punto de sujeción.
+
+Las membranas de la raíz se tensaron.
+
+Me agaché antes del viento.
+
+La tela golpeó con fuerza, pero aguantó.
+
+Esta vez la junta empezó a secarse de verdad.
+
+Apliqué aislamiento y cinta.
+
+Esperé.
+
+Una gota recorrió el borde exterior.
+
+No entró.
+
+Otra.
+
+Nada.
+
+Seguí mirando hasta que me di cuenta de que llevaba casi una hora fuera, trabajando junto al borde de una raíz suspendida sobre la niebla, sin haber pensado ni una vez en caer.
+
+Eso sí me dio miedo.
+
+Me estaba acostumbrando.
+
+---
+
+Dentro reconecté la batería.
+
+Las luces siguieron encendidas.
+
+Me quedé de pie en medio de la cápsula.
+
+Ya no parecía la misma que había caído conmigo.
+
+Un panel estaba desmontado. Faltaban correas. Había cortado parte del paracaídas. La cinta de reparación cruzaba una junta y el suelo conservaba barro seco de mis botas.
+
+La cápsula se estaba transformando.
+
+Yo también, supuse.
+
+No estaba seguro de que las dos cosas fueran a mejor.
 
 Abrí los suministros.
 
-Esta vez no conté objetos.
+Esta vez no hice inventario completo.
 
-Conté tiempo.
+Miré el agua.
 
-Agua terrestre.
+Después las raciones.
 
-Raciones.
+Después los filtros.
 
-Filtros.
+Lo suficiente para no tener hambre hoy.
 
-Todavía había margen.
+No suficiente para dejar de pensar en mañana.
 
-Margen no significaba abundancia.
+En la pantalla seguía una fotografía de los discos de la raíz inferior. Agua transparente. Una criatura plana junto al borde.
 
-Abrí una de las imágenes de los discos de la raíz inferior. Agua clara. Borde lechoso. Una pequeña forma plana junto a la pared.
+Tenía agua a unos minutos de distancia.
 
-No iba a beberla porque mis reservas fueran menores.
+Agua que no me atrevía a beber.
 
-Tampoco iba a esperar a que se acabaran para empezar a entenderla.
+Todavía.
 
-Anoté una tarea para el día siguiente:
+No iba a esperar a tener la garganta seca para descubrir si podía usarla.
 
-**RECOGER MUESTRA SIN CONTACTO. ANALIZAR.**
+Escribí una sola línea:
 
-Nada más.
+**RECOGER MUESTRA.**
 
-Calenté media ración. Al quitarme el guante vi que los nudillos golpeados contra el panel empezaban a hincharse.
+Nada de protocolos.
 
-Moví los dedos.
+Nada de listas.
 
-Funcionaban.
+Mañana bajaría.
 
-Fuera, la lluvia golpeaba el pequeño techo de paracaídas con un sonido más blando que el metal.
+Calenté media ración y me quité los guantes. Los nudillos estaban hinchados por los golpes de la reparación.
+
+Abrí y cerré la mano.
+
+Dolía.
+
+Funcionaba.
+
+Fuera, la lluvia golpeaba el nuevo techo de tela con un sonido más suave que el metal.
+
+Me tumbé sin apagar del todo la luz.
 
 La reparación seguía seca.
 
-La cápsula continuaba siendo mi refugio.
+Por esa noche, bastaba.
 
-Pero ya no era algo que simplemente hubiese sobrevivido conmigo.
+La cápsula me mantenía vivo.
 
-Ahora sobrevivía también porque yo la mantenía entera.
+Pero cada día necesitaba que yo la mantuviera viva a ella.
