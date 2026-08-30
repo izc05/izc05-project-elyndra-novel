@@ -1,145 +1,285 @@
 # Capítulo VI — La segunda visita
 
-La ausencia de la cinta cambió una decisión pequeña.
+A la mañana siguiente no llevé otra cinta.
 
-A la mañana siguiente no llevé otra.
+Estuve a punto.
 
-Quería saber si el camino seguía allí cuando desaparecía mi señal.
+La tuve en la mano.
 
-La rodilla había bajado de volumen. El costado molestaba solo al inclinarme demasiado. La baliza seguía transmitiendo sin respuesta.
+Después la dejé sobre el banco.
+
+Si necesitaba una marca nueva cada vez que salía, no estaba aprendiendo el camino. Solo estaba llenando Elyndran de migas de pan.
+
+La rodilla seguía rígida, aunque la hinchazón había bajado. El costado ya solo dolía cuando me doblaba demasiado.
+
+La baliza seguía llamando a nadie.
+
+No la miré más de dos segundos.
 
 Fuera había dejado de llover.
 
-La ruta hasta la bifurcación apareció en el orden que ya conocía: depresión de agua, grieta, membranas, estrechamiento. Cuando el viento cambió, bajé el cuerpo antes de que las láminas terminaran de tensarse.
+Eso hizo que todo pareciera extrañamente limpio.
 
-La ráfaga llegó un segundo después.
+La depresión de agua apareció donde debía.
 
-En la bifurcación quedaba el rectángulo más claro donde había raspado la corteza para fijar la cinta.
+Después la grieta.
+
+Las membranas empezaron a tensarse y yo ya estaba bajando el cuerpo cuando llegó la ráfaga.
+
+Sonreí.
+
+—Te estoy pillando el truco.
+
+La frase salió demasiado confiada.
+
+Me arrepentí inmediatamente.
+
+En la bifurcación seguía el rectángulo más claro donde había raspado la corteza para pegar la cinta.
 
 La tormenta se había llevado el plástico.
 
-No el lugar.
+El lugar seguía allí.
 
-Tomé la ruta horizontal.
+Miré hacia la ruta horizontal.
 
----
-
-Los tonos empezaron antes de que la niebla me envolviera.
+Los tonos sonaron desde la niebla.
 
 Agudo.
 
-Pausa.
-
 Grave.
 
-La primera visita habían sido una llamada hacia algo desconocido. Ahora servían casi como referencia de distancia.
+Ya no parecían una llamada.
 
-Pasé junto a los filamentos azul grisáceos sin repetir pruebas. La estructura de tres brazos apareció después de una curva, reconocible antes incluso de verla completa.
+Eso era peor.
 
-La corteza seguía cubriendo parte de la base. Las bandas del material oscuro y las dos secuencias de hendiduras no mostraban cambios visibles.
+Parecían parte del camino.
 
-Tres pequeñas. Una grande.
+Entré.
 
-Más abajo, una grande y dos pequeñas.
+---
 
-Una de las depresiones menores contenía agua de la lluvia nocturna.
+Reconocí la estructura antes de verla completa.
 
-El brazo superior emitió el tono agudo. Vi la película transparente de su cavidad temblar antes que el material oscuro.
+Primero uno de los brazos.
 
-No esperé una explicación.
+Después el hueco central.
 
-Miré hacia la plataforma.
+Luego la base atrapada dentro de la corteza.
 
-La niebla se abrió.
+Me sorprendió sentir alivio.
 
-Esta vez reveló espacio entre ambos puntos.
+Era absurdo.
 
-Dos raíces cruzaban a distinta altura antes de la zona regular. Más allá se abría un hueco ancho. Las formas verticales seguían allí: seis que podía contar con seguridad, quizá más detrás. Una inclinada. Otra terminada en una rotura limpia. Otra con una abertura próxima a la parte superior.
+Aquella cosa era uno de los mayores misterios que había encontrado y, aun así, verla donde esperaba me tranquilizó.
+
+Seguía allí.
+
+Yo había vuelto.
+
+Algo encajaba.
+
+Me acerqué lo justo para comprobar las hendiduras.
+
+Tres pequeñas y una grande.
+
+Debajo, una grande y dos pequeñas.
+
+Iguales.
+
+No repetí todas las pruebas. No golpeé el material otra vez. No necesitaba demostrarme por tercera vez que seguía sin saber qué era.
+
+El brazo superior emitió la nota aguda.
+
+La película transparente de la cavidad vibró primero.
+
+Después el material.
+
+Como el día anterior.
+
+Miré hacia la zona de las formas lejanas.
+
+La niebla se abrió unos segundos.
+
+Esta vez vi más.
+
+Dos raíces cruzaban el espacio a distintas alturas. Más allá aparecía la superficie ancha donde estaban las estructuras regulares.
+
+Seguían sin moverse.
 
 Sin luces.
 
 Sin humo.
 
-Sin movimiento.
+Nada que pudiera llamar actividad.
 
-Y, por primera vez, pude ver por qué aquello seguía fuera de alcance.
+Y entonces vi el problema.
 
-La raíz bajo mis pies se dividía unos cuarenta metros más adelante. Una rama descendía hacia la niebla. La otra terminaba en el vacío. Al otro lado, otra raíz ascendía desde una capa inferior hasta tocar la plataforma por debajo.
+Mi raíz no llegaba hasta allí.
 
-Entre ambas quedaba un hueco que la perspectiva no podía cerrar.
+Terminaba antes.
+
+Mucho antes.
+
+El hueco entre ambos lados no era una ilusión de perspectiva.
+
+No había salto posible.
+
+Ni siquiera uno estúpido.
+
+—Bueno.
+
+Me quedé mirando el vacío.
+
+—Por lo menos eso simplifica la decisión.
+
+Seguí hasta el extremo.
 
 ---
 
-Avancé hasta la división.
+La raíz se partía en dos antes de morir.
 
-La rama descendente estaba cubierta por una película oscura que retenía agua. El extremo roto, en cambio, terminaba casi plano.
+Una rama descendía hacia la niebla.
 
-Eso me hizo reducir el paso.
+La otra acababa en un borde casi plano.
 
-Me detuve a dos metros del borde.
+Ese borde me hizo frenar.
 
-Surcos paralelos atravesaban la corteza. Algunos alcanzaban una capa más clara; otros desaparecían bajo crecimiento reciente. La separación no era perfecta, pero se repetía.
+La rotura no parecía reciente. Había crecimiento nuevo en algunas zonas y surcos paralelos atravesando la superficie expuesta.
 
-Fotografié.
+Me agaché para verlos mejor.
 
-La raíz siguiente quedaba demasiado lejos incluso con dos piernas sanas. El aseguramiento improvisado podía limitar un deslizamiento. No podía fabricar un puente.
+No eran perfectamente regulares.
 
-Busqué cualquier irregularidad que cambiara el problema.
+Tampoco parecían casuales.
 
-Entonces vi una línea oscura bajo la raíz opuesta.
+Saqué una fotografía y levanté la cabeza.
 
-Con el zoom tenía aproximadamente el grosor de mi muñeca. Salía de la cara inferior, describía una curva y desaparecía entre la niebla.
+La raíz del otro lado seguía demasiado lejos.
 
-En la siguiente apertura vi el otro extremo.
+Mi arnés improvisado servía para no caer demasiado lejos si algo salía mal.
 
-No colgaba de la raíz.
+No servía para inventar suelo.
 
-Entraba en ella.
-
-La corteza se cerraba alrededor del material igual que alrededor de la base de la estructura sonora.
-
-Bajé el zoom.
-
-A simple vista volvía a ser una línea negra entre otras líneas negras.
-
-Dos días antes probablemente no la habría visto.
-
-El tono agudo llegó desde atrás.
-
-Un segundo después, una vibración fina recorrió las suelas.
-
-No fue uno de los golpes profundos.
-
-Duró menos de un segundo.
-
-Volvió una vez y desapareció.
-
-Apoyé la mano en la corteza.
+Busqué otra ruta con el zoom.
 
 Nada.
 
-El grave sonó lejos. La niebla cerró la plataforma.
+Estaba a punto de guardarlo cuando vi una línea oscura bajo la raíz opuesta.
 
-Marqué el borde y regresé.
+Al principio pensé que era una fibra.
+
+Después la niebla cambió.
+
+La línea apareció completa durante un instante.
+
+Salía de la cara inferior, formaba una curva y entraba de nuevo en la raíz más adelante.
+
+No estaba colgando.
+
+Estaba integrada.
+
+La corteza la envolvía del mismo modo que envolvía la estructura de tres brazos.
+
+Sentí un cosquilleo incómodo en la nuca.
+
+Bajé el zoom.
+
+A simple vista volvía a desaparecer dentro del paisaje.
+
+Dos días antes ni siquiera la habría visto.
+
+Eso me molestó más de lo esperado.
+
+¿Cuántas cosas había delante de mí que todavía no sabía mirar?
+
+El tono agudo sonó a mi espalda.
+
+Un segundo después, una vibración fina recorrió las botas.
+
+Me quedé quieto.
+
+No era uno de los golpes profundos.
+
+Aquello fue distinto.
+
+Más breve.
+
+Más cercano.
+
+Apoyé una mano en la raíz.
+
+Nada.
+
+Volvió una vez.
+
+Y desapareció.
+
+—Genial.
+
+La niebla cerró la zona regular.
+
+Decidí que ya había mirado suficiente.
 
 ---
 
-La estructura de tres brazos reapareció donde esperaba. No repetí las fotografías.
+El regreso fue más rápido.
 
-En el camino de vuelta, la plataforma surgió un instante y volvió a borrarse.
+No porque corriera.
 
-Ya no parecía un destino aislado.
+Porque dejé de detenerme ante cada cosa conocida.
 
-Había raíces por debajo. Material oscuro entrando en ellas. Un borde casi plano con surcos. Una vibración distinta de los golpes del fondo.
+La estructura de tres brazos apareció y desapareció detrás de mí sin que sacara la cámara.
 
-En la bifurcación seguía sin haber cinta.
+Los tonos siguieron sonando.
 
-Giré hacia la cápsula sin abrir el mapa.
+No los conté.
 
-La grieta apareció donde debía. Las membranas se tensaron. Reduje el paso.
+En la bifurcación continuaba sin haber cinta.
 
-La ráfaga llegó.
+Giré hacia la cápsula.
 
-Cuando levanté la vista aún no veía la cápsula.
+La grieta apareció primero.
 
-Sabía que estaba detrás de la siguiente curva.
+Después las membranas.
+
+Se tensaron.
+
+Me agaché.
+
+Viento.
+
+Seguí.
+
+Todavía no veía la cápsula cuando supe que estaba detrás de la siguiente curva.
+
+Y allí estaba.
+
+Esta vez no sentí aquel alivio brusco de los primeros días.
+
+Solo algo parecido a llegar a casa después de un camino demasiado largo.
+
+La idea me detuvo.
+
+Casa.
+
+Miré la cápsula torcida sobre la raíz, el paracaídas cortado, las reparaciones y el barro junto a la escotilla.
+
+No era mi casa.
+
+No podía serlo.
+
+Entré de todos modos.
+
+En la pantalla coloqué la fotografía del borde roto y la línea oscura que entraba en la raíz.
+
+Después añadí la imagen de la estructura.
+
+Tres piezas.
+
+Ninguna respuesta.
+
+Pero ya no parecían tres rarezas separadas.
+
+Había empezado a sospechar que pertenecían al mismo problema.
+
+Y eso, de alguna manera, era peor.
