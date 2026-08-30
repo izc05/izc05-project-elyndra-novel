@@ -1,167 +1,247 @@
 # Capítulo IX — Antes de tocar la raíz
 
-La lluvia empezó antes de que terminara de dormir.
+La lluvia me despertó antes de tiempo.
 
-Me despertó el paracaídas tensándose sobre la reparación.
+El trozo de paracaídas que cubría la reparación golpeaba el casco con cada ráfaga.
 
-Dentro, la junta seguía seca.
+Miré la junta.
 
-Fuera, un hilo continuo de agua recorría el tejido gris, pasaba por el casco sucio y caía al vacío.
+Seca.
 
-Miré la reserva terrestre abierta sobre el banco.
+Después miré mi agua.
 
-Quedaba menos de la mitad.
+Menos de la mitad.
 
-Por primera vez no oí lluvia.
+Me quedé sentado unos segundos, escuchando cómo miles de litros caían alrededor de la cápsula y desaparecían por el borde de la raíz.
 
-Vi agua pasando de largo.
+Hasta entonces la lluvia había sido ruido.
 
----
+Aquella mañana sonó a desperdicio.
 
-No bastaba con poner un recipiente debajo.
+Salí.
 
-El agua que caía del paracaídas había atravesado tela quemada, polvo, barro y mis propias manos.
+El agua recorría el paracaídas, el metal sucio, las juntas quemadas y la corteza antes de caer al vacío.
 
-Recuperé una pequeña lámina de cubierta térmica cuya cara interior había permanecido protegida desde antes del impacto. La limpié con una cantidad mínima de mi propia agua, apliqué calor y la monté fuera con una inclinación suficiente para que la lluvia recorriera solo aquella superficie antes de caer.
+No podía beber eso.
 
-El primer ángulo acumulaba agua.
+Pero no necesitaba recogerla de ahí.
 
-El segundo vibraba demasiado.
+Busqué entre los restos de la cápsula hasta encontrar una pequeña lámina térmica cuya cara interior había permanecido protegida desde el impacto.
 
-Añadí un tercer apoyo y esperé una ráfaga.
+La limpié con más cuidado del que quería permitirme.
 
-Las membranas se tensaron.
+Usar agua para conseguir agua.
 
-Llegó el viento.
+—Gran negocio.
 
-La lámina aguantó.
+Monté la lámina inclinada fuera del casco.
 
-Dejé pasar varios volúmenes por un recipiente de descarte, enjuagué lámina y envase y solo entonces llené un frasco limpio.
+El primer intento acumuló una bolsa en el centro.
 
-La lluvia tardó menos de un minuto.
+El segundo casi salió volando.
 
-Aquello era distinto del agua de los discos por una razón sencilla: aún no había tocado la raíz.
+En el tercero añadí otro apoyo.
 
----
-
-Coloqué ambos frascos juntos en la cápsula.
-
-A simple vista eran iguales.
-
-No repetí todas las pruebas.
-
-Fui directamente a la fracción que había detenido el ensayo anterior.
-
-La lluvia mostró una señal orgánica mucho menor que el agua de los discos.
-
-No cero.
-
-Sales más bajas. Ningún metal reconocido por encima del umbral inmediato. Acidez corregible.
-
-Filtré una pequeña porción.
-
-La señal descendió casi hasta el fondo.
-
-Apliqué tratamiento térmico.
-
-El equipo terminó mostrando:
-
-**RESULTADO INDETERMINADO. CONCENTRACIÓN BAJA.**
-
-Mejor que una advertencia.
-
-No una garantía.
-
-No bebí de inmediato.
-
-Abrí el protocolo médico para fuentes desconocidas: inspección, análisis disponible, filtrado, esterilización, exposición mínima, observación.
-
-El problema era obvio.
-
-Yo era el sujeto y el observador.
-
-Todavía tenía agua terrestre.
-
-También sabía que esperar hasta no tenerla convertiría cualquier prueba en una obligación.
-
-Preparé cinco mililitros.
-
-Filtré.
-
-Calenté.
-
-Esperé a que enfriara.
-
-Mojé primero el labio.
-
-Nada.
-
-Después una gota en la lengua.
+Las membranas de la raíz se tensaron.
 
 Esperé.
 
-Sin cambios medibles.
+La ráfaga llegó.
 
-Tomé un mililitro más.
+La lámina aguantó.
 
-Volví a esperar.
+Un hilo de lluvia limpia empezó a caer desde el borde.
 
-No llamé seguridad a la ausencia de una reacción inmediata.
+No había tocado la raíz.
 
-Solo la registré.
+Eso era todo lo que necesitaba saber para probar algo distinto.
 
 ---
 
-La lluvia siguió durante horas.
+Dejé correr el agua un rato antes de acercar un frasco.
 
-El problema dejó de ser encontrar agua y pasó a ser almacenarla sin contaminarla. Limpié dos bolsas de ración vacías y las preparé como recipientes temporales.
+Después otro poco.
 
-No eran depósitos.
+Cuando por fin recogí la muestra, el recipiente se llenó en segundos.
 
-Eran margen.
+Lo sostuve frente al visor.
 
-Desde fuera vi cómo el agua que no entraba en el colector recorría la corteza, recogía sedimento y desaparecía hacia las capas inferiores.
+Transparente.
 
-Misma lluvia.
+Otra vez aquella maldita transparencia.
 
-Dos historias distintas después de tocar algo.
+Dentro de la cápsula coloqué el frasco junto al agua de los discos.
 
-Antes de tocar la raíz.
+Parecían exactamente iguales.
+
+No repetí todas las pruebas.
+
+Solo busqué lo que me había frenado el día anterior.
+
+La señal orgánica seguía allí.
+
+Pero era mucho menor.
+
+Filtré una parte.
+
+Bajó aún más.
+
+Después la traté con calor.
+
+La pantalla terminó mostrando un resultado que no era una aprobación y tampoco una alarma.
+
+Indeterminado.
+
+Bajo.
+
+Me quedé mirando la palabra.
+
+Era increíble la facilidad con la que el cerebro puede convertir *menos peligroso* en *seguro* cuando tiene sed.
+
+Cerré los ojos.
+
+Todavía tenía agua terrestre.
+
+Podía esperar.
+
+Pero si esperaba hasta quedarme sin ella, ya no estaría haciendo una prueba.
+
+Estaría obedeciendo a la necesidad.
+
+Preparé una cantidad mínima.
+
+La filtré.
+
+La calenté.
+
+Esperé a que enfriara.
+
+Me senté frente al banco.
+
+No parecía un gran momento.
+
+Solo un vaso pequeño y una mano que tardaba demasiado en acercarlo a la boca.
+
+---
+
+Mojé el labio.
+
+Nada.
+
+Esperé.
+
+Una gota en la lengua.
+
+El sabor era casi inexistente.
+
+Eso no me tranquilizó.
+
+Esperé otra vez.
+
+Mi pulso seguía igual.
+
+No había ardor.
+
+No había mareo.
+
+No había nada.
+
+Tomé un poco más.
+
+Muy poco.
+
+Después dejé el recipiente sobre el banco y me obligué a alejarme.
+
+—Ya está.
+
+Tenía ganas de beberlo entero.
+
+Esa fue la parte que más miedo me dio.
+
+Pasé la siguiente hora reparando una correa que no necesitaba reparación.
+
+Solo quería las manos ocupadas.
+
+Cada pocos minutos comprobaba el pulso, la respiración y cualquier sensación rara en la boca o el estómago.
+
+Nada.
+
+Fuera seguía lloviendo.
+
+El colector improvisado continuaba enviando agua limpia hacia el recipiente de descarte.
+
+La raíz, en cambio, estaba empapada. El agua corría por la corteza, arrastraba sedimento y desaparecía hacia abajo.
+
+La misma lluvia.
+
+Dos aguas distintas en cuanto tocaban algo.
+
+Miré la línea que descendía por la raíz.
+
+Ahí estaba la diferencia que necesitaba recordar.
+
+Antes de tocarla.
 
 Después.
 
 ---
 
-Al anochecer habían pasado más de seis horas desde la primera exposición.
+Pasaron horas.
 
-No apareció ninguna reacción que pudiera medir.
+No apareció ninguna reacción que pudiera notar.
 
-Comí media ración y bebí de la reserva terrestre.
+Eso no convertía el agua en segura.
 
-Luego tomé diez mililitros de lluvia filtrada y tratada.
+Solo significaba que, por ahora, mi cuerpo no estaba protestando.
 
-Esta vez no esperé con el tubo en la mano.
+Preparé más.
 
-Seguí limpiando la cápsula.
+No mucha.
 
-En el registro escribí:
+Lo suficiente para no tener que elegir entre beber de mi reserva y desperdiciar toda la lluvia que caía alrededor.
 
-**LLUVIA DIRECTA. RECOGIDA SIN CONTACTO CON RAÍZ.**
+Limpié dos bolsas vacías y las convertí en depósitos temporales.
 
-**FILTRADA + TRATAMIENTO TÉRMICO.**
+Eran feas.
 
-La última línea exigió más cuidado.
+Inseguras.
+
+Y preciosas.
+
+Al anochecer comí media ración.
+
+Después bebí una pequeña cantidad de lluvia filtrada y tratada.
+
+Esta vez no me quedé mirando el vaso como si fuera a morderme.
+
+Seguí trabajando.
+
+En el registro escribí solo lo necesario:
+
+**LLUVIA DIRECTA. SIN CONTACTO CON LA RAÍZ.**
+
+**FILTRADA Y TRATADA.**
+
+Me quedé con el cursor parpadeando en la última línea.
 
 No escribí *potable*.
 
+Todavía no.
+
 Escribí:
 
-**TOLERADA EN EXPOSICIÓN MÍNIMA. SEGUIR OBSERVANDO.**
+**TOLERADA. SEGUIR OBSERVANDO.**
 
-La baliza seguía transmitiendo sin respuesta. La plataforma seguía al otro lado de un hueco. La cápsula continuaba inmovilizada.
+La baliza seguía sin respuesta.
+
+La plataforma seguía fuera de alcance.
+
+Aster seguía en ninguna parte.
 
 Nada grande se había resuelto.
 
-Pero fuera había una lámina inclinada esperando la próxima lluvia.
+Pero fuera, bajo la lluvia, una lámina torcida estaba llenando lentamente una bolsa con agua que quizá pudiera mantenerme vivo.
 
-Por primera vez, una parte de Elyndran podía ampliar mis reservas sin tocar la raíz.
+Por primera vez desde la caída, Elyndran no solo estaba gastando mis reservas.
+
+Tal vez podía devolverme algo.
