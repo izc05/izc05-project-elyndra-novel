@@ -1,241 +1,253 @@
 # Capítulo II — Bajo la niebla
 
-Dormí en intervalos de pocos minutos.
+Dormí mal.
 
-No porque el golpe volviera.
+Cada vez que empezaba a caerme, volvía a ver aquella sombra cruzando debajo de la cápsula.
 
-Precisamente porque no volvió.
+No el cuerpo.
 
-Cada vez que empezaba a dormirme, mi cuerpo recordaba la sombra que había cruzado bajo la cápsula y me devolvía al ventanal.
+Ni siquiera sabía si había un cuerpo.
 
-Al final encendí la luz interior.
+Solo algo oscuro moviéndose donde no debería haber nada.
 
-La rodilla se había endurecido durante el reposo. El costado dolía menos. Cambié el filtro, bebí y revisé la baliza.
+A la cuarta vez que abrí los ojos encendí la luz.
 
-Transmitiendo.
+—Se acabó.
 
-Sin respuesta.
+Mi rodilla había amanecido dura y el costado protestaba al girarme, pero podía moverme. Bebí, cambié el filtro y miré la baliza.
 
-Antes de salir recuperé la grabación nocturna.
+Seguía llamando.
 
-La sombra ocupaba siete fotogramas. Aumentar el contraste solo añadía artefactos. No había patas, alas ni contorno suficiente para asegurar siquiera que hubiese un cuerpo.
+Nadie contestaba.
 
-Podía ser niebla más densa.
+Reproduje la grabación de la noche. La sombra duraba siete fotogramas. La amplié, subí contraste y conseguí exactamente lo mismo que antes, solo que más feo.
 
-Una sombra de las raíces.
+Nada de patas. Nada de alas. Nada que pudiera llamar animal sin mentirme.
 
-O algo que todavía no podía resolver.
+Guardé el vídeo y abrí la escotilla.
 
-Archivé el vídeo:
+La luz de Elyndran había cambiado.
 
-**OSCURECIMIENTO MÓVIL. ORIGEN NO DETERMINADO.**
+La raíz ya no era negra. Tenía vetas verdes, rojizas, reflejos húmedos que la noche había borrado. Las membranas transparentes mostraban venas finas. Más abajo, las nubes se desplazaban lentamente entre las capas.
 
-Después abrí la escotilla.
+El camino del día anterior parecía menos hostil.
 
-La luz había cambiado el mundo.
+Eso me preocupó un poco.
 
-La corteza negra mostraba verdes y rojizos; las membranas transparentes, venas finísimas. Más abajo, las nubes se desplazaban de izquierda a derecha.
+Cuando un sitio desconocido empieza a parecerte familiar demasiado pronto, bajas la guardia.
 
-Preparé una mochila más ligera que el día anterior y seguí la ruta conocida.
+Llegué a la bifurcación sin abrir el mapa.
 
-Los primeros cien metros parecieron más cortos.
+La tira reflectante seguía allí.
 
-La depresión de agua seguía llena. La grieta del viento ya no era una frontera. Sabía dónde reducir el paso y cuándo mirar las membranas.
+Tres caminos.
 
-En la bifurcación la tira reflectante seguía pegada, aunque una esquina empezaba a levantarse.
+Arriba.
 
-Ascendente.
+Recto.
 
-Horizontal.
+Abajo.
 
-Descendente.
+Miré el descendente.
 
-Elegí la última.
+—Claro que sí.
 
-No porque pareciera segura.
-
-Porque quería saber qué había debajo.
+Y empecé a bajar.
 
 ---
 
-La raíz descendía alrededor de un vacío que la niebla ocultaba.
+La raíz descendía alrededor de un vacío lleno de niebla.
 
-Cada pocos metros aparecían membranas bajo el borde.
+Al principio avancé despacio, comprobando cada apoyo. Después las membranas empezaron a marcarme el ritmo.
 
-Tensión.
+Se tensaban.
 
-Ráfaga.
+Yo bajaba el cuerpo.
 
-A la tercera ya inclinaba el cuerpo antes de pensarlo.
+Llegaba el viento.
 
-Más abajo la temperatura empezó a subir. Dos décimas. Luego tres más. La humedad aumentó mientras la niebla se hacía menos compacta.
+Funcionó hasta que dejé de mirarlas.
 
-Entonces apareció una raíz inferior, ancha y casi plana, unos treinta metros por debajo.
+Una ráfaga me golpeó de costado justo cuando apoyaba el pie sobre una fibra inclinada. Me agarré con ambas manos y sentí la rodilla quejarse dentro del traje.
 
-Las manchas pálidas que había visto desde arriba cubrían buena parte de su superficie.
+—Muy bien. Mensaje recibido.
 
-Con el zoom parecían círculos irregulares, algunos de más de un metro.
+Esperé la siguiente señal antes de moverme.
 
-La ruta terminó en una fractura antigua. Fibras endurecidas, más gruesas que mi torso, descendían hacia niveles inferiores.
+Más abajo el aire se volvió más cálido y pesado. La niebla se abrió lo suficiente para mostrar una raíz inferior, ancha y casi plana.
 
-Dos metros de cable no servían para aquello.
+Las manchas pálidas que había visto desde arriba estaban por todas partes.
 
-Busqué otra opción.
+Desde lejos parecían círculos.
 
-A la derecha, una fibra gruesa bajaba en diagonal hasta una raíz intermedia. Era lo bastante ancha para una bota y estaba cubierta por una película mate y elástica.
+De cerca parecían recipientes.
 
-La probé con la herramienta.
-
-Cedió y recuperó lentamente la forma.
+La bajada terminaba en una fractura cubierta por fibras endurecidas. Probé una con la herramienta. Cedió un poco y recuperó la forma.
 
 Apoyé una bota.
 
-La fibra apenas se movió.
+Luego la otra.
 
-Entonces una ráfaga me golpeó de costado.
+No miré abajo hasta que ya era tarde para echarme atrás.
 
-Había dejado de mirar las membranas.
+Mala idea.
 
-Retrocedí y esperé.
+La raíz inferior quedó cada vez más cerca hasta que pude distinguir aquellas formas pálidas con claridad.
 
-Tensión.
+Eran discos bajos y cóncavos, pegados a la corteza. Algunos estaban secos. Otros retenían agua hasta el borde.
 
-Viento.
-
-Solo entonces empecé a bajar.
-
-La rodilla me obligaba a mantener posturas incómodas y dos veces regresé al apoyo anterior porque el siguiente parecía mejor desde lejos que desde cerca.
-
-Alcancé la raíz intermedia diez minutos después.
-
-La capa inferior quedaba ya a menos de ocho metros.
-
-Ahora podía ver las manchas pálidas con claridad.
-
-No eran manchas.
-
-Eran discos.
-
-Decenas de estructuras bajas y cóncavas pegadas a la corteza, con bordes translúcidos y centros lechosos. Algunas estaban vacías; otras retenían agua de lluvia hasta rebosar.
-
-Encontré una bajada entre fibras más finas y llegué a la raíz inferior.
-
-La temperatura exterior era casi cuatro grados mayor que junto a la cápsula.
-
-El aire olía más húmedo y mineral incluso a través del filtro.
+Llegué abajo con los brazos temblando más de lo que quería admitir.
 
 Me acerqué al disco más próximo.
 
-Medía algo más de metro y medio. El agua parecía limpia.
+El agua era transparente.
+
+Demasiado transparente.
+
+Tuve sed inmediatamente.
 
 No la toqué.
 
-Varias líneas paralelas recorrían la pared interior.
+Entonces una línea oscura del fondo se movió.
 
-Una se movió.
+Me quedé inmóvil.
 
-Luego otra.
+Otra línea hizo lo mismo.
 
-No estaban en el disco.
+No eran líneas.
 
-Estaban dentro del agua.
-
-Retrocedí.
-
-El movimiento cesó.
-
-Bajé la intensidad de la linterna y la dejé apuntando hacia el borde.
-
-Entonces aparecieron.
-
-Dos formas planas del tamaño de un par de dedos, gris azuladas por encima y casi invisibles cuando giraban de perfil. Una línea de puntos pálidos recorría su parte inferior.
-
-No nadaban como peces. Se desplazaban mediante ondulaciones que cruzaban el cuerpo hasta los bordes.
-
-Una de ellas pasó varias veces sobre una película verdosa adherida al disco y dejó una franja más clara.
-
-Anoté:
-
-**POSIBLE ALIMENTACIÓN.**
-
-Con interrogación.
-
-No intenté capturarlas.
-
-Por primera vez desde la caída podía afirmar que estaba viendo animales.
+Algo estaba vivo dentro del agua.
 
 ---
 
+Retrocedí un paso y bajé la intensidad de la linterna.
+
+Esperé.
+
+Dos formas salieron despacio del borde del disco.
+
+Eran pequeñas, planas y azul grisáceas. Casi desaparecían cuando giraban de lado. Se movían con una ondulación continua, como si el cuerpo entero fuese una aleta.
+
+Una pasó sobre una película verdosa adherida al fondo.
+
+Volvió a pasar.
+
+La zona quedó más clara.
+
+—¿Estás comiendo eso?
+
+No esperaba respuesta.
+
+Me oí hablar de todos modos.
+
+Grabé unos segundos y guardé la herramienta. Por primera vez desde la caída no estaba mirando una marca, una sombra o algo que quizá hubiera estado vivo.
+
+Aquello estaba vivo.
+
+Y estaba delante de mí.
+
 Las dos criaturas se detuvieron al mismo tiempo.
 
-Sus cuerpos se pegaron al fondo.
+Se pegaron al fondo.
 
-Miré las membranas de la raíz.
+Esperé viento.
 
-No había viento.
+Nada.
 
-El visor mostró un pequeño aumento del consumo térmico del traje: la humedad había enfriado la pierna izquierda y el calentador acababa de compensarlo.
+Entonces noté que el traje había aumentado el calentamiento de una pierna por la humedad.
 
-Las formas huyeron hacia el borde opuesto antes de que yo notara ningún cambio.
+Las criaturas se alejaron antes de que yo percibiera el cambio.
 
-Esperé a que regresaran.
+Fruncí el ceño.
 
-Activé manualmente la compensación durante un instante.
+Esperé a que regresaran y activé el calentamiento manual durante un instante.
 
-Volvieron a apartarse.
+Las dos huyeron hacia el borde.
 
-Repetí una sola vez.
+—Vale.
+
+Repetí una vez.
 
 Mismo resultado.
 
-Cerré el control.
+No una tercera.
 
-El visor tardaba en mostrar la consecuencia.
+Pensé en las membranas tensándose antes del viento.
 
-Ellas no.
+En algo reaccionando antes de que yo supiera que había algo a lo que reaccionar.
 
-Pensé en las membranas que se tensaban antes del viento.
-
-Dos organismos diferentes.
-
-Dos respuestas anteriores a mi percepción o a la lectura visible del instrumento.
-
-La palabra *antes* apareció demasiado deprisa.
+La palabra *antes* apareció sola.
 
 La aparté.
 
-No tenía evidencia para unir ambas cosas.
+Una coincidencia sigue siendo una coincidencia aunque te dé escalofríos.
 
-Un golpe seco llegó desde lejos.
+Entonces llegó el golpe.
 
-Los animales se pegaron al fondo.
+Las dos criaturas desaparecieron bajo el borde.
 
-Esta vez el calentador no había cambiado.
+Yo también dejé de moverme.
 
-Un segundo golpe recorrió la estructura con un tono más grave que los de la noche.
+---
 
-El agua del disco tembló como una sola superficie y las criaturas desaparecieron bajo el borde lechoso.
+El segundo golpe fue más grave.
 
-A veinte metros, otro disco empezó a derramar agua.
+No lo oí solo con los oídos.
 
-La raíz acababa de inclinarse.
+Subió por las botas.
+
+El agua del disco tembló.
+
+A unos metros, otro recipiente empezó a derramarse por un lado.
+
+Me incorporé.
+
+La raíz se estaba moviendo.
 
 Muy poco.
 
 Suficiente.
 
-Me apoyé con ambas manos hasta que el movimiento cesó.
+Apoyé ambas manos en la corteza mientras todo se inclinaba apenas unos grados. Mi cuerpo tardó un segundo en entender qué estaba pasando y otro en imaginar lo que significaría resbalar allí.
 
-Entonces llegó un tercer golpe desde abajo.
+—No. No, no, no.
 
-No procedía de la raíz sobre la que estaba.
+El movimiento se detuvo.
 
-Venía de más profundidad.
+Me quedé agachado.
 
-Mucha más.
+Esperando.
 
-Miré la ruta de regreso, los discos y la niebla inferior.
+Nada.
 
-Había bajado para averiguar qué había debajo.
+Después llegó un tercer golpe.
 
-La respuesta había sido otra capa del mundo.
+Más profundo.
+
+No venía de la raíz donde estaba.
+
+Venía de debajo.
+
+Miré hacia la niebla.
+
+Durante un instante distinguí otra capa aún más baja. Después desapareció.
+
+No había bajado hasta el fondo.
+
+Ni siquiera sabía si existía algo que pudiera llamar fondo.
+
+Miré los discos. El agua. El lugar por el que había descendido.
+
+De pronto la subida parecía mucho peor que antes.
+
+Guardé la cámara y ajusté la mochila.
+
+Había encontrado animales.
+
+Había visto moverse una raíz bajo mis pies.
+
+Y algo, mucho más abajo, acababa de golpear tres veces.
+
+Era suficiente descubrimiento para una mañana.
+
+Empecé a subir.
