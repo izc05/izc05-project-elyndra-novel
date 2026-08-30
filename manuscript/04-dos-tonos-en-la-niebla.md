@@ -1,198 +1,226 @@
 # Capítulo IV — Dos tonos en la niebla
 
-La cápsula tenía exactamente lo que necesitaba.
+La cápsula tenía justo lo que necesitaba.
 
-Ese era el problema.
+Eso me puso de mal humor.
 
-Correas del asiento. Malla de carga. Líneas del paracaídas secundario. Anclajes y piezas diseñadas para mantenerme vivo dentro de la cápsula que ahora podían servirme fuera.
+Las correas del asiento, la malla de carga y parte del paracaídas seguían en buen estado. Todo había sido diseñado para mantenerme vivo dentro de la cápsula.
 
-El paracaídas no volvería a frenar una caída. Recuperé once metros útiles de línea en tramos desiguales, dos correas que podía retirar sin comprometer la cápsula y una sección de malla.
+Yo iba a cortarlo para poder seguir saliendo de ella.
 
-En el registro escribí:
+—Esto cuenta como mantenimiento —dije.
 
-**NO CERTIFICADO PARA SOSTENER PESO HUMANO.**
+Nadie discutió.
 
-Después construí con ello algo destinado a reducir las consecuencias de una caída humana.
+Recuperé varios tramos de línea y dos correas. Hice un cinturón improvisado, reforcé las uniones y tiré de él con todo mi peso.
 
-Trencé los tramos aprovechables, repartí carga con la malla y usé una correa como cinturón improvisado. Una unión se deslizó durante la prueba. La rehice. Otra cortó el tejido. La reforcé.
+La primera unión se deslizó.
 
-Cuando terminé no tenía equipo de escalada.
+La segunda aguantó.
 
-Tenía una manera menos mala de equivocarme.
+No lo llamé equipo de escalada.
 
-La luz útil se había acabado.
+No quería insultar al equipo de escalada.
 
-Los tonos tendrían que esperar hasta el día siguiente.
+Era algo que quizá evitara que un resbalón pequeño se convirtiera en uno definitivo.
+
+Suficiente.
+
+Cuando terminé, fuera ya había poca luz.
+
+Me senté frente al ventanal con la grabación de los tonos abierta.
+
+Agudo.
+
+Grave.
+
+A veces separados. A veces casi juntos.
+
+Intenté encontrar un ritmo y acabé encontrando sueño.
+
+Cerré la pantalla.
+
+Mañana entraría en la rama horizontal.
+
+La idea me mantuvo despierto más tiempo del que me habría gustado.
 
 ---
 
-Seguían allí.
+Los tonos seguían allí al día siguiente.
 
-Los oí antes de alcanzar la bifurcación.
+Los oí antes de llegar a la bifurcación.
 
-Uno agudo.
+Agudo.
 
-Después otro más grave.
+Después grave.
 
-Durante la noche había revisado la grabación. Los intervalos cambiaban demasiado para sostener una periodicidad simple.
+La tira reflectante continuaba pegada a la corteza.
 
-La tira reflectante continuaba en su sitio.
+Pasé junto a ella y entré en la niebla.
 
-Entré en la rama horizontal.
+A los pocos metros desapareció detrás de mí.
 
-La niebla se tragó la marca a los veinte metros.
+Eso fue rápido.
 
-A partir de allí avancé usando referencias naturales: dos protuberancias juntas, una cicatriz clara y un grupo de membranas bajo el borde derecho.
+La raíz era más fría que la ruta descendente y cada vez más lisa. Usé pequeñas cicatrices, grupos de membranas y protuberancias como referencias para el regreso.
 
-El aire era más frío que en la ruta descendente. La raíz se ensanchaba y los surcos profundos de la corteza daban paso a placas más lisas.
-
-El tono agudo sonó a la izquierda.
+El tono agudo sonó a mi izquierda.
 
 El grave, delante.
 
-Después el agudo pareció venir de atrás.
+Un minuto después juraría que el agudo venía de atrás.
 
-Anoté:
+—Muy útil.
 
-**DIRECCIÓN APARENTE VARIABLE. NIEBLA / REFLEXIÓN ACÚSTICA POSIBLE.**
+Seguí caminando.
 
-No necesitaba perseguir un eco.
+La niebla deformaba la distancia. Una forma cercana podía parecer enorme y algo lejano podía aparecer de golpe al siguiente paso.
 
-Seguí la ruta.
+Entonces el tono grave sonó tan cerca que vibró en el casco.
 
-Grupos de filamentos azul grisáceos cubrían algunas placas. Probé uno con una corriente mínima de la válvula del guante.
+Me detuve.
 
-Los filamentos se inclinaron en dirección contraria al flujo.
+El agudo respondió.
 
-Repetí con menos presión.
-
-Misma respuesta.
-
-Guardé vídeo y continué.
-
-Entonces el tono grave sonó tan cerca que sentí la vibración en el casco.
-
-Un segundo después llegó el agudo.
-
-La niebla se abrió con una ráfaga.
+Una ráfaga abrió la niebla.
 
 Vi algo vertical.
 
-Desapareció.
+Solo un instante.
 
-Esperé a que las membranas se tensaran.
+Volvió a desaparecer.
 
-El viento volvió a barrer la niebla.
+Esperé a las membranas.
 
-La forma apareció otra vez.
+Se tensaron.
 
-Medía unos dos metros y medio. Era estrecha en la base y se abría arriba en tres brazos curvos alrededor de un espacio vacío.
+Cuando llegó el siguiente golpe de viento, la niebla se apartó otra vez.
 
-No era un árbol.
+La forma seguía allí.
 
-No parecía roca.
+Oscura.
 
-Me acerqué.
+Estrecha en la base.
+
+Tres brazos curvos abiertos alrededor de un hueco central.
+
+No parecía una planta.
+
+Tampoco una roca.
+
+Mi mano fue a la cámara antes de que yo decidiera hacerlo.
+
+Después empecé a acercarme.
 
 ---
 
-La estructura estaba incrustada en la raíz.
+La corteza había crecido alrededor de la base.
 
-La corteza había crecido alrededor de la base y ocultaba parte del material oscuro. La herramienta devolvió una respuesta metálica o muy parecida a una. El visor no reconoció la composición.
+Eso fue lo primero que me inquietó.
 
-En las zonas expuestas aparecían bandas horizontales finísimas y pequeñas hendiduras. No vi tornillos, soldaduras ni conectores compatibles con Aster.
+No estaba simplemente apoyada sobre la raíz.
+
+La raíz la envolvía.
+
+Toqué una zona expuesta con la herramienta.
+
+El sonido fue seco. Denso. Más cercano al metal que a cualquier tejido que hubiera visto allí.
+
+El visor no supo decirme qué era.
+
+—Bienvenido al club.
+
+Había bandas finas sobre la superficie y pequeñas hendiduras alineadas. No vi tornillos ni soldaduras. Nada que se pareciera a una pieza de Aster.
 
 El brazo superior vibró.
 
-Tono agudo.
+Sonó la nota aguda.
 
-Tres segundos después respondió otro brazo con la nota grave.
+Me aparté medio paso.
 
-El viento estaba casi quieto.
+Unos segundos después vibró otro brazo.
 
-Esperé la siguiente ráfaga.
+La nota grave.
 
-La estructura no sonó.
+El viento casi no se movía.
 
-En la cara interior del brazo agudo descubrí una cavidad estrecha con una película transparente. Su superficie tembló primero.
+Miré dentro del primer brazo y encontré una película transparente tensada en una cavidad estrecha.
 
-Después vibró el brazo.
+Tembló.
 
-Volvió a ocurrir.
+Después sonó el brazo.
 
-Primero la película.
+Otra vez.
 
-Después el tono.
+Película.
 
-No sabía qué iniciaba la primera vibración, pero el sonido no era simplemente aire atravesando un hueco.
+Tono.
+
+No era el viento silbando por un agujero.
+
+Eso era todo lo que podía afirmar.
 
 Rodeé la base.
 
-En una zona donde la corteza dejaba el material expuesto había dos series de hendiduras alineadas.
+Las hendiduras aparecieron de nuevo en dos grupos.
 
 Tres pequeñas y una grande.
 
 Debajo, una grande y dos pequeñas.
 
-Las fotografié con escala.
+Las fotografié.
 
-No escribí *escritura*.
+Mi cabeza quiso llamarlas escritura.
 
-No escribí *código*.
+La dejé querer.
 
-**PATRÓN DE HENDIDURAS. ORIGEN NO DETERMINADO.**
+Yo no escribí nada.
 
-El tono grave volvió.
+Entonces el tono grave volvió a sonar.
 
-La niebla se movió detrás de los tres brazos.
+La niebla se abrió detrás de la estructura.
 
-Y el paisaje cambió.
+Y vi que no estaba sola.
 
-A unos cien metros, la raíz se ensanchaba hasta formar una superficie irregular. Sobre ella sobresalían formas verticales.
+Más adelante, sobre una zona ancha de la raíz, sobresalían varias formas verticales.
 
-Una.
+Algunas rectas.
 
-Tres.
+Otras partidas.
 
-Seis.
+Una inclinada.
 
-Algunas bajas. Otras partidas. Una parecía inclinada. Otra mostraba un hueco limpio cerca de la parte superior.
+Otra con un hueco cerca de la parte superior.
 
-La distancia impedía saber qué eran, pero compartían algo con la estructura cercana: regularidad y ausencia de ramas.
+Conté seis antes de que la niebla las borrara.
 
-La niebla volvió a cerrarse.
-
-No pensé *ciudad*.
-
-Pensé algo más pequeño.
-
-La estructura de tres brazos no estaba sola.
+Seis era demasiado para seguir fingiendo que aquella forma era una rareza aislada.
 
 ---
 
-No avancé hacia la plataforma.
+Di un paso hacia adelante.
 
-La rodilla empezaba a doler por debajo del analgésico y la niebla podía borrar en minutos una ruta que acababa de aprender.
+La rodilla protestó.
 
-Grabé tres referencias naturales alrededor de la estructura, la dirección aproximada de la plataforma y varias imágenes cuando el viento permitía verla.
+Miré la niebla donde habían aparecido las otras formas.
 
-No hubo luces.
+Luego el camino por el que había venido.
 
-Ni humo.
+No me gustó ninguna de las dos opciones.
 
-Ni movimiento.
+Eso facilitó la decisión.
 
-Ni nadie visible.
+Volví.
 
-Antes de marcharme fotografié otra vez las hendiduras.
+Grabé referencias alrededor de la estructura y esperé una última apertura de la niebla. Las formas lejanas reaparecieron solo un instante.
 
-Tres pequeñas.
+Nada se movió.
 
-Una grande.
+No vi luces.
 
-Una grande.
+No vi a nadie.
 
-Dos pequeñas.
+Solo geometría donde hasta entonces había aprendido a esperar crecimiento, agua y corteza.
 
 Cuando me alejé, el tono agudo sonó a mi espalda.
 
@@ -200,32 +228,36 @@ Cuatro pasos después llegó el grave.
 
 Me detuve.
 
-Nada más.
+Esperé un tercero.
 
-Continué.
+No llegó.
 
-Dos sonidos no eran una despedida.
+—No significa nada.
 
----
+Seguí andando.
 
-Esa noche coloqué tres imágenes en la pantalla de la cápsula.
+Repetí la frase dos veces más antes de alcanzar la bifurcación.
 
-La estructura de tres brazos.
+Esa noche puse tres imágenes en la pantalla de la cápsula.
+
+La estructura.
 
 Las hendiduras.
 
-La plataforma lejana.
+Las formas lejanas.
 
-Escribí:
+Me quedé mirándolas mientras se enfriaba la cena.
 
-**MATERIAL NO IDENTIFICADO.**
+Podían ser naturales.
 
-Después:
+Podían no serlo.
 
-**GEOMETRÍA REGULAR OBSERVADA. ORIGEN DESCONOCIDO.**
+La raíz había crecido alrededor de una de ellas. Eso no me decía quién la había hecho, ni si alguien la había hecho.
 
-No sabía quién había hecho aquello.
+Solo me decía que llevaba allí el tiempo suficiente para formar parte del paisaje.
 
-Ni siquiera sabía si *hecho* era todavía la palabra correcta.
+Apagué la pantalla.
 
-Pero Elyndran ya no podía reducirse a raíces, agua, viento y animales pequeños.
+Hasta ese día Elyndran había sido un lugar extraño.
+
+Ahora contenía algo que no sabía ni cómo nombrar.
