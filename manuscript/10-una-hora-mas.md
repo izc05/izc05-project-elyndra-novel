@@ -1,165 +1,129 @@
 # Capítulo X — Una hora más
 
-A la mañana siguiente no tenía fiebre, irritación ni ningún cambio que el equipo médico reconociera como reacción a la lluvia tratada.
+A la mañana siguiente seguía bien.
 
-Eso no la convertía en agua segura.
+La lluvia tratada no me había dado fiebre, picor ni nada que el equipo supiera reconocer. Diez mililitros no demostraban gran cosa, pero bastaban para cambiar una decisión.
 
-Diez mililitros seguían siendo diez mililitros.
+Pesé una de las bolsas: ciento ochenta y seis gramos.
 
-Aun así, por primera vez desde la caída, la reserva terrestre dejó de ser la única cifra que decidía cuánto podía alejarme.
+La guardé aparte y salí con un solo recipiente de agua terrestre.
 
-Pesé una de las bolsas de lluvia tratada.
+Por primera vez llevaba encima una pequeña cantidad de Elyndran que podía permitirme perder.
 
-Ciento ochenta y seis gramos con cierre y marca.
-
-La guardé separada del agua terrestre.
-
-No como agua.
-
-Como margen.
-
-Llevé un solo recipiente terrestre.
-
-La elección dejó un hueco visible en el armario.
-
-No estaba confiando en Elyndran.
-
-Estaba decidiendo cuánto pesaba una hora más.
+No tardó mucho.
 
 ---
 
-En la bifurcación tomé la ruta horizontal.
+Tomé la horizontal en la bifurcación.
 
-Pasé junto a la estructura de tres brazos sin detenerme. La lluvia nocturna explicaba el agua nueva en sus cavidades hasta que apareciera una razón para pensar otra cosa.
+La estructura de tres brazos apareció entre la niebla y la dejé atrás. Sus cavidades tenían agua nueva después de la lluvia. No necesitaba otra teoría.
 
-La plataforma permanecía oculta.
+En la siguiente división bajé.
 
-En la división elegí la rama descendente.
+La raíz se hundía bajo otra mayor hasta formar un corredor bajo techo. La niebla me llegaba a las rodillas y la corteza, aunque parecía seca, escondía una película de agua.
 
-La película oscura retenía agua bajo una superficie que parecía seca. Caminé con pasos cortos hasta que la raíz dejó de bajar y se metió bajo la principal.
+Avancé más despacio.
 
-La niebla quedó a la altura de las rodillas.
+Entonces vi algo que no pertenecía al dibujo irregular de las raíces.
 
-Arriba, la cara inferior de la raíz formaba un techo de fibras y corteza.
+Una línea recta.
 
-Entonces apareció la primera línea recta.
+Era una banda oscura de casi medio metro de ancho encajada en la cara inferior de la raíz. La corteza había crecido sobre sus bordes. Una serie de surcos la cruzaba de lado a lado.
 
-Una banda oscura, de casi medio metro de ancho, estaba encajada en la raíz superior. La corteza la cubría por los lados. Surcos transversales dividían la superficie visible y la banda continuaba en dirección a la plataforma.
-
-No la toqué.
-
-Seguí.
+La seguí.
 
 La niebla se abrió.
 
-Y la parte inferior de la plataforma apareció sobre mí.
+La plataforma estaba encima de mí.
 
 ---
 
-Desde arriba había visto una superficie con formas verticales.
+Desde arriba parecía una superficie.
 
-Desde abajo era otra cosa.
+Desde abajo tenía profundidad.
 
-Capas.
+Nervaduras oscuras se cruzaban bajo capas de corteza y fibras. Algunas desaparecían dentro de la raíz y volvían a salir varios metros después. Otras terminaban de golpe. Había huecos donde esperaba material y crecimiento vivo donde esperaba una unión.
 
-Nervaduras.
+Me acerqué hasta que tuve que echar la cabeza hacia atrás para abarcarla.
 
-Huecos.
+La banda recta que había seguido se dividía: un tramo subía hacia aquella trama; otro se perdía bajo corteza nueva.
 
-Material oscuro atravesado por raíz y corteza.
+Tomé fotografías.
 
-Algunas piezas seguían líneas casi paralelas. Otras desaparecían bajo crecimiento vivo y reaparecían metros después. Una sección completa estaba ausente y dejaba la raíz desnuda.
+A lo lejos sonó el tono agudo.
 
-No podía afirmar si la estructura había sido construida alrededor de la raíz, si la raíz la había atravesado después o si ambas llevaban tanto tiempo cambiando juntas que la distinción ya no servía.
+Esperé una vibración bajo las botas.
 
-Fotografié sin elegir ninguna explicación.
+No llegó.
 
-La banda oscura que había seguido se dividía bajo una zona protegida: una parte ascendía hacia la trama de la plataforma; la otra desaparecía bajo corteza nueva.
+Después sonó el grave.
 
-El tono agudo de la estructura llegó desde lejos.
+Tampoco.
 
-Nada respondió bajo mis botas.
+Bien.
 
-Después el grave.
+Al menos dos misterios podían seguir siendo dos misterios.
 
-Nada.
+Di un paso lateral para buscar otro ángulo.
 
-Me alegró no encontrar relación.
-
-Una pregunta era más fácil de sostener cuando no intentaba explicar todas las demás.
+Y resbalé.
 
 ---
 
-El accidente fue pequeño.
+La bota izquierda encontró agua donde mis ojos habían visto corteza.
 
-Giré para buscar otro ángulo y la bota izquierda cayó sobre una película de agua oculta por la niebla.
-
-El pie se fue hacia delante. La mochila tiró hacia atrás. La rodilla derecha se dobló más de lo que quería.
+El pie se fue hacia delante. La mochila me tiró hacia atrás y la rodilla derecha se dobló de golpe.
 
 Clavé la herramienta entre dos fibras.
 
-Entró apenas unos centímetros.
+Aguantó.
 
-Suficientes.
+Me quedé pegado a la raíz, respirando demasiado deprisa, hasta que pude volver a cargar peso.
 
-Me quedé inmóvil hasta que el pulso dejó de ocupar todo el casco.
+La rodilla seguía funcionando.
 
-La rodilla dolía, pero no de una forma nueva.
+Entonces noté que algo golpeaba mi costado.
 
-Entonces noté el bolsillo exterior de la mochila.
+La bolsa de lluvia colgaba vacía del bolsillo.
 
-Vacío.
+Una esquina se había abierto al engancharse durante el resbalón. Debajo, la película oscura brillaba donde había caído el agua.
 
-La bolsa de lluvia se había abierto por una esquina al engancharse con una protuberancia.
+Ciento ochenta y seis gramos.
 
-El cierre seguía puesto.
+Mi hora extra.
 
-El agua no.
+Se habían ido en segundos.
 
-La película oscura bajo mí brillaba un poco más donde había caído.
+Guardé la bolsa rota.
 
-Ciento ochenta y seis gramos de margen reducidos a una bolsa rota.
-
-La doblé y la guardé.
-
-No avancé más.
+Y di media vuelta.
 
 ---
 
-Antes de regresar tomé una última fotografía.
+Antes de subir tomé una última fotografía de la plataforma.
 
-Tres nervaduras oscuras entraban en la plataforma. En dos zonas, la corteza las cubría casi por completo. Sobre esa corteza crecían pequeñas membranas transparentes como las de otras raíces.
+Tres nervaduras oscuras entraban bajo la corteza. Sobre el crecimiento que las envolvía habían aparecido pequeñas membranas transparentes iguales a las de otras raíces.
 
-No sobre el material oscuro.
+Eso era lo importante.
 
-Sobre el crecimiento que lo envolvía.
+No parecían crecer sobre el material oscuro.
 
-Aquello no demostraba origen ni edad.
+Crecían sobre la raíz que lo había ocupado.
 
-Solo integración.
+La niebla volvió a cerrar el hueco y la plataforma desapareció.
 
-Subí de nuevo hasta la división.
+Regresé por el mismo camino.
 
-Desde allí la plataforma reapareció unos segundos entre la niebla, incompleta y lejana.
+En la bifurcación bebí agua terrestre y miré el bolsillo vacío.
 
-Ya sabía algo que aquella vista no enseñaba.
+Había salido para comprarme una hora.
 
-Debajo había capas.
+Volvía antes de tiempo, con una rodilla dolorida y una fotografía que convertía la plataforma en algo mucho más difícil de ignorar.
 
-Nervaduras.
+Dentro de la cápsula dejé la imagen abierta en la pantalla.
 
-Raíz creciendo entre ellas.
+Puse la bolsa rota a su lado.
 
-La próxima vez que la viera desde arriba ya no podría volver a ser una simple plataforma.
+La bolsa podía repararla.
 
-En la bifurcación bebí dos tragos de agua terrestre y miré el bolsillo vacío.
-
-Había regresado antes de la hora que me había concedido.
-
-Dentro de la cápsula puse la bolsa rota sobre el banco y la fotografía de la estructura en la pantalla.
-
-La primera era un problema sencillo.
-
-La segunda no.
-
-Elegí reparar la bolsa.
+La otra cosa tendría que esperar.
