@@ -16,8 +16,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 06 | VI — La segunda visita | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: regreso sin marcas, vacío real hacia plataforma, línea oscura integrada y vibración fina; canon intacto |
 | 07 | VII — La parte seca | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: filtración, reparación exterior bajo ráfaga, primer parche seco y cápsula convertida activamente en refugio; canon intacto |
 | 08 | VIII — El agua que no era agua | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: expedición comprimida, secuencias luminosas, cambio de tono tras golpes, agua no segura y nueva dirección hacia lluvia directa; canon intacto |
-| 09 | IX — Antes de tocar la raíz | IN PROGRESS | — | — | Siguiente capítulo |
-| 10 | X — Una hora más | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
+| 09 | IX — Antes de tocar la raíz | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: lluvia convertida en recurso, colector improvisado, exposición oral mínima y nueva reserva potencial; canon intacto |
+| 10 | X — Una hora más | IN PROGRESS (piloto V3 previo) | — | Brief previo; revalidar | Siguiente capítulo |
 | 11 | XI — La órbita vacía | PENDING | — | — | — |
 | 12 | XII — El mismo camino | PENDING | — | — | — |
 | 13 | XIII — La mitad de una ración | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `09-antes-de-tocar-la-raiz.md` con la skill TOP. No avanzar a X hasta superar el gate.
+Revalidar `10-una-hora-mas.md` con la skill TOP. No avanzar a XI hasta superar el gate.
