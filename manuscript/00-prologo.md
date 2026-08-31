@@ -8,9 +8,9 @@ Fue un número.
 
 **CONTACTO CON SUPERFICIE: −37,00 s**
 
-Me quedé mirándolo demasiado tiempo.
+Me quedé mirándolo más tiempo del que debía.
 
-Fuera del ventanal, el planeta seguía lejos. Nubes oscuras. Una tormenta girando al sur. La curva del horizonte todavía limpia contra el negro.
+Fuera del ventanal, el planeta seguía lejos. Nubes oscuras cubrían media esfera y una tormenta giraba al sur. La curva del horizonte todavía estaba limpia contra el negro.
 
 No había tocado nada.
 
@@ -18,11 +18,9 @@ No había tocado nada.
 
 Abrí el diagnóstico.
 
-Altitud correcta.
+Altitud correcta. Trayectoria correcta. Sensores dentro de rango.
 
-Trayectoria correcta.
-
-Todo correcto excepto aquel número.
+Todo parecía normal excepto aquel número imposible.
 
 Parpadeó una vez.
 
@@ -30,25 +28,23 @@ Y desapareció.
 
 **CONTACTO CON SUPERFICIE: 12 min 41 s**
 
-Busqué el error en el historial.
-
-Nada.
+Busqué el aviso en el historial. No estaba.
 
 Como si nunca hubiera ocurrido.
 
 Guardé una captura.
 
-No sabía por qué.
+No sabía para qué.
 
-Solo sabía que no quería olvidarlo.
+Solo sabía que no quería tener que convencerme después de que lo había imaginado.
 
 ---
 
 La atmósfera llegó con fuego.
 
-El casco vibró. El arnés me apretó el pecho. Durante unos segundos todo volvió a parecer normal.
+El casco vibró contra mi cabeza y el arnés me clavó al asiento. Durante unos segundos la entrada volvió a parecer exactamente lo que habíamos ensayado.
 
-Entonces el horizonte se inclinó.
+Entonces el horizonte empezó a inclinarse.
 
 Demasiado.
 
@@ -58,17 +54,17 @@ Demasiado.
 
 —Control manual.
 
-Nada.
+El selector no respondió.
 
-Golpeé el selector.
+Lo golpeé con la palma.
 
 **SEPARACIÓN DE CÁPSULA AUTORIZADA.**
 
-Sentí frío antes de entenderlo.
+Sentí frío antes de entender lo que estaba leyendo.
 
 Yo no había autorizado nada.
 
-—Cancelar.
+—Cancelar separación.
 
 **3.**
 
@@ -84,27 +80,21 @@ El clic fue pequeño.
 
 Lo que vino después no.
 
-La cápsula se arrancó de la nave y la aceleración me hundió contra el asiento.
-
-Busqué el enlace.
+La cápsula se arrancó de Aster y la aceleración me hundió contra el asiento. Busqué el enlace principal. Luego el de emergencia. Después cualquier portadora que pudiera decirme que la nave seguía ahí.
 
 Nada.
 
-Canal de emergencia.
+Aster había desaparecido de todos mis canales.
 
-Nada.
-
-Aster había desaparecido.
-
-Y conmigo se había ido la única posibilidad sencilla de volver a casa.
+Y conmigo se había ido la única forma sencilla de volver a casa.
 
 ---
 
 Cuando el plasma dejó de cubrir el ventanal, vi Elyndran a golpes.
 
-Nubes.
+Primero nubes.
 
-Oscuridad.
+Después oscuridad.
 
 Niebla.
 
@@ -116,23 +106,15 @@ Y algo enorme atravesándola.
 
 El tirón me vació los pulmones.
 
-La cápsula empezó a girar.
+La cápsula empezó a girar y el mundo se convirtió en fragmentos: cielo, niebla, negro, cielo otra vez.
 
-Cielo.
-
-Niebla.
-
-Negro.
-
-Cielo otra vez.
-
-En una vuelta lo vi bien.
+En una de las vueltas conseguí enfocar lo que había debajo.
 
 Raíces.
 
 No árboles.
 
-Raíces suspendidas unas sobre otras, tan grandes que mi cabeza intentó convertirlas en puentes para poder entenderlas.
+Raíces suspendidas unas sobre otras, tan grandes que mi cabeza intentó convertirlas en puentes para poder entenderlas. Algunas se perdían dentro de la niebla. Otras cruzaban el vacío a diferentes alturas sin que pudiera ver de dónde nacían ni dónde terminaban.
 
 Una llenó todo el ventanal.
 
@@ -150,25 +132,21 @@ El segundo apagó el mundo.
 
 ---
 
-Volví con sangre en la boca.
+Volví con sangre en la boca y una luz roja latiendo sobre mi cabeza.
 
-Luz roja.
+La rodilla derecha dolía. También el costado.
 
-Dolor en la rodilla.
+Respiré una vez y esperé a que algo fallara.
 
-Dolor en el costado.
+Nada.
 
-Respiré.
-
-Una vez.
-
-Otra.
+Respiré otra.
 
 Seguía dentro del traje.
 
 Seguía vivo.
 
-Miré la pantalla.
+La pantalla frontal estaba agrietada, pero aún mostraba una línea de texto.
 
 **CONTACTO CON SUPERFICIE: −37,00 s**
 
@@ -180,51 +158,53 @@ No por el accidente.
 
 Por esos treinta y siete segundos.
 
-Reinicié el módulo.
+Reinicié el módulo. El aviso volvió a desaparecer.
 
-El aviso desapareció otra vez.
-
-Abrí la captura que había guardado.
+Abrí la captura que había guardado antes de entrar en la atmósfera.
 
 Casi toda la imagen era ruido.
 
-Solo quedaban dos caracteres.
+Solo sobrevivían dos caracteres.
 
 **37**
 
-Me quedé mirándolos.
+Los miré hasta que el dolor de la rodilla volvió a recordarme dónde estaba.
 
-Después abrí la escotilla.
+Los treinta y siete segundos podían esperar.
 
-La lluvia golpeó el casco.
+Yo no.
+
+---
+
+Abrí la escotilla.
+
+La lluvia golpeó el casco con tanta fuerza que durante un instante no oí nada más.
 
 Saqué la cabeza.
 
-La cápsula estaba encajada sobre una raíz negra que desaparecía dentro de la niebla.
+La cápsula estaba encajada sobre una raíz negra y húmeda, más ancha que muchas carreteras terrestres. A ambos lados desaparecía dentro de la niebla.
 
 Miré hacia abajo.
 
-Otra raíz.
+Otra raíz cruzaba el vacío varios metros más abajo.
 
-Más abajo, otra.
+Después otra.
 
-Después nada.
+Y otra más, apenas visible.
 
-Ni suelo.
+Más abajo no había nada que pudiera llamar suelo.
+
+Solo capas, niebla y distancia.
 
 Ni luces.
 
-Ni nadie.
+Ni edificios.
 
-Miré lo que me quedaba dentro de la cápsula.
+Ni una señal de que alguien supiera que yo estaba allí.
 
-Agua.
+Volví la vista hacia el interior de la cápsula.
 
-Raciones.
-
-Baterías.
-
-Un botiquín.
+Agua. Raciones. Baterías. Un botiquín. Herramientas.
 
 Y tiempo.
 
@@ -232,16 +212,16 @@ No sabía cuánto.
 
 Apoyé una bota fuera.
 
-La raíz estaba mojada.
-
-Resbalé medio centímetro y el corazón me golpeó contra el pecho.
+La superficie cedió menos de lo que esperaba y resbalé apenas medio centímetro. El corazón me golpeó contra el pecho y retiré el peso por instinto.
 
 Me quedé quieto.
 
+La lluvia corría por la visera. Debajo de mí, las raíces desaparecían una tras otra dentro de la niebla.
+
 Respiré.
 
-Luego di el primer paso.
+Volví a apoyar la bota.
 
-Los treinta y siete segundos podían esperar.
+Esta vez no resbaló.
 
-Yo no.
+Di el primer paso.

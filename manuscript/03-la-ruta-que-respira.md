@@ -1,100 +1,52 @@
 # Capítulo III — La ruta que respira
 
-La subida empezó mal.
+La subida empezó con mi bota izquierda patinando en la tercera fibra.
 
-Mi bota izquierda resbaló en la tercera fibra.
+La rodilla derecha golpeó la corteza y el dolor me vació los pulmones.
 
-No caí.
-
-La rodilla derecha golpeó contra la corteza y el dolor me dejó sin aire.
-
-Me quedé colgado de ambos brazos, con la cara casi pegada a la raíz.
+Me quedé colgado de ambos brazos, con el visor a centímetros de la raíz.
 
 —Perfecto.
 
 No sonó convincente.
 
-Esperé a que la pierna dejara de temblar. Cuando volvió a aceptar peso, seguí.
+Esperé solo hasta que la pierna volvió a aceptar peso y seguí. Más despacio. Mucho más despacio.
 
-Más despacio.
-
-Mucho más despacio.
-
-A mitad de la subida encontré un ensanchamiento y me senté. La cápsula no estaba lejos en distancia.
-
-Dejó de parecerme cerca.
-
-Saqué el analgésico.
-
-Llevaba dos días evitándolo porque quería saber exactamente cuánto dolía cada cosa. En ese momento me pareció una idea bastante estúpida.
-
-Tomé una dosis pequeña.
-
-Mientras esperaba apagué el ventilador secundario del casco.
-
-El mundo apareció de golpe.
-
-Agua cayendo lejos.
-
-Gotas golpeando el traje.
-
-Una raíz crujiendo en algún lugar de la niebla.
-
-Mi respiración.
-
-Nada más.
-
-Los golpes habían cesado.
-
-Eso debería haberme tranquilizado.
-
-No lo hizo.
-
-Miré hacia abajo.
-
-Desde aquella altura los discos parecían manchas claras sobre la raíz inferior. Uno de ellos estaba vacío.
-
-El mismo que se había desbordado cuando la raíz se inclinó.
-
-Amplié la grabación.
+A mitad de la subida encontré un ensanchamiento y me dejé caer sobre él. Desde allí los discos parecían manchas pálidas bajo la niebla. Uno, el que se había desbordado cuando la raíz se inclinó, estaba vacío.
 
 Una línea oscura cruzaba ahora el fondo.
 
-No recordaba haberla visto antes.
+Abrí la grabación anterior.
 
-Podía haber estado oculta por el agua.
+No pude verla.
 
-Podía ser una grieta.
+Podía haber estado bajo el agua. Podía ser una grieta.
 
-Podía ser otra cosa.
+La rodilla pulsó otra vez.
 
-Cerré la imagen.
+—Mañana te investigas tú solo.
 
-Por una vez, no bajé a comprobarlo.
+Guardé la pantalla.
 
-La rodilla me había dado una opinión bastante clara sobre mi método científico.
+Era la primera decisión sensata que tomaba desde que había empezado a bajar.
 
 Seguí subiendo.
 
 ---
 
-Cuando alcancé la raíz superior, la niebla había cambiado el camino.
+Cuando alcancé la raíz superior, la niebla había rehecho el paisaje.
 
 No la raíz.
 
 Mi manera de verla.
 
-El aire blanco había subido y borrado referencias que unas horas antes parecían obvias. La bifurcación no estaba donde esperaba.
-
-O eso pensé.
-
-Avancé unos metros y vi dos ramas delante de mí.
+Las referencias que unas horas antes parecían obvias habían desaparecido. Avancé unos metros y vi dos ramas delante de mí.
 
 Me detuve.
 
-No había dos ramas en la bajada.
+No había dos.
 
-Saqué la grabación.
+Saqué la grabación de la bajada.
 
 Una sola.
 
@@ -102,81 +54,67 @@ Levanté la vista.
 
 Dos.
 
-Sentí esa pequeña presión detrás de los ojos que aparece cuando algo no encaja y tu cabeza quiere resolverlo demasiado deprisa.
+Sentí esa presión detrás de los ojos que aparece cuando la cabeza intenta resolver demasiado deprisa algo que no encaja.
 
 Retrocedí tres pasos.
 
-Entonces lo vi.
+Entonces la supuesta rama izquierda se separó del fondo blanco.
 
-La supuesta rama izquierda no nacía de mi raíz.
+No nacía de mi raíz.
 
 Pasaba por debajo.
 
-La niebla había borrado la separación vertical y yo había inventado una bifurcación.
+La niebla había borrado la distancia vertical y yo había inventado una bifurcación.
 
-Solté el aire.
+Solté el aire de golpe.
 
-—Bien hecho.
+—Muy bien.
 
-No sé a quién se lo dije.
+Por primera vez comprendí algo más inquietante que una anomalía: Elyndran no necesitaba cambiar para desorientarme.
 
-Guardé la grabación.
+Bastaba con quitarme profundidad.
 
-Necesitaba recordar aquello más que cualquier medida: Elyndran no tenía que estar rompiendo las reglas cada vez que yo me confundía.
+Dejé de buscar formas grandes y volví a referencias pequeñas: una grieta clara, dos protuberancias juntas, cuatro membranas bajo un borde.
 
-A veces el problema podía ser yo.
+El camino reapareció poco a poco.
 
-Seguí buscando mis referencias conocidas.
+No porque hubiera vuelto.
 
-Una grieta clara.
-
-Dos protuberancias juntas.
-
-Cuatro membranas bajo un borde.
-
-Poco a poco el camino volvió a aparecer.
-
-No había cambiado.
-
-Yo sí.
+Porque yo había aprendido a verlo.
 
 ---
 
-La tira reflectante apareció entre la niebla casi al final del regreso.
-
-Seguía pegada.
+La tira reflectante surgió de la niebla casi al final del regreso.
 
 Una esquina levantada.
 
-La misma que antes.
+La misma de antes.
 
-Me sorprendió lo mucho que me alegró verla.
+Me alegró verla mucho más de lo que pensaba admitir.
 
 Me senté junto a la bifurcación y bebí.
 
-Tres caminos otra vez.
+Tres caminos.
 
-El descendente ya no era una simple ruta hacia abajo. Ahora tenía discos, animales y golpes procedentes de capas que ni siquiera alcanzaba a ver.
+El descendente ya tenía discos, animales y golpes procedentes de capas que ni siquiera alcanzaba a ver.
 
 El ascendente seguía oscuro y cubierto de vegetación.
 
 El horizontal desaparecía dentro de una nube espesa.
 
-Miré el pequeño rollo de cable que llevaba.
+Miré el pequeño rollo de cable que llevaba. Después pensé en las correas, la malla y el paracaídas de la cápsula.
 
-Insuficiente para otra bajada seria.
+Cada metro de seguridad que ganara fuera significaba desmontar un poco más el único vehículo humano que quedaba conmigo.
 
-La cápsula tenía correas, malla y partes del paracaídas que podía desmontar.
+No me gustaba.
 
-Eso significaba convertir un poco más de mi nave en herramientas para no morir allí.
+Tampoco tenía alternativa.
 
-No me encantaba la idea.
+Guardé el cable.
 
-Tampoco tenía una mejor.
+Entonces sonó el tono.
 
-Estaba guardando el cable cuando escuché el sonido.
-
-Un tono breve.
+Breve.
 
 Agudo.
 
@@ -186,17 +124,13 @@ Me quedé quieto.
 
 Miré el panel del traje por reflejo.
 
-Nada.
+Sin alarma.
 
 El tono volvió.
 
 Esta vez levanté la cabeza antes de que terminara.
 
 Venía de la rama horizontal.
-
-Esperé.
-
-Nada.
 
 Di dos pasos hacia la niebla.
 
@@ -208,17 +142,15 @@ Dos notas.
 
 No golpes.
 
-No una alarma.
-
 No estática.
 
-Algo diferente.
+Algo distinto.
 
-La entrada de aquella ruta parecía exactamente igual que unos minutos antes.
+La entrada de aquella ruta parecía idéntica a la de unos minutos antes.
 
-Aun así, ya no era la misma.
+Ya no lo era.
 
-Ahora había algo allí dentro que podía oír.
+Ahora sabía que allí dentro había algo capaz de producir un sonido que no pertenecía a ninguno de mis sistemas.
 
 ---
 
@@ -228,25 +160,19 @@ Un paso más.
 
 Solo uno.
 
-El tono agudo volvió a sonar.
+El tono agudo sonó otra vez.
 
 Después el grave.
 
-No estaban lo bastante separados para llamarlo patrón.
-
-Tampoco lo bastante juntos para ignorarlo.
-
 Apoyé una mano en la raíz.
 
-La superficie estaba húmeda y fría.
+Fría. Húmeda.
 
-Mi rodilla latía dentro del traje.
+La rodilla latía dentro del traje y la batería estaba más baja de lo que me gustaba.
 
-La batería había bajado más de lo que me gustaba.
+Detrás tenía la cápsula.
 
-Detrás de mí estaba la cápsula.
-
-Delante, una ruta que no conocía y dos sonidos que no entendía.
+Delante, una ruta que no conocía y dos notas que no entendía.
 
 Quería entrar.
 
@@ -254,16 +180,18 @@ Mucho.
 
 Eso fue precisamente lo que me hizo parar.
 
-Grabé el audio.
+Grabé el audio y marqué el punto.
 
-Marqué el punto.
+Mañana volvería con mejor sujeción y más batería.
 
 Di media vuelta.
 
-Durante el regreso, el tono volvió una última vez a mi espalda.
+A mitad del regreso, el tono agudo volvió a mi espalda.
+
+Cuatro pasos después llegó el grave.
 
 No me giré.
 
 No porque hubiera dejado de tener curiosidad.
 
-Porque empezaba a entender que en Elyndran sobrevivir también iba a consistir en saber cuándo dejar una pregunta para mañana.
+Porque por primera vez desde la caída tenía algo parecido a un plan para el día siguiente.

@@ -2,71 +2,61 @@
 
 El segundo pie tardó veinte minutos en salir de la cápsula.
 
-El primero ya estaba fuera, apoyado sobre aquella raíz negra, mientras yo seguía agarrado al marco como si soltarlo fuese a cambiar algo.
-
-La lluvia resbalaba por el visor. Debajo de la bota no había suelo. Había corteza mojada y, más allá del borde, niebla.
+El primero ya estaba fuera, apoyado sobre una raíz negra empapada, mientras yo seguía agarrado al marco. Debajo de la bota no había suelo. Había corteza mojada y, más allá del borde, niebla.
 
 —Vamos.
 
-No funcionó.
+Mi cuerpo no estuvo de acuerdo.
 
-Me revisé otra vez. El costado dolía al girarme. La rodilla derecha estaba hinchada, pero aguantaba peso si no la doblaba demasiado. Podía caminar.
+El costado dolía al girarme. La rodilla derecha estaba hinchada, pero soportaba peso si no la doblaba demasiado. Podía caminar. En aquel momento decidí que eso contaba como estar bien.
 
-Eso era suficiente.
+Dentro dejé casi todo. Agua, una ración, botiquín pequeño, batería, linterna y herramienta. Nada más.
 
-Dentro dejé casi todo. Me llevé agua, una ración, el botiquín pequeño, una batería, la linterna y la herramienta. La baliza seguía enviando su llamada a nadie.
-
-Antes de cerrar la mochila miré la captura del descenso.
+Antes de cerrar la mochila miré una vez la captura dañada del descenso.
 
 **37**
 
-Dos números rodeados de ruido violeta.
+Dos números dentro de una banda de ruido violeta.
 
-La guardé sin saber por qué.
+La guardé.
 
 Entonces saqué el segundo pie.
 
-Desde fuera la cápsula parecía peor. El metal estaba hundido en un lateral y uno de los retropropulsores era poco más que una pieza aplastada. Hasta ese momento había conseguido pensar en ella como un vehículo averiado.
+Desde fuera la cápsula parecía más pequeña. Un lateral estaba hundido y uno de los retropropulsores terminaba en metal aplastado. Hasta entonces había conseguido pensar en ella como un vehículo averiado.
 
 Ya no.
 
-Era un refugio.
+Era mi casa.
 
-Y tenía que ser capaz de encontrarlo otra vez.
+Y antes de alejarme tenía que aprender a volver.
 
-Grabé la curva de la raíz y empecé a caminar.
+Grabé la curva de la raíz y avancé.
 
-A pocos metros vi las membranas transparentes bajo el borde. Toqué una con el guante.
+A pocos metros encontré membranas transparentes adheridas bajo el borde. Toqué una con el guante.
 
 Se encogió.
 
-Probé otra con la herramienta.
-
-Lo mismo.
+Probé otra con la herramienta. La misma reacción.
 
 Entonces todas se tensaron a la vez.
 
-Me quedé mirándolas.
+Un segundo después una ráfaga me golpeó de costado.
 
-Un segundo después llegó la ráfaga.
+La siguiente vez que las vi tensarse me agaché antes de que llegara el viento.
 
-La siguiente vez me agaché antes de que el viento me alcanzara.
+Sonreí dentro del casco.
+
+Elyndran acababa de enseñarme mi primera regla.
 
 ---
 
-Perdí de vista la cápsula después de una curva.
+Perdí de vista la cápsula tras una curva.
 
-Me detuve.
+El alivio de no verla duró exactamente dos pasos.
 
-Volví hasta verla.
+Volví hasta que apareció otra vez entre la lluvia, grabé el punto y continué.
 
-—Muy bien. Empezamos de nuevo.
-
-Grabé el punto y continué.
-
-La raíz descendía poco a poco. Había filamentos azulados pegados a la corteza y pequeñas depresiones donde se acumulaba agua. En una de ellas el líquido era tan transparente que tuve sed solo de mirarlo.
-
-El visor no pudo decirme qué había dentro.
+La raíz descendía suavemente. Filamentos azulados se pegaban a la corteza y pequeñas depresiones retenían agua tan transparente que tuve sed solo de mirarla.
 
 No bebí.
 
@@ -74,15 +64,13 @@ Fue mi primera discusión seria con Elyndran.
 
 La ganó Elyndran.
 
-Más adelante el camino se estrechó junto a una grieta. El viento cruzaba de lado y el vacío aparecía entre bancos de niebla.
-
-Esperé.
+Más adelante el camino se estrechó junto a una grieta. El viento cruzaba de lado y la niebla se abría a ráfagas sobre un vacío sin fondo visible.
 
 Las membranas se tensaron.
 
 Me agaché.
 
-La ráfaga pasó por encima del casco.
+El aire pasó sobre el casco.
 
 —Gracias.
 
@@ -90,15 +78,11 @@ No sabía a qué acababa de darle las gracias.
 
 Crucé.
 
-Al otro lado bebí de mi botella y levanté la cabeza.
-
-La niebla se abrió.
+Al otro lado bebí de mi botella y levanté la cabeza justo cuando la niebla se abrió.
 
 Me olvidé de tragar.
 
-Raíces enormes cruzaban el aire a distintas alturas. Algunas desaparecían dentro de nubes inferiores. Otras sostenían masas de vegetación que parecían bosques enteros. El agua caía desde una capa a otra sin que pudiera ver dónde terminaba.
-
-Por primera vez entendí la caída.
+Raíces enormes cruzaban el aire a distintas alturas. Algunas desaparecían dentro de nubes inferiores. Otras sostenían masas de vegetación que parecían bosques enteros. El agua caía de una capa a otra y seguía cayendo hasta desaparecer.
 
 La cápsula no había aterrizado sobre una raíz especialmente grande.
 
@@ -112,39 +96,33 @@ Y un tercero.
 
 Levanté la cámara.
 
-Agua. Cristal. Metal. Cualquier cosa mojada podía hacer aquello.
+Agua. Cristal. Una superficie mojada. Podía ser cualquier cosa.
 
-Pero era la primera cosa que había visto que parecía devolverme la mirada.
-
-No me gustó pensar eso.
+Pero era la primera cosa que había visto allí que parecía devolverme la mirada.
 
 Seguí en esa dirección.
 
 ---
 
-La niebla cerró el paisaje media hora después.
-
-Los destellos desaparecieron y el mundo volvió a reducirse a unos pocos metros de corteza mojada.
+Media hora después la niebla cerró el paisaje y los destellos desaparecieron.
 
 Entonces encontré las marcas.
 
-Tres depresiones ovaladas cruzaban la raíz en diagonal. Eran demasiado grandes para mis botas y demasiado regulares para ignorarlas. Uno de los bordes tenía arañazos paralelos.
+Tres depresiones ovaladas cruzaban la raíz en diagonal. Eran demasiado grandes para mis botas y demasiado regulares para pasar de largo. Uno de los bordes mostraba arañazos paralelos.
 
 Me agaché para fotografiarlos.
 
 La palabra *huella* apareció sola.
 
-No la escribí.
+La dejé pasar.
 
-Apagué el ventilador del casco unos segundos.
+Apagué unos segundos el ventilador del casco.
 
-La lluvia llenó el silencio.
-
-Agua.
+Lluvia.
 
 Corteza crujiendo.
 
-Mi propia respiración.
+Mi respiración.
 
 Y un golpe.
 
@@ -152,35 +130,27 @@ Seco. Lejano.
 
 Me incorporé.
 
-Esperé.
-
-Nada.
-
-Seguí andando.
-
 Treinta pasos después llegaron dos más.
 
-Esta vez los sentí también en las botas.
+Esta vez los sentí en las botas.
 
-Me acerqué al borde lo justo para ver una raíz inferior, mucho más ancha que aquella. Tenía manchas pálidas sobre la superficie.
+Me acerqué al borde. Muy abajo apareció una raíz mucho más ancha, cubierta de manchas pálidas. Intenté enfocar.
 
-La niebla la borró antes de que pudiera enfocar.
+La niebla se la tragó.
 
-—Claro. Por supuesto.
+—Claro.
 
-Poco después la ruta se dividió.
+Poco después el camino se dividió.
 
-Una rama subía hacia vegetación oscura. Otra entraba recta en una nube espesa. La tercera descendía hacia una claridad azulada.
+Una rama subía hacia vegetación oscura. Otra entraba recta en una nube espesa. La tercera descendía hacia una claridad azulada que parecía venir de debajo de las raíces.
 
-Me quedé mirando las tres.
+Tres caminos.
 
-Quería seguir.
+Quería los tres.
 
-Mi rodilla quería matarme.
+Mi rodilla eligió por mí.
 
-Ganó la rodilla.
-
-Limpié un trozo de corteza y pegué una tira reflectante orientada hacia el camino de vuelta. La humedad la levantó al primer intento.
+Limpié un trozo de corteza y pegué una tira reflectante orientada hacia el regreso. La humedad la levantó al primer intento.
 
 —No me fastidies.
 
@@ -188,9 +158,9 @@ Raspé mejor la superficie y volví a pegarla.
 
 Esta vez aguantó.
 
-La marca era ridículamente pequeña.
+La marca era ridículamente pequeña frente a aquel mundo.
 
-Aun así, verla allí me tranquilizó más de lo que quería admitir.
+Aun así, verla allí me tranquilizó.
 
 Di media vuelta.
 
@@ -204,13 +174,11 @@ En la ida estaba llena de agua.
 
 Ahora estaba vacía.
 
-Me quedé quieto.
+Me detuve.
 
 El viento podía haberla vaciado. La raíz podía haberse inclinado. El agua podía haberse filtrado.
 
-Tres explicaciones razonables.
-
-Entonces vi la línea húmeda sobre el borde.
+Entonces vi una línea húmeda sobre el borde.
 
 Ancha.
 
@@ -220,25 +188,21 @@ No estaba en la fotografía anterior.
 
 Miré hacia atrás.
 
-Nada.
+La niebla ocupaba el camino.
 
 Miré hacia abajo.
 
-Niebla.
+Más niebla.
 
-Mi cuerpo decidió correr antes que yo.
+Mi cuerpo decidió correr antes que yo. Tuve que obligarme a caminar. Con aquella rodilla, una carrera de pánico podía matarme con mucha más eficacia que cualquier cosa escondida allí fuera.
 
-Tuve que obligarme a caminar.
+La cápsula apareció detrás de la última curva y el alivio me aflojó los hombros de golpe.
 
-La cápsula apareció detrás de la última curva y sentí un alivio casi vergonzoso.
+Había salido pensando que necesitaba conocer el terreno.
 
-Había salido unas horas antes pensando que necesitaba conocer el terreno.
+Volví sabiendo algo más importante: el terreno podía cambiar mientras yo no miraba.
 
-Volví sabiendo algo más sencillo: el terreno también podía cambiar mientras yo no miraba.
-
-Calenté media ración y apagué casi todas las luces.
-
-La oscuridad llegó sin atardecer. La niebla simplemente perdió color hasta convertirse en una pared negra pegada al ventanal.
+Esa noche calenté media ración y apagué casi todas las luces. La oscuridad llegó sin atardecer; la niebla simplemente perdió color hasta convertirse en una pared negra pegada al ventanal.
 
 Intenté dormir.
 
@@ -250,19 +214,17 @@ Otro.
 
 Más cerca.
 
-Me incorporé sin encender la luz.
-
 La raíz crujió lentamente de un extremo al otro.
 
 Las membranas del ventanal se tensaron.
 
-Un segundo después una ráfaga apartó la lluvia del cristal.
+Me incorporé justo cuando una ráfaga apartó la lluvia del cristal.
 
-Y vi algo pasar entre las raíces inferiores.
+Algo pasó entre las raíces inferiores.
 
 Solo una sombra.
 
-Duró menos de un segundo.
+Menos de un segundo.
 
 No vi patas. No vi alas. Ni siquiera sabía a qué distancia estaba.
 
@@ -270,7 +232,7 @@ Pero se había movido.
 
 La lluvia volvió a cubrir el cristal.
 
-Me quedé sentado, escuchando.
+Me quedé sentado en la oscuridad, escuchando.
 
 Durante mucho tiempo no ocurrió nada.
 
