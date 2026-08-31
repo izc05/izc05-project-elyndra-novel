@@ -12,8 +12,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 02 | II — Bajo la niebla | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: descenso, fauna acuática, raíz móvil y golpes profundos; canon intacto |
 | 03 | III — La ruta que respira | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: regreso bajo tensión, falsa bifurcación por niebla y primera llamada de dos tonos; canon intacto |
 | 04 | IV — Dos tonos en la niebla | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: entrada horizontal, estructura de tres brazos, seis formas y decisión de subir; canon intacto |
-| 05 | V — La ruta que sube | IN PROGRESS | — | — | Siguiente capítulo |
-| 06 | VI — La segunda visita | PENDING | — | — | — |
+| 05 | V — La ruta que sube | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: bóveda viva, fauna de seis apoyos, terraza, tormenta y conexión espacial de rutas; canon intacto |
+| 06 | VI — La segunda visita | IN PROGRESS | — | — | Siguiente capítulo |
 | 07 | VII — La parte seca | PENDING | — | — | — |
 | 08 | VIII — El agua que no era agua | PENDING | — | — | — |
 | 09 | IX — Antes de tocar la raíz | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `05-la-ruta-que-sube.md` con la skill TOP. No avanzar a VI hasta superar el gate.
+Revisar `06-la-segunda-visita.md` con la skill TOP. No avanzar a VII hasta superar el gate.
