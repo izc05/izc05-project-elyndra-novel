@@ -7,8 +7,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 | Orden | Capítulo | Estado | TOP | Visuales | Nota |
 |---:|---|---|---:|---|---|
-| 00 | Prólogo — Treinta y siete segundos | IN PROGRESS | — | A/I1/I2 pendientes de revisión | Primera pasada TOP desde el inicio |
-| 01 | I — El primer paso | PENDING | — | — | — |
+| 00 | Prólogo — Treinta y siete segundos | DONE | 9/10 | Brief A/I1/I2 creado | TOP pass completado; canon intacto |
+| 01 | I — El primer paso | IN PROGRESS | — | — | Siguiente capítulo |
 | 02 | II — Bajo la niebla | PENDING | — | — | — |
 | 03 | III — La ruta que respira | PENDING | — | — | — |
 | 04 | IV — Dos tonos en la niebla | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar y bloquear el Prólogo con la skill TOP. Después pasar al capítulo I.
+Revisar `01-el-primer-paso.md` con la skill TOP. No avanzar a II hasta superar el gate.
