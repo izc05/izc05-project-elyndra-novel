@@ -11,6 +11,7 @@ on:
       - 'book.html'
       - 'index.html'
       - 'scripts/build-publication.mjs'
+      - 'scripts/fix-print-layout.mjs'
       - '.github/workflows/publication-pipeline.yml'
       - '.github/workflows/deploy-pages.yml'
   pull_request:
@@ -20,6 +21,7 @@ on:
       - 'book.html'
       - 'index.html'
       - 'scripts/build-publication.mjs'
+      - 'scripts/fix-print-layout.mjs'
       - '.github/workflows/publication-pipeline.yml'
       - '.github/workflows/deploy-pages.yml'
   schedule:
@@ -50,6 +52,9 @@ jobs:
 
       - name: Build from canonical Markdown
         run: node scripts/build-publication.mjs
+
+      - name: Polish print layout
+        run: node scripts/fix-print-layout.mjs
 
       - name: Generate 6x9 PDF with headless Chrome
         shell: bash
