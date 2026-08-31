@@ -1,0 +1,111 @@
+name: Elyndran Publication Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - feat/elyndran-publishing-pipeline
+    paths:
+      - 'manuscript/**'
+      - 'art/**'
+      - 'book.html'
+      - 'index.html'
+      - 'scripts/build-publication.mjs'
+      - 'scripts/fix-print-layout.mjs'
+      - '.github/workflows/publication-pipeline.yml'
+      - '.github/workflows/deploy-pages.yml'
+  pull_request:
+    paths:
+      - 'manuscript/**'
+      - 'art/**'
+      - 'book.html'
+      - 'index.html'
+      - 'scripts/build-publication.mjs'
+      - 'scripts/fix-print-layout.mjs'
+      - '.github/workflows/publication-pipeline.yml'
+      - '.github/workflows/deploy-pages.yml'
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: elyndran-publication-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build web + editorial PDF
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build from canonical Markdown
+        run: node scripts/build-publication.mjs
+
+      - name: Polish print layout
+        run: node scripts/fix-print-layout.mjs
+
+      - name: Generate 6x9 PDF with headless Chrome
+        shell: bash
+        run: |
+          set -euo pipefail
+          CHROME="$(command -v google-chrome || command -v google-chrome-stable || command -v chromium || true)"
+          if [ -z "$CHROME" ]; then
+            echo "No compatible Chrome executable found on runner" >&2
+            exit 1
+          fi
+          "$CHROME" \
+            --headless=new \
+            --no-sandbox \
+            --disable-gpu \
+            --no-pdf-header-footer \
+            --print-to-pdf="$GITHUB_WORKSPACE/dist/ELYNDRAN-latest.pdf" \
+            "file://$GITHUB_WORKSPACE/dist/print.html"
+
+      - name: Validate generated outputs
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s dist/ELYNDRAN-latest.pdf
+          test -s dist/web/index.html
+          test -s dist/web/book.html
+          test -s dist/publication-report.json
+          MAGIC="$(head -c 4 dist/ELYNDRAN-latest.pdf)"
+          test "$MAGIC" = "%PDF"
+          echo "PDF bytes: $(wc -c < dist/ELYNDRAN-latest.pdf)"
+          echo "Web files: $(find dist/web -type f | wc -l)"
+
+      - name: Publish build summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f dist/status.md ]; then
+            cat dist/status.md >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo '# Elyndran publication build' >> "$GITHUB_STEP_SUMMARY"
+            echo 'Build stopped before status report was generated.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload visible preview artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: elyndran-publication-${{ github.run_number }}
+          path: |
+            dist/ELYNDRAN-latest.pdf
+            dist/web
+            dist/publication-report.json
+            dist/status.md
+          if-no-files-found: warn
+          retention-days: 14
