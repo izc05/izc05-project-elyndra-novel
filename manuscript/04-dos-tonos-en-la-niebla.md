@@ -2,262 +2,214 @@
 
 La cápsula tenía justo lo que necesitaba.
 
-Eso me puso de mal humor.
+El problema era que, para volver a entrar en la niebla, tenía que empezar a desmontarla.
 
-Las correas del asiento, la malla de carga y parte del paracaídas seguían en buen estado. Todo había sido diseñado para mantenerme vivo dentro de la cápsula.
+Corté dos correas del asiento, recuperé línea de la malla de carga y sacrifiqué una parte del paracaídas que todavía estaba intacta. Me dolió más de lo razonable. Cada pieza que quitaba convertía la cápsula un poco menos en vehículo y un poco más en refugio improvisado.
 
-Yo iba a cortarlo para poder seguir saliendo de ella.
+—Esto cuenta como mantenimiento.
 
-—Esto cuenta como mantenimiento —dije.
+Nadie protestó.
 
-Nadie discutió.
+La primera unión de mi cinturón cedió en cuanto cargué peso. La rehice. La segunda aguantó.
 
-Recuperé varios tramos de línea y dos correas. Hice un cinturón improvisado, reforcé las uniones y tiré de él con todo mi peso.
+No era equipo de escalada. Ni siquiera iba a detener una caída seria. Pero podía impedir que un resbalón pequeño se convirtiera en el último.
 
-La primera unión se deslizó.
+Para Elyndran empezaba a parecer una mejora.
 
-La segunda aguantó.
+Esa noche escuché otra vez la grabación de la ruta horizontal.
 
-No lo llamé equipo de escalada.
+Un tono agudo.
 
-No quería insultar al equipo de escalada.
+Después uno grave.
 
-Era algo que quizá evitara que un resbalón pequeño se convirtiera en uno definitivo.
+A veces separados. A veces tan próximos que parecían responderse.
 
-Suficiente.
+Intenté encontrar un ritmo durante diez minutos y solo conseguí encontrar sueño.
 
-Cuando terminé, fuera ya había poca luz.
-
-Me senté frente al ventanal con la grabación de los tonos abierta.
-
-Agudo.
-
-Grave.
-
-A veces separados. A veces casi juntos.
-
-Intenté encontrar un ritmo y acabé encontrando sueño.
-
-Cerré la pantalla.
-
-Mañana entraría en la rama horizontal.
-
-La idea me mantuvo despierto más tiempo del que me habría gustado.
+Al día siguiente fui a buscarlos.
 
 ---
-
-Los tonos seguían allí al día siguiente.
 
 Los oí antes de llegar a la bifurcación.
 
 Agudo.
 
-Después grave.
+Grave.
 
-La tira reflectante continuaba pegada a la corteza.
+La tira reflectante seguía pegada a la corteza. Pasé junto a ella y tomé la ruta horizontal.
 
-Pasé junto a ella y entré en la niebla.
+La niebla se la tragó a mis espaldas en menos de veinte pasos.
 
-A los pocos metros desapareció detrás de mí.
+—Estupendo.
 
-Eso fue rápido.
-
-La raíz era más fría que la ruta descendente y cada vez más lisa. Usé pequeñas cicatrices, grupos de membranas y protuberancias como referencias para el regreso.
+La raíz era más fría y lisa que la descendente. Avancé usando cicatrices de la corteza, grupos de membranas y pequeñas protuberancias como referencias. No podía confiar en la distancia. Allí una sombra cercana parecía enorme y una forma lejana podía aparecer delante de mí con una sola ráfaga.
 
 El tono agudo sonó a mi izquierda.
 
 El grave, delante.
 
-Un minuto después juraría que el agudo venía de atrás.
-
-—Muy útil.
+Un minuto después el agudo parecía venir de atrás.
 
 Seguí caminando.
 
-La niebla deformaba la distancia. Una forma cercana podía parecer enorme y algo lejano podía aparecer de golpe al siguiente paso.
+Las membranas se tensaron.
 
-Entonces el tono grave sonó tan cerca que vibró en el casco.
+Me agaché por costumbre.
 
-Me detuve.
-
-El agudo respondió.
-
-Una ráfaga abrió la niebla.
+La ráfaga golpeó y abrió un corredor en la niebla.
 
 Vi algo vertical.
 
-Solo un instante.
+Duró menos de dos segundos.
 
-Volvió a desaparecer.
+Después desapareció.
 
-Esperé a las membranas.
-
-Se tensaron.
-
-Cuando llegó el siguiente golpe de viento, la niebla se apartó otra vez.
+Me quedé donde estaba hasta que las membranas volvieron a tensarse. Cuando llegó el siguiente golpe de viento, la niebla se abrió otra vez.
 
 La forma seguía allí.
 
-Oscura.
+Oscura. Estrecha en la base. Más alta que yo.
 
-Estrecha en la base.
+Tres brazos curvos se abrían alrededor de un hueco central.
 
-Tres brazos curvos abiertos alrededor de un hueco central.
+No se parecía a ninguna planta que hubiera visto en Elyndran.
 
-No parecía una planta.
+Tampoco a una roca.
 
-Tampoco una roca.
+La cámara ya estaba en mi mano cuando me di cuenta.
 
-Mi mano fue a la cámara antes de que yo decidiera hacerlo.
-
-Después empecé a acercarme.
+Me acerqué.
 
 ---
 
-La corteza había crecido alrededor de la base.
+La raíz había crecido alrededor de la base.
 
-Eso fue lo primero que me inquietó.
+Eso me inquietó más que la forma.
 
-No estaba simplemente apoyada sobre la raíz.
+No estaba apoyada sobre la corteza. La corteza la envolvía, como si ambas hubieran compartido aquel lugar durante mucho tiempo.
 
-La raíz la envolvía.
+Golpeé con cuidado una zona expuesta usando la herramienta.
 
-Toqué una zona expuesta con la herramienta.
+El sonido fue seco y denso.
 
-El sonido fue seco. Denso. Más cercano al metal que a cualquier tejido que hubiera visto allí.
-
-El visor no supo decirme qué era.
+Más cercano al metal que a tejido vegetal, pero no reconocí el material.
 
 —Bienvenido al club.
 
-Había bandas finas sobre la superficie y pequeñas hendiduras alineadas. No vi tornillos ni soldaduras. Nada que se pareciera a una pieza de Aster.
+Había bandas finas recorriendo la superficie y pequeñas hendiduras alineadas. Ningún tornillo. Ninguna soldadura. Nada que pudiera confundir con una pieza arrancada de Aster.
 
 El brazo superior vibró.
 
-Sonó la nota aguda.
+La nota aguda sonó tan cerca que la sentí en el casco.
 
-Me aparté medio paso.
+Me aparté un paso.
 
 Unos segundos después vibró otro brazo.
 
-La nota grave.
+Grave.
 
-El viento casi no se movía.
+El aire apenas se movía.
 
-Miré dentro del primer brazo y encontré una película transparente tensada en una cavidad estrecha.
+Me incliné hacia una cavidad del primer brazo y vi una película transparente tensada en su interior. Tembló.
 
-Tembló.
+Después llegó el tono.
 
-Después sonó el brazo.
+Volvió a tensarse.
 
-Otra vez.
+Otro tono.
 
-Película.
+Aquello no era simplemente aire silbando por una grieta.
 
-Tono.
+No sabía qué era, y por una vez esa frase me bastó.
 
-No era el viento silbando por un agujero.
+Rodeé la estructura.
 
-Eso era todo lo que podía afirmar.
-
-Rodeé la base.
-
-Las hendiduras aparecieron de nuevo en dos grupos.
-
-Tres pequeñas y una grande.
-
-Debajo, una grande y dos pequeñas.
+Las hendiduras aparecían en dos grupos claros: tres pequeñas y una grande; más abajo, una grande y dos pequeñas.
 
 Las fotografié.
 
 Mi cabeza quiso llamarlas escritura.
 
-La dejé querer.
+No le hice caso.
 
-Yo no escribí nada.
+Entonces sonó otra vez el tono grave.
 
-Entonces el tono grave volvió a sonar.
+A mi espalda.
 
-La niebla se abrió detrás de la estructura.
+Me giré.
 
-Y vi que no estaba sola.
+La niebla se estaba abriendo.
 
-Más adelante, sobre una zona ancha de la raíz, sobresalían varias formas verticales.
+Y la estructura no estaba sola.
 
-Algunas rectas.
+Más adelante, sobre una zona ancha de la raíz, aparecieron varias formas verticales.
 
-Otras partidas.
+Una recta.
 
-Una inclinada.
+Otra partida.
+
+Una inclinada hacia el vacío.
 
 Otra con un hueco cerca de la parte superior.
 
-Conté seis antes de que la niebla las borrara.
+Conté seis antes de que la niebla volviera a cerrarse.
 
-Seis era demasiado para seguir fingiendo que aquella forma era una rareza aislada.
+El estómago se me encogió.
+
+Una podía ser una rareza.
+
+Seis ya eran un lugar.
 
 ---
 
-Di un paso hacia adelante.
+Di un paso hacia ellas.
 
 La rodilla protestó.
 
-Miré la niebla donde habían aparecido las otras formas.
+No fue un dolor fuerte. Fue peor: un recordatorio sensato.
 
-Luego el camino por el que había venido.
+Miré la niebla donde habían desaparecido las formas y calculé, sin querer calcular, cuánto tardaría en volver si el viento cambiaba, si la raíz estaba más lisa de regreso o si la pierna decidía empeorar allí dentro.
 
-No me gustó ninguna de las dos opciones.
+Enganché la línea corta a una protuberancia y avancé unos metros más.
 
-Eso facilitó la decisión.
+Solo unos metros.
 
-Volví.
+La niebla no volvió a abrirse.
 
-Grabé referencias alrededor de la estructura y esperé una última apertura de la niebla. Las formas lejanas reaparecieron solo un instante.
+El tono agudo sonó a mi derecha.
 
-Nada se movió.
+El grave contestó desde algún punto más lejano.
 
-No vi luces.
+Por primera vez sentí con claridad que seguir no era valentía.
 
-No vi a nadie.
+Era curiosidad ganando una discusión que todavía no podía permitirme perder.
 
-Solo geometría donde hasta entonces había aprendido a esperar crecimiento, agua y corteza.
+Di media vuelta.
 
-Cuando me alejé, el tono agudo sonó a mi espalda.
+Grabé referencias de la estructura mientras regresaba. Cuatro pasos después de dejarla atrás, sonó el tono agudo.
 
-Cuatro pasos después llegó el grave.
+Luego el grave.
 
-Me detuve.
+No me detuve.
 
-Esperé un tercero.
+Eso me costó bastante más que detenerme.
 
-No llegó.
+Al llegar a la bifurcación, miré las tres rutas.
 
-—No significa nada.
+Abajo había encontrado agua y animales.
 
-Seguí andando.
+Recto había encontrado aquellas formas.
 
-Repetí la frase dos veces más antes de alcanzar la bifurcación.
+Arriba seguía casi vacío en el mapa.
 
-Esa noche puse tres imágenes en la pantalla de la cápsula.
+Volví a la cápsula con las imágenes de la estructura guardadas y una pregunta clavada detrás de los ojos.
 
-La estructura.
+No sabía si aquello había crecido, había sido construido o pertenecía a una categoría para la que todavía no tenía palabra.
 
-Las hendiduras.
+Pero ya sabía una cosa.
 
-Las formas lejanas.
+La ruta horizontal no era un accidente aislado en la niebla.
 
-Me quedé mirándolas mientras se enfriaba la cena.
+Y al día siguiente no iba a volver por ella.
 
-Podían ser naturales.
-
-Podían no serlo.
-
-La raíz había crecido alrededor de una de ellas. Eso no me decía quién la había hecho, ni si alguien la había hecho.
-
-Solo me decía que llevaba allí el tiempo suficiente para formar parte del paisaje.
-
-Apagué la pantalla.
-
-Hasta ese día Elyndran había sido un lugar extraño.
-
-Ahora contenía algo que no sabía ni cómo nombrar.
+Iba a subir.
