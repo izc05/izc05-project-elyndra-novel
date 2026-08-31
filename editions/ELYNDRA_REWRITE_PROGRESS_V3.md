@@ -13,8 +13,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 03 | III — La ruta que respira | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: regreso bajo tensión, falsa bifurcación por niebla y primera llamada de dos tonos; canon intacto |
 | 04 | IV — Dos tonos en la niebla | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: entrada horizontal, estructura de tres brazos, seis formas y decisión de subir; canon intacto |
 | 05 | V — La ruta que sube | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: bóveda viva, fauna de seis apoyos, terraza, tormenta y conexión espacial de rutas; canon intacto |
-| 06 | VI — La segunda visita | IN PROGRESS | — | — | Siguiente capítulo |
-| 07 | VII — La parte seca | PENDING | — | — | — |
+| 06 | VI — La segunda visita | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: regreso sin marcas, vacío real hacia plataforma, línea oscura integrada y vibración fina; canon intacto |
+| 07 | VII — La parte seca | IN PROGRESS | — | — | Siguiente capítulo |
 | 08 | VIII — El agua que no era agua | PENDING | — | — | — |
 | 09 | IX — Antes de tocar la raíz | PENDING | — | — | — |
 | 10 | X — Una hora más | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `06-la-segunda-visita.md` con la skill TOP. No avanzar a VII hasta superar el gate.
+Revisar `07-la-parte-seca.md` con la skill TOP. No avanzar a VIII hasta superar el gate.
