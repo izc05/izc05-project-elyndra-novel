@@ -1,8 +1,8 @@
-name: Deploy Elyndran Reader to GitHub Pages
+name: Deploy Elyndran Reader + TOP Preview
 
 on:
   push:
-    branches: [main]
+    branches: [edit/adventure-pacing-top-pass]
   workflow_dispatch:
 
 permissions:
@@ -21,8 +21,23 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout stable main
         uses: actions/checkout@v4
+        with:
+          ref: main
+          path: stable
+
+      - name: Checkout TOP preview branch
+        uses: actions/checkout@v4
+        with:
+          ref: edit/adventure-pacing-top-pass
+          path: preview
+
+      - name: Build stable site and preview
+        run: |
+          mkdir -p site/preview-top
+          rsync -a --exclude='.git' stable/ site/
+          rsync -a --exclude='.git' preview/ site/preview-top/
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
@@ -30,7 +45,7 @@ jobs:
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: site
 
       - name: Deploy to GitHub Pages
         id: deployment
