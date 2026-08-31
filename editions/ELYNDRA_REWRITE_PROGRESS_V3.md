@@ -1,0 +1,39 @@
+# ELYNDRAN — REWRITE PROGRESS V3
+
+Rama de trabajo: `edit/adventure-pacing-top-pass`
+Skill: `ELYNDRA_EDITOR_SKILL.md`
+
+Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/10 y Descubrimiento = 2/2.
+
+| Orden | Capítulo | Estado | TOP | Visuales | Nota |
+|---:|---|---|---:|---|---|
+| 00 | Prólogo — Treinta y siete segundos | IN PROGRESS | — | A/I1/I2 pendientes de revisión | Primera pasada TOP desde el inicio |
+| 01 | I — El primer paso | PENDING | — | — | — |
+| 02 | II — Bajo la niebla | PENDING | — | — | — |
+| 03 | III — La ruta que respira | PENDING | — | — | — |
+| 04 | IV — Dos tonos en la niebla | PENDING | — | — | — |
+| 05 | V — La ruta que sube | PENDING | — | — | — |
+| 06 | VI — La segunda visita | PENDING | — | — | — |
+| 07 | VII — La parte seca | PENDING | — | — | — |
+| 08 | VIII — El agua que no era agua | PENDING | — | — | — |
+| 09 | IX — Antes de tocar la raíz | PENDING | — | — | — |
+| 10 | X — Una hora más | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
+| 11 | XI — La órbita vacía | PENDING | — | — | — |
+| 12 | XII — El mismo camino | PENDING | — | — | — |
+| 13 | XIII — La mitad de una ración | PENDING | — | — | — |
+| 14 | XIV — El aire que gastas | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
+| 15 | XV — Lo que entra contigo | PENDING | — | — | — |
+| 16 | XVI — La mano izquierda | PENDING | — | — | — |
+| 17 | XVII — El tono que faltaba | PENDING | — | — | — |
+| 18 | XVIII — Lo que dejas encendido | PENDING | — | — | — |
+| 19 | XIX — La franja que vuelve | PENDING | — | — | — |
+| 20 | XX — Antes de la llamada | PENDING | — | — | — |
+| 21 | XXI — Antes de apoyar el pie | PENDING | — | — | — |
+| 22 | XXII — Lo que entra | PENDING | — | — | — |
+| 23 | XXIII — Lo que dejas fuera | PENDING | — | — | — |
+| 24 | XXIV — Lo que pesa | PENDING | — | — | — |
+| 25 | XXV — La escala que faltaba | PENDING | — | — | — |
+
+## Siguiente acción
+
+Revisar y bloquear el Prólogo con la skill TOP. Después pasar al capítulo I.
