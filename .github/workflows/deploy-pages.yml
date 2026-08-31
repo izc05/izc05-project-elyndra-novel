@@ -3,6 +3,13 @@ name: Deploy Elyndran Reader to GitHub Pages
 on:
   push:
     branches: [main]
+    paths:
+      - 'manuscript/**'
+      - 'art/**'
+      - 'book.html'
+      - 'index.html'
+      - 'scripts/build-publication.mjs'
+      - '.github/workflows/deploy-pages.yml'
   workflow_dispatch:
 
 permissions:
@@ -20,17 +27,27 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
       - name: Checkout main
         uses: actions/checkout@v4
 
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build synchronized reader
+        run: node scripts/build-publication.mjs
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload site
+      - name: Upload generated web reader
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: dist/web
 
       - name: Deploy to GitHub Pages
         id: deployment
