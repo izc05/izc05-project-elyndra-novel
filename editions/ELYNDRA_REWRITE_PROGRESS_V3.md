@@ -10,8 +10,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 00 | Prólogo — Treinta y siete segundos | DONE | 9/10 | Brief A/I1/I2 creado | TOP pass completado; canon intacto |
 | 01 | I — El primer paso | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: salida, escala vertical, ruta triple y amenaza ambigua; canon intacto |
 | 02 | II — Bajo la niebla | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: descenso, fauna acuática, raíz móvil y golpes profundos; canon intacto |
-| 03 | III — La ruta que respira | IN PROGRESS | — | — | Siguiente capítulo |
-| 04 | IV — Dos tonos en la niebla | PENDING | — | — | — |
+| 03 | III — La ruta que respira | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: regreso bajo tensión, falsa bifurcación por niebla y primera llamada de dos tonos; canon intacto |
+| 04 | IV — Dos tonos en la niebla | IN PROGRESS | — | — | Siguiente capítulo |
 | 05 | V — La ruta que sube | PENDING | — | — | — |
 | 06 | VI — La segunda visita | PENDING | — | — | — |
 | 07 | VII — La parte seca | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `03-la-ruta-que-respira.md` con la skill TOP. No avanzar a IV hasta superar el gate.
+Revisar `04-dos-tonos-en-la-niebla.md` con la skill TOP. No avanzar a V hasta superar el gate.
