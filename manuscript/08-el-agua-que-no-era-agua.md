@@ -2,233 +2,153 @@
 
 La reparación seguía seca por la mañana.
 
-Lo comprobé dos veces.
+Mi botella no.
 
-Después miré mis reservas de agua.
+Le quedaba bastante para no tener miedo y demasiado poca para seguir fingiendo que el agua de Elyndran era solo una curiosidad.
 
-No estaban mal.
-
-Todavía.
-
-Esa palabra empezaba a acompañarlo todo.
-
-Saqué dos recipientes estériles y dejé el analizador preparado sobre el banco.
-
-Uno de los frascos iría conmigo.
-
-El otro era por si yo hacía algo torpe.
-
-Conociéndome, parecía una precaución razonable.
-
-Bebí antes de salir.
-
-Dos tragos.
+Bebí dos tragos antes de salir. Quise un tercero.
 
 Guardé la botella.
 
-Tuve ganas de un tercero.
+—Luego.
 
-No lo tomé.
+La palabra sonó peor que cualquier alarma.
 
-La ruta descendente ya no me obligaba a descubrir cada paso. Sabía dónde estaba la grieta, qué fibras aceptaban peso y en qué punto la rodilla iba a protestar.
+Bajé por la ruta descendente sin detenerme en los apoyos que ya conocía. La grieta, las fibras húmedas, el paso donde la rodilla protestaba: todo pasó deprisa hasta que la niebla me tragó las botas y el aire se volvió más cálido.
 
-Eso hizo la bajada más rápida.
+El primer disco apareció bajo la raíz inferior.
 
-No más segura.
+Estaba vacío.
 
-Cuando alcancé la raíz inferior fui directo al disco donde había visto a las criaturas.
+Solo quedaba una película brillante en el fondo y la línea oscura que había visto después del movimiento de la raíz.
 
-El disco seguía allí.
+Me agaché.
 
-El agua no.
+La línea seguía demasiado recta para gustarme.
 
-En el fondo quedaba una película húmeda y aquella línea oscura que había aparecido después de que la raíz se inclinara.
+—Hoy no he venido por ti.
 
-Ahora se veía mejor.
+Seguí hasta el siguiente disco lleno.
 
-Demasiado bien.
+El agua era transparente.
 
-No parecía una grieta.
+Exactamente como la mía.
 
-Tampoco sabía qué parecía.
-
-Me agaché un poco más.
-
-—Hoy no eres el problema.
-
-Busqué otro disco lleno.
+Y eso era el problema.
 
 ---
 
-Elegí uno con agua clara y sin movimiento visible cerca del centro.
+Esperé a que dejara de gotear el traje antes de abrir el frasco. Una gota de mi casco cayó sobre el borde.
 
-Abrí el primer frasco.
-
-Una gota cayó desde mi casco sobre el borde.
-
-Lo cerré inmediatamente.
+Lo cerré.
 
 —Perfecto.
 
-Primer intento arruinado.
+Primer intento perdido.
 
-Saqué el segundo.
+Saqué el segundo recipiente, lo protegí bajo la mochila y tomé una muestra desde el centro del disco.
 
-Esta vez esperé a que dejara de gotear el traje. Lo abrí dentro de la mochila y tomé una pequeña muestra desde el centro del disco.
+Entonces algo se movió debajo del borde.
 
-El agua entró transparente.
+Una de las criaturas planas salió al agua abierta. Después otra.
 
-Exactamente igual que la mía.
+Me quedé inmóvil.
 
-Eso era lo que más me molestaba.
+La primera onduló despacio. La segunda se detuvo y sus puntos pálidos comenzaron a encenderse.
 
-Cerré el frasco.
+Uno.
 
-Entonces una de las criaturas salió de debajo del borde.
+Dos.
 
-Después otra.
+Tres grupos breves recorrieron el cuerpo.
 
-Me quedé quieto.
+La otra respondió.
 
-La primera siguió moviéndose.
+No con la misma secuencia.
 
-La segunda se detuvo.
+Se me olvidó el frasco entre los dedos.
 
-Los puntos pálidos de su cuerpo se encendieron uno detrás de otro.
+Encendí la cámara sin mover la linterna.
 
-No todos a la vez.
+Las luces cesaron.
 
-En grupos.
+—Claro.
 
-La otra criatura respondió con una secuencia parecida.
-
-No idéntica.
-
-Contuve la respiración sin darme cuenta.
-
-Encendí la cámara.
-
-Esperé otra vez.
+Esperé.
 
 Nada.
 
-—Claro. Ahora no.
-
-No moví la linterna. No calenté el traje. No golpeé el agua.
-
-No quería fabricar una respuesta y luego convencerme de que significaba algo.
+No golpeé el disco. No cambié la intensidad del foco. No iba a provocar una reacción solo para tener algo que explicar.
 
 Guardé la muestra.
 
-Las criaturas siguieron allí, como si yo ya no importara.
+Las dos criaturas continuaron moviéndose bajo la superficie como si yo ya no existiera.
 
 Me sorprendió sentirme un poco ofendido.
 
-Entonces llegó el primer golpe desde abajo.
+El primer golpe llegó desde abajo.
 
-Toda la raíz vibró.
+La raíz entera vibró bajo mis botas.
 
-Las dos criaturas desaparecieron.
+Las criaturas desaparecieron.
 
 Mi humor también.
 
----
+El segundo golpe hizo temblar el agua de todos los discos a la vez.
 
-El segundo golpe fue más fuerte.
+Miré la niebla inferior.
 
-El agua de los discos tembló.
-
-Miré hacia la ruta de subida.
-
-Después hacia la niebla inferior.
+Nada surgió de ella.
 
 No llegó un tercero.
 
-A mi derecha, algo cambió.
+Pero algo había cambiado a mi espalda.
 
-La línea oscura del disco vacío se había vuelto gris.
+La línea del disco vacío ya no era negra.
 
-No de forma gradual.
+Era gris pálido.
 
-Un momento era oscura.
-
-Al siguiente, pálida.
-
-Me acerqué lo justo para enfocar la cámara.
+Me acerqué lo justo para enfocar.
 
 Tres segundos después volvió a oscurecerse.
 
-Me quedé mirándola.
+El cambio quedó grabado.
 
-—Eso sí que no.
+No parecía un reflejo. Tampoco iba a decidir desde allí si era tejido, tensión o algo situado debajo.
 
-Revisé la grabación.
+Solo sabía una cosa: el golpe había modificado algo que hasta entonces yo había tratado como una marca inmóvil.
 
-El cambio estaba allí.
+Y la ruta descendente acababa de hacerse menos conocida.
 
-No parecía un simple reflejo.
+Me incorporé.
 
-Podía ser tensión en el tejido.
-
-Algo debajo.
-
-Alguna reacción que no entendía.
-
-Tres explicaciones y ninguna me ayudaba a subir más tranquilo.
-
-Guardé la cámara.
-
-La muestra pesaba casi nada dentro de la mochila.
-
-Aun así, durante el ascenso fui consciente de ella en cada apoyo.
-
-Como si llevara algo vivo.
-
-No lo llevaba.
-
-No tenía ninguna prueba de eso.
-
-Me repetí la frase dos veces.
-
-La rodilla falló un poco en la última fibra y tuve que tirar con los brazos.
-
-Cuando alcancé la raíz superior me senté antes de seguir.
-
-Saqué mi botella.
-
-Bebí.
-
-El frasco de Elyndran permaneció cerrado a menos de treinta centímetros.
-
-Dos líquidos transparentes.
-
-Solo uno de ellos podía entrar en mi cuerpo.
-
-Por ahora.
+Era suficiente para una salida.
 
 ---
 
-Esperé hasta después de comer para analizar la muestra.
+La subida me costó más de lo que quería admitir. En la última fibra la rodilla cedió y tuve que terminar el movimiento tirando con ambos brazos.
 
-No porque fuese necesario.
+Cuando alcancé la raíz superior me senté y saqué mi botella.
 
-Porque no quería hacer la prueba con hambre.
+Bebí.
 
-El analizador empezó a devolver resultados conocidos.
+El frasco de Elyndran quedó apoyado junto a mi bota.
 
-Nada alarmante.
+Dos líquidos transparentes separados por menos de un metro.
 
-Nada que dijera *veneno*.
+Uno me mantenía vivo.
 
-Durante unos segundos sentí una esperanza ridícula.
+Del otro no sabía ni siquiera qué parte estaba realmente mirando.
 
-Entonces apareció el aviso.
+Dentro de la cápsula hice solo las pruebas que podían cambiar una decisión.
+
+Minerales: potencialmente tratables.
+
+Después llegó la señal que importaba.
 
 **FRACCIÓN ORGÁNICA NO CLASIFICADA.**
 
-Me quedé mirando la pantalla.
-
-—Ahí estás.
+La esperanza que había intentado no sentir se encogió de golpe.
 
 Filtré una parte.
 
@@ -236,46 +156,64 @@ La señal bajó.
 
 No desapareció.
 
-Calenté otra.
+Apliqué calor a otra.
 
 Cambió.
 
-Tampoco desapareció.
+Siguió allí.
 
-Podía seguir haciendo pruebas hasta gastar toda la muestra y terminar con una lista más larga de cosas que no entendía.
+Podía gastar la muestra entera persiguiendo cifras o aceptar lo que ya tenía delante.
 
 Apagué el analizador.
 
-A mi izquierda estaba mi botella.
-
-A la derecha, el frasco de Elyndran.
-
-La luz atravesaba ambos igual.
-
-Volví al vídeo de las criaturas y reproduje la secuencia luminosa.
-
-Una.
-
-Otra.
-
-Respuesta o coincidencia.
-
-Comportamiento o reflejo.
-
-No lo sabía.
-
-Cerré también el vídeo.
-
-La pregunta importante era mucho más sencilla.
-
-¿Podía beber aquella agua?
+Miré mi botella.
 
 Miré el frasco.
 
+La luz atravesaba ambos de la misma manera.
+
+Ese parecido era casi ofensivo.
+
+Transparente no significaba limpio.
+
+Ni muerto.
+
+Ni seguro.
+
+Volví un instante al vídeo de las criaturas. Dos cuerpos planos bajo el agua. Puntos pálidos encendiéndose en secuencias distintas. Después el golpe y el vacío.
+
+No necesitaba decidir qué significaban aquellas luces.
+
+Necesitaba decidir qué iba a entrar en mi cuerpo.
+
+Cogí el frasco de Elyndran.
+
+Durante un segundo imaginé abrirlo.
+
+Solo un sorbo.
+
+Solo para saber.
+
+Lo guardé en el contenedor de muestras y cerré el pestillo con más fuerza de la necesaria.
+
 —No.
 
-No todavía.
+Mi reserva terrestre seguía siendo la única agua que iba a beber.
 
-Lo guardé.
+Pero ya no podía limitarme a conservarla.
 
-Por primera vez, ese *todavía* me dio más miedo que el no.
+Fuera, las nubes volvían a espesarse sobre las raíces.
+
+Vi las primeras gotas deslizarse por el cristal quemado de la cápsula.
+
+Lluvia.
+
+Agua que todavía no había tocado Elyndran.
+
+Me quedé mirándola caer.
+
+La pregunta acababa de cambiar.
+
+No era si podía beber el agua del planeta.
+
+Era cuánto tardaba en dejar de ser solo agua.
