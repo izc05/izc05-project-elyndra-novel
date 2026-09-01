@@ -18,8 +18,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 08 | VIII — El agua que no era agua | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: expedición comprimida, secuencias luminosas, cambio de tono tras golpes, agua no segura y nueva dirección hacia lluvia directa; canon intacto |
 | 09 | IX — Antes de tocar la raíz | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: lluvia convertida en recurso, colector improvisado, exposición oral mínima y nueva reserva potencial; canon intacto |
 | 10 | X — Una hora más | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: margen de agua convertido en tiempo, acceso inferior, profundidad de plataforma, resbalón y nueva lectura de la integración raíz/material; canon intacto |
-| 11 | XI — La órbita vacía | PENDING | — | — | Siguiente capítulo |
-| 12 | XII — El mismo camino | PENDING | — | — | — |
+| 11 | XI — La órbita vacía | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: búsqueda orbital convertida en expedición, falsa esperanza visual, línea blanca no compatible, pérdida emocional y nueva dirección terrestre; canon intacto |
+| 12 | XII — El mismo camino | PENDING | — | — | Siguiente capítulo |
 | 13 | XIII — La mitad de una ración | PENDING | — | — | — |
 | 14 | XIV — El aire que gastas | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
 | 15 | XV — Lo que entra contigo | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `11-la-orbita-vacia.md` con la skill TOP. No avanzar a XII hasta superar el gate.
+Revisar `12-el-mismo-camino.md` con la skill TOP. No avanzar a XIII hasta superar el gate.
