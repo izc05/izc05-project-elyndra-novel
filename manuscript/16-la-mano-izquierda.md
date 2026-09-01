@@ -1,58 +1,42 @@
-# Capítulo XVI — La mano izquierda
+# Capítulo VIII — La mano izquierda
 
 La cinta que separaba la zona de entrada de la zona limpia se había despegado en una esquina.
 
-Debajo brillaba una película de humedad.
+La sustituí de rodillas. Al incorporarme, la derecha protestó y tuve que agarrarme al banco.
 
-La sustituí de rodillas. Al incorporarme, la derecha protestó y tuve que agarrarme al banco hasta que el dolor cedió.
-
-Raciones: menos huecos ocupados.
-
-Filtros: otra marca más cerca del final.
-
-Miré mis guantes.
+Miré los guantes del traje.
 
 Algún día uno podía rasgarse.
 
 No durante una prueba. Durante una caída.
 
-Abrí el registro ambiental solo el tiempo necesario. De todas las zonas recorridas, la primera ruta seguía siendo la de menor carga de filtro que había medido.
+Eso convirtió una idea que llevaba horas evitando en una decisión.
 
-No segura.
+De todas las zonas recorridas, la primera ruta seguía siendo la de menor carga de filtro que había medido. No segura. Solo la menos mala.
 
-La menos mala.
+Preparé agua terrestre para lavado, recirculación y material de cura. Luego me quedé mirando el guante izquierdo.
 
-Saqué del botiquín gasas, solución de limpieza, apósitos transparentes y el marcador dérmico. Los dejé sobre el banco.
+—Qué estupidez.
 
-Luego volví a guardarlos.
+No lo era.
 
-—Estupendo.
-
-Veinte minutos después los saqué otra vez.
-
-Esta vez preparé también el regreso: recirculación lista, paño limpio junto a la escotilla y agua terrestre reservada para lavado.
-
-Si un cierre fallaba allí fuera, prefería que mi primera exposición de piel a Elyndran ocurriera a seis metros de casa y no colgado sobre un vacío.
+Por eso daba miedo.
 
 ---
 
 Salí con casco cerrado, filtro limpio y ambos guantes puestos.
 
-La niebla corría baja entre las raíces, demasiado fina para ocultar la cápsula. No fui a la bifurcación. Me quedé sobre la raíz ancha, en una zona seca donde podía volver de tres zancadas rápidas si algo cambiaba.
+No fui a la bifurcación. Me quedé a pocos metros de la cápsula, sobre la raíz ancha, en una zona seca desde la que podía volver en tres zancadas.
 
-Me senté con la espalda contra una protuberancia y estiré la pierna derecha.
+Me senté con la escotilla enfrente.
 
-La escotilla quedó frente a mí.
+Aflojé el guante izquierdo.
 
-Aflojé el cierre exterior del guante izquierdo.
+Había descendido entre fibras mojadas, cruzado niebla sin fondo visible y reptado bajo una plataforma que seguía sin saber nombrar.
 
-El gesto era absurdo de tan pequeño.
+Nada de eso me había costado tanto como tirar de aquel guante unos centímetros.
 
-Había descendido entre fibras mojadas, cruzado niebla sin fondo visible y me había asomado bajo una plataforma que todavía no sabía nombrar. Sin embargo, tirar de aquel guante unos centímetros me costó más que muchos de esos pasos.
-
-Lo retiré hasta descubrir solo el dorso de la mano y parte de la muñeca.
-
-Nada más.
+Lo retiré hasta dejar al aire solo el dorso de la mano y parte de la muñeca.
 
 Casco cerrado.
 
@@ -62,130 +46,84 @@ La piel no tocaba raíz, agua ni vegetación.
 
 El aire exterior me alcanzó.
 
-Frío.
+Frío primero.
 
-Después humedad.
+Luego humedad.
 
-No ardió. No picó. No hizo nada espectacular.
-
-Y eso, durante los primeros segundos, fue casi peor.
-
-Activé el cronómetro.
-
-Diez segundos.
-
-La humedad se depositó como una capa tenue sobre los pelos de la mano.
-
-Quince.
-
-Veinte.
-
-Una gota cayó detrás de mí y golpeó la raíz.
-
-Me giré demasiado deprisa.
+Esperé ardor, picor, algo.
 
 Nada.
 
-Veinticinco.
+La humedad se acumuló sobre los pelos de la mano. Una gota golpeó la corteza detrás de mí y me giré demasiado deprisa.
 
-El impulso de volver a cubrirme llegó antes que cualquier síntoma.
+Seguía solo.
+
+Veinticinco segundos.
+
+El impulso de cubrirme apareció antes que cualquier síntoma.
 
 Treinta.
 
-Conté cuatro más y metí la mano en el guante.
+Conté cuatro más.
 
-Cerré el sello.
+Metí la mano en el guante y cerré el sello.
 
-**34 s.**
+Treinta y cuatro segundos.
 
-Solté el aire que llevaba reteniendo sin darme cuenta.
+Solté el aire que llevaba reteniendo.
 
 ---
 
 No me levanté enseguida.
 
-Moví los dedos dentro del guante.
+Moví los dedos uno por uno dentro del guante.
 
-Uno por uno.
+Todo respondía.
 
-Sensibilidad normal. Sin dolor. Sin calor extraño.
+Las membranas cercanas se tensaron unos minutos después.
 
-A los siete minutos las membranas próximas se tensaron.
+Eso sí era una señal que conocía.
 
-Ya conocía aquella advertencia.
+Me puse en pie antes de la ráfaga y crucé hasta la cápsula mientras la niebla empezaba a correr en una sola dirección.
 
-Me puse en pie antes de la ráfaga y crucé hasta la cápsula mientras la niebla empezaba a desplazarse en una sola dirección.
+La ráfaga llegó cuando cerraba la escotilla.
 
-La ráfaga llegó cuando estaba cerrando la escotilla.
-
-Dentro hice lo de siempre, pero esta vez cada gesto tenía un objetivo más concreto.
-
-Cerrar.
-
-Limpiar el traje.
-
-Recircular.
-
-Esperar.
-
-Solo entonces retiré el guante izquierdo.
+Limpié el traje, dejé trabajar la recirculación y solo entonces retiré el guante izquierdo.
 
 Puse ambas manos bajo la misma luz.
 
 Parecían iguales.
 
-Eso no me tranquilizó tanto como esperaba.
+No sentí alivio.
 
-Fotografié las dos con escala. Lavé la izquierda con agua terrestre y comprobé temperatura superficial, color, sensibilidad y movilidad. Coloqué un apósito transparente sobre cada mano para poder comparar después.
+Sentí ganas de encontrar una diferencia porque una diferencia, al menos, habría sido una respuesta.
 
-Sin diferencia medible.
+Lavé la izquierda con agua terrestre y comprobé lo imprescindible: color, temperatura, sensibilidad, movimiento.
 
-Escribí una sola línea útil:
+Nada agudo.
 
-**EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.**
-
-Y debajo:
-
-**SEGUIMIENTO NECESARIO.**
-
-No necesitaba cinco párrafos para recordar que seguía sin saber si aquel aire llevaba algo capaz de tardar horas, días o semanas en hacer daño.
+Eso era todo lo que podía afirmar.
 
 ---
 
-A la hora, nada.
-
-A las dos, tampoco.
-
-Al retirar los apósitos, ambas manos estaban algo más pálidas por la presión. Recuperaron el color casi al mismo tiempo.
+Horas después la mano seguía igual.
 
 No repetí la prueba.
 
-Por la tarde empezó una lluvia fina y tuve que salir a cambiar el recipiente del colector. Cuando agarré la escotilla, miré la mano izquierda dentro del guante.
+Por la tarde salí a cambiar el recipiente del colector. Guantes puestos. Casco cerrado. La lluvia fina convertía la raíz en una superficie oscura y brillante.
 
-La sensación había cambiado aunque la piel no.
+Al agarrar la escotilla miré la mano izquierda dentro del guante.
 
 Hasta esa mañana, una rotura del traje era una amenaza sin medida.
 
-Ahora tenía una observación real: treinta y cuatro segundos de piel expuesta, en aquellas condiciones, no habían provocado una reacción inmediata visible.
+Ahora tenía una sola observación real: treinta y cuatro segundos de piel expuesta, en aquellas condiciones, no habían provocado una reacción inmediata visible.
 
 Nada más.
 
 Pero tampoco nada menos.
 
-Cambié el recipiente sin quitarme los guantes y regresé antes de que aumentara la lluvia.
+Cambié el recipiente y regresé antes de que aumentara la lluvia.
 
-Esa noche hice una última fotografía.
-
-Sin enrojecimiento.
-
-Sin edema.
-
-Sin dolor.
-
-La baliza transmitió y Elyndran siguió sin contestar de ninguna forma que yo pudiera reconocer.
-
-Apoyé la mano izquierda sobre la manta térmica.
-
-Seguía siendo mi mano.
+Esa noche la mano seguía siendo mi mano.
 
 Mañana volvería a necesitarla fuera.
