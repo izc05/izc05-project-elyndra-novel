@@ -1,32 +1,24 @@
-# Capítulo XXI — Antes de apoyar el pie
+# Capítulo XI — Antes de apoyar el pie
 
 La rodilla no dolía hasta que intentaba confiar en ella.
 
-Dentro de la cápsula aceptaba pasos cortos. Fuera tenía que decidir pendientes, huecos y superficies que podían no estar donde mi cuerpo las recordaba.
+Y la comida no parecía poca hasta que abría el armario.
 
-Me puse el traje y dejé el receptor escuchando sin mí.
+Comí media ración y cerré la puerta antes de volver a contar.
 
-No iba a buscar una respuesta.
+No iba a resolver el hambre esa mañana.
 
-Iba a revisar un camino.
+Pero sí podía dejar de caminar como si Elyndran tuviera la obligación de conservar el mismo camino para mí.
+
+Salí hacia la bóveda.
 
 ---
 
 La primera ruta estaba húmeda y reconocible.
 
-Las membranas del borde se tensaron antes de una ráfaga y mi cuerpo se detuvo sin pensarlo.
+Eso casi me engañó.
 
-En la zona del antiguo marcador reflectante, la parte raspada seguía allí, pero una lámina fina de corteza cubría uno de sus extremos.
-
-Podía haber crecido.
-
-Hinchado con humedad.
-
-Desplazado desde otro borde.
-
-La marca ya no era una referencia perfecta.
-
-Busqué una mejor: dos raíces menores cruzadas en tijera y, detrás, una rotura triangular pálida.
+En la zona del viejo marcador, una lámina fina cubría parte de la superficie raspada. Dejé de usarla como referencia y busqué la alineación que había elegido después: dos raíces menores cruzadas en tijera y una rotura triangular pálida detrás.
 
 Tijera.
 
@@ -36,106 +28,160 @@ Ruta.
 
 Seguí.
 
----
+Las depresiones seguían allí. También los tres arañazos y la pequeña hendidura aparecida entre registros.
 
-Las tres depresiones grandes seguían donde estaban.
+No me detuve a fotografiar lo conocido.
 
-También los arañazos paralelos y la depresión pequeña aparecida entre registros.
+El problema llegó unos minutos después.
 
-Repetí una fotografía de comparación.
+Tres membranas permanecían tensas sobre el canal de raíces paralelas.
 
-No vi un cambio que pudiera defender.
+No había viento.
 
-Guardé el resultado como negativo.
-
-Eso también contaba.
-
-Podía continuar hacia cualquiera de las tres ramas.
-
-No lo hice.
-
-La rodilla funcionaba porque no la estaba obligando a demostrar nada.
-
-Di media vuelta.
-
----
-
-El problema apareció en un tramo que ya conocía demasiado bien.
-
-Dos raíces paralelas formaban un canal: la superior servía de apoyo para la mano; la inferior, más ancha, para los pies. Entre ambas quedaba más de un metro de caída hacia niveles inferiores.
-
-Había cruzado de ida sin detenerme.
-
-Ahora tres membranas estaban tensas.
-
-No llegó viento.
-
-Esperé.
+Me quedé quieto.
 
 El primer golpe profundo subió por las botas.
 
 La raíz inferior vibró.
 
-Segundo golpe.
+El segundo llegó casi pegado al primero.
 
-La raíz descendió unos centímetros.
+Y el apoyo descendió.
 
-La bota derecha buscó una altura que ya no estaba.
+Solo unos centímetros.
 
-La rodilla se dobló antes de tiempo.
+Suficientes.
 
-Cargué peso en la mano izquierda y el aseguramiento corto se tensó contra una protuberancia. No podía detener una caída completa, pero limitó el deslizamiento.
+La bota derecha buscó una altura que ya no estaba y la rodilla se dobló antes de tiempo. Cargué peso en la mano izquierda. El aseguramiento corto se tensó contra una protuberancia y frenó el deslizamiento lo justo.
 
-No caí.
+Debajo no había suelo.
 
-Me quedé pegado a la raíz superior hasta que todo volvió a quedar quieto.
+Solo capas de niebla.
 
-No llegó un tercer golpe.
+Me pegué a la raíz superior hasta que dejó de moverse.
 
----
+—Vale.
 
-Probé el apoyo con la punta de la bota izquierda.
+La palabra me salió sin aire.
 
-La raíz inferior seguía unos centímetros más baja respecto a la superior.
-
-No tenía una medida previa exacta.
-
-Tampoco sabía si recuperaría posición.
-
-Busqué otra forma de cruzar.
-
-A menos de dos metros, una raíz secundaria permitía rodear el canal por arriba. Era más estrecha y exigía dos apoyos de mano, pero mantenía la pierna derecha casi extendida.
-
-La usé.
-
-Al otro lado me senté antes de que el susto se convirtiera en prisa.
-
-Las membranas se aflojaron más tarde. El viento regresó después, sin golpes profundos.
-
-No mezclé ambos fenómenos.
+—Mensaje recibido.
 
 ---
 
-Volví usando la nueva alineación de tijera y rotura triangular.
+No probé otra vez el apoyo desplazado.
 
-En la cápsula añadí dos notas al mapa:
+A menos de dos metros, una raíz secundaria rodeaba el canal por arriba. Era más estrecha, pero me permitía mantener la pierna derecha casi extendida.
 
-**PASO HABITUAL: GEOMETRÍA VARIABLE. REVISAR ANTES DE CARGAR PESO.**
+La crucé usando dos apoyos de mano.
 
-**ALTERNATIVA SUPERIOR UTILIZABLE.**
+Al otro lado me senté unos segundos.
 
-Y junto al antiguo marcador:
+Las membranas se aflojaron después.
 
-**REFERENCIA SUPERFICIAL CAMBIANTE. USAR ALINEACIÓN TIJERA / ROTURA.**
+El viento llegó mucho más tarde.
 
-La baliza había transmitido durante mi regreso.
+Seguí hacia la bóveda.
 
-Sin respuesta.
+El filtro empezó a trabajar más fuerte antes de que aparecieran las primeras placas cobrizas.
 
-La rodilla quedó rígida, no lesionada de forma nueva.
+Encontré la zona donde la criatura había retirado la película oscura.
 
-Lo que había cambiado era otra cosa.
+Parte había vuelto a cubrir las franjas claras.
 
-La próxima vez no bastaría con recordar el camino.
+Esperé.
 
-Tendría que comprobarlo antes de apoyar el pie.
+El tiempo allí costaba filtro, así que me impuse una regla simple: si el animal no aparecía pronto, regresaba.
+
+Apareció.
+
+Salió de debajo de dos placas superpuestas y se detuvo sobre el reverso oscuro.
+
+La estructura tubular descendió.
+
+Tocó la película.
+
+La superficie se deformó.
+
+El animal avanzó unos milímetros y dejó una línea clara detrás.
+
+En el siguiente movimiento vi algo que antes se me había escapado.
+
+Un tramo del tubo era translúcido.
+
+Dentro apareció una sombra oscura.
+
+Se desplazó hacia el cuerpo.
+
+Desapareció en él.
+
+Me acerqué un poco, sin cruzar la distancia que ya había aprendido a respetar.
+
+La criatura repitió la acción.
+
+Otra porción oscura recorrió el tubo.
+
+Luego plegó la estructura y desapareció entre las placas.
+
+No la seguí.
+
+No necesitaba hacerlo.
+
+Esta vez había visto algo entrar.
+
+---
+
+Regresé usando la alternativa superior.
+
+Ni siquiera miré el apoyo antiguo.
+
+Eso fue lo que más me sorprendió.
+
+Una ruta había cambiado por la mañana y, unas horas después, mi cuerpo ya empezaba a aceptar que el camino correcto podía ser otro.
+
+Dentro de la cápsula revisé el vídeo una sola vez.
+
+La sombra avanzaba por el tubo hacia el cuerpo después del contacto con la película.
+
+Eso bastaba.
+
+No sabía si aquello era alimentación, digestión o algo para lo que ni siquiera tenía una palabra adecuada.
+
+Pero la materia local entraba en el animal.
+
+Abrí una ración completa.
+
+Al apretarla, una corriente mínima salió por una esquina.
+
+Me quedé mirando el paquete.
+
+—No me fastidies.
+
+El sellado estaba comprometido.
+
+Lo separé de las demás.
+
+La comida segura acababa de disminuir sin que hubiera comido nada.
+
+Podía gastar reactivos comparando muestras durante horas.
+
+No lo hice.
+
+Utilicé una pequeña porción del paquete dañado como control con el mismo protocolo conservador empleado para la película.
+
+El equipo reconoció enseguida el alimento humano.
+
+La película siguió llena de estructuras que no sabía clasificar y sin compatibilidad metabólica humana determinada.
+
+La decisión no cambió.
+
+No iba a comerla.
+
+Todavía.
+
+Marqué dos cambios en el mapa: el paso inferior quedaba abandonado a favor de la alternativa superior y la película pasaba de ser solo material retirado a **materia observada entrando en el cuerpo de la criatura**.
+
+Después cerré el armario de comida.
+
+Elyndran acababa de moverme el suelo y de mostrarme una forma de usar algo que yo aún no podía tocar con la boca.
+
+La próxima salida tendría que asumir las dos cosas.
