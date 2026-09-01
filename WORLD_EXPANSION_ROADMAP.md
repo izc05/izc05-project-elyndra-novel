@@ -38,6 +38,8 @@ La expansión debe preservar la identidad ya establecida:
 
 # FASE 1 — CARTOGRAFÍA DE LO CONOCIDO
 
+**Estado: COMPLETA V1 — `KNOWN_WORLD_MAP.md`**
+
 Crear un mapa lógico tridimensional del sector ya explorado.
 
 Entidades mínimas:
@@ -52,13 +54,20 @@ Entidades mínimas:
 - estructura de tres brazos;
 - plataforma;
 - terraza/mirador;
-- rutas alternativas creadas tras cambios de geometría.
+- rutas alternativas creadas tras cambios de geometría;
+- `NODO EXTERIOR 1` y expansión de XXV;
+- región abierta de cascadas;
+- ruptura provisional del límite exterior.
 
-Resultado esperado: `KNOWN_WORLD_MAP.md`.
+Resultado: `KNOWN_WORLD_MAP.md`.
+
+El mapa V1 registra además estados de acceso (recorrido / observado / límite), estabilidad de rutas y fronteras del conocimiento, para evitar convertir observaciones lejanas en conexiones no demostradas.
 
 ---
 
 # FASE 2 — CAPAS DEL PLANETA
+
+**Estado: SIGUIENTE BLOQUE**
 
 Definir una macroestructura vertical provisional.
 
@@ -239,8 +248,8 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 
 Orden de ejecución:
 
-1. `KNOWN_WORLD_MAP.md`
-2. `PLANETARY_LAYERS.md`
+1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
+2. `PLANETARY_LAYERS.md` — **SIGUIENTE**
 3. `ECOLOGY_NETWORK.md`
 4. `REGIONS.md`
 5. `MYSTERY_37S.md`
