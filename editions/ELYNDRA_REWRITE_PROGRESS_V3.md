@@ -20,15 +20,16 @@ Reducir longitud y número de capítulos desde el principio. Salir antes de la c
 | 09 | antiguos XVII + XVIII | DONE | 10/10 | A/I1/I2 fusionado | Tono agudo ausente → película asciende → tono reaparece; regreso convierte avería térmica en regla de prioridad energética; antiguo XVIII eliminado |
 | 10 | antiguos XIX + XX | DONE | 10/10 | A/I1/I2 fusionado | Cobertura oscura vuelve parcialmente + rodilla fuerza jornada interior + recepción anómala ~37 s antes + prueba con hora desplazada + segunda anomalía a −36,91 s; antiguo XX eliminado |
 | 11 | antiguos XXI + XXII | DONE | 10/10 | A/I1/I2 fusionado | Golpes profundos desplazan apoyo + alternativa superior + criatura transfiere película hacia el cuerpo + ración dañada confirma que el protocolo reconoce alimento humano; antiguo XXII eliminado |
-| 12 | antiguo XXIII — Lo que dejas fuera | PENDING | — | revisar/fusionar | Primer capítulo pendiente; evaluar con XXIV sin diluir contaminación del colector ni coste material |
-| 13+ | antiguos XXIV–XXV | PENDING | — | — | Reestructurar sin abrir XXVI |
+| 12 | antiguo XXIII — Lo que dejas fuera | DONE | 10/10 | A/I1/I2 nuevo | Fallo del colector → pérdida de superficie limpia → reparación bajo ráfaga → descarte/enjuague → reserva experimental separada → decisión de volver bajo la plataforma |
+| 13 | antiguo XXIV — Lo que pesa | PENDING | — | revisar/fusionar | Primer capítulo pendiente; conservar exploración inferior y coste de depender de una fibra que cambia bajo carga |
+| 14 | antiguo XXV — La escala que faltaba | PENDING | — | revisar | Último capítulo permitido en esta pasada; no abrir XXVI |
 
 ## Resultado acumulado
-El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal, relación física en la estructura, prueba controlada del misterio de los 37 segundos y ahora un cambio geométrico real de ruta que desemboca directamente en una observación ecológica más fuerte.
+El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal, relación física en la estructura, prueba controlada del misterio de los 37 segundos, cambio geométrico real de ruta y ahora el coste práctico de mantener recursos separados de un entorno que todavía no puede considerar seguro.
 
 Hasta aquí se han eliminado **once capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV, XVIII, XX y XXII.
 
-## TOP — unidad 11
+## TOP — unidad 12
 - Gancho: 2/2.
 - Avance: 2/2.
 - Descubrimiento: 2/2.
@@ -36,7 +37,7 @@ Hasta aquí se han eliminado **once capítulos narrativos completos** respecto a
 - Compresión: 2/2.
 - Total: **10/10**.
 
-La unidad avanza más de lo que analiza. El cambio de geometría ocurre físicamente bajo el protagonista, con coste corporal y riesgo vertical; la decisión inmediata es abandonar el apoyo desplazado y adoptar una alternativa superior. La expedición continúa sin regreso intermedio hasta la bóveda, donde se observa por primera vez material oscuro desplazándose por el tramo translúcido de la estructura tubular hacia el cuerpo de la criatura. El control con una ración dañada se comprime a la única conclusión útil: el mismo protocolo reconoce alimento humano, mientras la película sigue sin compatibilidad metabólica determinada. No se afirma digestión ni seguridad alimentaria humana.
+La unidad funciona como consecuencia directa de supervivencia y merece existir separada de XXIV: el colector pierde la condición de superficie limpia al tocar la raíz, el protagonista debe repararlo durante una ráfaga y acepta que una reparación mecánica no borra la historia de contaminación. El análisis se reduce a la única decisión útil: la pequeña fracción posterior se conserva como reserva experimental y no se bebe. El cierre empuja de nuevo hacia exploración bajo la plataforma.
 
 ## Siguiente acción
-Revisar `23-lo-que-dejas-fuera.md` como primer capítulo pendiente. Evaluar su posible fusión con `24-lo-que-pesa.md`; conservar como centro el fallo del colector y la pérdida de limpieza de su superficie si eso cambia inmediatamente el uso del agua o el coste de supervivencia.
+Revisar `24-lo-que-pesa.md` como primer capítulo pendiente. Mantener el centro en la aproximación inferior, la prueba de carga y el descubrimiento de que una fibra puede sostener peso y aun así cambiar de tensión/posición durante los golpes profundos. Evaluar fusión con XXV solo si no diluye ese riesgo físico ni retrasa la expansión de escala.
