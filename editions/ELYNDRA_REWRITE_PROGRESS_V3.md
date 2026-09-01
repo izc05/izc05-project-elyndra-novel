@@ -20,8 +20,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 10 | X — Una hora más | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: margen de agua convertido en tiempo, acceso inferior, profundidad de plataforma, resbalón y nueva lectura de la integración raíz/material; canon intacto |
 | 11 | XI — La órbita vacía | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: búsqueda orbital convertida en expedición, falsa esperanza visual, línea blanca no compatible, pérdida emocional y nueva dirección terrestre; canon intacto |
 | 12 | XII — El mismo camino | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: ruta conocida reobservada tras tormenta, arañazos nuevos, depresión ausente en el registro inicial y nueva regla de orientación dinámica; canon intacto |
-| 13 | XIII — La mitad de una ración | PENDING | — | — | Siguiente capítulo |
-| 14 | XIV — El aire que gastas | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
+| 13 | XIII — La mitad de una ración | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: hambre convertida en motivo de exploración, observación directa de la película oscura y nueva línea de investigación ecológica; canon intacto |
+| 14 | XIV — El aire que gastas | PENDING (piloto V3 previo) | — | — | Siguiente capítulo; revalidar en su turno |
 | 15 | XV — Lo que entra contigo | PENDING | — | — | — |
 | 16 | XVI — La mano izquierda | PENDING | — | — | — |
 | 17 | XVII — El tono que faltaba | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `13-la-mitad-de-una-racion.md` con la skill TOP. No avanzar a XIV hasta superar el gate.
+Revalidar `14-el-aire-que-gastas.md` con la skill TOP. No avanzar a XV hasta superar el gate.
