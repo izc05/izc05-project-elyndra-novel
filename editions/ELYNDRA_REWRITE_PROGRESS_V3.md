@@ -17,15 +17,16 @@ Reducir longitud y número de capítulos desde el principio. Salir antes de la c
 | 06 | antiguos XII + XIII | DONE | 10/10 | A/I1/I2 fusionado | Ruta conocida cambia + arañazos + depresión nueva + hambre + criatura de seis apoyos retirando película oscura; antiguo XIII eliminado |
 | 07 | antiguos XIV + XV | DONE | 10/10 | A/I1/I2 fusionado | Coste atmosférico + partículas visibles + comparación de rutas + contaminación de retorno + separación funcional de cabina; antiguo XV eliminado |
 | 08 | antiguo XVI — La mano izquierda | DONE | 10/10 | A/I1/I2 actualizado | Exposición dérmica única comprimida a decisión → 34 s → retorno → ausencia de reacción aguda → no repetir; canon estricto conservado |
-| 09 | antiguo XVII — El tono que faltaba | PENDING | — | revisar/fusionar | Primer capítulo pendiente; estructura de tres brazos y relación posible entre película y tono |
-| 10+ | antiguos XVIII–XXV | PENDING | — | — | Reestructurar después de XVII sin abrir XXVI |
+| 09 | antiguos XVII + XVIII | DONE | 10/10 | A/I1/I2 fusionado | Tono agudo ausente → película asciende → tono reaparece; regreso convierte avería térmica en regla de prioridad energética; antiguo XVIII eliminado |
+| 10 | antiguo XIX — La franja que vuelve | PENDING | — | revisar/fusionar | Primer capítulo pendiente; comprobar si su hallazgo merece unidad propia o puede absorber XX |
+| 11+ | antiguos XX–XXV | PENDING | — | — | Reestructurar después de XIX sin abrir XXVI |
 
 ## Resultado acumulado
-El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico y ahora vulnerabilidad corporal controlada. La unidad 08 conserva la única exposición dérmica deliberada sin convertir el seguimiento técnico en el centro del capítulo.
+El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal y ahora una relación física nueva en la estructura que desemboca en una restricción energética humana concreta.
 
-Hasta aquí se han eliminado **ocho capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII y XV.
+Hasta aquí se han eliminado **nueve capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV y XVIII.
 
-## TOP — unidad 08
+## TOP — unidad 09
 - Gancho: 2/2.
 - Avance: 2/2.
 - Descubrimiento: 2/2.
@@ -33,7 +34,7 @@ Hasta aquí se han eliminado **ocho capítulos narrativos completos** respecto a
 - Compresión: 2/2.
 - Total: **10/10**.
 
-La unidad avanza más de lo que analiza y su escena memorable es deliberadamente pequeña: unos centímetros de piel desnuda frente a un planeta desconocido. El protagonista sigue sonando humano, el procedimiento posterior queda reducido a lo imprescindible y el resultado cambia conocimiento útil sin declarar seguridad: 34 s de exposición en esas condiciones no produjeron reacción aguda observable. No se repite la prueba.
+La unidad avanza más de lo que analiza: vuelve a la ruta horizontal, observa una relación física reproducible entre película y tono sin convertirla en mensaje o mecanismo confirmado, y al regresar una avería pequeña obliga a integrar baliza, aire, agua y calor como cargas que compiten por una misma reserva. La escena memorable es doble pero coherente: una película que asciende hasta devolver un tono y una cena fría junto a un módulo reparado que se decide no encender. El final empuja conducta futura en vez de cerrar con un registro.
 
 ## Siguiente acción
-Revisar `17-el-tono-que-faltaba.md` como primer capítulo pendiente. Debe decidirse si merece capítulo propio o si puede fusionarse con XVIII; cualquier relación entre nivel de película y tono sigue siendo evidencia física parcial, no mensaje, instrumento ni mecanismo confirmado.
+Revisar `19-la-franja-que-vuelve.md` como primer capítulo pendiente. Evaluar si su descubrimiento debe mantenerse separado o fusionarse con `20-antes-de-la-llamada.md`; cualquier conexión con los 37 segundos debe añadir una restricción nueva y no convertir correlación en causalidad.
