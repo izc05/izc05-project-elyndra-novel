@@ -22,8 +22,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 12 | XII — El mismo camino | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: ruta conocida reobservada tras tormenta, arañazos nuevos, depresión ausente en el registro inicial y nueva regla de orientación dinámica; canon intacto |
 | 13 | XIII — La mitad de una ración | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: hambre convertida en motivo de exploración, observación directa de la película oscura y nueva línea de investigación ecológica; canon intacto |
 | 14 | XIV — El aire que gastas | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: filtro convertido en recurso de ruta, partículas visibles en la bóveda, comparación ascendente/horizontal y aire entendido como terreno; canon intacto |
-| 15 | XV — Lo que entra contigo | PENDING | — | — | Siguiente capítulo; revalidar en su turno |
-| 16 | XVI — La mano izquierda | PENDING | — | — | — |
+| 15 | XV — Lo que entra contigo | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: retorno contaminante visible, prefiltro ambiguo, cápsula reorganizada por zonas y riesgo convertido en hábito; canon intacto |
+| 16 | XVI — La mano izquierda | PENDING | — | — | Siguiente capítulo; revalidar en su turno |
 | 17 | XVII — El tono que faltaba | PENDING | — | — | — |
 | 18 | XVIII — Lo que dejas encendido | PENDING | — | — | — |
 | 19 | XIX — La franja que vuelve | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revalidar `15-lo-que-entra-contigo.md` con la skill TOP. No avanzar a XVI hasta superar el gate.
+Revalidar `16-la-mano-izquierda.md` con la skill TOP. No avanzar a XVII hasta superar el gate.
