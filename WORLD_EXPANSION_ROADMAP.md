@@ -146,31 +146,37 @@ La siguiente aparición importante debe eliminar explicaciones, no repetir otra 
 
 # FASE 9 — FAUNA Y FLORA FUNCIONAL
 
-**SIGUIENTE BLOQUE — `FAUNA.md` / `FLORA.md`**
+**COMPLETA V1 — `FAUNA.md` / `FLORA.md`**
 
-El clima V1 ya permite diseñar organismos como respuestas a condiciones medibles y cambiantes.
+La V1 convierte organismos ya observados y necesidades ecológicas en una taxonomía funcional sin fijar nombres ni interpretaciones prematuras.
 
-Objetivo: taxonomías de trabajo basadas primero en función ecológica, morfología, energía, agua, movilidad, reproducción y relación con regiones.
+Queda establecido:
 
-La primera pasada deberá distinguir:
+- separación entre animales planos de los discos, criatura terrestre de seis apoyos y fauna planeadora como grupos canónicos con nichos todavía abiertos;
+- la retirada de película por la criatura de seis apoyos no se convierte automáticamente en ingestión o dieta;
+- los planeadores se definen primero por explotación de corrientes ascendentes, no como aves o depredadores;
+- familias de diseño para microconsumidores acuáticos, consumidores de superficie, recicladores, filtradores y migradores verticales;
+- movilidad adaptada a un mundo sin suelo visible: adherencia, ondulación, planeo y reservas de suspensión/caída controlada;
+- reproducción, depredación y ciclos vitales permanecen en RESERVA hasta disponer de evidencia;
+- los rastros indirectos deben conservar explicaciones alternativas y las depresiones/arañazos canónicos no se reasignan a fauna;
+- la red de raíces se mantiene como categoría biológica abierta, sin declararla organismo único;
+- columnas, placas, filamentos, hilos y bolsas de la bóveda se tratan como módulos funcionales coexistentes hasta saber si pertenecen a uno o varios organismos;
+- película oscura conservada como interfaz ecológica abierta: biofilm, depósito, secreción/tejido o comunidad mixta;
+- familias funcionales de captación, retención, transporte, anclaje, filtración y colonización pionera;
+- bosques invertidos permanecen como RESERVA VISUAL y solo podrán ascender si resuelven hidráulica, anclaje y flujo ecológico;
+- reglas específicas para novela, briefs visuales y juego.
 
-- organismos ya canónicos que no deben recibir interpretación excesiva;
-- familias funcionales necesarias para cerrar flujos ecológicos;
-- organismos indicadores de viento, niebla, humedad y lluvia;
-- especies pioneras y colonizadoras de superficies expuestas;
-- filtradores y recicladores;
-- consumidores acuáticos;
-- fauna de superficies y posibles migradores verticales;
-- flora de captación, retención, transporte y anclaje;
-- RESERVAS visuales como planeadores o bosques invertidos sin convertirlos en hechos.
+Decisiones centrales:
 
-La historia profunda añade categorías útiles futuras: especies pioneras, comunidades de redes maduras, organismos de superficies recién expuestas, poblaciones relictas, recicladores de tejido envejecido y migradores asociados a ciclos de agua.
+> En Elyndran, una criatura no se define por lo extraña que parece, sino por el flujo que modifica.
+
+> En Elyndran, la flora no decora la arquitectura del mundo: es parte de su hidráulica, su atmósfera y su estructura.
 
 ---
 
 # FASE 10 — INTEGRACIÓN NOVELA / IMÁGENES / JUEGO
 
-**PENDIENTE**
+**SIGUIENTE BLOQUE — `WORLD_PRODUCTION_RULES.md`**
 
 Traducir la biblia de mundo a reglas de producción reutilizables.
 
@@ -191,6 +197,17 @@ Cada localización jugable o narrativa deberá poder declarar:
 - cambios posibles de ruta.
 
 La integración con `project-elyndra` no debe convertir el planeta en una cuadrícula plana.
+
+La primera pasada deberá crear:
+
+- ficha universal de localización;
+- ficha universal de organismo;
+- ficha de anomalía/estructura;
+- reglas de revelación por medio (novela, imagen, juego);
+- semáforo CANON / DISEÑO / RESERVA / MISTERIO para producción;
+- reglas para que una imagen no revele más de lo que sabe el protagonista;
+- reglas para que el juego pueda usar conocimiento de diseño sin convertirlo automáticamente en conocimiento del personaje;
+- puente formal hacia el repositorio `project-elyndra` sin duplicar el canon.
 
 ---
 
@@ -236,6 +253,16 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 38. El coste de filtro de una región depende también del estado climático, no solo del lugar.
 39. Una respuesta biológica previa a lluvia o viento no implica predicción consciente.
 40. El clima pasado se infiere por huellas repetidas, no por una sola superficie erosionada.
+41. Contacto con una sustancia no demuestra ingestión ni dieta.
+42. Una señal luminosa corporal no demuestra lenguaje.
+43. Un individuo no define una especie ni una población.
+44. “Vegetal” es una impresión morfológica hasta disponer de clasificación funcional suficiente.
+45. La reproducción no se importa de modelos terrestres por defecto.
+46. Peligroso para el protagonista no equivale a depredador.
+47. La fauna debe dejar consecuencias ecológicas incluso cuando no está visible.
+48. La flora debe modificar agua, aire, soporte o acceso para justificar su presencia narrativa.
+49. Una RESERVA VISUAL no puede aparecer como hecho en una ilustración canónica.
+50. El conocimiento del equipo creativo, del jugador y del protagonista son capas distintas.
 
 ---
 
@@ -251,11 +278,13 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 6. `STRUCTURES_AND_ANOMALIES.md`
 7. `DEEP_HISTORY.md`
 8. `CLIMATE.md`
+9. `FAUNA.md`
+10. `FLORA.md`
 
 ## Siguiente secuencia
 
-1. `FAUNA.md` / `FLORA.md` — **SIGUIENTE**
+1. `WORLD_PRODUCTION_RULES.md` — **SIGUIENTE**
 2. Integración con novela e imágenes
 3. Puente formal con `project-elyndra`
 
-Hasta estabilizar fauna y flora funcional no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
+Hasta estabilizar las reglas de producción no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
