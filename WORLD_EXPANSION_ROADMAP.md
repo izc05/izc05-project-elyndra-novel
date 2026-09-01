@@ -267,6 +267,31 @@ Decisión central:
 
 ---
 
+# FASE 13 — MANIFIESTO DE REVELACIÓN VISUAL
+
+**COMPLETA V1 INCREMENTAL — `VISUAL_REVEAL_MANIFEST_V1.md`**
+
+La primera versión establece un control temporal de revelación para ilustraciones, portadas, mapas, UI y assets visuales.
+
+Queda establecido:
+
+- una imagen canónica solo puede usar conocimiento disponible hasta el momento exacto de la escena;
+- semáforo visual CANON / DISEÑO / RESERVA / MISTERIO;
+- niveles de revelación desde `R0 — NO VISTO` hasta `R5 — FUNCIÓN RESTRINGIDA`;
+- ninguna anomalía principal actual recibe nivel de origen o propósito;
+- protecciones explícitas para Aster, 37 s, suelo planetario, atmósfera, plataforma, membranas, fauna y agua local;
+- manifiesto inicial validado contra Prólogo e hitos I, VIII, IX, XI, XV, XVI, XVIII, XX, XXI, XXIII, XXIV y XXV;
+- principio de mínimo privilegio para capítulos todavía no validados directamente;
+- formato mínimo de brief de arte con `canon_visible`, `design_allowed`, `reserve_blocked`, `mystery_protected` y `reveal_level_max`;
+- cadena de producción `canon → observed_state → reveal manifest → ui_state / brief visual`;
+- prohibición de exportar directamente `world_state` privado a imágenes publicadas.
+
+Decisión central:
+
+> Una imagen de Elyndran no ilustra lo que el equipo sabe: ilustra exactamente lo que el lector ha ganado el derecho a ver.
+
+---
+
 # REGLAS DE CALIDAD
 
 1. Nada existe solo porque sea visualmente bonito.
@@ -334,6 +359,11 @@ Decisión central:
 63. Todo edge jugable es dirigido y conserva su relación vertical desde el origen declarado.
 64. El retorno debe declararse explícitamente; si no está medido, se usa `not_established` en vez de asumir simetría.
 65. Un coste jugable numérico no se deriva automáticamente de una descripción canónica cualitativa.
+66. Una imagen de capítulo no puede usar conocimiento adquirido en capítulos posteriores.
+67. Un MISTERIO puede mostrar evidencia observada, nunca su explicación reservada.
+68. Un asset canónico debe declarar explícitamente qué RESERVAS están bloqueadas.
+69. Si un capítulo no ha sido validado directamente, rige el mínimo privilegio visual.
+70. `world_state` privado nunca se exporta directamente a una imagen publicada.
 
 ---
 
@@ -355,13 +385,15 @@ Decisión central:
 12. `WORLD_PRODUCTION_VALIDATION_V1.md`
 13. `world/ELY_KNOWN_WORLD_STATE_V1.yaml`
 14. `world/PROJECT_ELYNDRA_ADAPTER_V1.md`
+15. `VISUAL_REVEAL_MANIFEST_V1.md` — V1 incremental
 
 ## Siguiente secuencia
 
-1. Crear manifiesto de revelación por capítulo para imágenes canónicas — **SIGUIENTE**
-2. Preparar validación automática básica de estados, IDs y referencias
-3. Definir formato de exportación concreto para consumo por `project-elyndra`
-4. Integración gradual con novela e imágenes mediante IDs y límites de revelación
-5. Extender el grafo solo cuando nuevas conexiones estén suficientemente observadas o etiquetadas como DISEÑO
+1. Leer y validar directamente los capítulos II–VII, X, XII–XIV, XVII, XIX y XXII para completar el manifiesto visual — **SIGUIENTE**
+2. Vincular los briefs existentes de `art/` y detectar revelaciones prematuras
+3. Preparar validación automática básica de estados, IDs y referencias
+4. Definir formato de exportación concreto para consumo por `project-elyndra`
+5. Integración gradual con novela e imágenes mediante IDs y límites de revelación
+6. Extender el grafo solo cuando nuevas conexiones estén suficientemente observadas o etiquetadas como DISEÑO
 
 Hasta estabilizar los derivados no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
