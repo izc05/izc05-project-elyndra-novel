@@ -1,60 +1,16 @@
-# Capítulo V — La ruta que sube
+# Capítulo III — La ruta que sube
 
-Dormí mejor.
+La estructura de tres brazos seguía en mi cabeza cuando tomé la ruta ascendente.
 
-No bien.
+Podía pasarme otro día mirándola sin entender nada, o podía abrir mapa.
 
-Mejor.
+—Arriba.
 
-Al despertar, la estructura de tres brazos seguía en la pantalla. Las hendiduras. Las formas lejanas entre la niebla.
+La lluvia desapareció a los pocos pasos.
 
-Las apagué.
+Entré bajo una bóveda viva.
 
-Podía pasarme otro día mirándolas sin entender nada, o podía abrir una ruta nueva.
-
-La ascendente seguía casi vacía.
-
-—Pues arriba.
-
-Salí con lo imprescindible y crucé hasta la bifurcación sin detenerme más de lo necesario. Reconocí la depresión de agua antes de verla completa y me agaché justo cuando las membranas empezaban a tensarse.
-
-La ráfaga pasó.
-
-Seguí.
-
-No iba más rápido.
-
-Solo empezaba a distinguir entre miedo útil y miedo que me hacía perder tiempo.
-
-En la bifurcación levanté la cabeza.
-
-La ruta desaparecía bajo una masa oscura de vegetación.
-
-Entré.
-
-A los pocos pasos la lluvia dejó de golpear el casco.
-
-El silencio repentino me hizo parar.
-
-No era silencio. El agua seguía cayendo, solo que ahora chocaba contra algo encima de mí.
-
-Levanté la vista.
-
-La raíz había dejado de ser un camino abierto.
-
-Había entrado bajo una bóveda viva.
-
----
-
-Columnas verdes nacían de la corteza y se arqueaban unas sobre otras. Algunas continuaban por la cara inferior de raíces superiores, como si para ellas arriba y abajo fueran simples condiciones locales.
-
-El filtro aumentó de esfuerzo casi de inmediato.
-
-Eso sí lo entendí: aquella belleza costaba aire.
-
-Entre las columnas aparecían placas cobrizas. Más adelante, una cortina de filamentos blancos cerraba el paso.
-
-Me acerqué con la linterna.
+Columnas verdes se arqueaban sobre la raíz. Placas cobrizas se confundían con la corteza y una cortina de filamentos blancos cerraba el paso. Acerqué la linterna.
 
 Los filamentos se apartaron.
 
@@ -62,99 +18,57 @@ Apagué.
 
 Volvieron.
 
-Encendí otra vez.
-
-Se abrieron.
-
 —Por fin algo colaborador.
 
-Crucé antes de que cambiaran de opinión.
+Crucé.
 
-Uno me rozó el hombro al recuperar su posición y di un salto bastante menos digno de lo que me habría gustado.
+El filtro aumentó de esfuerzo casi enseguida. Aquella belleza costaba aire.
 
-Dentro de la bóveda, el agua hacía algo que me obligó a frenar.
-
-Corría por surcos, desaparecía bajo películas transparentes y reaparecía más arriba. Vi una gota avanzar por un hilo fino hasta una bolsa vegetal.
-
-Hacia arriba.
-
-Solté una tuerca pequeña.
+Más adentro vi agua moverse por surcos, desaparecer bajo películas transparentes y reaparecer más arriba. Solté una tuerca.
 
 Cayó.
 
-—Bien. La gravedad sigue trabajando.
+La gravedad seguía funcionando.
 
-No necesitaba resolver lo otro para saber que era nuevo.
+Lo otro no.
 
-Un chasquido leve llegó desde las placas a mi derecha.
+Un chasquido sonó entre las placas.
 
-Algo pequeño salió de debajo de una de ellas.
+Algo pequeño salió de debajo de una de ellas: cuerpo bajo, seis apoyos finos y una espalda cobriza que casi desaparecía cuando se quedaba quieto. Una estructura tubular tocó una gota atrapada en un surco y volvió a plegarse.
 
-Seis apoyos finos rodeaban un cuerpo bajo y redondeado. La parte superior copiaba tan bien el cobre que, cuando se quedó quieto, casi desapareció.
-
-Me agaché.
-
-Una estructura tubular corta salió de su parte inferior, tocó una gota atrapada en un surco y volvió a plegarse.
-
-Moví apenas la bota.
+Moví una bota.
 
 El animal se pegó a la corteza.
 
 —Tranquilo. Yo tampoco sé qué hago aquí.
 
-Levantó dos apoyos.
+Cuando volví a mirarlo, ya no estaba.
 
-Luego otros dos.
-
-Miré un instante la batería.
-
-Cuando volví a buscarlo, ya no estaba.
-
-A partir de ahí miré dos veces cada placa antes de apoyar la mano.
+Seguí subiendo.
 
 ---
 
 La bóveda terminó de golpe.
 
-El viento me golpeó de lado y el mundo volvió a abrirse.
+El viento me golpeó y Elyndran se abrió delante de mí.
 
-Me acerqué despacio al borde.
+Raíces gigantes cruzaban el aire a distintas alturas. Algunas sostenían manchas de vegetación. Otras desaparecían en nubes inferiores. A lo lejos, una tormenta gris avanzaba sobre otra región.
 
-Raíces enormes atravesaban el aire a distintas alturas. Algunas desaparecían en nubes inferiores. Otras sostenían manchas oscuras de vegetación. A lo lejos, una tormenta gris cubría una región entera.
+Entonces vi una línea recta entre la niebla.
 
-La columna de vapor del primer día seguía allí.
+Después un ángulo.
 
-Busqué los destellos.
+Luego otra línea.
 
-Uno.
+Reconocí la dirección.
 
-Después otro.
-
-Más a la derecha.
-
-Ajusté el zoom.
-
-Entre la niebla apareció una línea recta.
-
-Luego un ángulo.
-
-Después otra línea.
-
-Me quedé inmóvil.
-
-No porque supiera qué estaba viendo.
-
-Porque reconocía la zona.
-
-La misma dirección que las formas de la ruta horizontal.
+La zona de las formas de la ruta horizontal.
 
 Otra perspectiva.
 
-Tomé una fotografía.
+Me quedé quieto.
 
-Un reflejo recorrió la línea y desapareció.
-
-—Sigues ahí.
+Las dos rutas no llevaban a misterios distintos. Apuntaban hacia la misma región.
 
 Las membranas bajo la terraza llevaban demasiado tiempo tensas.
 
@@ -162,90 +76,120 @@ Miré la tormenta.
 
 Estaba más cerca.
 
-Y entonces entendí que aquella terraza no solo me había dado una vista.
+Volví hacia la bóveda.
 
-Me había unido dos partes del mapa.
+La presión cambió antes de que llegara la lluvia. Las placas cobrizas empezaron a vibrar sobre mi casco.
 
-Horizontal y ascendente apuntaban hacia la misma región.
+Algo pequeño rodó con el viento.
 
-El viento cambió.
+La criatura de seis apoyos, o una igual.
 
-Las placas de la bóveda empezaron a golpearse unas contra otras.
+Dos patas buscaban una grieta sin alcanzarla. Otra ráfaga la empujó hacia el borde.
 
-Di media vuelta.
+Clavé una rodilla y puse la mano como barrera.
 
----
+El animal chocó contra el guante, vibró un instante contra mis dedos y encontró la grieta.
 
-La tormenta me alcanzó antes de salir de la bóveda.
-
-Primero llegó la presión.
-
-Después el ruido.
-
-El aire cambió de dirección tan rápido que tuve que agacharme detrás de una elevación de corteza. Las placas cobrizas vibraban sobre mi casco como piezas mal sujetas.
-
-Algo rodó con el viento.
-
-La criatura de seis apoyos.
-
-O una igual.
-
-Dos patas buscaban una grieta y no llegaban. Otra ráfaga la empujó hacia el borde.
-
-No pensé demasiado.
-
-Clavé una rodilla, apoyé una mano abierta contra la corteza y formé una barrera.
-
-El animal chocó contra el guante.
-
-Por un instante se quedó adherido a mis dedos.
-
-Sentí una vibración finísima a través del material.
-
-Luego encontró la grieta y desapareció dentro.
+Desapareció.
 
 —De nada.
 
-La frase sonó absurda incluso para mí.
+Seguí bajando.
 
-Seguí bajando mientras el filtro trabajaba más de lo que me gustaba.
+La tormenta había arrancado la tira reflectante de la bifurcación.
 
-Cuando alcancé la bifurcación tardé unos segundos en entender qué faltaba.
+No puse otra.
 
-La tira reflectante había desaparecido.
+Reconocí la grieta, la depresión y la curva.
 
-La tormenta era una explicación bastante buena.
+La cápsula apareció donde esperaba.
 
-Aun así, se me cerró el estómago.
-
-Tres caminos.
-
-Sin la marca.
-
-No abrí el mapa.
-
-Me giré hacia la ruta correcta.
-
-La grieta apareció donde esperaba.
-
-Después la depresión de agua.
-
-Después la curva.
-
-Antes de verla, supe que la cápsula estaría detrás.
-
-Y allí estaba.
-
-Me quedé mirándola bajo la lluvia.
-
-No había encontrado una salida.
-
-No había entendido las estructuras.
-
-Ni siquiera sabía qué demonios era el animal que acababa de tocar mi mano.
-
-Pero había subido a un lugar nuevo, había conectado dos rutas que hasta entonces estaban separadas y había regresado sin una cinta que me dijera por dónde.
-
-Por primera vez, una parte diminuta de Elyndran no estaba solo en una pantalla.
+Por primera vez, una parte de Elyndran no estaba solo en una pantalla.
 
 Estaba dentro de mi cabeza.
+
+---
+
+Cuando el frente pasó, volví a salir.
+
+No hacia arriba.
+
+Ahora sabía dónde mirar.
+
+Los tonos me recibieron en la ruta horizontal.
+
+Agudo.
+
+Grave.
+
+Reconocí la estructura de tres brazos antes de verla completa y seguí sin repetir pruebas. La película transparente vibró antes del tono agudo.
+
+Más allá, la niebla se abrió sobre las formas verticales.
+
+Esta vez miré el espacio entre ellas y yo.
+
+Mi raíz terminaba mucho antes de alcanzarlas.
+
+El hueco quedó limpio durante unos segundos.
+
+No era perspectiva.
+
+No había puente.
+
+No había salto.
+
+Miré hacia abajo.
+
+Nada que pudiera llamar fondo.
+
+—Bueno. Eso simplifica la decisión.
+
+Avancé hasta el extremo roto de la raíz. La superficie expuesta mostraba varios surcos paralelos y crecimiento nuevo sobre los bordes.
+
+La raíz opuesta seguía demasiado lejos.
+
+Busqué otra ruta con el zoom.
+
+Nada arriba.
+
+Nada evidente a los lados.
+
+Entonces la niebla dejó visible una línea oscura bajo la raíz de enfrente.
+
+Salía de la cara inferior, dibujaba una curva y entraba de nuevo más adelante.
+
+La corteza la envolvía.
+
+Del mismo modo que envolvía la base de la estructura de tres brazos.
+
+Sentí frío en la nuca.
+
+Dos días antes ni siquiera habría sabido buscarla.
+
+El tono agudo sonó detrás de mí.
+
+Una vibración fina me subió por las botas.
+
+No era uno de los golpes profundos.
+
+Era más corta. Más cercana.
+
+Apoyé la mano en la raíz.
+
+Volvió una vez.
+
+Después desapareció.
+
+Estructura. Línea oscura. Vibración.
+
+No sabía si estaban relacionadas.
+
+Pero ya sabía dónde estaba la pregunta.
+
+Y no podía llegar hasta ella desde arriba.
+
+Miré el borde roto una última vez.
+
+La próxima salida no sería para volver a mirar la plataforma.
+
+Sería para encontrar una forma de verla desde abajo.

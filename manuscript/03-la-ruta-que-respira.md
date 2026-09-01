@@ -1,197 +1,153 @@
-# Capítulo III — La ruta que respira
+# Capítulo II — Dos tonos en la niebla
 
-La subida empezó con mi bota izquierda patinando en la tercera fibra.
+La subida desde los discos empezó con una caída que no llegó a serlo.
 
-La rodilla derecha golpeó la corteza y el dolor me vació los pulmones.
-
-Me quedé colgado de ambos brazos, con el visor a centímetros de la raíz.
+La bota izquierda patinó, la rodilla derecha golpeó la corteza y me quedé colgado de los brazos sobre una niebla sin fondo.
 
 —Perfecto.
 
-No sonó convincente.
+Esperé a que la pierna aceptara peso y seguí.
 
-Esperé solo hasta que la pierna volvió a aceptar peso y seguí. Más despacio. Mucho más despacio.
+A mitad de la subida miré abajo. Uno de los discos que se había desbordado estaba vacío y una línea oscura cruzaba el fondo. No recordaba haberla visto bajo el agua.
 
-A mitad de la subida encontré un ensanchamiento y me dejé caer sobre él. Desde allí los discos parecían manchas pálidas bajo la niebla. Uno, el que se había desbordado cuando la raíz se inclinó, estaba vacío.
+La fotografié desde donde estaba.
 
-Una línea oscura cruzaba ahora el fondo.
+La rodilla volvió a latir.
 
-Abrí la grabación anterior.
+Aquello podía esperar.
 
-No pude verla.
-
-Podía haber estado bajo el agua. Podía ser una grieta.
-
-La rodilla pulsó otra vez.
-
-—Mañana te investigas tú solo.
-
-Guardé la pantalla.
-
-Era la primera decisión sensata que tomaba desde que había empezado a bajar.
-
-Seguí subiendo.
+Yo no.
 
 ---
 
-Cuando alcancé la raíz superior, la niebla había rehecho el paisaje.
+Cuando recuperé la raíz superior, el paisaje tenía una bifurcación nueva.
 
-No la raíz.
+Dos ramas delante de mí.
 
-Mi manera de verla.
+En la grabación del descenso solo había una.
 
-Las referencias que unas horas antes parecían obvias habían desaparecido. Avancé unos metros y vi dos ramas delante de mí.
+Retrocedí tres pasos y la segunda rama se separó del blanco. No nacía de mi camino: pasaba por debajo. La niebla había borrado la distancia vertical y mi cabeza había unido dos niveles distintos.
 
-Me detuve.
+Me quedé mirando hasta que volvió a desaparecer.
 
-No había dos.
+Elyndran no necesitaba moverse para desorientarme. Bastaba con quitarme profundidad.
 
-Saqué la grabación de la bajada.
-
-Una sola.
-
-Levanté la vista.
-
-Dos.
-
-Sentí esa presión detrás de los ojos que aparece cuando la cabeza intenta resolver demasiado deprisa algo que no encaja.
-
-Retrocedí tres pasos.
-
-Entonces la supuesta rama izquierda se separó del fondo blanco.
-
-No nacía de mi raíz.
-
-Pasaba por debajo.
-
-La niebla había borrado la distancia vertical y yo había inventado una bifurcación.
-
-Solté el aire de golpe.
-
-—Muy bien.
-
-Por primera vez comprendí algo más inquietante que una anomalía: Elyndran no necesitaba cambiar para desorientarme.
-
-Bastaba con quitarme profundidad.
-
-Dejé de buscar formas grandes y volví a referencias pequeñas: una grieta clara, dos protuberancias juntas, cuatro membranas bajo un borde.
-
-El camino reapareció poco a poco.
-
-No porque hubiera vuelto.
-
-Porque yo había aprendido a verlo.
-
----
-
-La tira reflectante surgió de la niebla casi al final del regreso.
-
-Una esquina levantada.
-
-La misma de antes.
-
-Me alegró verla mucho más de lo que pensaba admitir.
-
-Me senté junto a la bifurcación y bebí.
-
-Tres caminos.
-
-El descendente ya tenía discos, animales y golpes procedentes de capas que ni siquiera alcanzaba a ver.
-
-El ascendente seguía oscuro y cubierto de vegetación.
-
-El horizontal desaparecía dentro de una nube espesa.
-
-Miré el pequeño rollo de cable que llevaba. Después pensé en las correas, la malla y el paracaídas de la cápsula.
-
-Cada metro de seguridad que ganara fuera significaba desmontar un poco más el único vehículo humano que quedaba conmigo.
-
-No me gustaba.
-
-Tampoco tenía alternativa.
-
-Guardé el cable.
+Dejé de buscar siluetas grandes y seguí grietas, membranas y pequeñas roturas de la corteza hasta reencontrar la bifurcación real.
 
 Entonces sonó el tono.
-
-Breve.
 
 Agudo.
 
 Limpio.
 
-Me quedé quieto.
+No venía del traje.
 
-Miré el panel del traje por reflejo.
+El segundo fue más grave.
 
-Sin alarma.
+Y venía de la ruta horizontal.
 
-El tono volvió.
+Di varios pasos dentro de la niebla antes de que la batería y la rodilla me devolvieran el sentido común. Marqué el punto y regresé.
 
-Esta vez levanté la cabeza antes de que terminara.
+En la cápsula no analicé el audio durante horas. Corté dos correas del asiento, recuperé línea de la malla de carga y sacrifiqué un trozo del paracaídas. Cada pieza retirada hacía menos probable que aquello volviera a ser una nave y más evidente que ya era mi refugio.
 
-Venía de la rama horizontal.
+La sujeción improvisada no detendría una caída seria.
 
-Di dos pasos hacia la niebla.
+Podía evitar que un resbalón pequeño se convirtiera en una.
 
-Otro tono.
-
-Y justo después, uno más grave.
-
-Dos notas.
-
-No golpes.
-
-No estática.
-
-Algo distinto.
-
-La entrada de aquella ruta parecía idéntica a la de unos minutos antes.
-
-Ya no lo era.
-
-Ahora sabía que allí dentro había algo capaz de producir un sonido que no pertenecía a ninguno de mis sistemas.
+A la mañana siguiente volví a la ruta horizontal.
 
 ---
 
-Me acerqué hasta que la niebla empezó a envolver el visor.
+Los tonos empezaron antes de que la niebla me tragara por completo.
 
-Un paso más.
+Agudo.
 
-Solo uno.
+Grave.
 
-El tono agudo sonó otra vez.
+La raíz era más lisa que la descendente. Avancé usando cicatrices y grupos de membranas como referencias. Allí una sombra podía parecer enorme hasta que el viento devolvía la profundidad.
 
-Después el grave.
+Las membranas se tensaron.
 
-Apoyé una mano en la raíz.
+Me agaché.
 
-Fría. Húmeda.
+La ráfaga abrió un corredor blanco y vi algo vertical.
 
-La rodilla latía dentro del traje y la batería estaba más baja de lo que me gustaba.
+Oscuro. Más alto que yo.
 
-Detrás tenía la cápsula.
+La niebla lo cerró.
 
-Delante, una ruta que no conocía y dos notas que no entendía.
+Esperé a la siguiente tensión.
 
-Quería entrar.
+Cuando el viento volvió, la forma seguía allí.
 
-Mucho.
+Tres brazos curvos rodeaban un hueco central.
 
-Eso fue precisamente lo que me hizo parar.
+Me acerqué.
 
-Grabé el audio y marqué el punto.
+La raíz envolvía la base. No parecía un objeto simplemente apoyado sobre ella. Golpeé una zona expuesta con la herramienta. El sonido fue seco, denso, más cercano al metal que a la corteza, aunque no reconocí el material.
 
-Mañana volvería con mejor sujeción y más batería.
+El brazo superior vibró.
+
+El tono agudo me llegó tan cerca que lo sentí en el casco.
+
+Me aparté.
+
+Otro brazo vibró después.
+
+Grave.
+
+Dentro de una cavidad vi una película transparente tensarse antes de cada nota.
+
+No era solo aire pasando por una grieta.
+
+Rodeé la forma. Había hendiduras alineadas y bandas finas sobre la superficie, pero nada que pudiera reconocer como tornillo, soldadura o pieza de Aster.
+
+Mi cabeza quiso decidir qué era.
+
+No la dejé.
+
+Entonces el tono grave sonó detrás de mí.
+
+Me giré.
+
+La niebla se abrió.
+
+La estructura no estaba sola.
+
+Más adelante aparecieron otras formas verticales sobre la raíz: una recta, otra partida, otra inclinada hacia el vacío, otra con un hueco alto.
+
+Conté seis antes de que el mundo volviera a cerrarse.
+
+Una rareza podía ser cualquier cosa.
+
+Seis eran un lugar.
+
+---
+
+Avancé unos metros más con la línea corta enganchada a una protuberancia.
+
+La rodilla protestó.
+
+El viento cambió.
+
+La niebla no volvió a abrirse.
+
+Agudo a mi derecha.
+
+Grave más lejos.
+
+Quería seguir hasta las otras formas. También sabía que no podía permitirme convertir curiosidad en una caída.
 
 Di media vuelta.
 
-A mitad del regreso, el tono agudo volvió a mi espalda.
+Al llegar a la bifurcación miré las tres rutas.
 
-Cuatro pasos después llegó el grave.
+Abajo: agua, animales y golpes que venían de más profundidad.
 
-No me giré.
+Recto: tonos y formas que no encajaban con nada que conociera.
 
-No porque hubiera dejado de tener curiosidad.
+Arriba: casi nada en el mapa.
 
-Porque por primera vez desde la caída tenía algo parecido a un plan para el día siguiente.
+Eso decidió por mí.
+
+La próxima salida sería hacia arriba.
