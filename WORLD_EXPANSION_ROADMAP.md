@@ -238,6 +238,35 @@ Decisión central:
 
 ---
 
+# FASE 12 — ADAPTER DE JUEGO Y EDGES 3D
+
+**COMPLETA V1 — `world/PROJECT_ELYNDRA_ADAPTER_V1.md` + actualización de `world/ELY_KNOWN_WORLD_STATE_V1.yaml`**
+
+La V1 establece el contrato técnico consumible por `project-elyndra` sin conceder al juego autoridad canónica.
+
+Queda establecido:
+
+- separación obligatoria entre `world_state`, `observed_state` y `ui_state`;
+- diferencia semántica entre `unknown` y `MISTERIO`;
+- entidades exportables para localizaciones, organismos y anomalías;
+- grafo dirigido tridimensional aunque la interfaz futura use nodos, cartas o hexágonos;
+- `vertical_relation` siempre relativa al sentido del edge y nunca equivalente a una cota planetaria absoluta;
+- `return_model` obligatorio, con `not_established` como valor seguro cuando el canon no mida el retorno;
+- prohibición de copiar automáticamente costes de ida a vuelta;
+- costes cualitativos antes que números inventados;
+- fog of knowledge reutilizable como progreso de información, no como XP;
+- persistencia jugable separada del canon base;
+- lista explícita de inferencias que el adapter no puede exportar;
+- versionado derivado y migraciones incapaces de canonizar supuestos técnicos;
+- cuatro edges iniciales: cápsula → bifurcación, bifurcación → descendente, horizontal y bóveda ascendente;
+- los cuatro edges conservan verticalidad, soporte, riesgo o coste ambiental observado y estado de retorno.
+
+Decisión central:
+
+> La fidelidad a Elyndran no consiste en exportar todos los datos, sino en conservar correctamente lo que todavía no sabemos.
+
+---
+
 # REGLAS DE CALIDAD
 
 1. Nada existe solo porque sea visualmente bonito.
@@ -301,6 +330,10 @@ Decisión central:
 59. `unknown` es un estado de datos válido; no se rellena por conveniencia técnica.
 60. Una validación debe intentar romper una regla con casos reales antes de declararla estable.
 61. Los campos privados de simulación no pueden filtrarse a UI, briefs visuales o narrativa factual.
+62. `unknown` y `MISTERIO` no son sinónimos: ausencia de dato y misterio con evidencia se modelan por separado.
+63. Todo edge jugable es dirigido y conserva su relación vertical desde el origen declarado.
+64. El retorno debe declararse explícitamente; si no está medido, se usa `not_established` en vez de asumir simetría.
+65. Un coste jugable numérico no se deriva automáticamente de una descripción canónica cualitativa.
 
 ---
 
@@ -321,13 +354,14 @@ Decisión central:
 11. `WORLD_PRODUCTION_RULES.md`
 12. `WORLD_PRODUCTION_VALIDATION_V1.md`
 13. `world/ELY_KNOWN_WORLD_STATE_V1.yaml`
+14. `world/PROJECT_ELYNDRA_ADAPTER_V1.md`
 
 ## Siguiente secuencia
 
-1. Definir esquema de adapter consumible por `project-elyndra` — **SIGUIENTE**
-2. Añadir edges tridimensionales y condiciones de retorno al estado estructurado
-3. Crear manifiesto de revelación por capítulo para imágenes canónicas
-4. Preparar validación automática básica de estados y referencias
-5. Integración gradual con novela e imágenes mediante IDs y límites de revelación
+1. Crear manifiesto de revelación por capítulo para imágenes canónicas — **SIGUIENTE**
+2. Preparar validación automática básica de estados, IDs y referencias
+3. Definir formato de exportación concreto para consumo por `project-elyndra`
+4. Integración gradual con novela e imágenes mediante IDs y límites de revelación
+5. Extender el grafo solo cuando nuevas conexiones estén suficientemente observadas o etiquetadas como DISEÑO
 
 Hasta estabilizar los derivados no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
