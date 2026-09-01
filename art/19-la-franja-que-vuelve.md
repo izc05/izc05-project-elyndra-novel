@@ -1,90 +1,22 @@
-# Capítulo XIX — La franja que vuelve
+# Capítulo X — Antes de la llamada — Brief visual TOP
 
-## Regla editorial
+Canon visual subordinado a `CONTINUITY.md`, `ELYNDRAN_WORLD_BIBLE_V1.md` y al manuscrito bloqueado.
 
-Las imágenes de XIX deben respetar estrictamente el orden de conocimiento de Aster. La apertura no puede mostrar todavía que la cobertura oscura ha vuelto a ocupar parte de la franja clara: esa comparación es el descubrimiento central del capítulo.
+## A — La franja vuelve a cerrarse
+Plano cinematográfico dentro de la bóveda ascendente. El protagonista, completamente sellado y con el mismo traje EVA, se agacha junto a la placa cobriza reconocible por su borde roto y nervadura diagonal. Una linterna rasante permite ver que la antigua franja clara sigue visible en el centro, pero parte de los márgenes oscuros vuelve a ocupar superficie antes despejada. La escena debe sentirse como observación ecológica en terreno real, no como laboratorio. No mostrar criatura presente ni confirmar crecimiento, regeneración o cultivo.
 
-## XIX-A — La fotografía de XIII
+## I1 — Treinta y siete segundos antes
+Interior de la cápsula usada y reparada. El protagonista permanece sentado con la rodilla derecha extendida, revisando el receptor de emergencia después de descubrir retrospectivamente tres fragmentos breves en el búfer previo a una transmisión automática. La pantalla puede mostrar una traza discreta sin texto legible generado. La imagen debe transmitir aislamiento, incomodidad y atención súbita. La anomalía ya ocurrió; no representarla como señal sobrenatural en directo, cuenta atrás, holograma o mensaje inteligible.
 
-### Momento
+## I2 — La llamada que moví
+Escena interior tensa durante la prueba controlada. El protagonista observa el receptor mientras la baliza todavía está en espera; una pequeña irregularidad en la traza aparece antes de la nueva hora desplazada. Debe sentirse que el experimento ha complicado el misterio, no que lo ha resuelto. Mostrar la cápsula funcional y deteriorada, baliza como equipo humano normal y postura contenida del protagonista. No representar predicción, viaje temporal, eco visible, Aster, otro humano ni origen alienígena confirmado.
 
-Apertura del capítulo, dentro de la cápsula.
-
-### Escena
-
-Aster come media barra fría mientras revisa en una pantalla o soporte de campo la fotografía tomada en XIII: borde roto, nervadura diagonal y dos manchas de humedad. La imagen de referencia puede sugerir la antigua franja clara, pero no debe mostrar ni insinuar su estado actual.
-
-### Composición
-
-- Interior estrecho y funcional de la misma cápsula.
-- Aster con el EVA Mark-I parcialmente descargado pero manteniendo continuidad de desgaste.
-- Media ración fría, mapa y fotografía como elementos funcionales, nunca como bodegón elegante.
-- Luz contenida, cansancio y economía de recursos.
-- Nada de interfaz futurista espectacular ni texto legible añadido por la imagen.
-
-### No revelar
-
-- No mostrar la placa actual.
-- No mostrar cobertura recuperada.
-- No confirmar crecimiento, regeneración o mecanismo biológico.
-
-## XIX-I1 — La franja ya no es igual
-
-### Momento
-
-Después de que el texto establezca que los márgenes han vuelto a oscurecerse.
-
-### Escena
-
-Regreso a la misma zona de placas cobrizas del Capítulo XIII. Aster, completamente sellado, se agacha junto a la placa reconocible por el borde roto y la nervadura diagonal. Con luz lateral compara la franja clara: el centro continúa visible, pero los márgenes muestran cobertura oscura parcial.
-
-### Composición
-
-- Encuadre cinematográfico, observacional, sin aspecto de ficha científica.
-- Protagonista pequeño o medio en cuadro; traje EVA gris mineral/grafito usado, casco cerrado, mochila y guantes.
-- Rodilla derecha descargada o extendida con naturalidad, coherente con la rigidez persistente.
-- Placa cobriza en primer término o plano medio, rígida en el centro y algo flexible en bordes.
-- Reverso mate y oscuro; la diferencia debe percibirse por textura y tono, nunca por brillo mágico.
-- Linterna rasante para revelar relieve mínimo.
-- Niebla, columnas verdes, placas superpuestas y filamentos blancos como contexto conocido.
-
-## XIX-I2 — Comparación dentro de la cápsula
-
-### Momento
-
-Después de que Aster separe los tres segmentos razonablemente comparables de los puntos ambiguos.
-
-### Escena
-
-Ya de regreso, Aster alinea fotografías por borde roto, nervadura y manchas de humedad. La composición debe transmitir método y cautela: algunos segmentos parecen mostrar cobertura recuperada; otros quedan apartados porque ángulo o humedad impiden concluir nada.
-
-### Composición
-
-- Misma cápsula y mismo desgaste que XIX-A.
-- Fotografías/referencias alineadas físicamente o en una pantalla discreta.
-- Nada de gráficos que conviertan la hipótesis en certeza.
-- El lenguaje corporal debe ser de concentración, no de triunfo.
-
-## Continuidad obligatoria
-
-- Mismo ecosistema visual que V, XIII, XIV y XVII.
-- Ninguna piel expuesta durante la visita exterior.
-- Casco y filtrado activos fuera de la cápsula.
-- Nada de recipiente de muestra, biopsia ni analizador portátil: XIX es una visita observacional.
-- La placa debe parecer el mismo objeto fotografiado en XIII, no una estructura nueva o monumental.
-- La película oscura debe ser material orgánico ambiguo, fino y físicamente adherido; no musgo terrestre reconocible, moho, lodo brillante ni energía.
-
-## Lo que NO debe revelar
-
-- No mostrar ingestión de la película por Aster.
-- No representar el material como alimento apetecible.
-- No confirmar que la película crece, se regenera biológicamente o es cultivable.
-- No mostrar criaturas alimentándose en esta escena; el texto de XIX no observa ninguna directamente.
-- No introducir estructuras, tecnología, escritura o luces alienígenas nuevas.
-- No enseñar geografía adicional que el capítulo no necesita.
-
-## Estado
-
-**XIX-A, XIX-I1 y XIX-I2: pendientes de generación/aprobación.**
-
-No se consideran terminadas hasta que los raster finales estén versionados en `art/masters/` y comprobados en `book.html`/GitHub Pages.
+## Continuidad visual obligatoria
+- Mismo protagonista, traje y desgaste acumulado.
+- Casco cerrado durante la visita exterior; sin nueva exposición dérmica.
+- La película oscura sigue siendo materia orgánica no clasificada; no musgo terrestre ni alimento apetecible.
+- La cápsula mantiene zona de entrada/zona limpia y reparaciones anteriores.
+- La rodilla derecha puede mostrarse descargada durante la jornada interior.
+- La baliza sigue sin respuesta confirmada.
+- La anomalía es un dato guardado en banda de emergencia y una segunda observación tras mover la hora; no una visualización literal de futuro.
+- Sin texto generado, runas, glifos, interfaces flotantes ni tecnología ajena al canon.
