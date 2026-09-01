@@ -117,6 +117,170 @@ Resultado: **APROBADO CON CORRECCIÓN DE ESCALA**.
 
 ---
 
+# AUDITORÍA V — La ruta que sube
+
+Fuentes: `manuscript/05-la-ruta-que-sube.md`. No existe todavía un brief dedicado `art/05-*.md` en esta rama; esta auditoría funciona como contrato previo.
+
+## CANON SEGURO
+
+- la ruta ascendente entra bajo una bóveda viva donde la lluvia deja de golpear directamente el casco;
+- columnas verdes arqueadas, placas cobrizas y filamentos blancos sensibles a la linterna;
+- el filtro aumenta de esfuerzo dentro de la bóveda;
+- agua que corre por surcos, desaparece bajo películas transparentes y asciende por un hilo fino hasta una bolsa vegetal;
+- una criatura pequeña de seis apoyos, cuerpo bajo y redondeado, camuflaje cobrizo y tubo corto inferior;
+- el tubo toca una gota atrapada en un surco y vuelve a plegarse;
+- terraza abierta con raíces a distintas alturas, nubes inferiores, vegetación y tormenta regional;
+- desde la terraza se reconoce la misma zona regular observada desde la ruta horizontal, ahora desde otra perspectiva;
+- durante la tormenta una criatura de seis apoyos es empujada por el viento y encuentra refugio tras contactar brevemente con el guante;
+- la tira reflectante de la bifurcación ha desaparecido al regreso;
+- el protagonista vuelve sin usar mapa ni marca nueva.
+
+## DISEÑO PERMITIDO
+
+- densidad local de columnas y placas siempre que se conserve paso físico plausible;
+- coloración cobriza dentro del rango observado, sin convertir placas y criatura en una misma especie confirmada;
+- escala atmosférica de la terraza mediante niebla, raíces y tormenta, sin enseñar suelo.
+
+## RESERVA BLOQUEADA
+
+- representar el ascenso del agua como antigravedad general del planeta;
+- mostrar el mecanismo interno del transporte de agua;
+- declarar que la criatura bebe, se alimenta o depende de las gotas;
+- mostrar la masa regular lejana como edificio, ciudad, templo, nave o instalación;
+- añadir fauna no observada como si fuera población canónica.
+
+## MISTERIO PROTEGIDO
+
+- mecanismo del transporte ascendente de agua;
+- relación taxonómica entre placas cobrizas y criatura;
+- función del tubo inferior;
+- identidad de la zona regular;
+- causa de la vibración fina sentida en el contacto con la criatura;
+- causa exacta de la desaparición de la cinta.
+
+Resultado: **VALIDADO COMO CONTRATO VISUAL; BRIEF ESPECÍFICO AÚN PENDIENTE**.
+
+---
+
+# AUDITORÍA VI — La segunda visita
+
+Fuentes: `manuscript/06-la-segunda-visita.md`. No existe todavía un brief dedicado `art/06-*.md` en esta rama; esta auditoría funciona como contrato previo.
+
+## CANON SEGURO
+
+- retorno a la ruta horizontal sin nueva cinta reflectante;
+- estructura de tres brazos reconocida por partes antes de verse completa;
+- misma distribución de hendiduras que en la visita anterior;
+- la película transparente vibra antes que el brazo al producirse la nota aguda;
+- una apertura de niebla muestra dos raíces a alturas distintas y una superficie ancha con estructuras regulares más allá;
+- el vacío entre la raíz del protagonista y la superficie del otro lado es real e infranqueable con los medios disponibles;
+- el extremo de la raíz se divide: una rama desciende y otra termina en borde casi plano;
+- en la rotura hay crecimiento nuevo y surcos paralelos no perfectamente regulares;
+- una línea oscura aparece integrada bajo la raíz opuesta, entrando y saliendo de la corteza;
+- una vibración fina y cercana recorre las botas después del tono agudo y se distingue de los golpes profundos.
+
+## DISEÑO PERMITIDO
+
+- encuadres que hagan legible la discontinuidad espacial sin fijar una distancia absoluta;
+- mostrar crecimiento envolviendo la línea oscura solo en la medida exacta observada;
+- niebla como oclusión parcial de la plataforma y las formas regulares.
+
+## RESERVA BLOQUEADA
+
+- puentes ocultos, cables, pasarelas o conexiones no vistas entre ambos lados;
+- mostrar la línea oscura como conducto funcional, circuito o raíz artificial;
+- igualar visualmente todos los materiales oscuros del mundo;
+- tratar los surcos de la rotura como mecanizado confirmado;
+- convertir la sospecha final del protagonista —“mismo problema”— en hecho objetivo.
+
+## MISTERIO PROTEGIDO
+
+- relación causal entre estructura de tres brazos, plataforma, línea oscura y vibración fina;
+- cronología entre crecimiento de raíz y material oscuro;
+- naturaleza de los surcos;
+- función/origen de la superficie regular.
+
+Resultado: **VALIDADO COMO CONTRATO VISUAL; CORRELACIÓN FINAL MANTENIDA COMO HIPÓTESIS DEL PROTAGONISTA**.
+
+---
+
+# AUDITORÍA VII — La parte seca
+
+Fuentes: `manuscript/07-la-parte-seca.md`. No existe todavía un brief dedicado `art/07-*.md` en esta rama; esta auditoría funciona como contrato previo.
+
+## CANON SEGURO
+
+- filtración de agua en la cápsula por una junta deformada previamente por el impacto;
+- agua interior demasiado cerca de la batería auxiliar;
+- aislamiento temporal de batería, secado y reparación desde exterior;
+- reutilización de tela del paracaídas como cubierta para desviar lluvia;
+- las membranas de la raíz vuelven a anticipar una ráfaga;
+- reparación que permanece seca al final de la escena;
+- la cápsula muestra desgaste y transformación acumulados: panel desmontado, correas faltantes, paracaídas cortado, cinta de reparación y barro seco;
+- suministros reducidos y decisión de recoger una muestra de agua local al día siguiente.
+
+## DISEÑO PERMITIDO
+
+- detalle de herramientas y cinta solo si son genéricos y coherentes con el equipo ya disponible;
+- iluminación interior funcional y húmeda;
+- composición exterior que muestre el borde y la niebla sin inventar el fondo.
+
+## RESERVA BLOQUEADA
+
+- daños nuevos no descritos;
+- batería expuesta con arquitectura técnica inventada y legible como canon;
+- cápsula convertida en base permanente, vivienda confortable o refugio invulnerable;
+- agua local representada como apta para beber;
+- reparación interpretada como solución definitiva.
+
+## MISTERIO PROTEGIDO
+
+- duración real de la reparación bajo tormentas futuras;
+- seguridad del agua local;
+- disponibilidad futura de materiales de la cápsula para otras reparaciones.
+
+Resultado: **VALIDADO COMO CONTRATO VISUAL; REFUERZA LA CÁPSULA COMO RECURSO FINITO, NO COMO ESCENARIO ESTÁTICO**.
+
+---
+
+# AUDITORÍA X — Una hora más
+
+Fuentes: `manuscript/10-una-hora-mas.md` + `art/10-una-hora-mas.md`.
+
+## CANON SEGURO
+
+- la prueba oral previa de lluvia tratada no produjo reacción aguda observable, sin demostrar seguridad;
+- bolsa de lluvia tratada de 186 g como margen operativo;
+- salida con un solo recipiente de agua terrestre;
+- ruta horizontal, estructura de tres brazos dejada atrás y descenso posterior bajo una raíz mayor;
+- banda oscura recta de casi medio metro de ancho encajada en la cara inferior de la raíz;
+- corteza crecida sobre los bordes y surcos transversales;
+- plataforma observada desde abajo con profundidad: nervaduras, huecos, fibras, crecimiento vivo y tramos que desaparecen bajo raíz;
+- la banda se divide, conectando visualmente con la trama y perdiéndose también bajo corteza nueva;
+- tonos agudo y grave sin vibración bajo las botas en ese momento;
+- resbalón por agua no evidente, herramienta usada para estabilizarse y pérdida de la bolsa de lluvia;
+- pequeñas membranas transparentes creciendo sobre la raíz que envuelve nervaduras oscuras.
+
+## CORRECCIONES EJECUTADAS
+
+1. El brief llamaba **“Aster” al protagonista**. Es incorrecto: `CONTINUITY.md` identifica Aster como la nave/plataforma orbital perdida. Se sustituye por `protagonista` en todo el brief.
+2. Las anclas `Entonces apareció la primera línea recta.` y `Capas. Nervaduras. Huecos.` ya no existen en el manuscrito vigente. Se sustituyen por anclas textuales actuales.
+3. El brief se reestructura explícitamente en CANON / DISEÑO / RESERVA / MISTERIO para impedir que material oscuro e integración orgánica se conviertan en tecnología confirmada.
+4. Se bloquea cualquier vista completa o clasificación arquitectónica de la plataforma.
+5. La integración física solo permite sugerir cronología relativa; no permite afirmar que la plataforma sea “antigua” por estética.
+
+## MISTERIO PROTEGIDO
+
+- composición y equivalencia de los materiales oscuros;
+- función y origen de plataforma/banda/nervaduras;
+- cronología definitiva entre estructura y raíz;
+- relación causal con tonos, vibración fina o golpes profundos;
+- estado de Aster y explicación de los 37 segundos.
+
+Resultado: **APROBADO CON CORRECCIÓN CANÓNICA MAYOR DEL BRIEF**.
+
+---
+
 # REGLAS DERIVADAS PARA TODO ARTE FUTURO
 
 1. La precisión del arte nunca puede exceder la precisión del manuscrito.
@@ -127,7 +291,13 @@ Resultado: **APROBADO CON CORRECCIÓN DE ESCALA**.
 6. Un grupo de estructuras no se transforma en ciudad por encuadre.
 7. La niebla puede ocultar profundidad; nunca debe usarse para justificar geometría imposible.
 8. `CANON`, `DISEÑO`, `RESERVA` y `MISTERIO` deben aparecer explícitamente en todo brief nuevo o revisado.
+9. Una sospecha expresada por el protagonista no se convierte en relación objetiva entre sistemas por repetirse en una imagen.
+10. El nombre de una nave, región o entidad no puede reasignarse visualmente a un personaje por conveniencia de producción.
+11. Un brief debe usar anclas del manuscrito vigente; anclas obsoletas se consideran fallo de continuidad.
+12. Mostrar crecimiento sobre una estructura permite representar interfaz; no autoriza a fijar cuál de los dos apareció primero.
+13. La cápsula puede degradarse y transformarse: no debe congelarse visualmente en su estado del capítulo I.
+14. Un vacío confirmado debe conservarse como problema espacial; no se rellena con una conexión útil que el texto no haya observado.
 
 ## Siguiente bloque
 
-Auditar V–VII y X contra manuscrito + briefs existentes, y continuar después con XIV, XVII, XIX y XXII. El manifiesto visual solo se ampliará cuando cada hito haya sido leído directamente en su versión vigente.
+Auditar XII–XIV, XVII, XIX y XXII contra el manuscrito vigente y sus briefs disponibles. En paralelo, los futuros briefs V–VII deberán construirse directamente desde los contratos ya fijados aquí, no desde memoria editorial ni versiones anteriores.
