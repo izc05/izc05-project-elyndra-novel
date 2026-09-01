@@ -2,57 +2,77 @@
 
 A la mañana siguiente seguía bien.
 
-La lluvia tratada no me había dado fiebre, picor ni nada que el equipo supiera reconocer. Diez mililitros no demostraban gran cosa, pero bastaban para cambiar una decisión.
+Sin fiebre. Sin picor. Sin nada que el equipo pudiera reconocer como reacción aguda a la lluvia tratada.
 
-Pesé una de las bolsas: ciento ochenta y seis gramos.
+Diez mililitros no convertían el agua de Elyndran en segura.
 
-La guardé aparte y salí con un solo recipiente de agua terrestre.
+Pero sí convertían una bolsa de ciento ochenta y seis gramos en tiempo.
 
-Por primera vez llevaba encima una pequeña cantidad de Elyndran que podía permitirme perder.
+La guardé aparte, cargué un solo recipiente de agua terrestre y cerré el armario.
 
-No tardó mucho.
+El hueco que dejaba el segundo recipiente parecía más grande de lo que era.
+
+Una hora más lejos de la cápsula.
+
+Eso era todo.
+
+Y era muchísimo.
 
 ---
 
 Tomé la horizontal en la bifurcación.
 
-La estructura de tres brazos apareció entre la niebla y la dejé atrás. Sus cavidades tenían agua nueva después de la lluvia. No necesitaba otra teoría.
+La estructura de tres brazos apareció entre la niebla y la dejé atrás. Sus cavidades retenían agua nueva después de la lluvia. No me detuve.
 
 En la siguiente división bajé.
 
-La raíz se hundía bajo otra mayor hasta formar un corredor bajo techo. La niebla me llegaba a las rodillas y la corteza, aunque parecía seca, escondía una película de agua.
+La raíz se hundía bajo otra mayor hasta formar un corredor bajo techo. La niebla me llegaba a las rodillas y la corteza, aunque parecía seca, escondía una película de agua que devolvía destellos bajo la linterna.
 
-Avancé más despacio.
+Avancé con una mano cerca de las fibras superiores.
 
-Entonces vi algo que no pertenecía al dibujo irregular de las raíces.
+Entonces apareció la primera línea recta.
 
-Una línea recta.
+Me detuve.
 
-Era una banda oscura de casi medio metro de ancho encajada en la cara inferior de la raíz. La corteza había crecido sobre sus bordes. Una serie de surcos la cruzaba de lado a lado.
+Era una banda oscura, de casi medio metro de ancho, encajada en la cara inferior de la raíz. Una serie de surcos la cruzaba de lado a lado. La corteza había crecido sobre los bordes como si intentara tragársela.
+
+No la toqué.
 
 La seguí.
 
-La niebla se abrió.
+La niebla se abrió unos metros por delante.
+
+Y levanté la cabeza.
 
 La plataforma estaba encima de mí.
 
 ---
 
-Desde arriba parecía una superficie.
+Desde arriba me había parecido una superficie.
 
 Desde abajo tenía profundidad.
 
-Nervaduras oscuras se cruzaban bajo capas de corteza y fibras. Algunas desaparecían dentro de la raíz y volvían a salir varios metros después. Otras terminaban de golpe. Había huecos donde esperaba material y crecimiento vivo donde esperaba una unión.
+Capas.
 
-Me acerqué hasta que tuve que echar la cabeza hacia atrás para abarcarla.
+Nervaduras.
 
-La banda recta que había seguido se dividía: un tramo subía hacia aquella trama; otro se perdía bajo corteza nueva.
+Huecos.
 
-Tomé fotografías.
+La trama oscura atravesaba la corteza y las fibras sin un límite limpio. Algunas nervaduras desaparecían dentro de la raíz y volvían a salir metros después. Otras terminaban de golpe. En ciertos puntos faltaba material donde esperaba continuidad; en otros, crecimiento vivo ocupaba espacios que parecían demasiado regulares.
+
+Me acerqué hasta tener que echar la cabeza hacia atrás para abarcar solo una parte.
+
+La banda que había seguido se dividía bajo mis botas. Un tramo ascendía hacia aquella trama. El otro se perdía bajo corteza nueva.
+
+Sentí el impulso absurdo de reír.
+
+Llevaba días mirando aquello desde el lado equivocado.
+
+Saqué la cámara.
 
 A lo lejos sonó el tono agudo.
 
-Esperé una vibración bajo las botas.
+Me quedé inmóvil, esperando una vibración bajo las botas.
 
 No llegó.
 
@@ -62,68 +82,78 @@ Tampoco.
 
 Bien.
 
-Al menos dos misterios podían seguir siendo dos misterios.
+Por una vez, dos misterios podían seguir siendo dos misterios.
 
 Di un paso lateral para buscar otro ángulo.
 
-Y resbalé.
+Y el mundo se me fue de debajo.
 
 ---
 
 La bota izquierda encontró agua donde mis ojos habían visto corteza.
 
-El pie se fue hacia delante. La mochila me tiró hacia atrás y la rodilla derecha se dobló de golpe.
+El pie salió disparado hacia delante. La mochila tiró de mí hacia atrás y la rodilla derecha se plegó con un latigazo de dolor.
 
 Clavé la herramienta entre dos fibras.
 
 Aguantó.
 
-Me quedé pegado a la raíz, respirando demasiado deprisa, hasta que pude volver a cargar peso.
+Durante unos segundos no hice otra cosa que respirar pegado a la raíz, con la niebla moviéndose debajo y la mano cerrada alrededor del mango.
 
-La rodilla seguía funcionando.
+Probé la rodilla.
 
-Entonces noté que algo golpeaba mi costado.
+Dolía, pero cargaba peso.
+
+Entonces algo golpeó mi costado.
 
 La bolsa de lluvia colgaba vacía del bolsillo.
 
-Una esquina se había abierto al engancharse durante el resbalón. Debajo, la película oscura brillaba donde había caído el agua.
+Una esquina se había abierto al engancharse durante el resbalón. Debajo de mí, la película oscura brillaba donde había caído el agua.
 
 Ciento ochenta y seis gramos.
 
 Mi hora extra.
 
-Se habían ido en segundos.
+Se había ido en segundos.
 
 Guardé la bolsa rota.
 
-Y di media vuelta.
+La rodilla volvió a protestar cuando me incorporé.
+
+Ya no tenía margen para hacerme el valiente.
+
+Di media vuelta.
 
 ---
 
-Antes de subir tomé una última fotografía de la plataforma.
+Antes de subir miré una vez más hacia la cara inferior de la plataforma.
 
 Tres nervaduras oscuras entraban bajo la corteza. Sobre el crecimiento que las envolvía habían aparecido pequeñas membranas transparentes iguales a las de otras raíces.
 
-Eso era lo importante.
+Y entonces vi lo que antes se me había escapado.
 
-No parecían crecer sobre el material oscuro.
+No crecían sobre el material oscuro.
 
 Crecían sobre la raíz que lo había ocupado.
 
-La niebla volvió a cerrar el hueco y la plataforma desapareció.
+La diferencia era pequeña.
+
+La pregunta no.
+
+La niebla cerró el hueco poco a poco hasta borrar la plataforma por completo.
 
 Regresé por el mismo camino.
 
-En la bifurcación bebí agua terrestre y miré el bolsillo vacío.
+En la bifurcación bebí agua terrestre y palpé el bolsillo vacío por pura costumbre.
 
 Había salido para comprarme una hora.
 
-Volvía antes de tiempo, con una rodilla dolorida y una fotografía que convertía la plataforma en algo mucho más difícil de ignorar.
+Volvía antes de tiempo, con una rodilla dolorida, una bolsa rota y una imagen nueva del lugar que llevaba días persiguiendo.
 
-Dentro de la cápsula dejé la imagen abierta en la pantalla.
+La hora se había perdido.
 
-Puse la bolsa rota a su lado.
+La ruta no.
 
-La bolsa podía repararla.
+Ahora sabía por dónde volver.
 
-La otra cosa tendría que esperar.
+Y, sobre todo, sabía desde dónde mirar.
