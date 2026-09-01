@@ -148,7 +148,7 @@ Resultado: `REGIONS.md`.
 
 # FASE 6 — ESTRUCTURAS Y PASADO
 
-**Estado: PENDIENTE — `STRUCTURES_AND_ANOMALIES.md`**
+**Estado: SIGUIENTE BLOQUE — `STRUCTURES_AND_ANOMALIES.md`**
 
 Separar siempre observación de interpretación.
 
@@ -189,29 +189,31 @@ Resultado esperado: `DEEP_HISTORY.md`.
 
 # FASE 8 — EL MISTERIO DE LOS 37 SEGUNDOS
 
-**Estado: SIGUIENTE BLOQUE DEL PRIMER PAQUETE — `MYSTERY_37S.md`**
+**Estado: COMPLETA V1 — `MYSTERY_37S.md`**
 
-Mantener varias explicaciones compatibles mientras el manuscrito no cierre el fenómeno.
+Se ha construido un marco de misterio sin elegir respuesta definitiva.
 
-Para cada aparición futura:
+La V1 fija:
 
-- añadir una restricción;
-- eliminar una explicación sencilla;
-- evitar repetición idéntica;
-- conectar gradualmente el fenómeno con otras partes del mundo solo cuando exista evidencia.
+- cronología canónica de las manifestaciones;
+- restricciones que cualquier solución deberá respetar;
+- familias de hipótesis compatibles;
+- hipótesis debilitadas;
+- matriz de pruebas futuras;
+- escalera narrativa de revelación;
+- límites que impiden convertir el fenómeno en oráculo, magia o inteligencia asumida;
+- reservas narrativas de alto valor.
 
-El documento deberá distinguir:
+Principios fijados:
 
-- HECHOS;
-- HIPÓTESIS compatibles;
-- hipótesis debilitadas o descartadas;
-- pruebas futuras posibles;
-- límites que ninguna explicación puede violar;
-- RESERVA narrativa.
+- una anomalía no equivale a una única causa;
+- la programación interna conocida impide tratar la prueba desplazada como demostración de predicción;
+- un origen temporal sigue compatible pero no justificado;
+- Aster sigue posible pero débil;
+- Elyndran no participa en el fenómeno hasta que exista una correlación espacial o ambiental reproducible;
+- la siguiente aparición importante debe romper una vía de explicación, no repetir otro `−37`.
 
-No se elegirá una respuesta definitiva en esta fase.
-
-Resultado esperado: `MYSTERY_37S.md`.
+Resultado: `MYSTERY_37S.md`.
 
 ---
 
@@ -259,17 +261,33 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 16. Una región debe existir por procesos persistentes, no por estética.
 17. Las regiones pueden atravesar capas y sus fronteras pueden moverse.
 18. Una observación regular nunca autoriza por sí sola una interpretación tecnológica.
+19. Una anomalía temporal no demuestra causalidad temporal.
+20. Una correlación con Elyndran no demuestra intención de Elyndran.
+21. Ningún misterio puede convertirse en herramienta fiable sin límites medidos.
+22. Las pruebas futuras deben eliminar explicaciones, no solo acumular rarezas.
 
 ---
 
 # PRIMER BLOQUE DE TRABAJO
 
-Orden de ejecución:
+**Estado: COMPLETO V1**
+
+Orden ejecutado:
 
 1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
 2. `PLANETARY_LAYERS.md` — **COMPLETO V1**
 3. `ECOLOGY_NETWORK.md` — **COMPLETO V1**
 4. `REGIONS.md` — **COMPLETO V1**
-5. `MYSTERY_37S.md` — **SIGUIENTE**
+5. `MYSTERY_37S.md` — **COMPLETO V1**
 
-Hasta terminar este bloque, no se fijarán nombres definitivos para nuevas especies o regiones salvo necesidad narrativa real.
+El primer paquete ya proporciona mapa, macroestructura vertical, red ecológica, regiones y marco de misterio suficientes para ampliar el mundo sin improvisación local.
+
+# SIGUIENTE BLOQUE DE TRABAJO
+
+1. `STRUCTURES_AND_ANOMALIES.md` — **SIGUIENTE**
+2. `DEEP_HISTORY.md` — después de separar observación y cronología relativa de estructuras.
+3. `CLIMATE.md` — cerrar ciclos globales solo después de comprobar compatibilidad con regiones y estructura vertical.
+4. `FAUNA.md` / `FLORA.md` — taxonomía funcional después de estabilizar clima y nichos.
+5. Integración con novela, imágenes y `project-elyndra`.
+
+Hasta estabilizar estructuras, historia profunda y clima, no se fijarán nombres definitivos para nuevas especies o regiones salvo necesidad narrativa real.
