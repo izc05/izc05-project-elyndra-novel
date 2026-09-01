@@ -67,28 +67,31 @@ El mapa V1 registra además estados de acceso (recorrido / observado / límite),
 
 # FASE 2 — CAPAS DEL PLANETA
 
-**Estado: SIGUIENTE BLOQUE**
+**Estado: COMPLETA V1 — `PLANETARY_LAYERS.md`**
 
-Definir una macroestructura vertical provisional.
+Se ha definido una macroestructura vertical provisional basada en **regímenes ambientales**, no en estratos rígidos ni continentes tradicionales.
 
-No asignar todavía continentes tradicionales.
+Capas de trabajo:
 
-Trabajar con capas ecológicas y climáticas:
+- S0 — exposición superior (**RESERVA**);
+- S1 — bóvedas altas y redes expuestas (**DISEÑO + canon parcial**);
+- S2 — cinturones de niebla y transición (**DISEÑO + canon fuerte**);
+- S3 — red habitable media donde encaja provisionalmente el sector de la cápsula (**DISEÑO derivado**);
+- S4 — corredores abiertos de agua y viento asociados a grandes vacíos y cascadas (**DISEÑO + canon parcial**);
+- I1 — redes inferiores húmedas (**DISEÑO + canon parcial**);
+- I2 — bosques invertidos (**RESERVA**);
+- I3 — niveles oscuros profundos (**RESERVA / MISTERIO**);
+- I4 — profundidad deliberadamente no modelada (**MISTERIO**).
 
-- capas superiores frías o expuestas;
-- cinturones de niebla;
-- redes de raíces habitables;
-- corredores de tormenta;
-- regiones de cascadas;
-- bosques invertidos;
-- capas inferiores oscuras;
-- zonas aún más profundas no observadas.
+El documento separa además el transporte vertical provisional de agua, aire y materia orgánica, y prohíbe convertir el dato local de temperatura inferior en un gradiente global no demostrado.
 
-Resultado esperado: `PLANETARY_LAYERS.md`.
+Resultado: `PLANETARY_LAYERS.md`.
 
 ---
 
 # FASE 3 — ECOLOGÍA CONECTADA
+
+**Estado: SIGUIENTE BLOQUE**
 
 Cada organismo debe responder a tres preguntas:
 
@@ -109,11 +112,12 @@ Familias iniciales:
 - organismos asociados a agua ascendente;
 - bioluminiscencia funcional de capas profundas.
 
+La red deberá conectar las capas definidas en `PLANETARY_LAYERS.md` mediante agua, partículas, restos orgánicos, migración, corrientes y superficies vivas.
+
 Resultado esperado:
 
-- `FAUNA.md`;
-- `FLORA.md`;
-- `ECOLOGY_NETWORK.md`.
+- `ECOLOGY_NETWORK.md` primero;
+- después `FAUNA.md` y `FLORA.md` cuando las funciones estén estabilizadas.
 
 ---
 
@@ -241,6 +245,8 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 8. El lector nunca debe conocer todo de golpe.
 9. El equipo creativo puede saber más que el protagonista.
 10. Toda ampliación debe comprobarse contra `CONTINUITY.md`.
+11. Una capa planetaria es un régimen ambiental, no una cota rígida.
+12. Ningún gradiente global puede inferirse de una sola observación local.
 
 ---
 
@@ -249,8 +255,8 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 Orden de ejecución:
 
 1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
-2. `PLANETARY_LAYERS.md` — **SIGUIENTE**
-3. `ECOLOGY_NETWORK.md`
+2. `PLANETARY_LAYERS.md` — **COMPLETO V1**
+3. `ECOLOGY_NETWORK.md` — **SIGUIENTE**
 4. `REGIONS.md`
 5. `MYSTERY_37S.md`
 
