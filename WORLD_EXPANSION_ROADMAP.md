@@ -4,9 +4,7 @@ Estado: **DISEÑO EN DESARROLLO**
 
 Este documento organiza la expansión del mundo de Elyndran sin alterar el canon del manuscrito.
 
-## Regla principal
-
-La jerarquía sigue siendo:
+## Jerarquía
 
 1. `CONTINUITY.md` — canon operativo.
 2. Manuscrito vigente — evidencia narrativa.
@@ -15,22 +13,11 @@ La jerarquía sigue siendo:
 
 Nada nuevo pasa a HECHO por aparecer aquí.
 
----
+## Objetivo
 
-# OBJETIVO
+Construir un planeta que exista más allá de la ruta del protagonista y que pueda alimentar coherentemente novela, juego, mapas, imágenes, fauna, flora, localizaciones, misterios e historia profunda.
 
-Construir un planeta que exista más allá de la ruta del protagonista y que pueda alimentar coherentemente:
-
-- novela;
-- juego;
-- mapas;
-- arte conceptual;
-- fauna y flora;
-- futuras localizaciones;
-- misterios;
-- historia profunda.
-
-La expansión debe preservar la identidad ya establecida:
+Identidad que debe conservarse:
 
 > verticalidad + supervivencia + ecología funcional + escala extrema + ambigüedad orgánico/artificial + misterio.
 
@@ -38,206 +25,144 @@ La expansión debe preservar la identidad ya establecida:
 
 # FASE 1 — CARTOGRAFÍA DE LO CONOCIDO
 
-**Estado: COMPLETA V1 — `KNOWN_WORLD_MAP.md`**
+**COMPLETA V1 — `KNOWN_WORLD_MAP.md`**
 
-Se ha construido un mapa lógico tridimensional del sector ya explorado con nodos, rutas, estados de acceso, límites físicos, estabilidad y fronteras del conocimiento.
-
-Resultado: `KNOWN_WORLD_MAP.md`.
+Mapa lógico tridimensional del sector explorado con nodos, rutas, límites, estabilidad y fronteras del conocimiento.
 
 ---
 
 # FASE 2 — CAPAS DEL PLANETA
 
-**Estado: COMPLETA V1 — `PLANETARY_LAYERS.md`**
+**COMPLETA V1 — `PLANETARY_LAYERS.md`**
 
-Se ha definido una macroestructura vertical provisional basada en **regímenes ambientales**, no en estratos rígidos ni continentes tradicionales.
+Macroestructura vertical provisional por regímenes ambientales: exposición superior, bóvedas altas, cinturones de niebla, red media, corredores abiertos de agua/viento, redes inferiores húmedas y reservas profundas.
 
-Capas de trabajo:
-
-- S0 — exposición superior (**RESERVA**);
-- S1 — bóvedas altas y redes expuestas (**DISEÑO + canon parcial**);
-- S2 — cinturones de niebla y transición (**DISEÑO + canon fuerte**);
-- S3 — red habitable media donde encaja provisionalmente el sector de la cápsula (**DISEÑO derivado**);
-- S4 — corredores abiertos de agua y viento asociados a grandes vacíos y cascadas (**DISEÑO + canon parcial**);
-- I1 — redes inferiores húmedas (**DISEÑO + canon parcial**);
-- I2 — bosques invertidos (**RESERVA**);
-- I3 — niveles oscuros profundos (**RESERVA / MISTERIO**);
-- I4 — profundidad deliberadamente no modelada (**MISTERIO**).
-
-Resultado: `PLANETARY_LAYERS.md`.
+Las capas son regímenes, no cotas rígidas.
 
 ---
 
 # FASE 3 — ECOLOGÍA CONECTADA
 
-**Estado: COMPLETA V1 — `ECOLOGY_NETWORK.md`**
+**COMPLETA V1 — `ECOLOGY_NETWORK.md`**
 
-La primera red funcional conecta energía, agua, partículas, biomasa, reciclaje y movimiento entre alturas sin cerrar prematuramente taxonomías.
-
-Principios fijados:
-
-- cada organismo debe conectarse al menos con un flujo planetario y con otro organismo/proceso;
-- la verticalidad es también ecológica;
-- el agua funciona como vector de materia entre capas;
-- la carga de partículas puede convertirse en recurso ecológico y coste humano;
-- membranas, fauna de discos, criatura de seis apoyos y organismos de bóveda conservan funciones abiertas donde el canon no demuestra más;
-- filtradores y recicladores se incorporan como funciones de DISEÑO, no como especies cerradas;
-- planeadores, flora suspendida y bioluminiscencia profunda permanecen en RESERVA;
-- microorganismos vivos e inteligencia ecológica global permanecen como MISTERIO, no hechos.
-
-Resultado: `ECOLOGY_NETWORK.md`.
-
-`FAUNA.md` y `FLORA.md` se posponen deliberadamente hasta estabilizar clima y regiones.
+Red funcional de energía, agua, partículas, biomasa, reciclaje y movimiento vertical. Las especies nuevas no reciben nombre antes de disponer de nicho, flujos y relaciones.
 
 ---
 
 # FASE 4 — CLIMA Y CICLOS
 
-**Estado: PENDIENTE — `CLIMATE.md`**
+**PENDIENTE — `CLIMATE.md`**
 
-Definir un clima que modifique rutas y supervivencia.
+Cerrar únicamente cuando regiones y estructura vertical estén suficientemente estabilizadas.
 
-Investigar por diseño:
+Debe estudiar:
 
 - origen de lluvias;
-- formación de niebla;
-- circulación vertical del aire;
+- niebla;
+- circulación vertical;
 - transporte de humedad;
-- tormentas localizadas;
+- tormentas;
 - gradientes térmicos;
 - ciclos de luz;
-- comportamiento de raíces frente al clima.
-
-Se mantiene pendiente porque la primera versión regional ya puede apoyarse en procesos canónicos y reservas climáticas sin cerrar aún ciclos globales.
-
-Resultado esperado: `CLIMATE.md`.
+- respuesta de raíces al clima.
 
 ---
 
 # FASE 5 — GEOGRAFÍA A GRAN ESCALA
 
-**Estado: COMPLETA V1 — `REGIONS.md`**
+**COMPLETA V1 — `REGIONS.md`**
 
-La primera geografía regional ya convierte capas y flujos en sistemas espaciales que cambian decisiones antes que estética.
-
-Regiones de trabajo:
-
-- R0 — sector de la cápsula (**CANON + DISEÑO derivado**);
-- R1 — corredores de cascadas (**DISEÑO fuerte + canon parcial**);
-- R2 — campos de raíces entrelazadas (**DISEÑO**);
-- R3 — bóvedas de captación (**DISEÑO + canon parcial**);
-- R4 — cinturones de niebla persistente (**DISEÑO fuerte**);
-- R5 — corredores de tormenta (**RESERVA**);
-- R6 — redes inferiores de retención (**DISEÑO + canon parcial**);
-- R7 — bosques invertidos (**RESERVA**);
-- R8 — exposición fría superior (**RESERVA**);
-- R9 — dominio de geometrías regulares (**MISTERIO + contención de diseño**);
-- R10 — profundidades sin luz directa (**RESERVA / MISTERIO**).
-
-Principios fijados:
-
-- una región es un régimen espacial, no una frontera política o continente;
-- una región puede atravesar varias capas;
-- las fronteras pueden ser graduales, abruptas, móviles, biológicas u ocultas;
-- ninguna región nueva se valida sin motor físico, flujo de agua, comportamiento del aire, coste humano y conexión ecológica;
-- el paisaje espectacular aparece después de que cambien las reglas locales.
-
-Resultado: `REGIONS.md`.
+Regiones definidas como sistemas espaciales que cambian decisiones antes que estética: cápsula, cascadas, raíces entrelazadas, bóvedas, niebla, tormentas, redes inferiores, bosques invertidos, exposición fría, dominio de geometrías regulares y profundidades oscuras.
 
 ---
 
-# FASE 6 — ESTRUCTURAS Y PASADO
+# FASE 6 — ESTRUCTURAS Y ANOMALÍAS
 
-**Estado: SIGUIENTE BLOQUE — `STRUCTURES_AND_ANOMALIES.md`**
+**COMPLETA V1 — `STRUCTURES_AND_ANOMALIES.md`**
 
-Separar siempre observación de interpretación.
+La V1 separa por primera vez de forma sistemática observación, material, movimiento, cronología relativa e interpretación.
 
-Documentar:
+Queda establecido:
 
-- geometrías regulares;
-- materiales oscuros;
-- líneas integradas;
-- vibraciones;
-- relación entre estructuras y raíces;
-- desgaste;
-- posibles cronologías relativas.
+- inventario canónico de estructura de tres brazos, plataforma, línea oscura de disco, vibración fina y golpes profundos;
+- familias de material separadas por defecto para impedir conexiones por simple parecido visual;
+- matriz raíz ↔ estructura: contacto, envoltura, interpenetración aparente, continuidad mecánica e independencia local;
+- cuatro familias de cronología relativa: raíz posterior, estructura posterior, coformación y ciclos de exposición/cobertura;
+- modelo de desgaste basado en fractura, abrasión, cobertura biológica y deformación;
+- separación entre movimientos de raíces, fibra, nervadura, tonos y vibración fina;
+- hipótesis globales compatibles sin jerarquía prematura: procesos naturales/biominerales, organismo estructural, resto colonizado, estructura activa no consciente, artefacto construido y sistema híbrido;
+- pruebas futuras discriminantes;
+- escalera de revelación que impide saltar de regularidad a civilización;
+- protecciones visuales contra puertas, ventanas, paneles y arquitectura humana disfrazada.
 
-No confirmar civilización, tecnología ni inteligencia sin evidencia narrativa.
+Decisión central:
 
-Resultado esperado: `STRUCTURES_AND_ANOMALIES.md`.
+> La pregunta activa no es “¿quién construyó esto?”, sino “¿qué proceso puede producir, mantener y modificar esta relación entre geometría regular y un planeta biológicamente activo?”.
 
 ---
 
 # FASE 7 — HISTORIA PROFUNDA
 
-**Estado: PENDIENTE — `DEEP_HISTORY.md`**
+**SIGUIENTE BLOQUE — `DEEP_HISTORY.md`**
 
-Crear primero una historia interna para el equipo creativo y decidir después cuánto llega al lector.
+Crear historia interna provisional sin fijar todavía una verdad única.
 
-Preguntas:
+La V1 deberá mantener al menos tres escenarios de origen estructural compatibles y estudiar:
 
-- qué edad tienen las redes de raíces;
-- si el paisaje actual siempre tuvo esta geometría;
-- qué procesos dejaron las estructuras regulares;
-- si existen ciclos planetarios largos;
-- qué relación puede existir entre biología y estructuras;
-- qué eventos cambiaron grandes regiones.
+- edades relativas de raíces y estructuras;
+- cambios de gran escala en el paisaje;
+- procesos capaces de enterrar, exponer o integrar materiales;
+- conservación de huellas físicas;
+- ciclos planetarios largos;
+- eventos capaces de reorganizar regiones;
+- evidencias que permitirían descartar cada escenario.
 
-Resultado esperado: `DEEP_HISTORY.md`.
-
----
-
-# FASE 8 — EL MISTERIO DE LOS 37 SEGUNDOS
-
-**Estado: COMPLETA V1 — `MYSTERY_37S.md`**
-
-Se ha construido un marco de misterio sin elegir respuesta definitiva.
-
-La V1 fija:
-
-- cronología canónica de las manifestaciones;
-- restricciones que cualquier solución deberá respetar;
-- familias de hipótesis compatibles;
-- hipótesis debilitadas;
-- matriz de pruebas futuras;
-- escalera narrativa de revelación;
-- límites que impiden convertir el fenómeno en oráculo, magia o inteligencia asumida;
-- reservas narrativas de alto valor.
-
-Principios fijados:
-
-- una anomalía no equivale a una única causa;
-- la programación interna conocida impide tratar la prueba desplazada como demostración de predicción;
-- un origen temporal sigue compatible pero no justificado;
-- Aster sigue posible pero débil;
-- Elyndran no participa en el fenómeno hasta que exista una correlación espacial o ambiental reproducible;
-- la siguiente aparición importante debe romper una vía de explicación, no repetir otro `−37`.
-
-Resultado: `MYSTERY_37S.md`.
+No confirmar civilización, tecnología, especie creadora ni propósito.
 
 ---
 
-# FASE 9 — INTEGRACIÓN CON EL JUEGO
+# FASE 8 — MISTERIO DE LOS 37 SEGUNDOS
 
-**Estado: PENDIENTE**
+**COMPLETA V1 — `MYSTERY_37S.md`**
 
-Traducir mundo narrativo a diseño jugable sin reducirlo a una cuadrícula plana.
+Marco de misterio con cronología canónica, restricciones, familias de hipótesis, pruebas futuras y límites narrativos.
 
-Cada localización debe poder definir:
+La siguiente aparición importante debe eliminar explicaciones, no repetir otra anomalía equivalente.
+
+---
+
+# FASE 9 — FAUNA Y FLORA FUNCIONAL
+
+**PENDIENTE — `FAUNA.md` / `FLORA.md`**
+
+Se abordará tras estabilizar historia profunda y clima.
+
+Objetivo: taxonomías de trabajo basadas primero en función ecológica, morfología, energía, agua, movilidad, reproducción y relación con regiones.
+
+---
+
+# FASE 10 — INTEGRACIÓN NOVELA / IMÁGENES / JUEGO
+
+**PENDIENTE**
+
+Traducir la biblia de mundo a reglas de producción reutilizables.
+
+Cada localización jugable o narrativa deberá poder declarar:
 
 - altura/capa;
 - región dominante;
 - accesos;
 - coste de aire/filtro;
 - agua;
-- riesgo de caída;
+- caída;
 - clima;
 - fauna/flora;
 - recursos;
+- estructuras/anomalías;
 - evento narrativo;
-- rutas que pueden cambiar.
+- cambios posibles de ruta.
 
-Resultado esperado: puente entre la novela y `project-elyndra`.
+La integración con `project-elyndra` no debe convertir el planeta en una cuadrícula plana.
 
 ---
 
@@ -247,47 +172,50 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 2. Cada organismo debe tener función ecológica.
 3. Cada región debe modificar decisiones.
 4. Cada estructura debe dejar evidencia antes de interpretación.
-5. El mundo no debe girar alrededor del protagonista.
+5. El mundo no gira alrededor del protagonista.
 6. Las rutas conocidas pueden cambiar.
-7. La verticalidad debe seguir siendo dominante.
-8. El lector nunca debe conocer todo de golpe.
+7. La verticalidad sigue siendo dominante.
+8. El lector nunca conoce todo de golpe.
 9. El equipo creativo puede saber más que el protagonista.
-10. Toda ampliación debe comprobarse contra `CONTINUITY.md`.
+10. Toda ampliación se comprueba contra `CONTINUITY.md`.
 11. Una capa planetaria es un régimen ambiental, no una cota rígida.
-12. Ningún gradiente global puede inferirse de una sola observación local.
-13. Una señal útil al protagonista debe tener primero una función propia dentro del ecosistema.
-14. Una especie nueva necesita nicho, flujos y relaciones antes de recibir nombre definitivo.
+12. Ningún gradiente global se infiere de una observación local.
+13. Una señal útil al protagonista debe tener primero función propia en el ecosistema.
+14. Una especie nueva necesita nicho, flujos y relaciones antes de nombre definitivo.
 15. Primero cambia el sistema; después aparece la criatura.
-16. Una región debe existir por procesos persistentes, no por estética.
+16. Una región existe por procesos persistentes, no por estética.
 17. Las regiones pueden atravesar capas y sus fronteras pueden moverse.
-18. Una observación regular nunca autoriza por sí sola una interpretación tecnológica.
-19. Una anomalía temporal no demuestra causalidad temporal.
-20. Una correlación con Elyndran no demuestra intención de Elyndran.
-21. Ningún misterio puede convertirse en herramienta fiable sin límites medidos.
-22. Las pruebas futuras deben eliminar explicaciones, no solo acumular rarezas.
+18. Regularidad no equivale a tecnología.
+19. Anomalía temporal no equivale a causalidad temporal.
+20. Correlación con Elyndran no equivale a intención de Elyndran.
+21. Ningún misterio se convierte en herramienta fiable sin límites medidos.
+22. Las pruebas futuras deben eliminar explicaciones, no acumular rarezas.
+23. Materiales visualmente similares permanecen separados hasta demostrar equivalencia física.
+24. No se declara cronología estructural sin interfaz, desgaste o cambio medible.
+25. “Antiguo” no se deduce solo de rotura.
+26. La función puede descubrirse antes que el origen y antes que el propósito.
+27. Si aparece inteligencia, debe surgir por convergencia de evidencias.
+28. Si existe tecnología, debe sentirse propia de Elyndran, no humana disfrazada.
 
 ---
 
-# PRIMER BLOQUE DE TRABAJO
+# ESTADO DEL PROGRAMA
 
-**Estado: COMPLETO V1**
+## Completado V1
 
-Orden ejecutado:
+1. `KNOWN_WORLD_MAP.md`
+2. `PLANETARY_LAYERS.md`
+3. `ECOLOGY_NETWORK.md`
+4. `REGIONS.md`
+5. `MYSTERY_37S.md`
+6. `STRUCTURES_AND_ANOMALIES.md`
 
-1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
-2. `PLANETARY_LAYERS.md` — **COMPLETO V1**
-3. `ECOLOGY_NETWORK.md` — **COMPLETO V1**
-4. `REGIONS.md` — **COMPLETO V1**
-5. `MYSTERY_37S.md` — **COMPLETO V1**
+## Siguiente secuencia
 
-El primer paquete ya proporciona mapa, macroestructura vertical, red ecológica, regiones y marco de misterio suficientes para ampliar el mundo sin improvisación local.
+1. `DEEP_HISTORY.md` — **SIGUIENTE**
+2. `CLIMATE.md`
+3. `FAUNA.md` / `FLORA.md`
+4. Integración con novela e imágenes
+5. Puente formal con `project-elyndra`
 
-# SIGUIENTE BLOQUE DE TRABAJO
-
-1. `STRUCTURES_AND_ANOMALIES.md` — **SIGUIENTE**
-2. `DEEP_HISTORY.md` — después de separar observación y cronología relativa de estructuras.
-3. `CLIMATE.md` — cerrar ciclos globales solo después de comprobar compatibilidad con regiones y estructura vertical.
-4. `FAUNA.md` / `FLORA.md` — taxonomía funcional después de estabilizar clima y nichos.
-5. Integración con novela, imágenes y `project-elyndra`.
-
-Hasta estabilizar estructuras, historia profunda y clima, no se fijarán nombres definitivos para nuevas especies o regiones salvo necesidad narrativa real.
+Hasta estabilizar historia profunda y clima no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
