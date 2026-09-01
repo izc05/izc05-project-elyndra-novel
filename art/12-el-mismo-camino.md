@@ -1,35 +1,25 @@
-# XII — El mismo camino — Brief visual A / I1 / I2
+# Capítulo VI — El mismo camino — Brief visual FAST CUT
 
-## A — Apertura
+Canon visual subordinado a `CONTINUITY.md`, `ELYNDRAN_WORLD_BIBLE_V1.md` y al manuscrito bloqueado.
 
-**Momento:** salida breve tras la tormenta hacia la primera ruta, que el protagonista cree dominar.
+## A — El camino que cambió
 
-**Composición:** el protagonista con casco cerrado y el mismo traje EVA avanza por la raíz conocida mientras la tormenta deja membranas arrancadas, gotas suspendidas y niebla residual. La cápsula puede insinuarse muy atrás, sin dominar la escena. La ruta debe parecer familiar pero ligeramente alterada.
+Plano general cinematográfico de la primera ruta después de la tormenta. El protagonista, casco cerrado y traje EVA coherente, avanza por una raíz que reconoce pero presenta membranas arrancadas, humedad reciente y pequeñas alteraciones. La composición debe transmitir familiaridad rota: sigue siendo el mismo trayecto, pero ya no parece completamente estable. No mostrar todavía la depresión nueva como foco principal.
 
-**Sensación:** falsa seguridad, humedad, silencio posterior a la tormenta, amenaza de que algo cotidiano haya cambiado.
+## I1 — La depresión nueva
 
-**No revelar:** la depresión nueva ni los arañazos como foco principal.
+Plano medio/bajo junto a las depresiones antiguas. El protagonista compara la zona con una referencia conocida de la corteza; deben verse tres arañazos paralelos nuevos y una pequeña depresión húmeda donde antes había superficie continua. No presentar las marcas como huellas, garras, escritura ni tecnología. La inquietud nace de que el camino cambia sin que se vea el mecanismo.
 
-## I1 — Los tres arañazos
+## I2 — La criatura y la película
 
-**Momento:** junto a las tres depresiones antiguas, el protagonista descubre tres líneas paralelas nuevas que salen del borde de la segunda.
+Dentro de la bóveda ascendente, el protagonista observa a distancia una criatura pequeña de seis apoyos sobre una placa cobriza caída. Su estructura tubular inferior recorre la película oscura del reverso y deja una franja clara detrás. Debe mostrarse el comportamiento sin afirmar que está comiendo. Al fondo, placas y columnas verdes sugieren abundancia ecológica frente a la escasez humana.
 
-**Composición:** plano medio/bajo, cuerpo agachado sin tocar las marcas; una depresión parcialmente llena de agua en primer término; tres arañazos finos y paralelos visibles sobre la corteza mojada; profundidad de raíces y niebla detrás. Mantener escala humana y peligro vertical.
+## Continuidad obligatoria
 
-**Sensación:** descubrimiento físico inmediato, inquietud y atención absoluta.
-
-**Canon visual:** no presentar las marcas como huellas confirmadas, garras, escritura, runas ni tecnología.
-
-## I2 — La depresión que antes no estaba
-
-**Momento:** el protagonista confirma mediante la referencia de la grieta blanca que una depresión pequeña ocupa una zona que antes era corteza continua.
-
-**Composición:** protagonista en pie o ligeramente inclinado frente a una depresión ovalada pequeña, húmeda, de borde todavía no pulido; una grieta blanca reconocible en segundo plano sirve como referencia espacial. El agua del centro puede mostrar una vibración mínima. La cámara o pantalla puede estar en la mano, pero el paisaje y la hendidura son el centro visual.
-
-**Sensación:** el camino conocido acaba de convertirse en algo dinámico e impredecible.
-
-**No revelar:** causa de la depresión, organismo responsable, mecanismo inteligente o relación demostrada con los golpes profundos.
-
-## Continuidad general
-
-Fotorealismo cinematográfico plausible. Misma identidad visual del protagonista, traje, desgaste y entorno ya establecidos. Casco cerrado. Sin texto generado. No mostrar Aster. No inventar criaturas ni estructuras regulares nuevas. La escena debe conservar la ambigüedad: hay evidencia de cambio, no explicación.
+- mismo protagonista, traje y desgaste acumulado;
+- casco cerrado y filtrado activo en exterior;
+- sin suelo planetario visible;
+- la criatura conserva seis apoyos, cuerpo bajo, placas cobrizas dorsales y estructura tubular inferior;
+- la película oscura no se presenta como alimento humano seguro ni cultivo;
+- los arañazos y la depresión no reciben explicación visual;
+- fotorealismo cinematográfico plausible, sin texto generado, HUD ni Aster visible.
