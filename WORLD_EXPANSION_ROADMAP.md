@@ -51,9 +51,9 @@ Red funcional de energía, agua, partículas, biomasa, reciclaje y movimiento ve
 
 # FASE 4 — CLIMA Y CICLOS
 
-**PENDIENTE — `CLIMATE.md`**
+**SIGUIENTE BLOQUE — `CLIMATE.md`**
 
-Cerrar únicamente cuando regiones y estructura vertical estén suficientemente estabilizadas.
+La historia profunda V1 ya permite construir el clima sin tratar tormentas, niebla o lluvia como efectos aislados.
 
 Debe estudiar:
 
@@ -64,7 +64,10 @@ Debe estudiar:
 - tormentas;
 - gradientes térmicos;
 - ciclos de luz;
-- respuesta de raíces al clima.
+- respuesta de raíces al clima;
+- capacidad del clima para dejar huellas históricas;
+- migración de fronteras regionales;
+- interacción entre agua, partículas y coste de filtro.
 
 ---
 
@@ -103,21 +106,26 @@ Decisión central:
 
 # FASE 7 — HISTORIA PROFUNDA
 
-**SIGUIENTE BLOQUE — `DEEP_HISTORY.md`**
+**COMPLETA V1 — `DEEP_HISTORY.md`**
 
-Crear historia interna provisional sin fijar todavía una verdad única.
+La V1 construye historia interna sin elegir una verdad única.
 
-La V1 deberá mantener al menos tres escenarios de origen estructural compatibles y estudiar:
+Queda establecido:
 
-- edades relativas de raíces y estructuras;
-- cambios de gran escala en el paisaje;
-- procesos capaces de enterrar, exponer o integrar materiales;
-- conservación de huellas físicas;
-- ciclos planetarios largos;
-- eventos capaces de reorganizar regiones;
-- evidencias que permitirían descartar cada escenario.
+- edad solo por superposición, deformación, abrasión diferencial, fractura cubierta y repetición regional;
+- cronología neutral de trabajo por sustrato desconocido, redes primarias, diferenciación vertical, integración estructural, reorganizaciones y paisaje actual;
+- seis escenarios compatibles: crecimiento planetario continuo, restos previos colonizados, estructuras posteriores a la red, coformación híbrida, ciclos de reutilización y artefactos incorporados;
+- ningún escenario ganador;
+- procesos capaces de reescribir el paisaje: crecimiento, tormentas, migración de agua, abrasión, colonización, fractura y posibles reorganizaciones profundas;
+- familias de ciclos largos: húmedo/seco regional, cobertura/exposición, tensión/relajación, renovación de red, partículas atmosféricas y reorganización de gran escala;
+- catálogo de huellas históricas y matriz de discriminación;
+- pruebas futuras mediante fotogrametría, interfaces, fracturas, depósitos y comparaciones entre regiones;
+- separación obligatoria entre historia profunda y misterio de los 37 segundos;
+- reglas para trasladar la historia a novela, imagen y juego sin exposición enciclopédica.
 
-No confirmar civilización, tecnología, especie creadora ni propósito.
+Decisión central:
+
+> Primero interfaz, después cronología relativa; solo después puede existir una historia global.
 
 ---
 
@@ -135,9 +143,11 @@ La siguiente aparición importante debe eliminar explicaciones, no repetir otra 
 
 **PENDIENTE — `FAUNA.md` / `FLORA.md`**
 
-Se abordará tras estabilizar historia profunda y clima.
+Se abordará tras estabilizar clima.
 
 Objetivo: taxonomías de trabajo basadas primero en función ecológica, morfología, energía, agua, movilidad, reproducción y relación con regiones.
+
+La historia profunda añade categorías útiles futuras: especies pioneras, comunidades de redes maduras, organismos de superficies recién expuestas, poblaciones relictas, recicladores de tejido envejecido y migradores asociados a ciclos de agua.
 
 ---
 
@@ -159,6 +169,7 @@ Cada localización jugable o narrativa deberá poder declarar:
 - fauna/flora;
 - recursos;
 - estructuras/anomalías;
+- huellas de historia profunda;
 - evento narrativo;
 - cambios posibles de ruta.
 
@@ -196,6 +207,13 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 26. La función puede descubrirse antes que el origen y antes que el propósito.
 27. Si aparece inteligencia, debe surgir por convergencia de evidencias.
 28. Si existe tecnología, debe sentirse propia de Elyndran, no humana disfrazada.
+29. Primero interfaz, después cronología relativa y solo después historia global.
+30. Roto no significa abandonado.
+31. Cubierto no demuestra por sí solo qué material apareció primero.
+32. Función actual no equivale a función original.
+33. Un cambio histórico debe dejar huellas físicas compatibles con el proceso que lo produjo.
+34. La historia profunda debe explicar geografía, ecología y riesgo actuales, no existir como lore aislado.
+35. Los 37 segundos permanecen separados de la historia física hasta obtener correlación medible independiente.
 
 ---
 
@@ -209,13 +227,13 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 4. `REGIONS.md`
 5. `MYSTERY_37S.md`
 6. `STRUCTURES_AND_ANOMALIES.md`
+7. `DEEP_HISTORY.md`
 
 ## Siguiente secuencia
 
-1. `DEEP_HISTORY.md` — **SIGUIENTE**
-2. `CLIMATE.md`
-3. `FAUNA.md` / `FLORA.md`
-4. Integración con novela e imágenes
-5. Puente formal con `project-elyndra`
+1. `CLIMATE.md` — **SIGUIENTE**
+2. `FAUNA.md` / `FLORA.md`
+3. Integración con novela e imágenes
+4. Puente formal con `project-elyndra`
 
-Hasta estabilizar historia profunda y clima no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
+Hasta estabilizar clima no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
