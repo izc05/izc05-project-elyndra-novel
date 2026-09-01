@@ -1,52 +1,37 @@
-# Capítulo XIV — El aire que gastas
+# Capítulo VII — El aire que gastas — Brief visual TOP
 
-## Función editorial
+Canon visual subordinado a `CONTINUITY.md`, `ELYNDRAN_WORLD_BIBLE_V1.md` y al manuscrito bloqueado.
 
-Hacer visible que **el aire también es terreno**: una misma distancia puede tener costes distintos de filtro y batería. Mantener intacta la incertidumbre atmosférica; composición gaseosa plausible no equivale a seguridad respiratoria.
+## A — El aire aparece
 
-## XIV-A — Apertura
+**Momento:** entrada en la bóveda ascendente, después de que el sistema empiece a trabajar más fuerte.
 
-Interior estrecho de la cápsula. El protagonista, sin casco porque permanece dentro del refugio, sostiene en una mano el cartucho usado recién retirado mientras observa el pequeño alojamiento de repuestos abierto. El filtro presenta pliegues húmedos y oscurecidos por polvo y fibras, sin biología reconocible a simple vista. La cápsula debe sentirse usada, reparada y cada vez más convertida en refugio.
+**Composición:** protagonista pequeño, completamente sellado, detenido entre columnas verdes y placas cobrizas. La linterna corta lateralmente el aire y revela miles de partículas y fibras finísimas solo dentro del haz. Fuera del haz, el espacio vuelve a parecer limpio. La ruta hacia la terraza continúa al fondo, pero el protagonista ha decidido no seguir gastando filtro para llegar a un lugar ya conocido.
 
-**Función:** mostrar inmediatamente que el aire exterior tiene un coste material limitado.
+**Objetivo emocional:** belleza + coste invisible. El lector debe comprender que respirar a través del traje forma parte del terreno.
 
-### Obligatorio
+## I1 — Lo que entra contigo
 
-- mismo protagonista y continuidad física de la cápsula;
-- filtro/cartujo técnicamente creíble y visiblemente usado;
-- pocos repuestos visibles, sin convertir la imagen en inventario;
-- banco pequeño, bolsa de muestra y herramientas coherentes;
-- iluminación sobria de interior de cápsula;
-- fotorealismo cinematográfico.
+**Momento:** regreso a la cápsula, justo después de levantar una bota y descubrir la mancha oscura junto al banco del agua terrestre.
 
-### Prohibido
+**Composición:** interior estrecho de la cápsula. El protagonista aún lleva casco y traje; una bota muestra barro en los surcos, la mochila conserva polvo y alguna fibra translúcida discreta. La manta, comida y agua están demasiado cerca de la escotilla. La mancha debe ser pequeña y plausible, no una contaminación espectacular.
 
-- casco abierto en exterior;
-- microorganismos gigantes o esporas identificables;
-- infección, horror corporal o contaminación fantástica;
-- texto, HUD o cifras legibles generadas;
-- representar la atmósfera como confirmadamente segura.
+**Objetivo emocional:** convertir una observación doméstica en amenaza práctica: el refugio no tiene esclusa y cada salida deja rastro al volver.
 
-## XIV-I1 — El aire aparece
+## I2 — La frontera humana
 
-Bóveda de la ruta ascendente después de que el texto revele el aumento de carga del filtro. El protagonista está completamente sellado y pequeño dentro del volumen. Su linterna corta lateralmente el espacio entre columnas verdes, placas cobrizas y filamentos blancos. Solo dentro del haz aparecen miles de partículas, fibras diminutas y puntos suspendidos moviéndose en direcciones diferentes; fuera del haz, el aire vuelve a parecer limpio.
+**Momento:** después de reorganizar la cabina.
 
-El protagonista se ha detenido justo antes de retroceder. Debe sentirse la contradicción visual: una ruta bella y conocida que ahora parece físicamente cara de atravesar.
+**Composición:** plano amplio del interior mostrando una línea simple de cinta en el suelo. Del lado de entrada: botas, paños, residuos, herramientas de limpieza y soporte para casco. Del lado limpio: agua, comida, analizador y manta. El protagonista limpia una pequeña marca oscura que ha cruzado la cinta por un error de movimiento.
 
-**Función:** imagen memorable del descubrimiento principal. La materia suspendida se muestra, pero su naturaleza no se interpreta.
+**Objetivo emocional:** la cinta no es una barrera física; el verdadero cambio es el hábito. La cápsula continúa transformándose de vehículo accidentado en refugio adaptado a Elyndran.
 
-## XIV-I2 — Dos caminos, dos costes
+## Continuidad obligatoria
 
-En la bifurcación, el protagonista acaba de regresar de una incursión corta por la ruta horizontal. La niebla horizontal ocupa un lado del encuadre y la entrada más densa de la bóveda ascendente el otro. Él permanece entre ambas, casco cerrado, mirando de una dirección a otra como quien acaba de comprender una geografía nueva.
-
-No deben aparecer gráficos ni medidores flotantes. La diferencia se cuenta por atmósfera: la ascendente más densa, cargada de humedad y materia suspendida; la horizontal más abierta pero perdida en niebla. La escena debe sugerir que ya no elige solo por distancia o pendiente.
-
-**Función:** fijar visualmente la nueva regla de navegación: el mapa de Elyndran también tiene un relieve atmosférico invisible.
-
-## Continuidad visual
-
-- Traje cerrado en todas las escenas exteriores.
-- Mantener desgaste acumulado del traje y de la cápsula.
-- La estructura de tres brazos puede quedar apenas insinuada a distancia en I2 si la niebla lo permite, nunca convertida en edificio o máquina confirmada.
-- No introducir fauna nueva.
-- Las partículas de I1 son materia suspendida ambigua, no organismos confirmados.
+- mismo protagonista, traje y desgaste acumulado;
+- casco cerrado en toda escena exterior y durante el retorno inicial;
+- cápsula pequeña, reparada y parcialmente desmontada;
+- partículas ambiguas: no representar microorganismos identificables, esporas gigantes, infección ni horror corporal;
+- atmósfera exterior no declarada segura;
+- no mostrar piel desnuda fuera: la referencia a la mano izquierda solo prepara el siguiente capítulo;
+- fotorealismo cinematográfico plausible, sin texto generado, HUD ni interfaces superpuestas.
