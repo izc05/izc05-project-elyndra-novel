@@ -210,6 +210,34 @@ Decisiones centrales:
 
 ---
 
+# FASE 11 — VALIDACIÓN Y VISTA ESTRUCTURADA
+
+**COMPLETA V1 — `WORLD_PRODUCTION_VALIDATION_V1.md` + `world/ELY_KNOWN_WORLD_STATE_V1.yaml`**
+
+La primera validación de producción se ejecuta contra tres casos canónicos de distinta naturaleza:
+
+- sector de la cápsula — localización;
+- criatura terrestre de seis apoyos — organismo;
+- estructura de tres brazos — estructura/anomalía.
+
+Queda establecido:
+
+- las fichas universales pueden representar esos casos sin introducir hechos nuevos;
+- la dieta de la criatura de seis apoyos queda bloqueada explícitamente como inferencia no autorizada;
+- la estructura de tres brazos se mantiene en la escalera de revelación entre mecanismo parcial e investigación de interfaces;
+- la cápsula se modela como refugio/logística, sin convertir “seguro conocido” en seguridad absoluta del entorno;
+- la primera vista YAML conserva `CANON`, `DISEÑO`, `RESERVA` y `MISTERIO` como campos separados;
+- `unknown` es un valor válido y preferible a inventar una respuesta;
+- el YAML incluye localizaciones, organismos, anomalías, niebla de conocimiento e integración por medio;
+- los datos estructurados son derivados y nunca sustituyen a `CONTINUITY.md`;
+- el esquema ya puede servir como contrato previo para un adapter hacia `project-elyndra`.
+
+Decisión central:
+
+> Los datos estructurados describen el canon; nunca lo sustituyen.
+
+---
+
 # REGLAS DE CALIDAD
 
 1. Nada existe solo porque sea visualmente bonito.
@@ -269,6 +297,10 @@ Decisiones centrales:
 55. Ir de A a B no implica que volver de B a A tenga el mismo coste.
 56. Los IDs técnicos no implican nombres diegéticos ni identidad causal.
 57. El canon fluye hacia derivados; un asset o sistema jugable no canoniza nada por sí mismo.
+58. Un archivo YAML/JSON derivado nunca adquiere autoridad sobre su fuente canónica.
+59. `unknown` es un estado de datos válido; no se rellena por conveniencia técnica.
+60. Una validación debe intentar romper una regla con casos reales antes de declararla estable.
+61. Los campos privados de simulación no pueden filtrarse a UI, briefs visuales o narrativa factual.
 
 ---
 
@@ -287,12 +319,15 @@ Decisiones centrales:
 9. `FAUNA.md`
 10. `FLORA.md`
 11. `WORLD_PRODUCTION_RULES.md`
+12. `WORLD_PRODUCTION_VALIDATION_V1.md`
+13. `world/ELY_KNOWN_WORLD_STATE_V1.yaml`
 
 ## Siguiente secuencia
 
-1. Validar fichas universales con tres entidades canónicas reales — **SIGUIENTE**
-2. Crear primera vista derivada YAML/JSON del mundo conocido
-3. Preparar puente consumible por `project-elyndra`
-4. Integración con novela e imágenes mediante IDs y límites de revelación
+1. Definir esquema de adapter consumible por `project-elyndra` — **SIGUIENTE**
+2. Añadir edges tridimensionales y condiciones de retorno al estado estructurado
+3. Crear manifiesto de revelación por capítulo para imágenes canónicas
+4. Preparar validación automática básica de estados y referencias
+5. Integración gradual con novela e imágenes mediante IDs y límites de revelación
 
-Hasta estabilizar las fichas derivadas no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
+Hasta estabilizar los derivados no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
