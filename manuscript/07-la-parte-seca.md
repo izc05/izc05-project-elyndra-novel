@@ -1,193 +1,185 @@
-# Capítulo VII — La parte seca
-
-Supe que algo iba mal antes de encender la luz.
+# Capítulo IV — Antes de tocar la raíz
 
 La cápsula olía a humedad.
 
-No a lluvia. A interior mojado.
-
-Encendí la emergencia y el suelo devolvió un reflejo junto a la batería auxiliar.
-
-Agua.
+Encendí la luz de emergencia y vi agua junto a la batería auxiliar.
 
 —No.
 
-Aislé la batería y me arrodillé. Una gota cayó desde el techo. Luego otra.
+Aislé el circuito y seguí las gotas hasta la junta deformada por el impacto. La tormenta no había abierto una herida nueva. Había encontrado una vieja.
 
-Seguí el rastro hasta la zona deformada por el impacto. La tormenta no había abierto una herida nueva; había encontrado una vieja.
+Fuera seguía lloviendo.
 
-Fuera volvió a golpear la lluvia.
+Para sellarla necesitaba una cosa que Elyndran parecía incapaz de ofrecerme: una superficie seca.
 
-Desmonté el revestimiento. La junta hundida apareció detrás, brillante, con un hilo de agua bajando hacia donde menos lo necesitaba.
+Me puse el casco y salí.
 
-Podía sellarla.
+Calenté la junta, pasé el paño y acerqué la cinta. Antes de pegarla, la humedad volvió a ocupar el metal.
 
-Si conseguía una cosa que Elyndran parecía haberse propuesto negarme desde que llegué.
-
-Una superficie seca.
-
-Me puse el casco.
-
-—Vale. Tú y yo.
-
-Salí.
-
----
-
-La lluvia me recibió de lado.
-
-Calenté la junta, pasé el paño y acerqué la cinta.
-
-Antes de pegarla, la humedad regresó desde el borde.
-
-Repetí.
+Otra vez.
 
 Mismo resultado.
 
-A mi espalda, el vacío era una pared blanca. La raíz desaparecía en niebla a pocos metros y el agua corría por su corteza en pequeños cauces negros. Trabajaba junto al borde sin mirarlo ya a cada movimiento.
+Miré el paracaídas atrapado sobre la cápsula. Ya le había robado líneas para el arnés. Quedaba tela.
 
-Eso me inquietó más que la altura.
+Corté un paño ancho, lo tensé sobre la zona dañada y lo fijé por tres puntos.
 
-Me estaba acostumbrando.
-
-Una gota golpeó exactamente el centro de la zona que acababa de secar.
-
-Bajé la mano.
-
-—Necesito cinco minutos. Solo cinco.
-
-Miré hacia arriba.
-
-El paracaídas seguía prendido al casco de la cápsula, inútil desde el impacto. Ya le había quitado líneas para el arnés. Quedaba tela.
-
-Tardé demasiado en sacar la cuchilla.
-
-Cortar otra pieza de la cápsula seguía pareciéndome una forma pequeña de rendición. Una parte de mí insistía en que quizá necesitara todo aquello intacto para volver a volar.
-
-Miré la cápsula encajada en la raíz.
-
-No iba a volar.
-
-Corté.
-
-Tensé un paño ancho sobre la junta y lo fijé por tres puntos. La lluvia empezó a desviarse hacia ambos lados.
-
-Debajo apareció una mancha de metal gris.
-
-Seca.
-
-Fue una visión ridículamente hermosa.
+Debajo apareció una mancha de metal seco.
 
 Duró cuatro segundos.
 
-Las membranas transparentes de la raíz se tensaron.
+Las membranas de la raíz se tensaron.
 
-Me agaché antes de pensar por qué.
-
-La ráfaga llegó un instante después.
-
-La tela se hinchó como una vela y una esquina saltó de su anclaje. La agarré con las dos manos. El tirón me arrastró medio paso hacia el borde.
-
-El talón resbaló.
+Me agaché justo antes de que la ráfaga hinchara la tela como una vela. Una esquina saltó. El tirón me arrastró medio paso hacia el borde.
 
 Niebla debajo.
 
-Nada más.
+Me dejé caer de rodillas y sujeté el paño hasta que pasó el viento.
 
-Me dejé caer de rodillas y mantuve la tela pegada al casco hasta que pasó el golpe de viento.
-
-Respiré una vez.
-
-Dos.
-
-—Cuatro puntos —dije.
+—Cuatro puntos.
 
 Añadí el cuarto.
 
-Cuando las membranas volvieron a aflojarse, solté despacio.
-
 La cubierta aguantó.
 
-Y debajo seguía existiendo aquella pequeña parte seca.
+La cinta agarró. El agua empezó a desviarse por donde yo quería.
+
+Cuando volví dentro y reconecté la batería, no cayó una sola gota.
+
+Miré el parche desde el interior.
+
+Ya no estaba intentando devolver la cápsula a su estado original.
+
+Estaba construyendo un refugio.
+
+Y el refugio seguía necesitando agua.
 
 ---
 
-Esta vez la junta aceptó el calor.
+Mi botella terrestre estaba por debajo de la mitad.
 
-La cinta agarró a la primera. Apliqué aislamiento, presioné el borde y esperé mientras el agua golpeaba el techo improvisado sobre mi cabeza.
+Bajé a los discos sin perder tiempo en la ruta conocida.
 
-Una gota recorrió el exterior.
+El primer recipiente estaba vacío. En el fondo seguía la línea oscura que había visto después del movimiento de la raíz.
 
-Se desvió.
+—Hoy no.
 
-Otra.
+Fui al siguiente.
 
-También.
+El agua era transparente.
 
-No había detenido la lluvia. Había cambiado su camino.
+Exactamente como la mía.
 
-Me quedé mirando el paño tensado y comprendí que era la primera modificación de la cápsula que no intentaba devolverla a su estado anterior.
+Tomé una muestra del centro evitando la escorrentía del traje.
 
-No estaba reparando el vehículo que había traído de la Tierra.
+Dos criaturas planas salieron de debajo del borde. Una mostró grupos breves de puntos pálidos. La otra respondió con una secuencia distinta.
 
-Estaba construyendo un refugio para este sitio.
+Me quedé mirando hasta que un golpe profundo subió por la raíz.
 
-La diferencia me dejó quieto unos segundos.
+Las dos desaparecieron.
 
-Luego una membrana empezó a tensarse otra vez.
+El segundo golpe hizo temblar todos los discos.
 
-—Sí, ya te he visto.
+Entonces la línea del recipiente vacío cambió de negro a gris pálido.
 
-Recogí las herramientas antes de la siguiente ráfaga.
+Tres segundos.
 
-Dentro reconecté la batería.
+Después volvió a oscurecerse.
 
-Las luces siguieron encendidas.
+Lo grabé y me fui.
 
-Esperé junto a la carcasa.
+Dentro de la cápsula hice solo las pruebas que podían cambiar una decisión.
 
-Ni una gota.
+Los minerales parecían tratables.
 
-El agua ya no avanzaba hacia mí. Golpeaba la tela exterior, corría por donde yo había decidido y desaparecía por el costado.
+La fracción orgánica no clasificada, no.
 
-Por primera vez desde la caída, una parte del exterior obedecía a una solución humana.
+Filtrar la reducía. El calor la alteraba. Ninguna de las dos cosas me daba permiso para beber.
 
-Pequeña. Fea. Temporal.
+Guardé el frasco.
 
-Mía.
+Transparente no significaba seguro.
+
+En el cristal de la cápsula empezaron a aparecer gotas nuevas.
+
+Lluvia.
+
+Agua que, durante unos segundos, todavía no había tocado raíz, disco ni corteza.
+
+La pregunta cambió.
 
 ---
 
-Me quité los guantes. Tenía los nudillos hinchados y una marca roja donde el guante me había mordido al sujetar la tela.
+Esperé a la siguiente lluvia fuerte.
 
-Abrí y cerré la mano.
+Encontré una lámina térmica cuya cara interior había permanecido protegida desde la caída. La limpié con parte de mi propia reserva y la tensé fuera de la cápsula.
 
-Dolía.
+El primer montaje hizo una bolsa inútil. El segundo casi salió volando.
 
-Funcionaba.
+En el tercero añadí otro apoyo.
 
-No hice inventario completo. Agua, raciones, filtros. Lo suficiente para hoy. No lo suficiente para dejar de pensar en mañana.
+Las membranas se tensaron.
 
-En la pantalla seguía congelada una fotografía de los discos de la raíz inferior. Agua transparente. Una de las criaturas planas junto al borde.
+Me agaché.
 
-Tenía agua a pocos minutos de distancia y todavía no sabía si podía usarla.
+La ráfaga llegó y la lámina vibró, pero aguantó.
 
-La reparación acababa de comprarme tiempo.
+Entonces apareció un hilo de agua en el borde.
 
-No quería gastarlo esperando a tener sed.
+No había tocado la raíz.
 
-Preparé dos recipientes para la mañana y dejé uno junto al traje.
+Puse un recipiente debajo.
 
-Fuera, la lluvia sonaba distinta sobre el paracaídas: menos como impactos contra una nave y más como lluvia sobre un techo.
+Se llenó tan rápido que me reí dentro del casco.
 
-Miré la junta.
+Dejé correr los primeros volúmenes y recogí una muestra aparte.
 
-Seca.
+La señal orgánica era mucho menor que en el agua de los discos. Filtrada y tratada con calor bajaba todavía más, pero el resultado seguía siendo indeterminado.
 
-Después miré el frasco vacío.
+Tenía agua terrestre suficiente para no estar desesperado.
 
-Mañana bajaría a llenarlo.
+Precisamente por eso hice la prueba entonces.
 
-La cápsula podía aguantar otra tormenta.
+Preparé una cantidad mínima.
 
-Ahora me tocaba averiguar si Elyndran podía darme agua.
+Mojé el labio.
+
+Esperé.
+
+Una gota en la lengua.
+
+Nada que pudiera notar.
+
+Después unos pocos mililitros.
+
+Y paré.
+
+Mi cuerpo quería seguir.
+
+—Ya está.
+
+Volví al exterior en lugar de quedarme mirando el pulso. Reforcé el colector y colgué dos bolsas limpias bajo el borde.
+
+Pasaron horas sin reacción aguda observable.
+
+No convertí eso en una garantía.
+
+La reserva terrestre siguió siendo la principal. La lluvia tratada quedó separada, como una posibilidad que todavía tenía que ganarse mi confianza.
+
+Al anochecer, las dos bolsas pesaban bajo la lámina improvisada.
+
+Detrás, el parche de paracaídas seguía manteniendo seca la junta.
+
+Miré ambos montajes.
+
+Uno impedía que Elyndran entrara.
+
+El otro capturaba una parte antes de que tocara la raíz.
+
+Por primera vez desde la caída, el planeta no solo estaba consumiendo mis reservas.
+
+También podía empezar a reemplazar una.
+
+Y eso compraba algo más importante que agua.
+
+Tiempo para alejarme de la cápsula.
