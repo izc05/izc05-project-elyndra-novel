@@ -3,6 +3,7 @@ source_status: DERIVED_VIEW
 canonical_authority: CONTINUITY.md
 world_logic: ELYNDRAN_WORLD_BIBLE_V1.md
 production_contract: WORLD_PRODUCTION_RULES.md
+adapter_contract: world/PROJECT_ELYNDRA_ADAPTER_V1.md
 
 rules:
   statuses: [CANON, DISEÑO, RESERVA, MISTERIO]
@@ -12,6 +13,8 @@ rules:
   no_technology_assumption_from_regular_geometry: true
   no_diet_assumption_from_contact: true
   no_language_assumption_from_light_or_signal: true
+  directed_edges_required: true
+  return_cost_never_assumed_symmetric: true
 
 locations:
   - location_id: ELY-LOC-CAPSULE-001
@@ -94,6 +97,64 @@ locations:
     mysteries:
       - upward_water_transport_mechanism
       - whether_visible_modules_are_one_or_multiple_organisms
+
+edges:
+  - edge_id: ELY-EDGE-CAPSULE-FORK-001
+    from: ELY-LOC-CAPSULE-001
+    to: ELY-LOC-FORK-001
+    status: CANON
+    vertical_relation: level_or_mixed
+    traversal_state:
+      route_memory: reproducible
+      geometry: can_change_between_visits
+      fall_exposure: present
+      known_reference_strategy: scissors_roots_plus_pale_triangular_break
+    return_model:
+      state: not_established
+      reason: canon_confirms_reproducibility_but_not_equal_traversal_cost
+
+  - edge_id: ELY-EDGE-FORK-DESCENT-001
+    from: ELY-LOC-FORK-001
+    to: ELY-LOC-DESCENT-001
+    status: CANON
+    vertical_relation: descending
+    traversal_state:
+      supports: [fibers, wet_elastic_surfaces]
+      humidity: high
+      fall_exposure: high_relative_to_capsule_route
+      filter_cost: unknown
+      stability: requires_active_care
+    return_model:
+      state: not_established
+      reason: ascent_cost_and_support_behavior_not_quantified
+
+  - edge_id: ELY-EDGE-FORK-HORIZONTAL-001
+    from: ELY-LOC-FORK-001
+    to: ELY-LOC-HORIZONTAL-001
+    status: CANON
+    vertical_relation: level_or_mixed
+    traversal_state:
+      fog: intense
+      orientation_cost: high
+      fine_vibration_present_near_known_sector: true
+      filter_cost: provisional_lower_than_upper_vault_in_available_comparisons
+    return_model:
+      state: not_established
+      reason: visibility_and_route_geometry_can_change
+
+  - edge_id: ELY-EDGE-FORK-UPPER-001
+    from: ELY-LOC-FORK-001
+    to: ELY-LOC-UPPER-VAULT-001
+    status: CANON
+    vertical_relation: ascending
+    traversal_state:
+      filter_cost: higher_than_first_route_in_available_comparisons
+      particles: elevated_relative_to_first_route_available_comparisons
+      upward_water_transport_visible: true
+      supports: complex_biological_surfaces
+    return_model:
+      state: not_established
+      reason: return_cost_not_measured_and_air_cost_is_state_dependent
 
 organisms:
   - organism_id: ELY-BIO-FLATDISC-001
@@ -238,12 +299,19 @@ integration:
     world_state_private: true
     observed_state_player_earned: true
     ui_state_never_exposes_private_truth_by_default: true
-    map_model: tridimensional_graph_even_if_ui_uses_nodes_or_hexes
+    map_model: tridimensional_directed_graph_even_if_ui_uses_nodes_or_hexes
+    edge_return_state_must_be_explicit: true
 
 validation:
   source_cases:
     - ELY-LOC-CAPSULE-001
     - ELY-BIO-SIXSUPPORT-001
     - ELY-ANOM-THREEARM-001
+  edge_cases:
+    - ELY-EDGE-CAPSULE-FORK-001
+    - ELY-EDGE-FORK-DESCENT-001
+    - ELY-EDGE-FORK-HORIZONTAL-001
+    - ELY-EDGE-FORK-UPPER-001
   validation_document: WORLD_PRODUCTION_VALIDATION_V1.md
-  status: PASSED_V1
+  adapter_document: world/PROJECT_ELYNDRA_ADAPTER_V1.md
+  status: PASSED_V1_WITH_DIRECTED_3D_EDGES
