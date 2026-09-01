@@ -91,33 +91,26 @@ Resultado: `PLANETARY_LAYERS.md`.
 
 # FASE 3 — ECOLOGÍA CONECTADA
 
-**Estado: SIGUIENTE BLOQUE**
+**Estado: COMPLETA V1 — `ECOLOGY_NETWORK.md`**
 
-Cada organismo debe responder a tres preguntas:
+La primera red funcional ya conecta energía, agua, partículas, biomasa, reciclaje y movimiento entre alturas sin cerrar prematuramente taxonomías.
 
-1. cómo obtiene energía;
-2. cómo evita peligros;
-3. qué cambia en su entorno.
+Principios fijados:
 
-Construir primero relaciones ecológicas y después nombres.
+- cada organismo debe conectarse al menos con un flujo planetario y con otro organismo/proceso;
+- la verticalidad es también ecológica;
+- el agua funciona como vector de materia entre capas;
+- la carga de partículas puede convertirse en recurso ecológico y coste humano;
+- membranas, fauna de discos, criatura de seis apoyos y organismos de bóveda conservan funciones abiertas donde el canon no demuestra más;
+- filtradores y recicladores se incorporan como funciones de DISEÑO, no como especies cerradas;
+- planeadores, flora suspendida y bioluminiscencia profunda permanecen en RESERVA;
+- microorganismos vivos e inteligencia ecológica global permanecen como MISTERIO, no hechos.
 
-Familias iniciales:
+Se ha añadido una cadena ecológica de trabajo y una matriz por capas para que regiones futuras nazcan de flujos coherentes.
 
-- membranas ambientales;
-- fauna acuática de discos;
-- criaturas terrestres de seis apoyos;
-- organismos filtradores;
-- planeadores;
-- flora suspendida;
-- organismos asociados a agua ascendente;
-- bioluminiscencia funcional de capas profundas.
+Resultado: `ECOLOGY_NETWORK.md`.
 
-La red deberá conectar las capas definidas en `PLANETARY_LAYERS.md` mediante agua, partículas, restos orgánicos, migración, corrientes y superficies vivas.
-
-Resultado esperado:
-
-- `ECOLOGY_NETWORK.md` primero;
-- después `FAUNA.md` y `FLORA.md` cuando las funciones estén estabilizadas.
+`FAUNA.md` y `FLORA.md` se posponen deliberadamente hasta estabilizar clima y regiones.
 
 ---
 
@@ -142,6 +135,8 @@ Resultado esperado: `CLIMATE.md`.
 
 # FASE 5 — GEOGRAFÍA A GRAN ESCALA
 
+**Estado: SIGUIENTE BLOQUE DEL PRIMER PAQUETE — `REGIONS.md`**
+
 El planeta debe ser mayor que el mapa del protagonista.
 
 Definir regiones visibles o inferibles a distancia antes de visitarlas.
@@ -155,6 +150,8 @@ Posibles reservas de diseño:
 - capa fría superior;
 - niveles inferiores sin luz directa;
 - regiones dominadas por estructuras regulares.
+
+Cada región deberá distinguirse primero por sistema físico/ecológico y solo después por fauna espectacular.
 
 Resultado esperado: `REGIONS.md`.
 
@@ -247,6 +244,9 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 10. Toda ampliación debe comprobarse contra `CONTINUITY.md`.
 11. Una capa planetaria es un régimen ambiental, no una cota rígida.
 12. Ningún gradiente global puede inferirse de una sola observación local.
+13. Una señal útil al protagonista debe tener primero una función propia dentro del ecosistema.
+14. Una especie nueva necesita nicho, flujos y relaciones antes de recibir nombre definitivo.
+15. Primero cambia el sistema; después aparece la criatura.
 
 ---
 
@@ -256,8 +256,8 @@ Orden de ejecución:
 
 1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
 2. `PLANETARY_LAYERS.md` — **COMPLETO V1**
-3. `ECOLOGY_NETWORK.md` — **SIGUIENTE**
-4. `REGIONS.md`
+3. `ECOLOGY_NETWORK.md` — **COMPLETO V1**
+4. `REGIONS.md` — **SIGUIENTE**
 5. `MYSTERY_37S.md`
 
 Hasta terminar este bloque, no se fijarán nombres definitivos para nuevas especies o regiones salvo necesidad narrativa real.
