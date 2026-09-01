@@ -18,15 +18,16 @@ Reducir longitud y número de capítulos desde el principio. Salir antes de la c
 | 07 | antiguos XIV + XV | DONE | 10/10 | A/I1/I2 fusionado | Coste atmosférico + partículas visibles + comparación de rutas + contaminación de retorno + separación funcional de cabina; antiguo XV eliminado |
 | 08 | antiguo XVI — La mano izquierda | DONE | 10/10 | A/I1/I2 actualizado | Exposición dérmica única comprimida a decisión → 34 s → retorno → ausencia de reacción aguda → no repetir; canon estricto conservado |
 | 09 | antiguos XVII + XVIII | DONE | 10/10 | A/I1/I2 fusionado | Tono agudo ausente → película asciende → tono reaparece; regreso convierte avería térmica en regla de prioridad energética; antiguo XVIII eliminado |
-| 10 | antiguo XIX — La franja que vuelve | PENDING | — | revisar/fusionar | Primer capítulo pendiente; comprobar si su hallazgo merece unidad propia o puede absorber XX |
-| 11+ | antiguos XX–XXV | PENDING | — | — | Reestructurar después de XIX sin abrir XXVI |
+| 10 | antiguos XIX + XX | DONE | 10/10 | A/I1/I2 fusionado | Cobertura oscura vuelve parcialmente + rodilla fuerza jornada interior + recepción anómala ~37 s antes + prueba con hora desplazada + segunda anomalía a −36,91 s; antiguo XX eliminado |
+| 11 | antiguo XXI — Antes de apoyar el pie | PENDING | — | revisar/fusionar | Primer capítulo pendiente; evaluar con XXII sin perder cambio físico de ruta ni coste corporal |
+| 12+ | antiguos XXII–XXV | PENDING | — | — | Reestructurar sin abrir XXVI |
 
 ## Resultado acumulado
-El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal y ahora una relación física nueva en la estructura que desemboca en una restricción energética humana concreta.
+El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal, una relación física nueva en la estructura y ahora una observación ecológica breve que conduce a la prueba controlada más fuerte hasta el momento del misterio de los 37 segundos.
 
-Hasta aquí se han eliminado **nueve capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV y XVIII.
+Hasta aquí se han eliminado **diez capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV, XVIII y XX.
 
-## TOP — unidad 09
+## TOP — unidad 10
 - Gancho: 2/2.
 - Avance: 2/2.
 - Descubrimiento: 2/2.
@@ -34,7 +35,7 @@ Hasta aquí se han eliminado **nueve capítulos narrativos completos** respecto 
 - Compresión: 2/2.
 - Total: **10/10**.
 
-La unidad avanza más de lo que analiza: vuelve a la ruta horizontal, observa una relación física reproducible entre película y tono sin convertirla en mensaje o mecanismo confirmado, y al regresar una avería pequeña obliga a integrar baliza, aire, agua y calor como cargas que compiten por una misma reserva. La escena memorable es doble pero coherente: una película que asciende hasta devolver un tono y una cena fría junto a un módulo reparado que se decide no encender. El final empuja conducta futura en vez de cerrar con un registro.
+La unidad avanza más de lo que analiza. La visita a la bóveda conserva solo la evidencia útil de que la cobertura oscura vuelve parcialmente sobre zonas despejadas, sin elevar `crecimiento` a hecho. La rodilla convierte el regreso en coste y justifica una jornada interior que deja de ser pausa: el protagonista descubre retrospectivamente fragmentos aproximadamente 37 s antes de una llamada, desplaza una transmisión +7 min 14 s y observa una segunda recepción que comienza 36,91 s antes. El controlador conocía la nueva hora y comparte reloj/alimentación parcial con el receptor, por lo que el acoplamiento interno sigue sin descartarse. La escena memorable es la espera de la llamada movida; el misterio gana una restricción nueva sin recibir explicación prematura.
 
 ## Siguiente acción
-Revisar `19-la-franja-que-vuelve.md` como primer capítulo pendiente. Evaluar si su descubrimiento debe mantenerse separado o fusionarse con `20-antes-de-la-llamada.md`; cualquier conexión con los 37 segundos debe añadir una restricción nueva y no convertir correlación en causalidad.
+Revisar `21-antes-de-apoyar-el-pie.md` como primer capítulo pendiente. Evaluar su posible fusión con `22-lo-que-entra.md`; el cambio geométrico de la ruta debe sentirse físicamente y producir una decisión inmediata, no convertirse en otra comprobación de una anomalía conocida.
