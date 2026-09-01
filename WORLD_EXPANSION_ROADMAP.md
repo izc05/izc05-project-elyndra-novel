@@ -176,38 +176,37 @@ Decisiones centrales:
 
 # FASE 10 — INTEGRACIÓN NOVELA / IMÁGENES / JUEGO
 
-**SIGUIENTE BLOQUE — `WORLD_PRODUCTION_RULES.md`**
+**COMPLETA V1 — `WORLD_PRODUCTION_RULES.md`**
 
-Traducir la biblia de mundo a reglas de producción reutilizables.
+La V1 traduce la biblia de mundo a un contrato de producción reutilizable sin convertir conocimiento interno en conocimiento del personaje.
 
-Cada localización jugable o narrativa deberá poder declarar:
+Queda establecido:
 
-- altura/capa;
-- región dominante;
-- accesos;
-- coste de aire/filtro;
-- agua;
-- caída;
-- clima base y estado climático actual;
-- fauna/flora;
-- recursos;
-- estructuras/anomalías;
-- huellas de historia profunda;
-- evento narrativo;
-- cambios posibles de ruta.
+- semáforo operativo CANON / DISEÑO / RESERVA / MISTERIO;
+- separación entre verdad del mundo, conocimiento del equipo, conocimiento del personaje y conocimiento mostrado al lector/jugador;
+- ficha universal de localización con espacio, supervivencia, clima, biología, estructuras, historia, narrativa, visual y juego;
+- ficha universal de organismo con función ecológica, comportamiento confirmado/inferido y límites de interpretación;
+- ficha universal de estructura/anomalía con observación, interfaces, cronología relativa, hipótesis y control de revelación;
+- reglas específicas para novela: descubrimiento antes que explicación y consecuencia después de descubrimiento;
+- reglas específicas para imágenes canónicas: cada imagen cuenta como evidencia y no puede revelar función u origen no observado;
+- tratamiento explícito de RESERVA VISUAL como material no canónico;
+- arquitectura de juego en tres capas: `world_state`, `observed_state`, `ui_state`;
+- `fog of knowledge` independiente de la niebla espacial;
+- conexiones de mapa con dimensión vertical y costes de retorno asimétricos;
+- información como recompensa jugable;
+- persistencia sistémica de rutas, niebla, agua, membranas, fauna y soportes;
+- contrato de puente con `project-elyndra`: consume una vista derivada del canon y nunca lo redefine;
+- IDs técnicos estables para localizaciones, biología y anomalías sin forzar nombres diegéticos;
+- checklist de aprobación de escenas/assets y reglas de ascenso DISEÑO → CANON;
+- primer paquete de IDs para el sector actualmente conocido.
 
-La integración con `project-elyndra` no debe convertir el planeta en una cuadrícula plana.
+Decisiones centrales:
 
-La primera pasada deberá crear:
+> Diseñar con más información no autoriza a mostrar más información.
 
-- ficha universal de localización;
-- ficha universal de organismo;
-- ficha de anomalía/estructura;
-- reglas de revelación por medio (novela, imagen, juego);
-- semáforo CANON / DISEÑO / RESERVA / MISTERIO para producción;
-- reglas para que una imagen no revele más de lo que sabe el protagonista;
-- reglas para que el juego pueda usar conocimiento de diseño sin convertirlo automáticamente en conocimiento del personaje;
-- puente formal hacia el repositorio `project-elyndra` sin duplicar el canon.
+> `project-elyndra` consume canon; no lo redefine.
+
+> El mapa puede usar nodos o hexágonos en interfaz, pero el mundo sigue siendo tridimensional.
 
 ---
 
@@ -263,6 +262,13 @@ La primera pasada deberá crear:
 48. La flora debe modificar agua, aire, soporte o acceso para justificar su presencia narrativa.
 49. Una RESERVA VISUAL no puede aparecer como hecho en una ilustración canónica.
 50. El conocimiento del equipo creativo, del jugador y del protagonista son capas distintas.
+51. Una verdad de diseño no es automáticamente una verdad narrativa.
+52. Una imagen canónica se trata como evidencia y puede revelar demasiado.
+53. El juego nunca expone `world_state` directamente cuando el personaje solo conoce `observed_state`.
+54. Una conexión espacial debe conservar su componente vertical aunque la UI se represente con nodos o hexágonos.
+55. Ir de A a B no implica que volver de B a A tenga el mismo coste.
+56. Los IDs técnicos no implican nombres diegéticos ni identidad causal.
+57. El canon fluye hacia derivados; un asset o sistema jugable no canoniza nada por sí mismo.
 
 ---
 
@@ -280,11 +286,13 @@ La primera pasada deberá crear:
 8. `CLIMATE.md`
 9. `FAUNA.md`
 10. `FLORA.md`
+11. `WORLD_PRODUCTION_RULES.md`
 
 ## Siguiente secuencia
 
-1. `WORLD_PRODUCTION_RULES.md` — **SIGUIENTE**
-2. Integración con novela e imágenes
-3. Puente formal con `project-elyndra`
+1. Validar fichas universales con tres entidades canónicas reales — **SIGUIENTE**
+2. Crear primera vista derivada YAML/JSON del mundo conocido
+3. Preparar puente consumible por `project-elyndra`
+4. Integración con novela e imágenes mediante IDs y límites de revelación
 
-Hasta estabilizar las reglas de producción no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
+Hasta estabilizar las fichas derivadas no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
