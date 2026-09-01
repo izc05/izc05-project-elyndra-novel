@@ -9,27 +9,23 @@ Reducir longitud y número de capítulos desde el principio. Salir antes de la c
 | Unidad nueva | Material heredado | Estado FAST CUT | TOP | Visuales | Nota |
 |---:|---|---|---:|---|---|
 | 00 | Prólogo — Treinta y siete segundos | DONE | 10/10 | A/I1/I2 existente | Accidente comprimido; primer paso fuera de la cápsula dentro del Prólogo |
-| 01 | I + antiguo II | DONE | 10/10 | A/I1/I2 actualizado | Primera ruta + descenso + fauna acuática + movimiento de raíz; antiguo `02-bajo-la-niebla.md` eliminado |
+| 01 | I + antiguo II | DONE | 10/10 | A/I1/I2 actualizado | Primera ruta + descenso + fauna acuática + movimiento de raíz; antiguo II eliminado |
 | 02 | antiguos III + IV | DONE | 10/10 | A/I1/I2 fusionado | Falsa bifurcación + tonos + estructura de tres brazos + seis formas; antiguo IV eliminado |
 | 03 | antiguos V + VI | DONE | 10/10 | A/I1/I2 fusionado | Bóveda + seis apoyos + tormenta + conexión espacial + vacío real + línea oscura + vibración fina; antiguo VI eliminado |
-| 04 | antiguo VII — La parte seca | PENDING | — | revisar/fusionar | Consecuencia/refugio; comprimir si no necesita capítulo propio |
-| 05 | antiguo VIII — El agua que no era agua | PENDING | — | revisar/fusionar | Evaluar con IX |
-| 06 | antiguo IX — Antes de tocar la raíz | PENDING | — | revisar/fusionar | Recurso agua; probable fusión con VIII |
-| 07 | antiguo X — Una hora más | PENDING | — | revisar | — |
-| 08 | antiguo XI — La órbita vacía | PENDING | — | revisar | — |
-| 09 | antiguo XII — El mismo camino | PENDING | — | revisar/fusionar | — |
-| 10 | antiguo XIII — La mitad de una ración | PENDING | — | revisar/fusionar | — |
-| 11 | antiguo XIV — El aire que gastas | PENDING | — | revisar/fusionar | — |
-| 12 | antiguo XV — Lo que entra contigo | PENDING | — | revisar/fusionar | — |
-| 13 | antiguo XVI — La mano izquierda | PENDING | — | revisar/fusionar | — |
-| 14+ | antiguos XVII–XXV | PENDING | — | — | Reestructurar tras cerrar la compresión de I–XVI |
+| 04 | antiguos VII + VIII + IX | DONE | 10/10 | A/I1/I2 fusionado | Refugio + agua de discos + fauna luminosa + cambio de tono + colector de lluvia + exposición oral mínima; antiguos VIII y IX eliminados |
+| 05 | antiguos X + XI | DONE | 10/10 | A/I1/I2 fusionado | Acceso inferior + profundidad de plataforma + resbalón/coste + ventana orbital + línea blanca + Aster no confirmada + decisión de seguir explorando Elyndran; antiguo XI eliminado |
+| 06 | antiguos XII + XIII | DONE | 10/10 | A/I1/I2 fusionado | Ruta conocida cambia + arañazos + depresión nueva + hambre + criatura de seis apoyos retirando película oscura; antiguo XIII eliminado |
+| 07 | antiguo XIV — El aire que gastas | PENDING | — | revisar/fusionar | Primer capítulo pendiente; evaluar con XV si comparten coste atmosférico/contaminación |
+| 08 | antiguo XV — Lo que entra contigo | PENDING | — | revisar/fusionar | — |
+| 09 | antiguo XVI — La mano izquierda | PENDING | — | revisar/fusionar | — |
+| 10+ | antiguos XVII–XXV | PENDING | — | — | Reestructurar tras cerrar la compresión de I–XVI |
 
 ## Resultado acumulado
-El lector abandona la cápsula en el Prólogo. El primer capítulo ya contiene exploración profunda. La siguiente unidad lleva directamente a la ruta horizontal y las primeras formas regulares. La tercera une la expansión ascendente con el descubrimiento del obstáculo físico de la plataforma, evitando un capítulo entero de revisita.
+El lector abandona la cápsula en el Prólogo. El primer capítulo ya contiene exploración profunda. La segunda unidad lleva a la ruta horizontal y las primeras formas regulares. La tercera une expansión ascendente y obstáculo físico de la plataforma. La cuarta convierte tres capítulos de refugio/agua en una sola progresión de supervivencia. La quinta usa ese margen para explorar bajo la plataforma y convierte la ausencia de Aster en una decisión de seguir avanzando por Elyndran. La sexta une el cambio material de una ruta conocida con la presión del hambre y un descubrimiento ecológico útil, sin dedicar un capítulo separado a volver a la cápsula y salir de nuevo.
 
-Hasta aquí se han eliminado **tres capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV y VI.
+Hasta aquí se han eliminado **siete capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI y XIII.
 
-## TOP — unidad 03
+## TOP — unidad 06
 - Gancho: 2/2.
 - Avance: 2/2.
 - Descubrimiento: 2/2.
@@ -37,7 +33,7 @@ Hasta aquí se han eliminado **tres capítulos narrativos completos** respecto a
 - Compresión: 2/2.
 - Total: **10/10**.
 
-La unidad avanza más de lo que analiza, cambia región y conocimiento varias veces, conserva una escena memorable en la tormenta con la criatura y culmina con un obstáculo físico claro que obliga a buscar una ruta inferior.
+La unidad avanza más de lo que analiza, convierte una ruta conocida en evidencia de cambio real, hace que el hambre motive exploración ecológica y conserva la ambigüedad: la criatura retira la película oscura, pero no se afirma que la coma ni que esa materia sea segura para humanos.
 
 ## Siguiente acción
-Revisar `07-la-parte-seca.md`. Antes de conservarlo como capítulo propio, comprobar si su reparación/refugio puede comprimirse e integrarse con el bloque de agua `08-el-agua-que-no-era-agua.md` + `09-antes-de-tocar-la-raiz.md`.
+Revisar `14-el-aire-que-gastas.md` como primer capítulo pendiente. Evaluar si debe mantenerse separado o fusionarse con `15-lo-que-entra-contigo.md`; el coste del aire y la contaminación de retorno pueden pertenecer a una misma progresión si no se pierde descubrimiento.
