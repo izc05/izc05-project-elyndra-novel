@@ -1,201 +1,143 @@
-# Capítulo XXIV — Lo que pesa
+# Capítulo XIII — Lo que pesa
 
-La lámina del colector seguía firme y la reserva experimental de lluvia continuaba separada del agua terrestre.
+La reserva experimental seguía separada del agua terrestre.
 
-No la bebí.
+No la toqué.
 
-Abrí el armario.
+La plataforma era otra clase de problema.
 
-Ocho raciones completas y una mitad.
+La fibra gruesa que había visto bajo su borde parecía capaz de sostenerme.
 
-La rodilla derecha tardó menos en soltarse que el día anterior.
+Parecía.
 
-Eso no significaba que estuviera bien.
+En Elyndran esa palabra empezaba a sonar peligrosa.
 
-Miré el mapa.
+Preparé una carga con piezas inútiles de la cápsula, malla del paracaídas y una línea larga. Pesaba mucho más que una herramienta y bastante menos que yo con el traje.
 
-La plataforma seguía siendo la pregunta que exigía menos distancia y más cuidado.
-
-No su parte superior.
-
-El borde inferior.
+Suficiente para hacer una pregunta sin usar mi cuerpo como respuesta.
 
 ---
 
-Usé la ruta horizontal y la alternativa superior del canal de raíces paralelas sin probar el apoyo antiguo.
+Crucé la ruta horizontal y tomé la alternativa superior del canal de raíces paralelas sin mirar el apoyo antiguo.
 
-La estructura de tres brazos quedó atrás. Ambas cavidades visibles contenían película transparente. No me detuve a medir tonos.
+La rodilla derecha protestó en la bajada, pero aguantó.
 
-Bajé por la rama húmeda hasta situarme de nuevo bajo la plataforma.
+Bajo la plataforma, la fibra seguía junto a la nervadura oscura.
 
-Repetí primero la fotografía antigua.
+También había cambiado algo más.
 
-Misma posición aproximada.
+Una sección de esa nervadura estaba más expuesta que en mi registro anterior. No sabía si se había movido la corteza, la raíz o el propio material oscuro.
 
-Mismas referencias de corteza.
+No necesitaba resolverlo para decidir que allí nada debía tratarse como fijo.
 
-Una nervadura oscura junto a la fibra gruesa aparecía ahora más expuesta.
+Enganché la carga desde una posición en la que podía perderla sin irme con ella.
 
-Unos doce centímetros más de material visible que en el registro anterior.
-
-Las referencias próximas coincidían suficientemente bien para que el cambio no desapareciera al alinear las imágenes.
-
-No sabía qué se había movido.
-
-La corteza.
-
-La raíz.
-
-La estructura.
-
-Escribí:
-
-**NERVADURA MÁS EXPUESTA ENTRE REGISTROS. MECANISMO NO DETERMINADO.**
-
-Por encima había además un pequeño entrante oscuro, de unos siete centímetros, parcialmente oculto por crecimiento.
-
-Podía ser unión.
-
-Desgaste.
-
-Rotura.
-
-No metí los dedos.
-
----
-
-La fibra gruesa próxima a la nervadura parecía capaz de sostenerme.
-
-A simple vista.
-
-Eso no significaba nada.
-
-La probé primero con la mano y después con una línea y una herramienta suspendida.
-
-Flexionó unos milímetros y quedó estable.
-
-La prueba demostraba que podía sostener una herramienta durante ese tiempo.
-
-Nada más.
-
-No subí.
-
-Dejé una vuelta floja de cinta como referencia visual y fotografié la separación entre fibra y nervadura.
-
-**POSIBLE APROXIMACIÓN INFERIOR. REQUIERE PRUEBA DE CARGA ANTES DE USO CORPORAL.**
-
-**NO USAR NERVADURA COMO ANCLA SIN VERIFICACIÓN.**
-
-Volví a la cápsula y comí la mitad que quedaba abierta.
-
-Ocho raciones completas.
-
-La siguiente prueba no usaría mi cuerpo como peso.
-
----
-
-Construí una carga con piezas de la cápsula que ya no tenían función: revestimientos deformados, cierres inútiles y una carcasa metálica del sistema de impacto.
-
-Las envolví en malla del paracaídas y las aseguré con línea.
-
-El conjunto pesaba varias veces más que la herramienta y seguía muy por debajo de mi masa con traje.
-
-Era un escalón de prueba.
-
-Lo arrastré hasta la plataforma.
-
-El viaje fue lento porque cada paso debía ser seguro para mí y también dejar una trayectoria por la que la masa pudiera pasar sin tirarme desde atrás.
-
-En el canal de raíces paralelas crucé primero y pasé el paquete por separado.
-
-La rodilla se calentó, pero siguió aceptando carga.
-
----
-
-Bajo la plataforma, la cinta de referencia continuaba donde la había dejado.
-
-Monté el ensayo desde una posición que permitía perder el paquete sin perderme con él.
-
-Pasé una línea alrededor de la fibra gruesa y bajé la masa hasta dejarla suspendida unos centímetros por debajo de la rama.
+La dejé suspendida.
 
 La fibra flexionó.
 
 Esperé.
 
-Cinco segundos.
+No se rompió.
 
-Diez.
+Moví el punto de carga unos centímetros.
 
-Treinta.
-
-Quedó estable.
-
-Desplacé después el punto de suspensión unos centímetros hacia un extremo para empeorar el brazo de palanca.
-
-Volvió a flexionar.
+Volvió a ceder.
 
 Volvió a estabilizarse.
 
-Eso seguía sin demostrar capacidad para carga humana.
+—Bien —murmuré—. Ahora haz el favor de seguir siendo aburrida.
 
-Entonces llegó el primer golpe profundo.
+El primer golpe profundo llegó desde abajo.
 
-La presión subió por las botas.
+La presión me subió por las botas.
 
 El paquete osciló.
 
 La fibra cambió de tensión.
 
-La masa subió ligeramente.
+La carga subió ligeramente.
+
+Me quedé inmóvil.
 
 Segundo golpe.
 
-La referencia se desplazó otros pocos centímetros respecto a una mancha pálida del fondo.
+La cinta de referencia se desplazó respecto a una mancha pálida del fondo.
 
-Dos o tres.
+Poco.
 
-Quizá menos.
+Pero se desplazó.
 
-La niebla y el ángulo no permitían una cifra mejor.
+La nervadura oscura no mostró un movimiento que pudiera distinguir.
 
-La nervadura oscura no mostró movimiento apreciable.
+La fibra sí.
 
-Esperé.
+Y yo seguía dependiendo de una línea que la rodeaba.
 
-La fibra mantuvo la nueva tensión y después cedió muy despacio. No pude demostrar que regresara exactamente a su posición inicial.
+---
+
+Esperé a que todo dejara de vibrar.
+
+La fibra mantuvo la nueva tensión durante unos segundos y luego cedió muy despacio.
+
+No volvió exactamente al lugar que yo recordaba.
+
+O no pude demostrar que lo hiciera.
+
+La diferencia daba igual para la decisión.
 
 Había sostenido la carga.
 
 También había cambiado mientras la sostenía.
 
-La pregunta ya no era solo cuánto peso aguantaba.
+Miré el espacio bajo mis botas.
 
-Era cuánto podía moverse mientras yo dependiera de ella.
+Niebla.
 
----
+Más raíces debajo.
+
+Nada que quisiera comprobar cayendo.
+
+Recuperé el paquete.
 
 No repetí el ensayo.
 
-Recuperé el paquete y retiré la línea de carga. La vuelta floja de cinta quedó como referencia.
+La prueba ya había respondido a la pregunta equivocada.
 
-Escribí:
+No importaba solo cuánto peso soportaba una fibra.
 
-**FIBRA: CARGA INTERMEDIA SOSTENIDA SIN ROTURA OBSERVADA.**
+Importaba cuánto podía moverse mientras yo confiaba en ella.
 
-**CAMBIO DE LONGITUD/TENSIÓN COINCIDENTE CON GOLPES PROFUNDOS. MAGNITUD PEQUEÑA. CAUSA NO DETERMINADA.**
+---
 
-Una estructura que soportaba peso no se volvía segura por eso.
+El regreso castigó más la rodilla que la ida.
 
-El regreso castigó la rodilla más que la ida. En una estrechez necesité dos intentos para aceptar el peso al levantarme, sin dolor agudo ni inflamación nueva.
+En una estrechez tuve que incorporarme dos veces antes de conseguir cargar bien la pierna derecha.
 
-Dentro limpié también el paquete antes de cruzarlo a la zona limpia.
+No había dolor agudo.
 
-Abrí una de las ocho raciones, comí la mitad fría y sellé la otra.
+Tampoco ganas de tentar la suerte.
 
-Quedaban siete completas y una mitad segura.
+Cuando la cápsula apareció tras la curva sentí alivio, pero no el de los primeros días.
 
-En la pantalla, la fibra seguía congelada bajo carga.
+Era más simple.
 
-Había ido a comprobar cuánto podía sostener.
+Había vuelto con una ruta descartada.
 
-Volví sabiendo que sostener no era lo mismo que quedarse quieta.
+Eso también era progreso.
+
+Limpié el paquete antes de pasarlo a la zona limpia y comí media ración fría sentado junto a la escotilla.
+
+La otra mitad quedó sellada.
+
+En la pantalla congelé una sola imagen: la fibra sosteniendo la carga después del segundo golpe.
+
+No necesitaba escribir mucho.
+
+La próxima aproximación inferior no dependería de ella.
+
+La plataforma seguía allí.
+
+Yo también.
+
+Pero entre ambos acababa de desaparecer una opción que parecía segura desde lejos.
