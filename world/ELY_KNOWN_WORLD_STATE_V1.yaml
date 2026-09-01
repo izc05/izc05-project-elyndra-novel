@@ -1,0 +1,249 @@
+schema_version: 1
+source_status: DERIVED_VIEW
+canonical_authority: CONTINUITY.md
+world_logic: ELYNDRAN_WORLD_BIBLE_V1.md
+production_contract: WORLD_PRODUCTION_RULES.md
+
+rules:
+  statuses: [CANON, DISEÑO, RESERVA, MISTERIO]
+  derived_data_never_overrides_canon: true
+  unknown_is_valid: true
+  no_ground_assumption: true
+  no_technology_assumption_from_regular_geometry: true
+  no_diet_assumption_from_contact: true
+  no_language_assumption_from_light_or_signal: true
+
+locations:
+  - location_id: ELY-LOC-CAPSULE-001
+    working_name: sector_de_la_capsula
+    production_status: CANON
+    observed_state:
+      shelter: unico_refugio_seguro_conocido
+      substrate: gran_raiz
+      ground_seen: false
+      route_to_fork: reproducible_from_memory
+      airlock: false
+      contamination_control: partial
+    world_state_design:
+      role: logistics_and_retreat_hub
+      geometry_persistence: variable
+    ui_state_initial:
+      label: "Sector de la cápsula"
+      safe_claims:
+        - refugio conocido
+        - acceso a rutas exploradas
+        - geometría local no completamente fija
+    reserve:
+      - permanent_external_base
+      - improvised_airlock
+    mysteries:
+      - impact_location_significance
+      - relation_to_entry_anomaly
+
+  - location_id: ELY-LOC-FORK-001
+    working_name: bifurcacion_principal
+    production_status: CANON
+    observed_state:
+      branches:
+        - down
+        - horizontal
+        - up
+      fully_explored: false
+    topology:
+      dimension: 3D
+      return_cost_is_symmetric: false
+
+  - location_id: ELY-LOC-DESCENT-001
+    working_name: ruta_descendente
+    production_status: CANON
+    observed_state:
+      relative_temperature: approximately_4C_warmer_than_capsule_sector_local_comparison
+      humidity: high
+      supports: [fibers, wet_elastic_surfaces]
+      water_discs_present: true
+      small_flat_aquatic_fauna_present: true
+      deep_impacts_audible_or_detectable: true
+    forbidden_global_inference:
+      - lower_always_means_warmer
+      - water_is_safe
+
+  - location_id: ELY-LOC-HORIZONTAL-001
+    working_name: ruta_horizontal
+    production_status: CANON
+    observed_state:
+      fog: intense
+      regular_geometries_present: true
+      three_arm_structure_present: true
+      platform_access: partial
+      dark_material_present: true
+      fine_vibration_detected: true
+    mysteries:
+      - natural_vs_biological_vs_constructed_vs_hybrid
+      - relationship_between_regular_elements
+
+  - location_id: ELY-LOC-UPPER-VAULT-001
+    working_name: boveda_ascendente
+    production_status: CANON
+    observed_state:
+      higher_filter_load_than_first_route_in_available_comparisons: true
+      green_columns_present: true
+      copper_colored_plates_present: true
+      light_sensitive_white_filaments_present: true
+      upward_water_transport_observed: true
+      six_support_creature_present: true
+    mysteries:
+      - upward_water_transport_mechanism
+      - whether_visible_modules_are_one_or_multiple_organisms
+
+organisms:
+  - organism_id: ELY-BIO-FLATDISC-001
+    working_name: animales_planos_de_los_discos
+    production_status: CANON
+    observed_state:
+      size: small
+      medium: aquatic
+      body: flat_blue_gray
+      locomotion: undulation
+      pale_points: true
+      brief_light_sequences_observed: true
+      responds_to_vibration_or_changes: true
+    reserve:
+      - diet
+      - reproduction
+      - internal_anatomy
+      - population_structure
+    mysteries:
+      - meaning_of_light_sequences
+      - danger_level
+    production_forbidden:
+      - label_light_as_language
+      - assign_diet_without_evidence
+
+  - organism_id: ELY-BIO-SIXSUPPORT-001
+    working_name: criatura_de_seis_apoyos
+    production_status: CANON
+    observed_state:
+      size: small
+      supports: 6
+      posture: low_body
+      dorsal_traits: copper_colored_plates
+      ventral_or_lower_trait: tubular_structure
+      aggression_observed: false
+      contact_with_surface_film_or_material: true
+    design_state:
+      locomotion_must_resolve_attachment_and_stability: true
+      ecological_function: unknown_open
+    reserve:
+      - diet
+      - reproduction
+      - social_behavior
+      - global_distribution
+    mysteries:
+      - tubular_structure_function
+      - nature_of_contacted_material
+    production_forbidden:
+      - depict_contact_as_confirmed_feeding
+      - classify_as_herbivore_or_scavenger
+      - make_domesticated_or_companion_without_canon
+
+  - organism_id: ELY-BIO-GLIDER-001
+    working_name: planeadores_region_abierta
+    production_status: CANON
+    observed_state:
+      aerial_or_gliding_mobility: true
+      uses_updrafts_near_cascades: true
+    reserve:
+      - taxonomy
+      - diet
+      - reproduction
+      - predator_status
+
+structures_and_anomalies:
+  - anomaly_id: ELY-ANOM-THREEARM-001
+    working_name: estructura_de_tres_brazos
+    production_status: MISTERIO
+    canon_observation:
+      regular_geometry: true
+      arm_count: 3
+      differentiated_materials: true
+      vibration_or_tone_response: true
+      partial_physical_sequence_observed: true
+    reveal_stage:
+      current_minimum: partial_mechanism
+      current_maximum: interface_investigation
+      forbidden_jump_to:
+        - confirmed_function
+        - confirmed_builder
+        - civilization
+        - global_history
+    compatible_hypothesis_families:
+      - natural_or_biomineral
+      - organism_structural
+      - colonized_remnant
+      - active_nonconscious_structure
+      - constructed_artifact
+      - hybrid_system
+    reserve:
+      - original_function
+      - absolute_age
+      - relation_to_platform_as_single_system
+
+  - anomaly_id: ELY-ANOM-37S-001
+    working_name: fenomeno_37_segundos
+    production_status: MISTERIO
+    canon_constraints:
+      entry_display_seconds: -37.00
+      damaged_manual_capture_contains_37: true
+      retrospective_fragments_before_auto_transmission: approximately_37s
+      shifted_transmission_offset: +7m14s
+      shifted_anomalous_reception_lead_seconds: 36.91
+      controller_knew_shifted_time: true
+      receiver_and_controller_share_time_reference_and_part_of_power_bus: true
+      internal_coupling_not_excluded: true
+      next_ordinary_cycle_did_not_reproduce: true
+    forbidden_conclusions:
+      - prediction
+      - time_travel
+      - echo
+      - Aster_signal
+      - Elyndran_intelligence
+      - external_physical_cause
+      - internal_fault_as_final_answer
+    next_valid_progress:
+      - eliminate_hypothesis
+      - separate_causes
+      - establish_limit
+      - improve_independent_measurement
+
+knowledge_model:
+  fog_levels:
+    - undiscovered
+    - observed_from_distance
+    - reached
+    - traversed
+    - measured
+    - compared
+    - partially_understood
+  principle: information_is_a_resource
+
+integration:
+  novel:
+    may_canonize_new_facts: true
+    rule: discovery_before_explanation
+  images:
+    count_as_evidence: true
+    require_temporal_context: true
+    reserve_visual_must_be_marked_noncanonical: true
+  game:
+    world_state_private: true
+    observed_state_player_earned: true
+    ui_state_never_exposes_private_truth_by_default: true
+    map_model: tridimensional_graph_even_if_ui_uses_nodes_or_hexes
+
+validation:
+  source_cases:
+    - ELY-LOC-CAPSULE-001
+    - ELY-BIO-SIXSUPPORT-001
+    - ELY-ANOM-THREEARM-001
+  validation_document: WORLD_PRODUCTION_VALIDATION_V1.md
+  status: PASSED_V1
