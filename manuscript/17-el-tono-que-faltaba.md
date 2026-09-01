@@ -1,46 +1,28 @@
-# Capítulo XVII — El tono que faltaba
+# Capítulo IX — El tono que faltaba
 
-A la mañana siguiente la mano izquierda seguía igual.
+La mano izquierda seguía igual.
 
-Misma temperatura.
+Eso bastó para dejarla en paz.
 
-Mismo color.
-
-Misma movilidad.
-
-Guardé una fotografía y no preparé otra exposición.
-
-Mientras comía media ración fría miré el mapa.
-
-La descendente exigía una bajada que no necesitaba. La ascendente gastaba más filtro. La horizontal llevaba demasiado tiempo reducida a fotografías y dos tonos que ya utilizaba para orientarme sin entenderlos.
+Mientras comía media ración fría miré el mapa. La descendente no podía darme nada que necesitara ese día. La ascendente gastaba demasiado filtro. La horizontal llevaba demasiado tiempo reducida a dos tonos que ya usaba para orientarme sin entenderlos.
 
 Elegí esa.
 
 ---
 
-La ruta horizontal cargó el filtro menos que la bóveda ascendente durante los primeros minutos.
-
-Pasé las depresiones sin detenerme y entré en la niebla.
-
-Esperaba oír el agudo antes de ver la estructura.
+Entré en la niebla esperando el agudo.
 
 No llegó.
 
-El grave apareció solo.
+El grave sonó solo.
 
 Después otra vez.
 
-La estructura de tres brazos surgió entre la niebla sin mostrar cambios evidentes en su forma ni en las hendiduras de la base.
+La estructura de tres brazos apareció donde debía, húmeda y oscura, medio abrazada por la raíz. El brazo inferior volvió a producir la nota grave.
 
-El brazo inferior volvió a producir el tono grave.
+En su cavidad había más película transparente que en mis primeras imágenes.
 
-En su cavidad había una película transparente más abundante que en las primeras imágenes.
-
-Fui al brazo asociado al agudo.
-
-La cavidad parecía casi seca.
-
-Solo una lámina finísima permanecía en el fondo.
+La superior estaba casi seca.
 
 Esperé.
 
@@ -48,98 +30,156 @@ Grave.
 
 Silencio arriba.
 
-Otra vez grave.
+Me acerqué lo justo para ver una lámina finísima pegada al fondo de la cavidad superior.
 
-Nada en el brazo superior.
+Entonces una ráfaga limpió la niebla durante unos segundos.
 
----
+Cuando el aire volvió a calmarse, algo brilló junto a la base del brazo.
 
-La lluvia reciente hacía difícil interpretar niveles de humedad, pero la diferencia entre las cavidades era clara.
+Una línea transparente avanzaba hacia arriba.
 
-No encontré una entrada abierta ni una conexión visible entre ellas.
+No caía.
 
-A los catorce minutos una ráfaga limpió la niebla.
-
-Cuando el aire volvió a quedar casi inmóvil vi una línea brillante avanzando por el borde de la cavidad superior.
-
-No caía desde arriba.
-
-Subía desde la zona donde la corteza abrazaba el brazo.
+Subía desde la zona donde la corteza envolvía la estructura.
 
 Muy despacio.
 
-La cámara registró el aumento.
+Me quedé quieto.
 
-Esperé.
-
-La película volvió a subir una fracción.
+La película ganó altura una fracción.
 
 Después se onduló.
 
-El brazo no respondió a la primera vibración.
+El brazo no respondió.
 
-A la segunda, sí.
+Volvió a vibrar.
 
-El tono agudo reapareció.
+Esta vez sí.
 
-Era más bajo que en la grabación antigua.
+El tono agudo regresó.
 
-Medí la frecuencia y comparé.
+Más bajo que antes.
 
-La diferencia era real dentro del margen del equipo.
+—Ahí estás.
 
-El brazo inferior, con mayor cantidad de película, seguía produciendo el grave aproximadamente en el rango anterior.
-
-Escribí:
-
-**TONO AGUDO AUSENTE CON CAVIDAD CASI SECA. REAPARECE TRAS AUMENTO DE PELÍCULA. FRECUENCIA DIFERENTE.**
-
-**RELACIÓN ENTRE NIVEL DE PELÍCULA Y TONO: POSIBLE. MECANISMO DE CARGA NO DETERMINADO.**
-
-Nada más.
+No sabía qué significaba. Pero por primera vez había visto desaparecer una de las notas y volver mientras algo físico dentro de la cavidad cambiaba delante de mí.
 
 ---
 
-La niebla abrió una ventana breve hacia la plataforma.
+Esperé otra secuencia.
 
-Las mismas formas verticales.
+La película ascendió un poco más.
 
-La inclinada.
+Vibró primero.
 
-La del hueco limpio.
+El brazo respondió después.
+
+El nuevo agudo cambió ligeramente con respecto al anterior.
+
+No necesitaba convertir aquello en instrumento, mensaje o mecanismo para reconocer una relación útil.
+
+Había algo entre la cantidad de película y la respuesta acústica.
+
+Algo reproducible.
+
+La niebla se abrió detrás de la estructura y dejó ver durante un instante las formas verticales de la plataforma.
+
+Seguían inmóviles.
 
 Sin luces.
 
 Sin movimiento.
 
-Volví a la estructura.
+Por una vez no fui hacia ellas.
 
-El agudo sonó dos veces más. En ambas, la película vibró primero y el brazo después. La segunda nota resultó ligeramente más alta mientras el nivel transparente había aumentado un poco.
+La rodilla empezaba a endurecerse y el filtro seguía cargándose.
 
-Guardé la secuencia.
-
-No convertí la estructura en instrumento, interfaz ni mensaje.
-
-Solo había una relación física que merecía otra visita.
-
-La rodilla empezó a endurecerse y el filtro seguía acumulando carga.
+Ya tenía un descubrimiento que justificaba la salida.
 
 Regresé.
 
 ---
 
-Dentro de la cápsula repetí la rutina de entrada y retiré el guante izquierdo al final.
+El módulo térmico falló antes de que pudiera calentar la siguiente media ración.
 
-La piel seguía sin cambios visibles, ya cerca de un día después de la exposición.
+Me quedé mirando el recipiente frío.
 
-Después aceleré el vídeo de la cavidad superior.
+—Perfecto.
 
-La película ascendía desde la base a intervalos. Luego vibraba. Después respondía el brazo.
+No lo reinicié.
 
-Fuera, la baliza transmitió sin respuesta.
+Comí así y abrí la tapa frontal.
 
-Detuve la grabación.
+El fallo estaba en un contacto pequeño: pátina opaca, marcas leves de arco y un muelle que apenas presionaba.
 
-La estructura había recuperado un tono.
+Nada espectacular.
 
-No me había dicho nada.
+Nada tranquilizador.
+
+Al revisar el historial eléctrico encontré algo peor que una cena fría.
+
+Los últimos arranques del módulo coincidían con caídas breves de tensión del bus. Tres habían ocurrido durante transmisiones de la baliza.
+
+Ninguna llamada se había perdido por completo.
+
+Pero la potencia había caído.
+
+Miré alrededor de la cápsula.
+
+Baliza.
+
+Recirculación.
+
+Bombas.
+
+Tratamiento de agua.
+
+Calor.
+
+Carga de baterías.
+
+Hasta entonces los había tratado como problemas separados.
+
+No lo eran.
+
+Todos mordían la misma reserva.
+
+---
+
+Limpié el contacto, recuperé presión del muelle y añadí una lámina conductora del kit.
+
+El primer montaje quedó mal.
+
+Lo repetí.
+
+La segunda vez la corriente se estabilizó.
+
+El módulo volvía a funcionar.
+
+No lo encendí.
+
+Programé una regla sencilla: durante cada transmisión automática, ninguna carga no esencial arrancaría.
+
+Probé la secuencia.
+
+Tensión estable.
+
+La baliza lanzó la siguiente llamada con el calentador apagado y la recirculación manteniendo lo imprescindible.
+
+Sin respuesta.
+
+Eso dolió menos que antes.
+
+O quizá solo estaba demasiado cansado para concederle más espacio.
+
+Guardé la otra mitad de la ración.
+
+Fuera, Elyndran seguía llenando una cavidad transparente hasta devolverle un tono a una estructura que yo no entendía.
+
+Dentro, yo acababa de aprender una versión mucho más simple de la misma lección.
+
+No podía mantenerlo todo activo a la vez.
+
+A partir de entonces sobrevivir no sería solo decidir adónde ir.
+
+También sería decidir qué apagar para poder seguir yendo.
