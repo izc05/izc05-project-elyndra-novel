@@ -51,23 +51,28 @@ Red funcional de energía, agua, partículas, biomasa, reciclaje y movimiento ve
 
 # FASE 4 — CLIMA Y CICLOS
 
-**SIGUIENTE BLOQUE — `CLIMATE.md`**
+**COMPLETA V1 — `CLIMATE.md`**
 
-La historia profunda V1 ya permite construir el clima sin tratar tormentas, niebla o lluvia como efectos aislados.
+La V1 modela el clima como parte del terreno y no como efecto visual.
 
-Debe estudiar:
+Queda establecido:
 
-- origen de lluvias;
-- niebla;
-- circulación vertical;
-- transporte de humedad;
-- tormentas;
-- gradientes térmicos;
-- ciclos de luz;
-- respuesta de raíces al clima;
-- capacidad del clima para dejar huellas históricas;
-- migración de fronteras regionales;
-- interacción entre agua, partículas y coste de filtro.
+- separación estricta entre observaciones canónicas y mecanismos atmosféricos de diseño;
+- ciclo regional provisional de precipitación, captación, escorrentía, cascadas, aerosoles, evaporación y condensación;
+- niebla como proceso tridimensional móvil capaz de alterar visibilidad, orientación y captación de humedad;
+- circulación de aire gobernada localmente por vacíos, raíces, cascadas, confinamiento y gradientes térmicos;
+- tormentas entendidas como reorganización simultánea de viento, lluvia, niebla, partículas y superficies;
+- prohibición de asumir “más abajo = más caliente” a partir de un único gradiente local;
+- separación entre ciclos de minutos/horas, horas/días y ciclos largos todavía en RESERVA;
+- clima como modulador de coste de filtro, adherencia, agua, rutas y fronteras regionales;
+- catálogo de huellas históricas que permitirían reconstruir clima pasado solo mediante repetición y estratigrafía;
+- batería de mediciones futuras para transformar meteorología local en evidencia;
+- separación obligatoria entre clima y misterio de los 37 segundos;
+- traducción a reglas reutilizables para novela, imágenes y juego.
+
+Decisión central:
+
+> En Elyndran, el clima no cambia el decorado: cambia el coste de estar allí.
 
 ---
 
@@ -141,11 +146,23 @@ La siguiente aparición importante debe eliminar explicaciones, no repetir otra 
 
 # FASE 9 — FAUNA Y FLORA FUNCIONAL
 
-**PENDIENTE — `FAUNA.md` / `FLORA.md`**
+**SIGUIENTE BLOQUE — `FAUNA.md` / `FLORA.md`**
 
-Se abordará tras estabilizar clima.
+El clima V1 ya permite diseñar organismos como respuestas a condiciones medibles y cambiantes.
 
 Objetivo: taxonomías de trabajo basadas primero en función ecológica, morfología, energía, agua, movilidad, reproducción y relación con regiones.
+
+La primera pasada deberá distinguir:
+
+- organismos ya canónicos que no deben recibir interpretación excesiva;
+- familias funcionales necesarias para cerrar flujos ecológicos;
+- organismos indicadores de viento, niebla, humedad y lluvia;
+- especies pioneras y colonizadoras de superficies expuestas;
+- filtradores y recicladores;
+- consumidores acuáticos;
+- fauna de superficies y posibles migradores verticales;
+- flora de captación, retención, transporte y anclaje;
+- RESERVAS visuales como planeadores o bosques invertidos sin convertirlos en hechos.
 
 La historia profunda añade categorías útiles futuras: especies pioneras, comunidades de redes maduras, organismos de superficies recién expuestas, poblaciones relictas, recicladores de tejido envejecido y migradores asociados a ciclos de agua.
 
@@ -165,7 +182,7 @@ Cada localización jugable o narrativa deberá poder declarar:
 - coste de aire/filtro;
 - agua;
 - caída;
-- clima;
+- clima base y estado climático actual;
 - fauna/flora;
 - recursos;
 - estructuras/anomalías;
@@ -214,6 +231,11 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 33. Un cambio histórico debe dejar huellas físicas compatibles con el proceso que lo produjo.
 34. La historia profunda debe explicar geografía, ecología y riesgo actuales, no existir como lore aislado.
 35. Los 37 segundos permanecen separados de la historia física hasta obtener correlación medible independiente.
+36. Un episodio climático debe cambiar al menos una decisión, coste o acceso para justificar su presencia.
+37. No se declara una estación ni periodicidad a partir de pocas observaciones.
+38. El coste de filtro de una región depende también del estado climático, no solo del lugar.
+39. Una respuesta biológica previa a lluvia o viento no implica predicción consciente.
+40. El clima pasado se infiere por huellas repetidas, no por una sola superficie erosionada.
 
 ---
 
@@ -228,12 +250,12 @@ La integración con `project-elyndra` no debe convertir el planeta en una cuadr�
 5. `MYSTERY_37S.md`
 6. `STRUCTURES_AND_ANOMALIES.md`
 7. `DEEP_HISTORY.md`
+8. `CLIMATE.md`
 
 ## Siguiente secuencia
 
-1. `CLIMATE.md` — **SIGUIENTE**
-2. `FAUNA.md` / `FLORA.md`
-3. Integración con novela e imágenes
-4. Puente formal con `project-elyndra`
+1. `FAUNA.md` / `FLORA.md` — **SIGUIENTE**
+2. Integración con novela e imágenes
+3. Puente formal con `project-elyndra`
 
-Hasta estabilizar clima no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
+Hasta estabilizar fauna y flora funcional no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
