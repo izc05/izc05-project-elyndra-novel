@@ -19,15 +19,16 @@ Reducir longitud y número de capítulos desde el principio. Salir antes de la c
 | 08 | antiguo XVI — La mano izquierda | DONE | 10/10 | A/I1/I2 actualizado | Exposición dérmica única comprimida a decisión → 34 s → retorno → ausencia de reacción aguda → no repetir; canon estricto conservado |
 | 09 | antiguos XVII + XVIII | DONE | 10/10 | A/I1/I2 fusionado | Tono agudo ausente → película asciende → tono reaparece; regreso convierte avería térmica en regla de prioridad energética; antiguo XVIII eliminado |
 | 10 | antiguos XIX + XX | DONE | 10/10 | A/I1/I2 fusionado | Cobertura oscura vuelve parcialmente + rodilla fuerza jornada interior + recepción anómala ~37 s antes + prueba con hora desplazada + segunda anomalía a −36,91 s; antiguo XX eliminado |
-| 11 | antiguo XXI — Antes de apoyar el pie | PENDING | — | revisar/fusionar | Primer capítulo pendiente; evaluar con XXII sin perder cambio físico de ruta ni coste corporal |
-| 12+ | antiguos XXII–XXV | PENDING | — | — | Reestructurar sin abrir XXVI |
+| 11 | antiguos XXI + XXII | DONE | 10/10 | A/I1/I2 fusionado | Golpes profundos desplazan apoyo + alternativa superior + criatura transfiere película hacia el cuerpo + ración dañada confirma que el protocolo reconoce alimento humano; antiguo XXII eliminado |
+| 12 | antiguo XXIII — Lo que dejas fuera | PENDING | — | revisar/fusionar | Primer capítulo pendiente; evaluar con XXIV sin diluir contaminación del colector ni coste material |
+| 13+ | antiguos XXIV–XXV | PENDING | — | — | Reestructurar sin abrir XXVI |
 
 ## Resultado acumulado
-El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal, una relación física nueva en la estructura y ahora una observación ecológica breve que conduce a la prueba controlada más fuerte hasta el momento del misterio de los 37 segundos.
+El lector abandona la cápsula en el Prólogo. Las unidades siguientes convierten cada necesidad de supervivencia en movimiento: primera exploración, estructuras regulares, bóveda, agua local, acceso inferior, ausencia de Aster, ecología asociada al hambre, coste atmosférico, vulnerabilidad corporal, relación física en la estructura, prueba controlada del misterio de los 37 segundos y ahora un cambio geométrico real de ruta que desemboca directamente en una observación ecológica más fuerte.
 
-Hasta aquí se han eliminado **diez capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV, XVIII y XX.
+Hasta aquí se han eliminado **once capítulos narrativos completos** respecto a la estructura heredada: los antiguos II, IV, VI, VIII, IX, XI, XIII, XV, XVIII, XX y XXII.
 
-## TOP — unidad 10
+## TOP — unidad 11
 - Gancho: 2/2.
 - Avance: 2/2.
 - Descubrimiento: 2/2.
@@ -35,7 +36,7 @@ Hasta aquí se han eliminado **diez capítulos narrativos completos** respecto a
 - Compresión: 2/2.
 - Total: **10/10**.
 
-La unidad avanza más de lo que analiza. La visita a la bóveda conserva solo la evidencia útil de que la cobertura oscura vuelve parcialmente sobre zonas despejadas, sin elevar `crecimiento` a hecho. La rodilla convierte el regreso en coste y justifica una jornada interior que deja de ser pausa: el protagonista descubre retrospectivamente fragmentos aproximadamente 37 s antes de una llamada, desplaza una transmisión +7 min 14 s y observa una segunda recepción que comienza 36,91 s antes. El controlador conocía la nueva hora y comparte reloj/alimentación parcial con el receptor, por lo que el acoplamiento interno sigue sin descartarse. La escena memorable es la espera de la llamada movida; el misterio gana una restricción nueva sin recibir explicación prematura.
+La unidad avanza más de lo que analiza. El cambio de geometría ocurre físicamente bajo el protagonista, con coste corporal y riesgo vertical; la decisión inmediata es abandonar el apoyo desplazado y adoptar una alternativa superior. La expedición continúa sin regreso intermedio hasta la bóveda, donde se observa por primera vez material oscuro desplazándose por el tramo translúcido de la estructura tubular hacia el cuerpo de la criatura. El control con una ración dañada se comprime a la única conclusión útil: el mismo protocolo reconoce alimento humano, mientras la película sigue sin compatibilidad metabólica determinada. No se afirma digestión ni seguridad alimentaria humana.
 
 ## Siguiente acción
-Revisar `21-antes-de-apoyar-el-pie.md` como primer capítulo pendiente. Evaluar su posible fusión con `22-lo-que-entra.md`; el cambio geométrico de la ruta debe sentirse físicamente y producir una decisión inmediata, no convertirse en otra comprobación de una anomalía conocida.
+Revisar `23-lo-que-dejas-fuera.md` como primer capítulo pendiente. Evaluar su posible fusión con `24-lo-que-pesa.md`; conservar como centro el fallo del colector y la pérdida de limpieza de su superficie si eso cambia inmediatamente el uso del agua o el coste de supervivencia.
