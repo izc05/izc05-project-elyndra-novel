@@ -19,8 +19,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 09 | IX — Antes de tocar la raíz | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: lluvia convertida en recurso, colector improvisado, exposición oral mínima y nueva reserva potencial; canon intacto |
 | 10 | X — Una hora más | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: margen de agua convertido en tiempo, acceso inferior, profundidad de plataforma, resbalón y nueva lectura de la integración raíz/material; canon intacto |
 | 11 | XI — La órbita vacía | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: búsqueda orbital convertida en expedición, falsa esperanza visual, línea blanca no compatible, pérdida emocional y nueva dirección terrestre; canon intacto |
-| 12 | XII — El mismo camino | PENDING | — | — | Siguiente capítulo |
-| 13 | XIII — La mitad de una ración | PENDING | — | — | — |
+| 12 | XII — El mismo camino | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: ruta conocida reobservada tras tormenta, arañazos nuevos, depresión ausente en el registro inicial y nueva regla de orientación dinámica; canon intacto |
+| 13 | XIII — La mitad de una ración | PENDING | — | — | Siguiente capítulo |
 | 14 | XIV — El aire que gastas | PENDING (piloto V3 previo) | — | — | Revalidar en su turno |
 | 15 | XV — Lo que entra contigo | PENDING | — | — | — |
 | 16 | XVI — La mano izquierda | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revisar `12-el-mismo-camino.md` con la skill TOP. No avanzar a XIII hasta superar el gate.
+Revisar `13-la-mitad-de-una-racion.md` con la skill TOP. No avanzar a XIV hasta superar el gate.
