@@ -35,9 +35,7 @@ Mapa lógico tridimensional del sector explorado con nodos, rutas, límites, est
 
 **COMPLETA V1 — `PLANETARY_LAYERS.md`**
 
-Macroestructura vertical provisional por regímenes ambientales: exposición superior, bóvedas altas, cinturones de niebla, red media, corredores abiertos de agua/viento, redes inferiores húmedas y reservas profundas.
-
-Las capas son regímenes, no cotas rígidas.
+Macroestructura vertical provisional por regímenes ambientales. Las capas son regímenes, no cotas rígidas.
 
 ---
 
@@ -53,22 +51,7 @@ Red funcional de energía, agua, partículas, biomasa, reciclaje y movimiento ve
 
 **COMPLETA V1 — `CLIMATE.md`**
 
-La V1 modela el clima como parte del terreno y no como efecto visual.
-
-Queda establecido:
-
-- separación estricta entre observaciones canónicas y mecanismos atmosféricos de diseño;
-- ciclo regional provisional de precipitación, captación, escorrentía, cascadas, aerosoles, evaporación y condensación;
-- niebla como proceso tridimensional móvil capaz de alterar visibilidad, orientación y captación de humedad;
-- circulación de aire gobernada localmente por vacíos, raíces, cascadas, confinamiento y gradientes térmicos;
-- tormentas entendidas como reorganización simultánea de viento, lluvia, niebla, partículas y superficies;
-- prohibición de asumir “más abajo = más caliente” a partir de un único gradiente local;
-- separación entre ciclos de minutos/horas, horas/días y ciclos largos todavía en RESERVA;
-- clima como modulador de coste de filtro, adherencia, agua, rutas y fronteras regionales;
-- catálogo de huellas históricas que permitirían reconstruir clima pasado solo mediante repetición y estratigrafía;
-- batería de mediciones futuras para transformar meteorología local en evidencia;
-- separación obligatoria entre clima y misterio de los 37 segundos;
-- traducción a reglas reutilizables para novela, imágenes y juego.
+Clima modelado como parte del terreno: precipitación, niebla, circulación, tormentas, transporte de partículas, coste de filtro, adherencia, agua, rutas y huellas históricas. No se extrapolan estaciones ni gradientes globales desde observaciones locales.
 
 Decisión central:
 
@@ -80,7 +63,7 @@ Decisión central:
 
 **COMPLETA V1 — `REGIONS.md`**
 
-Regiones definidas como sistemas espaciales que cambian decisiones antes que estética: cápsula, cascadas, raíces entrelazadas, bóvedas, niebla, tormentas, redes inferiores, bosques invertidos, exposición fría, dominio de geometrías regulares y profundidades oscuras.
+Regiones definidas como sistemas espaciales que cambian decisiones antes que estética: cápsula, cascadas, raíces entrelazadas, bóvedas, niebla, tormentas, redes inferiores y reservas todavía no canonizadas.
 
 ---
 
@@ -88,20 +71,7 @@ Regiones definidas como sistemas espaciales que cambian decisiones antes que est
 
 **COMPLETA V1 — `STRUCTURES_AND_ANOMALIES.md`**
 
-La V1 separa por primera vez de forma sistemática observación, material, movimiento, cronología relativa e interpretación.
-
-Queda establecido:
-
-- inventario canónico de estructura de tres brazos, plataforma, línea oscura de disco, vibración fina y golpes profundos;
-- familias de material separadas por defecto para impedir conexiones por simple parecido visual;
-- matriz raíz ↔ estructura: contacto, envoltura, interpenetración aparente, continuidad mecánica e independencia local;
-- cuatro familias de cronología relativa: raíz posterior, estructura posterior, coformación y ciclos de exposición/cobertura;
-- modelo de desgaste basado en fractura, abrasión, cobertura biológica y deformación;
-- separación entre movimientos de raíces, fibra, nervadura, tonos y vibración fina;
-- hipótesis globales compatibles sin jerarquía prematura: procesos naturales/biominerales, organismo estructural, resto colonizado, estructura activa no consciente, artefacto construido y sistema híbrido;
-- pruebas futuras discriminantes;
-- escalera de revelación que impide saltar de regularidad a civilización;
-- protecciones visuales contra puertas, ventanas, paneles y arquitectura humana disfrazada.
+Inventario canónico, familias de material separadas, interfaces raíz-estructura, cronología relativa, desgaste, movimientos, hipótesis competidoras y pruebas futuras. La regularidad nunca asciende automáticamente a tecnología.
 
 Decisión central:
 
@@ -113,20 +83,7 @@ Decisión central:
 
 **COMPLETA V1 — `DEEP_HISTORY.md`**
 
-La V1 construye historia interna sin elegir una verdad única.
-
-Queda establecido:
-
-- edad solo por superposición, deformación, abrasión diferencial, fractura cubierta y repetición regional;
-- cronología neutral de trabajo por sustrato desconocido, redes primarias, diferenciación vertical, integración estructural, reorganizaciones y paisaje actual;
-- seis escenarios compatibles: crecimiento planetario continuo, restos previos colonizados, estructuras posteriores a la red, coformación híbrida, ciclos de reutilización y artefactos incorporados;
-- ningún escenario ganador;
-- procesos capaces de reescribir el paisaje: crecimiento, tormentas, migración de agua, abrasión, colonización, fractura y posibles reorganizaciones profundas;
-- familias de ciclos largos: húmedo/seco regional, cobertura/exposición, tensión/relajación, renovación de red, partículas atmosféricas y reorganización de gran escala;
-- catálogo de huellas históricas y matriz de discriminación;
-- pruebas futuras mediante fotogrametría, interfaces, fracturas, depósitos y comparaciones entre regiones;
-- separación obligatoria entre historia profunda y misterio de los 37 segundos;
-- reglas para trasladar la historia a novela, imagen y juego sin exposición enciclopédica.
+Historia interna construida sin elegir una verdad única: edad por interfaces y superposición, cronología neutral, seis escenarios compatibles, ciclos largos y pruebas discriminantes.
 
 Decisión central:
 
@@ -138,9 +95,7 @@ Decisión central:
 
 **COMPLETA V1 — `MYSTERY_37S.md`**
 
-Marco de misterio con cronología canónica, restricciones, familias de hipótesis, pruebas futuras y límites narrativos.
-
-La siguiente aparición importante debe eliminar explicaciones, no repetir otra anomalía equivalente.
+Marco de misterio con cronología canónica, restricciones, familias de hipótesis, pruebas futuras y límites narrativos. La siguiente aparición importante debe eliminar explicaciones, no repetir otra anomalía equivalente.
 
 ---
 
@@ -148,23 +103,7 @@ La siguiente aparición importante debe eliminar explicaciones, no repetir otra 
 
 **COMPLETA V1 — `FAUNA.md` / `FLORA.md`**
 
-La V1 convierte organismos ya observados y necesidades ecológicas en una taxonomía funcional sin fijar nombres ni interpretaciones prematuras.
-
-Queda establecido:
-
-- separación entre animales planos de los discos, criatura terrestre de seis apoyos y fauna planeadora como grupos canónicos con nichos todavía abiertos;
-- la retirada de película por la criatura de seis apoyos no se convierte automáticamente en ingestión o dieta;
-- los planeadores se definen primero por explotación de corrientes ascendentes, no como aves o depredadores;
-- familias de diseño para microconsumidores acuáticos, consumidores de superficie, recicladores, filtradores y migradores verticales;
-- movilidad adaptada a un mundo sin suelo visible: adherencia, ondulación, planeo y reservas de suspensión/caída controlada;
-- reproducción, depredación y ciclos vitales permanecen en RESERVA hasta disponer de evidencia;
-- los rastros indirectos deben conservar explicaciones alternativas y las depresiones/arañazos canónicos no se reasignan a fauna;
-- la red de raíces se mantiene como categoría biológica abierta, sin declararla organismo único;
-- columnas, placas, filamentos, hilos y bolsas de la bóveda se tratan como módulos funcionales coexistentes hasta saber si pertenecen a uno o varios organismos;
-- película oscura conservada como interfaz ecológica abierta: biofilm, depósito, secreción/tejido o comunidad mixta;
-- familias funcionales de captación, retención, transporte, anclaje, filtración y colonización pionera;
-- bosques invertidos permanecen como RESERVA VISUAL y solo podrán ascender si resuelven hidráulica, anclaje y flujo ecológico;
-- reglas específicas para novela, briefs visuales y juego.
+Organismos observados y familias de diseño se organizan por nicho y flujos, no por apariencia. Se mantienen abiertas dieta, reproducción, taxonomía, película oscura, red de raíces y reservas visuales.
 
 Decisiones centrales:
 
@@ -178,27 +117,7 @@ Decisiones centrales:
 
 **COMPLETA V1 — `WORLD_PRODUCTION_RULES.md`**
 
-La V1 traduce la biblia de mundo a un contrato de producción reutilizable sin convertir conocimiento interno en conocimiento del personaje.
-
-Queda establecido:
-
-- semáforo operativo CANON / DISEÑO / RESERVA / MISTERIO;
-- separación entre verdad del mundo, conocimiento del equipo, conocimiento del personaje y conocimiento mostrado al lector/jugador;
-- ficha universal de localización con espacio, supervivencia, clima, biología, estructuras, historia, narrativa, visual y juego;
-- ficha universal de organismo con función ecológica, comportamiento confirmado/inferido y límites de interpretación;
-- ficha universal de estructura/anomalía con observación, interfaces, cronología relativa, hipótesis y control de revelación;
-- reglas específicas para novela: descubrimiento antes que explicación y consecuencia después de descubrimiento;
-- reglas específicas para imágenes canónicas: cada imagen cuenta como evidencia y no puede revelar función u origen no observado;
-- tratamiento explícito de RESERVA VISUAL como material no canónico;
-- arquitectura de juego en tres capas: `world_state`, `observed_state`, `ui_state`;
-- `fog of knowledge` independiente de la niebla espacial;
-- conexiones de mapa con dimensión vertical y costes de retorno asimétricos;
-- información como recompensa jugable;
-- persistencia sistémica de rutas, niebla, agua, membranas, fauna y soportes;
-- contrato de puente con `project-elyndra`: consume una vista derivada del canon y nunca lo redefine;
-- IDs técnicos estables para localizaciones, biología y anomalías sin forzar nombres diegéticos;
-- checklist de aprobación de escenas/assets y reglas de ascenso DISEÑO → CANON;
-- primer paquete de IDs para el sector actualmente conocido.
+Contrato de producción con semáforo CANON / DISEÑO / RESERVA / MISTERIO; fichas universales; separación entre conocimiento del mundo, equipo, protagonista, lector y jugador; `world_state` / `observed_state` / `ui_state`; fog of knowledge; IDs técnicos y QA de revelación.
 
 Decisiones centrales:
 
@@ -214,23 +133,7 @@ Decisiones centrales:
 
 **COMPLETA V1 — `WORLD_PRODUCTION_VALIDATION_V1.md` + `world/ELY_KNOWN_WORLD_STATE_V1.yaml`**
 
-La primera validación de producción se ejecuta contra tres casos canónicos de distinta naturaleza:
-
-- sector de la cápsula — localización;
-- criatura terrestre de seis apoyos — organismo;
-- estructura de tres brazos — estructura/anomalía.
-
-Queda establecido:
-
-- las fichas universales pueden representar esos casos sin introducir hechos nuevos;
-- la dieta de la criatura de seis apoyos queda bloqueada explícitamente como inferencia no autorizada;
-- la estructura de tres brazos se mantiene en la escalera de revelación entre mecanismo parcial e investigación de interfaces;
-- la cápsula se modela como refugio/logística, sin convertir “seguro conocido” en seguridad absoluta del entorno;
-- la primera vista YAML conserva `CANON`, `DISEÑO`, `RESERVA` y `MISTERIO` como campos separados;
-- `unknown` es un valor válido y preferible a inventar una respuesta;
-- el YAML incluye localizaciones, organismos, anomalías, niebla de conocimiento e integración por medio;
-- los datos estructurados son derivados y nunca sustituyen a `CONTINUITY.md`;
-- el esquema ya puede servir como contrato previo para un adapter hacia `project-elyndra`.
+Validación contra sector de cápsula, criatura de seis apoyos y estructura de tres brazos. El YAML conserva CANON / DISEÑO / RESERVA / MISTERIO, admite `unknown` y permanece derivado de las fuentes canónicas.
 
 Decisión central:
 
@@ -240,26 +143,9 @@ Decisión central:
 
 # FASE 12 — ADAPTER DE JUEGO Y EDGES 3D
 
-**COMPLETA V1 — `world/PROJECT_ELYNDRA_ADAPTER_V1.md` + actualización de `world/ELY_KNOWN_WORLD_STATE_V1.yaml`**
+**COMPLETA V1 — `world/PROJECT_ELYNDRA_ADAPTER_V1.md` + `world/ELY_KNOWN_WORLD_STATE_V1.yaml`**
 
-La V1 establece el contrato técnico consumible por `project-elyndra` sin conceder al juego autoridad canónica.
-
-Queda establecido:
-
-- separación obligatoria entre `world_state`, `observed_state` y `ui_state`;
-- diferencia semántica entre `unknown` y `MISTERIO`;
-- entidades exportables para localizaciones, organismos y anomalías;
-- grafo dirigido tridimensional aunque la interfaz futura use nodos, cartas o hexágonos;
-- `vertical_relation` siempre relativa al sentido del edge y nunca equivalente a una cota planetaria absoluta;
-- `return_model` obligatorio, con `not_established` como valor seguro cuando el canon no mida el retorno;
-- prohibición de copiar automáticamente costes de ida a vuelta;
-- costes cualitativos antes que números inventados;
-- fog of knowledge reutilizable como progreso de información, no como XP;
-- persistencia jugable separada del canon base;
-- lista explícita de inferencias que el adapter no puede exportar;
-- versionado derivado y migraciones incapaces de canonizar supuestos técnicos;
-- cuatro edges iniciales: cápsula → bifurcación, bifurcación → descendente, horizontal y bóveda ascendente;
-- los cuatro edges conservan verticalidad, soporte, riesgo o coste ambiental observado y estado de retorno.
+Contrato consumible por `project-elyndra`: grafo dirigido tridimensional, verticalidad relativa, retorno explícito, costes cualitativos, persistencia separada del canon y cuatro edges iniciales desde el sector de la cápsula.
 
 Decisión central:
 
@@ -271,24 +157,46 @@ Decisión central:
 
 **COMPLETA V1 INCREMENTAL — `VISUAL_REVEAL_MANIFEST_V1.md`**
 
-La primera versión establece un control temporal de revelación para ilustraciones, portadas, mapas, UI y assets visuales.
+Control temporal de revelación para ilustraciones, portadas, mapas, UI y assets visuales.
 
 Queda establecido:
 
-- una imagen canónica solo puede usar conocimiento disponible hasta el momento exacto de la escena;
+- una imagen canónica solo usa conocimiento disponible hasta el momento exacto de la escena;
 - semáforo visual CANON / DISEÑO / RESERVA / MISTERIO;
-- niveles de revelación desde `R0 — NO VISTO` hasta `R5 — FUNCIÓN RESTRINGIDA`;
+- niveles R0–R5 de revelación;
 - ninguna anomalía principal actual recibe nivel de origen o propósito;
-- protecciones explícitas para Aster, 37 s, suelo planetario, atmósfera, plataforma, membranas, fauna y agua local;
-- manifiesto inicial validado contra Prólogo e hitos I, VIII, IX, XI, XV, XVI, XVIII, XX, XXI, XXIII, XXIV y XXV;
-- principio de mínimo privilegio para capítulos todavía no validados directamente;
-- formato mínimo de brief de arte con `canon_visible`, `design_allowed`, `reserve_blocked`, `mystery_protected` y `reveal_level_max`;
-- cadena de producción `canon → observed_state → reveal manifest → ui_state / brief visual`;
-- prohibición de exportar directamente `world_state` privado a imágenes publicadas.
+- protecciones para Aster, 37 s, suelo planetario, atmósfera, plataforma, membranas, fauna y agua local;
+- validación directa ya ejecutada sobre Prólogo, I–XI en los hitos relevantes, XV, XVI, XVIII, XX, XXI, XXIII, XXIV y XXV; los capítulos V–VII y X quedan además auditados contra su manuscrito vigente;
+- mínimo privilegio visual para capítulos todavía no validados directamente;
+- formato mínimo de brief con `canon_visible`, `design_allowed`, `reserve_blocked`, `mystery_protected` y `reveal_level_max`;
+- cadena `canon → observed_state → reveal manifest → ui_state / brief visual`.
 
 Decisión central:
 
 > Una imagen de Elyndran no ilustra lo que el equipo sabe: ilustra exactamente lo que el lector ha ganado el derecho a ver.
+
+---
+
+# FASE 14 — AUDITORÍA CANÓNICA DE PRODUCCIÓN VISUAL
+
+**COMPLETA V1 INCREMENTAL — `WORLD_VISUAL_CANON_AUDIT_V1.md`**
+
+La auditoría ya cubre II–VII y X de forma directa. II–IV disponen de briefs existentes revisados; V–VII no tienen todavía brief dedicado en esta rama y quedan protegidos mediante contratos previos; X ha recibido una corrección canónica mayor.
+
+Hallazgos consolidados:
+
+- la precisión de un asset no puede superar la del manuscrito;
+- V fija la bóveda como sistema de mayor coste de filtro, transporte ascendente de agua observado y criatura de seis apoyos sin dieta confirmada;
+- VI confirma el vacío real hacia la zona regular y mantiene la relación entre estructura, línea oscura y vibración como hipótesis, no hecho;
+- VII obliga a representar la cápsula como recurso finito que se degrada y transforma;
+- X corrige una identificación errónea: **Aster es la nave/plataforma orbital perdida, no el protagonista**;
+- X elimina anclas de una redacción anterior y las sustituye por citas compatibles con el manuscrito vigente;
+- plataforma, banda y nervaduras siguen siendo evidencia de interfaz y regularidad, nunca arquitectura o tecnología confirmadas;
+- ningún brief puede rellenar un vacío espacial con puentes, cables o pasarelas no observados.
+
+Decisión central:
+
+> La imagen puede concretar una observación; nunca puede resolver una ambigüedad que el texto mantiene abierta.
 
 ---
 
@@ -364,6 +272,10 @@ Decisión central:
 68. Un asset canónico debe declarar explícitamente qué RESERVAS están bloqueadas.
 69. Si un capítulo no ha sido validado directamente, rige el mínimo privilegio visual.
 70. `world_state` privado nunca se exporta directamente a una imagen publicada.
+71. Una sospecha del protagonista no se convierte en relación objetiva por repetición visual.
+72. Los nombres de naves, regiones o entidades no se reasignan a personajes por conveniencia de producción.
+73. Un brief debe usar anclas del manuscrito vigente; una ancla obsoleta es un fallo de continuidad.
+74. Un vacío espacial confirmado no se rellena con una conexión útil que el protagonista no haya observado.
 
 ---
 
@@ -386,14 +298,16 @@ Decisión central:
 13. `world/ELY_KNOWN_WORLD_STATE_V1.yaml`
 14. `world/PROJECT_ELYNDRA_ADAPTER_V1.md`
 15. `VISUAL_REVEAL_MANIFEST_V1.md` — V1 incremental
+16. `WORLD_VISUAL_CANON_AUDIT_V1.md` — V1 incremental, II–VII y X auditados
 
 ## Siguiente secuencia
 
-1. Leer y validar directamente los capítulos II–VII, X, XII–XIV, XVII, XIX y XXII para completar el manifiesto visual — **SIGUIENTE**
-2. Vincular los briefs existentes de `art/` y detectar revelaciones prematuras
-3. Preparar validación automática básica de estados, IDs y referencias
-4. Definir formato de exportación concreto para consumo por `project-elyndra`
-5. Integración gradual con novela e imágenes mediante IDs y límites de revelación
-6. Extender el grafo solo cuando nuevas conexiones estén suficientemente observadas o etiquetadas como DISEÑO
+1. Leer y validar directamente XII–XIV, XVII, XIX y XXII para completar el manifiesto visual — **SIGUIENTE**
+2. Revisar sus briefs existentes y corregir anclas, escalas, nombres o revelaciones prematuras
+3. Crear briefs V–VII desde los contratos canónicos ya fijados, sin importar supuestos de versiones anteriores
+4. Preparar validación automática básica de estados, IDs y referencias
+5. Definir formato de exportación concreto para consumo por `project-elyndra`
+6. Integración gradual con novela e imágenes mediante IDs y límites de revelación
+7. Extender el grafo solo cuando nuevas conexiones estén suficientemente observadas o etiquetadas como DISEÑO
 
 Hasta estabilizar los derivados no se fijarán nombres definitivos para nuevas especies, culturas, estructuras o regiones salvo necesidad narrativa real.
