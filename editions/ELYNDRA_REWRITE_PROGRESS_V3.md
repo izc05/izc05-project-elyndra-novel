@@ -23,8 +23,8 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 | 13 | XIII — La mitad de una ración | DONE | 10/10 | Brief A/I1/I2 creado | TOP pass: hambre convertida en motivo de exploración, observación directa de la película oscura y nueva línea de investigación ecológica; canon intacto |
 | 14 | XIV — El aire que gastas | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: filtro convertido en recurso de ruta, partículas visibles en la bóveda, comparación ascendente/horizontal y aire entendido como terreno; canon intacto |
 | 15 | XV — Lo que entra contigo | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: retorno contaminante visible, prefiltro ambiguo, cápsula reorganizada por zonas y riesgo convertido en hábito; canon intacto |
-| 16 | XVI — La mano izquierda | PENDING | — | — | Siguiente capítulo; revalidar en su turno |
-| 17 | XVII — El tono que faltaba | PENDING | — | — | — |
+| 16 | XVI — La mano izquierda | DONE | 10/10 | Brief A/I1/I2 actualizado | TOP pass: posible fallo de traje convertido en necesidad, exposición dérmica de 34 s vivida como riesgo, ausencia de reacción aguda y conocimiento práctico limitado; canon intacto |
+| 17 | XVII — El tono que faltaba | PENDING | — | — | Siguiente capítulo; revalidar en su turno |
 | 18 | XVIII — Lo que dejas encendido | PENDING | — | — | — |
 | 19 | XIX — La franja que vuelve | PENDING | — | — | — |
 | 20 | XX — Antes de la llamada | PENDING | — | — | — |
@@ -36,4 +36,4 @@ Regla: trabajar en orden. No avanzar si el capítulo actual no supera TOP >= 8/1
 
 ## Siguiente acción
 
-Revalidar `16-la-mano-izquierda.md` con la skill TOP. No avanzar a XVII hasta superar el gate.
+Revalidar `17-el-tono-que-faltaba.md` con la skill TOP. No avanzar a XVIII hasta superar el gate.
