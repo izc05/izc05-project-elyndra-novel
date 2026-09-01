@@ -1,169 +1,155 @@
-# Capítulo XIV — El aire que gastas
+# Capítulo VII — El aire que gastas
 
 El filtro usado pesaba treinta y cuatro gramos más que cuando lo instalé.
 
-Treinta y cuatro gramos.
+No parecía mucho hasta que abrí el alojamiento de repuestos.
 
-Lo sostuve en la palma y pensé en los repuestos que quedaban dentro del alojamiento.
+Entonces cada cartucho empezó a parecerme una cuenta atrás.
 
-De pronto pesaban todos.
+Bajo la lente encontré polvo mineral, fibras oscuras, fragmentos translúcidos y una fracción orgánica que el equipo no sabía clasificar. Tomé además una muestra controlada del aire exterior con el casco cerrado. Oxígeno plausible. Dióxido de carbono bajo. Ninguna alarma inmediata entre los gases que el equipo podía reconocer.
 
-Abrí uno de los pliegues bajo la lente. Polvo mineral. Fibras oscuras. Fragmentos translúcidos. Una fracción orgánica que el equipo no sabía clasificar. Algunas formas eran tan pequeñas que apenas conseguía resolver el contorno.
+Miré la escotilla.
 
-No necesitaba ponerles nombre.
+Durante un segundo imaginé abrirla y respirar.
 
-Necesitaba saber cuánto me costaban.
+Después miré el filtro sucio.
 
-Tomé una muestra del aire exterior con el casco cerrado y un cartucho limpio entre Elyndran y mis pulmones. Oxígeno en un rango plausible. Dióxido de carbono bajo. Ninguna alarma inmediata entre los gases que el equipo podía reconocer.
+—Ni de broma.
 
-Durante unos segundos miré la escotilla y sentí una tentación absurda: imaginar que al otro lado había aire.
+Parecer aire no lo convertía en aire seguro.
 
-Aire de verdad.
+Había una pregunta mejor.
 
-Luego volví a mirar el filtro sucio.
-
-Parecer respirable no significaba ser seguro.
-
-Y aunque lo fuera, yo todavía no podía tratarlo como si lo fuese.
-
-Guardé la muestra, cerré el alojamiento y me puse en pie.
-
-Había otra pregunta que sí podía responder fuera.
-
-¿Cuánto aire me costaba cada camino?
+¿Cuánto me costaba atravesarlo?
 
 ---
 
-Salí con un cartucho limpio.
+Salí con un cartucho limpio y crucé la primera ruta sin detenerme.
 
-La primera ruta apenas exigió más al sistema. Crucé el tramo conocido sin detenerme y llegué a la bifurcación con el ventilador estable y la batería dentro de lo esperado.
+En la ascendente el cambio llegó antes de la bóveda.
 
-Tomé la ascendente.
-
-La humedad aumentó primero.
-
-Después cambió el sonido dentro del casco.
-
-Un tono más grave. Más caudal.
-
-Seguí subiendo.
-
-Las columnas verdes cerraban la ruta a ambos lados. Las placas cobrizas devolvían destellos apagados. Los filamentos blancos colgaban entre ellas como una cortina inmóvil.
-
-El indicador del filtro subió.
+El ventilador sonó más grave.
 
 La batería empezó a caer más deprisa.
 
-No mucho.
+Levanté la linterna entre las columnas verdes y el aire apareció.
 
-Lo suficiente.
+Miles de partículas cruzaron el haz. Algunas descendían. Otras subían en corrientes que yo no veía. Fibras finísimas giraban entre las placas cobrizas y desaparecían en cuanto salían de la luz.
 
-Avancé hasta donde la bóveda se estrechaba y levanté la linterna.
+Todo aquello había estado allí también las otras veces.
 
-El aire apareció.
+Yo solo no había sabido verlo.
 
-Miles de puntos atravesaban el haz.
-
-No flotaban todos igual. Algunos descendían despacio. Otros ascendían en corrientes invisibles. Fibras finísimas giraban sobre sí mismas y desaparecían en cuanto salían de la luz. Entre las columnas verdes, el espacio que un segundo antes parecía limpio se convirtió en una tormenta silenciosa.
-
-Me quedé quieto.
-
-Oía mi respiración.
-
-Y detrás, trabajando por mí, el ventilador.
-
-Cada inspiración tenía un sonido mecánico.
-
-Cada minuto arrancaba algo al cartucho y a la batería.
-
-La ruta hacia la terraza seguía delante. Ya conocía lo que había allí arriba: placas, filamentos, la criatura de seis apoyos, el paisaje abierto más allá de la bóveda.
-
-Por primera vez no pensé en la distancia.
-
-Pensé en cuántas veces podría volver.
-
-Di un paso más.
+Di un paso más hacia la terraza.
 
 El sistema compensó otra vez.
 
+Me detuve.
+
+Ya conocía lo que había arriba. No necesitaba gastar un cartucho para confirmar que seguía allí.
+
 Retrocedí.
 
-No iba a gastar un filtro entero para demostrar algo que ya estaba escuchando dentro del casco.
+En la bifurcación tomé la horizontal y avancé solo lo suficiente para comparar. La niebla cerró el paisaje, pero el ventilador fue relajándose. El filtro se estabilizó por debajo de lo que había marcado en la bóveda.
+
+La diferencia no era espectacular.
+
+Era útil.
+
+Dos rutas parecidas en el mapa podían gastar cantidades distintas de filtro y batería.
+
+Hasta entonces Elyndran había tenido pendientes, huecos, humedad y visibilidad.
+
+Ahora tenía otro relieve.
+
+Uno que entraba conmigo en cada respiración.
 
 ---
 
-En la bifurcación no regresé todavía a la cápsula.
+Volví antes de convertir la prueba en desperdicio.
 
-Tomé la horizontal.
+Al cerrar la escotilla mantuve el casco puesto y empecé la limpieza habitual.
 
-La niebla me tragó casi enseguida.
+Entonces levanté una bota.
 
-Avancé solo hasta el primer punto donde podía volver sin referencias nuevas. La estructura de tres brazos permanecía más allá, escondida por capas de blanco, pero no necesitaba llegar hasta ella.
+Debajo quedó una mancha oscura junto al banco donde guardaba el agua terrestre.
 
-Esperé mientras caminaba.
+Me quedé quieto.
 
-El ventilador fue perdiendo intensidad.
+Barro en los surcos. Polvo pegado a la junta del tobillo. Dos fibras translúcidas enganchadas en la mochila.
 
-El indicador del filtro se estabilizó por debajo de lo que había marcado en la bóveda.
+La manta estaba a menos de dos pasos.
 
-La diferencia no era enorme.
+—Perfecto.
 
-Era suficiente para cambiar una decisión.
+El filtro del traje protegía lo que respiraba fuera.
 
-Dos rutas parecidas sobre el mapa podían gastar cantidades distintas de aire filtrado. Y el camino más corto podía no ser el más barato si obligaba al traje a trabajar más.
+Pero la cápsula no tenía esclusa.
 
-Miré hacia la niebla horizontal y después hacia la subida que acababa de abandonar.
+Cada regreso metía una parte del exterior conmigo.
 
-Hasta entonces había pensado Elyndran en pendientes, agarres, visibilidad y riesgo de caída.
+Limpié botas, juntas y mochila. Después retiré la rejilla de retorno y saqué el prefiltro interior. Era anterior a la caída: polvo de cabina, fibras textiles, partículas minerales, pintura y algunos fragmentos translúcidos parecidos a los del filtro exterior. También había formas diminutas que no podía clasificar.
 
-Ahora había otro relieve que no podía ver.
+No podía saber cuándo había llegado cada cosa.
 
-El aire también tenía terreno.
+No me hacía falta.
 
-Y yo lo estaba atravesando con un contador.
+Los registros ambientales mostraban el patrón con suficiente claridad: cada apertura de escotilla levantaba partículas; la recirculación las hacía bajar.
+
+Nunca hasta cero.
+
+Instalé un prefiltro nuevo.
+
+Luego miré el espacio de la cápsula.
+
+Había estado tratando todo el interior como si fuera una sola habitación limpia.
+
+Ya no podía hacerlo.
 
 ---
 
-Volví a la cápsula antes de que la comparación dejara de compensar el gasto.
+Moví agua, comida y manta al lado más alejado de la escotilla. Dejé junto a la entrada paños, residuos, herramientas de limpieza y un soporte para el casco.
 
-Al cerrar la escotilla mantuve el casco puesto. Limpié guantes, juntas, pecho y mochila mientras la recirculación arrastraba lo que había entrado conmigo.
+Después pegué una línea de cinta en el suelo.
 
-El contador interior de partículas descendió poco a poco.
+Menos de un metro.
 
-Cuando pude quitarme el casco, marqué dos notas en el mapa.
+Ridículo como barrera.
 
-**ASCENDENTE: MAYOR CARGA DE FILTRO.**
+Perfecto como recordatorio.
 
-**HORIZONTAL: COSTE PROVISIONALMENTE MENOR.**
+Probé el regreso sin salir: entrar, cerrar, mantener botas y guantes en el lado de acceso, limpiar, recircular, esperar, quitar el casco después.
 
-Nada sobre causas.
+La primera vez tuve que pensar cada gesto.
 
-Humedad, partículas o ambas podían explicar parte de la diferencia. No necesitaba resolverlo para utilizarlo.
+La segunda, mi mano fue sola hacia los paños.
 
-A partir de ese momento una ruta no sería solo una distancia.
+Eso era lo que necesitaba.
 
-Sería también una fracción de cartucho.
+No una cápsula estéril.
 
-Una fracción de batería.
+Un hábito que funcionara cuando estuviera cansado.
 
-Una fracción del tiempo que podía seguir saliendo ahí fuera.
+Me senté en el lado limpio y miré la cinta.
 
-Guardé el filtro usado y cerré el alojamiento de repuestos.
+El mundo exterior ya tenía un coste antes de alcanzarme: filtro, batería, tiempo.
 
-Entonces vi la rejilla de retorno del sistema ambiental.
+Ahora sabía que también dejaba un rastro cuando regresaba.
 
-Me quedé mirándola.
+Fuera, las membranas se tensaron antes de una ráfaga.
 
-El filtro del traje protegía lo que yo respiraba mientras estaba fuera.
+Dentro, una marca oscura cruzaba la cinta porque había girado demasiado pronto con una bota.
 
-Pero mis botas habían pisado raíces mojadas. La mochila había rozado fibras. Las juntas de la escotilla se abrían directamente a Elyndran cada vez que volvía.
+La limpié.
 
-Todo eso entraba conmigo.
+Entonces pensé en una costura rota.
 
-Me acerqué a la rejilla.
+En un guante abierto.
 
-Detrás seguía el prefiltro interior instalado antes de la caída.
+En piel donde hasta ahora siempre había habido traje.
 
-Hasta ese momento no había tenido una razón suficiente para abrirlo.
+Miré mi mano izquierda.
 
-Ahora sí.
+El aire ya tenía precio.
+
+La siguiente pregunta era cuánto costaría dejar que Elyndran tocara algo más que el exterior del traje.
