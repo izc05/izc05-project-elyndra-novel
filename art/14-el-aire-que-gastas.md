@@ -2,34 +2,51 @@
 
 ## Función editorial
 
-Convertir el aire en terreno visible sin declarar la atmósfera segura ni representar organismos confirmados. Este capítulo debe fijar el estándar fotográfico de **niebla + partículas + traje** para el bloque XIV–XVI.
+Hacer visible que **el aire también es terreno**: una misma distancia puede tener costes distintos de filtro y batería. Mantener intacta la incertidumbre atmosférica; composición gaseosa plausible no equivale a seguridad respiratoria.
 
-## Imagen de apertura
+## XIV-A — Apertura
 
-Interior estrecho de la cápsula al comienzo del capítulo. El protagonista, ya sin casco por estar dentro, pesa o inspecciona el cartucho usado que acaba de retirar. El filtro está oscurecido en los pliegues por una mezcla gris/marrón y una franja verdosa de humedad; el alojamiento de repuestos abierto y el banco pequeño sitúan el coste material sin revelar todavía qué contiene el aire exterior.
+Interior estrecho de la cápsula. El protagonista, sin casco porque permanece dentro del refugio, sostiene en una mano el cartucho usado recién retirado mientras observa el pequeño alojamiento de repuestos abierto. El filtro presenta pliegues húmedos y oscurecidos por polvo y fibras, sin biología reconocible a simple vista. La cápsula debe sentirse usada, reparada y cada vez más convertida en refugio.
+
+**Función:** mostrar inmediatamente que el aire exterior tiene un coste material limitado.
 
 ### Obligatorio
 
-- mismo protagonista y cápsula pequeña, accidentada y reparada;
-- cartucho usado físicamente creíble, húmedo y sucio pero no biológico a simple vista;
-- bolsa transparente de muestra y cartucho limpio próximos;
-- iluminación lateral sobria;
-- sensación de reserva limitada sin convertir la escena en inventario gráfico.
+- mismo protagonista y continuidad física de la cápsula;
+- filtro/cartujo técnicamente creíble y visiblemente usado;
+- pocos repuestos visibles, sin convertir la imagen en inventario;
+- banco pequeño, bolsa de muestra y herramientas coherentes;
+- iluminación sobria de interior de cápsula;
+- fotorealismo cinematográfico.
 
 ### Prohibido
 
-- partículas exteriores visibles en la apertura;
-- esporas reconocibles, bacterias gigantes, polen fantástico o enjambres;
-- infección u horror corporal;
-- HUD con alarma dramática;
-- texto incrustado.
+- casco abierto en exterior;
+- microorganismos gigantes o esporas identificables;
+- infección, horror corporal o contaminación fantástica;
+- texto, HUD o cifras legibles generadas;
+- representar la atmósfera como confirmadamente segura.
 
-## Imagen interior 1 — El filtro usado
+## XIV-I1 — El aire aparece
 
-Plano detalle editorial del cartucho ya abierto a examen, después de que el texto revele su mezcla: partículas minerales, fibras oscuras y fragmentos translúcidos ambiguos. Nada debe permitir identificar vida ni convertir las formas microscópicas en organismos confirmados.
+Bóveda de la ruta ascendente después de que el texto revele el aumento de carga del filtro. El protagonista está completamente sellado y pequeño dentro del volumen. Su linterna corta lateralmente el espacio entre columnas verdes, placas cobrizas y filamentos blancos. Solo dentro del haz aparecen miles de partículas, fibras diminutas y puntos suspendidos moviéndose en direcciones diferentes; fuera del haz, el aire vuelve a parecer limpio.
 
-## Imagen interior 2 — El haz
+El protagonista se ha detenido justo antes de retroceder. Debe sentirse la contradicción visual: una ruta bella y conocida que ahora parece físicamente cara de atravesar.
 
-Bóveda ascendente después de que el manuscrito revele la mayor resistencia del filtro. Protagonista completamente sellado, pequeño respecto al volumen. La linterna atraviesa lateralmente columnas verdes, placas cobrizas y filamentos blancos; miles de partículas diminutas existen solo dentro del volumen iluminado y desaparecen en sombra. El protagonista permanece al fondo, observando y retrocediendo un paso.
+**Función:** imagen memorable del descubrimiento principal. La materia suspendida se muestra, pero su naturaleza no se interpreta.
 
-**Regla narrativa:** la apertura fija el coste del filtro; la materia suspendida solo puede mostrarse después de que el protagonista la vea. La imagen muestra materia, no su naturaleza.
+## XIV-I2 — Dos caminos, dos costes
+
+En la bifurcación, el protagonista acaba de regresar de una incursión corta por la ruta horizontal. La niebla horizontal ocupa un lado del encuadre y la entrada más densa de la bóveda ascendente el otro. Él permanece entre ambas, casco cerrado, mirando de una dirección a otra como quien acaba de comprender una geografía nueva.
+
+No deben aparecer gráficos ni medidores flotantes. La diferencia se cuenta por atmósfera: la ascendente más densa, cargada de humedad y materia suspendida; la horizontal más abierta pero perdida en niebla. La escena debe sugerir que ya no elige solo por distancia o pendiente.
+
+**Función:** fijar visualmente la nueva regla de navegación: el mapa de Elyndran también tiene un relieve atmosférico invisible.
+
+## Continuidad visual
+
+- Traje cerrado en todas las escenas exteriores.
+- Mantener desgaste acumulado del traje y de la cápsula.
+- La estructura de tres brazos puede quedar apenas insinuada a distancia en I2 si la niebla lo permite, nunca convertida en edificio o máquina confirmada.
+- No introducir fauna nueva.
+- Las partículas de I1 son materia suspendida ambigua, no organismos confirmados.

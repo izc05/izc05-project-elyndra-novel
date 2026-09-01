@@ -25,14 +25,17 @@ Motor oculto:
 
 Una página puede ser tranquila. No puede ser inerte.
 
-## Velocidad
-- Normal: 650–1.100 palabras.
-- Gran expansión: 1.100–1.500.
-- Gancho ideal antes de 80–120 palabras.
-- El descubrimiento principal debe empezar a sentirse antes del 40–60 %, salvo suspense deliberado.
-- Máximo dos capítulos seguidos en el mismo microsector salvo crisis.
-- Cada 1–2 capítulos: expansión material del mundo.
-- Cada 2–3: región, clima, ecosistema, organismo, riesgo vertical o rastro nuevo.
+## Velocidad — FAST CUT
+- Prólogo objetivo: 450–700 palabras. Accidente, caída y primer contacto físico con Elyndran. El protagonista debe estar fuera de la cápsula antes de terminarlo.
+- Capítulo normal: 550–900 palabras.
+- Gran expansión: 900–1.200 solo si contiene varios descubrimientos o un cambio irreversible.
+- Gancho antes de 60–90 palabras.
+- El descubrimiento principal debe empezar antes del 40 % del capítulo.
+- Cada capítulo debe cambiar situación, conocimiento, riesgo o dirección. Si no lo hace, se fusiona o elimina.
+- Se permite y se recomienda fusionar capítulos completos. El número heredado de 25 capítulos no es una restricción.
+- Objetivo estructural provisional: 16–20 capítulos antes de XXVI, siempre que el canon sobreviva.
+- Máximo un regreso rutinario a cápsula entre expansiones. Los regresos sin consecuencia se resumen en una frase.
+- Cada 1–2 capítulos debe haber expansión material del mundo.
 
 ## Ciencia
 Una prueba solo merece escena amplia si implica riesgo, produce una revelación importante o cambia inmediatamente una decisión/ruta.
@@ -41,8 +44,17 @@ Evitar `muestra → analizador → cifras → hipótesis → registro`.
 Preferir `avanzo → encuentro → necesito decidir → compruebo lo mínimo → sigo o me retiro`.
 
 ## Compresión
-Tras reescribir, intentar cortar otro 10–15 %.
-Eliminar recapitulaciones, rutas ya conocidas sin cambios, inventarios repetidos, diagnósticos sin consecuencia, listas de descartes, números inútiles y muletillas como “no podía demostrar”, “no significaba”, “no escribí”, “esperé”, “nada”.
+Tras reescribir, intentar cortar otro 20–30 %.
+Eliminar recapitulaciones, rutas ya conocidas sin cambios, inventarios repetidos, diagnósticos sin consecuencia, listas de descartes, números inútiles y explicaciones que el lector ya puede inferir.
+No dramatizar preparación rutinaria, ponerse el equipo, guardar muestras, dormir o revisar registros salvo que algo cambie durante esa acción.
+
+## Regla de fusión
+Dos capítulos deben convertirse en uno cuando:
+- el primero solo prepara el descubrimiento del segundo;
+- ambos recorren el mismo microsector;
+- hay regreso a cápsula entre ellos sin consecuencia irreversible;
+- sus descubrimientos pueden coexistir en una única expedición sin romper cronología ni canon.
+Al fusionar, conservar el descubrimiento más fuerte y comprimir el resto como escalones de aventura.
 
 ## Misterio
 37 segundos, estructuras y posible inteligencia son hilos largos. No repetir por obligación. Cada regreso debe añadir una restricción, descartar una explicación, alterar una decisión o ampliar la pregunta.
@@ -71,22 +83,18 @@ Puntuar 0–2:
 5. Compresión.
 
 Gate: mínimo 8/10 y Descubrimiento = 2/2.
-Además responder: ¿avanza más de lo que analiza?, ¿suena humano?, ¿hay una escena memorable?, ¿se puede cortar otro 10–15 %?, ¿quiero leer el siguiente ya?
+Además responder: ¿avanza más de lo que analiza?, ¿suena humano?, ¿hay una escena memorable?, ¿se puede cortar otro 20 %?, ¿quiero leer el siguiente ya?, ¿este capítulo merece existir separado del anterior y del siguiente?
 
 ## Secuencia de trabajo
-Trabajar estrictamente `Prólogo → I → II → ... → XXV`.
-En cada ejecución:
-1. Leer `editions/ELYNDRA_REWRITE_PROGRESS_V3.md`.
-2. Tomar el primer capítulo no DONE.
-3. Leer capítulo, canon relevante y vecinos si hace falta.
-4. Editarlo solo en `edit/adventure-pacing-top-pass`.
-5. Ejecutar TOP.
-6. Si no pasa, dejarlo pendiente para la siguiente ejecución.
-7. Si pasa, marcar DONE, registrar score y siguiente capítulo.
-8. Crear/actualizar brief A/I1/I2.
-9. Actualizar continuidad solo si aparecen hechos canónicos nuevos.
-10. No abrir XXVI hasta que Prólogo–XXV estén cerrados y haya lectura integral.
+La pasada FAST CUT vuelve al principio y puede reabrir capítulos marcados DONE para comprimirlos o fusionarlos.
+1. Leer tracker y canon.
+2. Trabajar desde Prólogo hacia delante.
+3. Fusionar/eliminar unidades cuando acelere la aventura sin perder hechos.
+4. Ejecutar TOP sobre la nueva unidad resultante.
+5. Actualizar manuscrito, tracker y visuales afectados.
+6. Actualizar continuidad solo si aparecen hechos canónicos nuevos.
+7. No abrir XXVI hasta cerrar la estructura comprimida completa.
 
 No tocar ni fusionar `main` automáticamente.
 
-Objetivo final: cada página debe sentirse ya como aventura, descubrimiento, emoción y Elyndran en su mejor versión.
+Objetivo final: salir de la cápsula rápido, explorar Elyndran pronto y hacer que cada pocas páginas cambie el mundo.

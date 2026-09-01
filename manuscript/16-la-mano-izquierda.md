@@ -1,140 +1,180 @@
 # Capítulo XVI — La mano izquierda
 
-La cinta del suelo amaneció despegada en una esquina.
+La cinta que separaba la zona de entrada de la zona limpia se había despegado en una esquina.
 
-Había humedad debajo.
+Debajo brillaba una película de humedad.
 
-La sustituí y, al incorporarme, la rodilla derecha protestó lo suficiente para obligarme a apoyarme en el banco.
+La sustituí de rodillas. Al incorporarme, la derecha protestó y tuve que agarrarme al banco hasta que el dolor cedió.
 
-En el armario quedaba más fondo visible entre las raciones. La marca de los filtros seguía avanzando por otra reserva distinta.
+Raciones: menos huecos ocupados.
 
-Abrí los registros ambientales.
+Filtros: otra marca más cerca del final.
 
-La primera ruta continuaba siendo la zona de menor carga de filtro que había medido.
+Miré mis guantes.
+
+Algún día uno podía rasgarse.
+
+No durante una prueba. Durante una caída.
+
+Abrí el registro ambiental solo el tiempo necesario. De todas las zonas recorridas, la primera ruta seguía siendo la de menor carga de filtro que había medido.
 
 No segura.
 
-Menor.
+La menos mala.
 
-Cerré el archivo.
+Saqué del botiquín gasas, solución de limpieza, apósitos transparentes y el marcador dérmico. Los dejé sobre el banco.
 
-Saqué del botiquín gasas, solución de limpieza, dos apósitos transparentes y el marcador dérmico.
+Luego volví a guardarlos.
 
-Los guardé.
+—Estupendo.
 
 Veinte minutos después los saqué otra vez.
 
 Esta vez preparé también el regreso: recirculación lista, paño limpio junto a la escotilla y agua terrestre reservada para lavado.
 
-Un cierre podía fallar algún día.
-
-Una caída podía abrir una costura.
-
-La pregunta llevaba tiempo escondida dentro de esos accidentes posibles.
+Si un cierre fallaba allí fuera, prefería que mi primera exposición de piel a Elyndran ocurriera a seis metros de casa y no colgado sobre un vacío.
 
 ---
 
 Salí con casco cerrado, filtro limpio y ambos guantes puestos.
 
-No fui a la bifurcación.
+La niebla corría baja entre las raíces, demasiado fina para ocultar la cápsula. No fui a la bifurcación. Me quedé sobre la raíz ancha, en una zona seca donde podía volver de tres zancadas rápidas si algo cambiaba.
 
-Elegí una zona seca de la raíz ancha, a menos de seis metros de la cápsula. Limpié una superficie cercana solo para asegurarme de que la piel no tocaría corteza ni polvo durante la maniobra.
+Me senté con la espalda contra una protuberancia y estiré la pierna derecha.
 
-Me senté con la espalda contra una protuberancia y la pierna derecha estirada.
-
-La escotilla permanecía a la vista.
+La escotilla quedó frente a mí.
 
 Aflojé el cierre exterior del guante izquierdo.
 
-Retiré el guante hasta dejar al descubierto únicamente el dorso de la mano y parte de la muñeca.
+El gesto era absurdo de tan pequeño.
 
-El casco siguió cerrado.
+Había descendido entre fibras mojadas, cruzado niebla sin fondo visible y me había asomado bajo una plataforma que todavía no sabía nombrar. Sin embargo, tirar de aquel guante unos centímetros me costó más que muchos de esos pasos.
 
-El filtrado, activo.
+Lo retiré hasta descubrir solo el dorso de la mano y parte de la muñeca.
 
-El aire tocó la piel.
+Nada más.
 
-Frío primero.
+Casco cerrado.
+
+Filtrado activo.
+
+La piel no tocaba raíz, agua ni vegetación.
+
+El aire exterior me alcanzó.
+
+Frío.
 
 Después humedad.
+
+No ardió. No picó. No hizo nada espectacular.
+
+Y eso, durante los primeros segundos, fue casi peor.
 
 Activé el cronómetro.
 
 Diez segundos.
 
+La humedad se depositó como una capa tenue sobre los pelos de la mano.
+
 Quince.
 
 Veinte.
 
-Una gota cayó detrás de mí.
+Una gota cayó detrás de mí y golpeó la raíz.
+
+Me giré demasiado deprisa.
+
+Nada.
 
 Veinticinco.
 
+El impulso de volver a cubrirme llegó antes que cualquier síntoma.
+
 Treinta.
 
-Volví a introducir la mano y cerré el guante.
+Conté cuatro más y metí la mano en el guante.
 
-El cronómetro marcó treinta y cuatro segundos.
+Cerré el sello.
+
+**34 s.**
+
+Solté el aire que llevaba reteniendo sin darme cuenta.
 
 ---
 
-Esperé cinco minutos antes de levantarme.
+No me levanté enseguida.
 
-No había picor, dolor ni cambios de sensibilidad.
+Moví los dedos dentro del guante.
 
-A los siete minutos las membranas próximas se tensaron. Me puse de pie antes de la ráfaga y regresé.
+Uno por uno.
 
-Dentro seguí la nueva rutina de entrada.
+Sensibilidad normal. Sin dolor. Sin calor extraño.
+
+A los siete minutos las membranas próximas se tensaron.
+
+Ya conocía aquella advertencia.
+
+Me puse en pie antes de la ráfaga y crucé hasta la cápsula mientras la niebla empezaba a desplazarse en una sola dirección.
+
+La ráfaga llegó cuando estaba cerrando la escotilla.
+
+Dentro hice lo de siempre, pero esta vez cada gesto tenía un objetivo más concreto.
 
 Cerrar.
 
-Limpiar.
+Limpiar el traje.
 
 Recircular.
 
 Esperar.
 
-Solo entonces retiré el guante.
+Solo entonces retiré el guante izquierdo.
 
-La piel parecía igual que la derecha.
+Puse ambas manos bajo la misma luz.
 
-Fotografié ambas manos con escala, limpié la izquierda con agua terrestre y coloqué un apósito sobre cada una para poder comparar.
+Parecían iguales.
 
-Temperatura superficial.
+Eso no me tranquilizó tanto como esperaba.
 
-Color.
-
-Sensibilidad.
-
-Movilidad.
+Fotografié las dos con escala. Lavé la izquierda con agua terrestre y comprobé temperatura superficial, color, sensibilidad y movilidad. Coloqué un apósito transparente sobre cada mano para poder comparar después.
 
 Sin diferencia medible.
 
-Escribí:
+Escribí una sola línea útil:
 
 **EXPOSICIÓN DÉRMICA EXTERIOR: 34 s. ZONA DE BAJA CARGA DE FILTRO. SIN REACCIÓN AGUDA OBSERVABLE.**
 
+Y debajo:
+
 **SEGUIMIENTO NECESARIO.**
+
+No necesitaba cinco párrafos para recordar que seguía sin saber si aquel aire llevaba algo capaz de tardar horas, días o semanas en hacer daño.
 
 ---
 
-A la hora no había cambios.
+A la hora, nada.
 
 A las dos, tampoco.
 
-Cuando retiré los apósitos, ambas manos estaban algo más pálidas por la oclusión. El color volvió al mismo tiempo.
+Al retirar los apósitos, ambas manos estaban algo más pálidas por la presión. Recuperaron el color casi al mismo tiempo.
 
 No repetí la prueba.
 
-Por la tarde salí únicamente para cambiar el recipiente del colector durante una lluvia fina.
+Por la tarde empezó una lluvia fina y tuve que salir a cambiar el recipiente del colector. Cuando agarré la escotilla, miré la mano izquierda dentro del guante.
 
-Los guantes permanecieron puestos.
+La sensación había cambiado aunque la piel no.
 
-Dentro repetí el procedimiento completo de retorno.
+Hasta esa mañana, una rotura del traje era una amenaza sin medida.
 
-La mano izquierda seguía sin mostrar nada nuevo.
+Ahora tenía una observación real: treinta y cuatro segundos de piel expuesta, en aquellas condiciones, no habían provocado una reacción inmediata visible.
 
-Antes de dormir tomé una última fotografía.
+Nada más.
+
+Pero tampoco nada menos.
+
+Cambié el recipiente sin quitarme los guantes y regresé antes de que aumentara la lluvia.
+
+Esa noche hice una última fotografía.
 
 Sin enrojecimiento.
 
@@ -142,10 +182,10 @@ Sin edema.
 
 Sin dolor.
 
-Eso era una observación.
+La baliza transmitió y Elyndran siguió sin contestar de ninguna forma que yo pudiera reconocer.
 
-No una autorización.
+Apoyé la mano izquierda sobre la manta térmica.
 
-La baliza transmitió sin respuesta.
+Seguía siendo mi mano.
 
-Dejé la mano sobre la manta térmica y apagué la pantalla.
+Mañana volvería a necesitarla fuera.

@@ -4,122 +4,168 @@ El envoltorio no pesaba nada.
 
 Aun así lo doblé antes de tirarlo.
 
-La pila de plástico plateado ocupaba poco espacio.
+Abrí el compartimento de comida y vi demasiado fondo.
 
-Ese era el problema.
+Partí una ración por la línea del fabricante. Durante el viaje aquella marca había servido para decidir si tenía hambre de verdad.
 
-Abrí el compartimento de comida. Había demasiado fondo visible.
+Ahora servía para alargar días.
 
-Saqué una ración y la partí por la línea del fabricante. Durante el viaje aquella marca había sido una cuestión de apetito.
+Guardé una mitad y comí la otra mirando el colector.
 
-Ahora era una medida.
+La lluvia había dejado de ser solo lluvia.
 
-Guardé una mitad.
+La comida seguía siendo comida.
 
-Comí la otra mirando el colector.
+Y se acababa.
 
-La lluvia había abierto una posibilidad para el agua.
-
-La comida no parecía dispuesta a hacer lo mismo.
+Antes de terminar ya había decidido dónde iba a mirar.
 
 ---
 
-Volví a la ruta ascendente por la criatura de seis apoyos.
+Volví a la ruta ascendente.
 
-No llevaba un recipiente para traer alimento.
+No para comer algo de Elyndran.
 
-Llevaba cámara, una cápsula de muestra y el analizador.
+Todavía no.
 
-Los filamentos blancos se apartaron de la linterna. Las placas cobrizas aparecieron entre las columnas.
+Quería encontrar otra vez a la criatura de seis apoyos y ver qué hacía cuando yo no la espantaba.
 
-A mitad de la bóveda encontré otra criatura.
+Crucé la primera ruta sin detenerme y subí hacia la bóveda. Allí el aire volvió a hacerse caro. Los filamentos blancos se apartaron de la linterna y las columnas verdes desaparecieron por tramos detrás de las placas cobrizas.
 
-O la misma.
+La encontré a media subida.
 
-No podía distinguirlas.
+O encontré otra.
 
-Estaba inmóvil sobre una placa caída. La estructura tubular surgió por debajo y tocó el reverso oscuro.
+Estaba inmóvil sobre una placa caída, tan pegada al color del entorno que la vi porque algo debajo de su cuerpo se movió.
+
+Me quedé quieto.
+
+La estructura tubular descendió desde el vientre y tocó el reverso oscuro de la placa.
 
 No había agua.
 
-El tubo rozó la superficie, avanzó unos centímetros y volvió a apoyarse.
+El tubo avanzó unos centímetros.
 
-Detrás quedó una línea más clara.
+Detrás dejó una línea clara.
 
-No un corte.
+Me incliné sin acercarme más.
 
-Algo retirado.
+No era un corte.
 
-La criatura desapareció bajo las placas.
+Faltaba algo.
+
+La criatura repitió el movimiento. El tubo rozó la película negra y volvió a dejar otra franja limpia.
+
+Esta vez no encendí el analizador.
+
+Solo miré.
+
+La criatura se desplazó de lado, apoyando los seis puntos con una precisión absurda sobre la superficie inclinada, y siguió retirando la película.
+
+Entonces desapareció bajo el solapamiento de dos placas.
+
+Esperé unos segundos.
+
+No volvió.
 
 Me acerqué.
 
-El reverso estaba cubierto por una película casi negra salvo en el recorrido recién despejado. En otras placas había franjas semejantes que la primera vez no había sabido mirar.
+El reverso estaba cubierto casi por completo por aquella película oscura salvo en los recorridos recién despejados. Cuando levanté la vista empecé a verla también en otras placas: manchas, bordes, franjas comidas.
 
-Encontré una placa desprendida y tomé un fragmento de película del tamaño de una uña.
+Había estado delante de mí desde la primera visita.
 
-Solo uno.
+Yo no había sabido qué mirar.
 
-Después seguí hasta la terraza.
+---
 
-Allí las masas cobrizas dejaron de ser solo paisaje durante unos segundos.
+Seguí subiendo hasta la terraza.
+
+Desde allí la bóveda se abría en capas y las masas cobrizas se repetían mucho más allá de mi ruta.
+
+Por primera vez no pensé en ellas como paisaje.
+
+Pensé en cantidad.
+
+La idea me produjo vergüenza antes que esperanza.
 
 Cuánta superficie.
 
 Cuánta película.
 
-Cuánto material que existía sin depender de mis reservas.
+Cuánto material que no había viajado conmigo desde la Tierra.
 
 El estómago sonó dentro del traje.
 
-Aparté la mirada y regresé.
+—Sí, ya te he oído.
+
+No sabía si la criatura se alimentaba de aquello. Ni siquiera sabía si lo retiraba para ingerirlo.
+
+Pero sabía algo nuevo: aquella película participaba en una relación que yo no había visto antes.
+
+Y si quería entender si Elyndran podía ofrecerme algún día una fuente de alimento, acababa de encontrar el primer sitio donde mirar sin inventarme una respuesta.
+
+Busqué una placa ya desprendida, lejos del lugar por el que había desaparecido la criatura, y tomé una muestra minúscula del borde oscuro.
+
+Una sola.
+
+La guardé.
+
+Luego bajé.
 
 ---
 
-El analizador detectó cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética que habría sido fácil convertir mentalmente en calorías.
+De vuelta en la cápsula hice solo las comprobaciones que podían cambiar lo que haría después.
 
-No lo hice.
+Había cadenas orgánicas complejas, compuestos nitrogenados y una fracción energética real.
 
-Las líneas importantes fueron otras:
-
-**ESTRUCTURAS NO CLASIFICADAS: MÚLTIPLES.**
+También había demasiadas estructuras que el equipo no sabía clasificar.
 
 **COMPATIBILIDAD METABÓLICA HUMANA: NO DETERMINADA.**
 
-No apareció ningún veneno humano conocido por encima del umbral del equipo.
+Eso bastaba.
 
-Eso solo significaba que no había encontrado uno de los que sabía buscar.
+No iba a probarla.
 
-La criatura retiraba la película.
+No hoy.
 
-No sabía aún qué hacía con ella.
+Saqué la media ración que había guardado por la mañana y la dejé junto al recipiente de muestra.
 
-Y aunque la ingiriera, aquello no la convertiría en comida para mí.
+Una cosa era segura y menguaba.
 
-Saqué la mitad de ración guardada por la mañana.
-
-Durante un instante quedó junto al recipiente de muestra.
-
-Una cosa era conocida y cada vez más escasa.
-
-La otra cubría parte de Elyndran y seguía siendo biológicamente ilegible.
+La otra parecía abundante y podía ser inútil, tóxica o simplemente incomprensible para un cuerpo humano.
 
 Me comí la conocida.
 
+Despacio.
+
+Después aparté el recipiente de muestra del lado de la comida.
+
+Aquello también era una decisión.
+
 ---
 
-Revisé el vídeo una última vez.
+Antes de dormir volví a mirar el vídeo de la criatura.
 
-El tubo tocaba la película, la deformaba y dejaba detrás una franja clara.
+No para escribir otro informe.
 
-Escribí:
+Para fijarme en el lugar exacto donde había estado trabajando.
 
-**PELÍCULA OSCURA RETIRADA DURANTE CONTACTO REPETIDO. DESTINO DEL MATERIAL NO OBSERVADO.**
+La placa caída no era única.
 
-Cerré el archivo.
+Había otras dos visibles en el mismo tramo, con reversos oscuros y franjas claras parecidas.
 
-Después pegué una tira de cinta en el armario, alineada con el borde de las raciones restantes.
+Marqué el punto en el mapa.
 
-No escribí una fecha.
+No como alimento.
 
-Todavía no sabía cuánto tiempo representaba aquel espacio vacío.
+Como observación pendiente.
+
+Luego pegué una tira de cinta dentro del armario, alineada con el borde de las raciones restantes.
+
+El hueco por encima de la cinta me pareció mayor que por la mañana.
+
+Cerré la puerta.
+
+La próxima salida no sería para buscar comida.
+
+Sería para descubrir qué estaba haciendo aquella criatura con algo que Elyndran parecía tener de sobra.
