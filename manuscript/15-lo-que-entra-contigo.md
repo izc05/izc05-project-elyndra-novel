@@ -1,82 +1,84 @@
 # Capítulo XV — Lo que entra contigo
 
-A la mañana siguiente no abrí la escotilla.
+La mancha apareció cuando levanté la bota.
 
-Quité la rejilla de retorno del sistema ambiental.
+Oscura. Húmeda. Justo al lado del banco donde guardaba el agua terrestre.
 
-Detrás había un prefiltro plegado del tamaño de una mano abierta. La cara orientada hacia la cabina tenía polvo claro, fibras textiles y restos del asiento roto.
+Me quedé con una mano todavía en el cierre del casco.
 
-La zona próxima al conducto era más oscura.
+Había vuelto como siempre: escotilla, botas dentro, limpieza rápida, recirculación. Un procedimiento que hasta ese momento me había parecido prudente.
 
-Lo fotografié antes de retirarlo.
+Miré la suela.
+
+Barro en los surcos. Polvo pegado a la junta del tobillo. Dos fibras translúcidas enganchadas en la mochila.
+
+Luego miré la manta donde dormía, a menos de dos pasos.
+
+—Perfecto.
+
+Volví a ponerme el casco.
+
+---
+
+No necesitaba demostrar de qué parte de Elyndran procedía cada grano para entender el problema.
+
+La cápsula no tenía esclusa.
+
+Cada regreso metía conmigo una parte del exterior.
+
+Limpié primero la mancha, las botas y las juntas del traje. Después retiré la rejilla de retorno del sistema ambiental. Detrás apareció el prefiltro plegado, del tamaño de una mano abierta.
+
+La cara orientada a la cabina conservaba polvo claro, fibras textiles y restos del asiento roto. Cerca del conducto, el material era más oscuro.
 
 La fecha de servicio era anterior a la caída.
 
-Eso impedía usarlo como prueba limpia: Aster había movido durante años aire humano por aquellos conductos.
+Aster había movido aire humano por allí durante años, así que aquel filtro no podía decirme cuándo había llegado cada cosa. Aun así tomé una muestra.
 
-Aun así tomé una muestra de la zona oscura.
+Bajo la lente aparecieron polvo, pintura, partículas minerales, fibras y algunos fragmentos translúcidos parecidos a los del filtro exterior.
 
-Bajo la lente aparecieron polvo, fibras, pintura, partículas metálicas y algunos fragmentos translúcidos semejantes a los atrapados por el filtro exterior.
+Parecidos.
 
-Semejantes.
+No iguales.
 
-No idénticos.
+Había también tres formas ovaladas demasiado pequeñas para clasificar.
 
-Otra muestra mostró partículas minerales y tres formas ovaladas demasiado pequeñas para clasificar.
+El analizador devolvió una mezcla de polímeros, minerales y trazas orgánicas. Nada que justificara convertir la cabina en una amenaza invisible. Nada que permitiera llamarla limpia.
 
-El análisis químico devolvió material polimérico, minerales y trazas orgánicas mezcladas.
+Guardé el prefiltro viejo como referencia e instalé uno nuevo.
 
-No permitió emparejarlo con el filtro del casco.
+Después miré los registros ambientales.
 
-Tampoco separarlo con claridad.
+No tardé mucho en encontrar el patrón.
 
-Escribí:
+Cada apertura de escotilla levantaba un pico de partículas. La recirculación lo hacía bajar.
 
-**PREFILTRO INTERIOR: PARTICULADO MIXTO. ORIGEN EXTERIOR NO CONFIRMADO.**
+Nunca hasta cero.
 
-Eso era todo lo que podía defender.
+Cerré la pantalla.
 
----
-
-No necesitaba el microscopio para otra cosa.
-
-Había visto barro en las botas, polvo en las juntas y fibras enganchadas a la mochila.
-
-Tomé una muestra de aire interior antes de instalar un prefiltro limpio. Después cerré la rejilla y activé la recirculación alta.
-
-El contador de partículas descendió.
-
-No a cero.
-
-Busqué los registros de los primeros días.
-
-El patrón ya estaba allí:
-
-Apertura de escotilla.
-
-Pico de partículas.
-
-Descenso con recirculación.
-
-Otra apertura.
-
-Otro pico.
-
-No podía separar qué parte procedía de Elyndran y cuál levantaba yo dentro de una cápsula accidentada.
-
-Pero sí podía cambiar la manera de entrar.
+Eso bastaba para tomar una decisión.
 
 ---
 
-La nueva organización ocupó menos de un metro cuadrado.
+Moví media cápsula.
 
-Cerca de la escotilla dejé paños, residuos y un soporte para el casco. Al otro lado quedaron agua, analizador, comida y descanso.
+No era mucho espacio, pero allí dentro cada objeto tenía que apartarse de otro para existir. Dejé junto a la escotilla los paños, residuos, herramientas de limpieza y un soporte para el casco. Al otro lado quedaron el agua, el analizador, la comida y la manta.
 
-Pegué una línea de cinta en el suelo.
+Después pegué una línea de cinta en el suelo.
 
-No sellaba nada.
+Menos de un metro.
 
-Solo separaba dos comportamientos.
+Ridículo como barrera.
+
+Útil como regla.
+
+Me quedé mirándola con las manos en la cintura.
+
+El lado de la escotilla ya parecía distinto. Más estrecho. Más sucio. Deliberadamente incómodo.
+
+El otro seguía siendo donde comía y dormía.
+
+Probé el regreso completo sin salir.
 
 Entrar.
 
@@ -84,7 +86,7 @@ Cerrar.
 
 Botas en el lado de acceso.
 
-Limpiar guantes y juntas.
+Guantes y juntas.
 
 Recircular.
 
@@ -92,40 +94,56 @@ Esperar.
 
 Casco al soporte.
 
-La segunda vez que ensayé el regreso dejé de recitarlo.
+La primera vez tuve que pensar cada gesto.
 
-Mi mano fue sola a la caja de paños.
+La segunda, mi mano fue sola hacia la caja de paños.
+
+Eso era lo que necesitaba.
+
+No una habitación estéril.
+
+Un hábito que funcionara incluso cansado.
 
 ---
 
-Al mediodía comí media ración.
+Al mediodía calenté media ración.
 
-El módulo térmico falló a mitad del ciclo y dejó la comida tibia por un lado y fría por el otro.
+El módulo térmico falló a mitad del ciclo y la dejó tibia por un lado y fría por el otro. Me la comí apoyado en el banco, con las botas al otro lado de la cinta.
 
-Me la terminé igual.
+La niebla había subido y desde la escotilla podía ver una franja amplia de la raíz.
 
-La niebla estaba alta. Podía haber salido.
+Podía haber salido.
 
-No lo hice.
+Por primera vez en días, no me molestó quedarme dentro.
 
-Había pasado la mañana recorriendo la distancia entre la escotilla y el lugar donde dormía.
+La cápsula había cambiado otra vez.
 
-Por la tarde sellé el prefiltro viejo como referencia y escribí dos líneas:
+Primero había dejado de ser un vehículo.
 
-**LA CABINA REDUCE PARTÍCULAS TRAS CADA APERTURA. NO ES UN ENTORNO ESTÉRIL.**
+Después había empezado a parecer un refugio.
 
-**MANTENER SEPARACIÓN ENTRE ZONA DE ENTRADA Y ZONA LIMPIA.**
+Ahora tenía una frontera que no existía en los planos.
 
-La baliza transmitió.
+No detenía el aire. No detenía partículas. No detenía nada por sí sola.
 
-Nada respondió.
+Pero cambiaba lo que yo hacía al cruzarla.
+
+La baliza transmitió sin respuesta.
 
 Fuera, las membranas se tensaron antes de una ráfaga.
 
-Dentro, la línea de cinta ya tenía una mancha oscura de la suela.
+Dentro, descubrí una marca oscura sobre la cinta.
 
-La limpié.
+La había dejado yo al girarme demasiado pronto con una bota.
 
-No era una esclusa.
+La limpié y volví a colocar el pie en el lado correcto.
 
-Pero era mejor que seguir fingiendo que cerrar una puerta bastaba.
+Entonces pensé en una costura rota.
+
+En un guante abierto por una caída.
+
+En piel expuesta donde hasta ahora siempre había habido traje.
+
+Miré mi mano izquierda.
+
+La siguiente pregunta ya estaba dentro conmigo.
