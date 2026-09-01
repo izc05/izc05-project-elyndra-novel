@@ -1,99 +1,119 @@
-# Capítulo XXIII — Lo que dejas fuera
+# Capítulo XII — Lo que dejas fuera
 
-La lluvia empezó mientras limpiaba el banco.
+La cámara exterior me enseñó el problema antes de que oyera la lluvia.
 
-La cámara exterior mostró el problema antes de que pudiera oírlo.
+Uno de los soportes del colector había cedido.
 
-Uno de los apoyos del colector había cedido. La lámina seguía unida a la cápsula, pero su borde limpio descansaba sobre la raíz.
+La lámina seguía unida a la cápsula, pero la cara que yo mantenía limpia descansaba sobre la raíz.
 
-El agua recorría la cara interior, tocaba corteza y caía después al vacío.
+El agua corría por ella, tocaba corteza y después caía al vacío.
 
-La lluvia no era el problema.
+Se me secó la boca.
 
-El camino que seguía, sí.
+No por sed.
 
----
+Por desperdicio.
 
-Había nueve raciones seguras en el armario.
+La primera lluvia útil de Elyndran había dependido de una frontera ridícula: unos centímetros entre una superficie limpia y todo lo demás.
 
-La cifra apareció mientras preparaba el traje aunque no tuviera nada que ver con el colector.
-
-Cada salida costaba filtro, energía, limpieza y comida.
-
-Esta vez no necesitaba alejarme seis metros.
-
-Salí con abrazaderas, cinta, herramienta y un paño limpio.
-
-La cara interior de la lámina había tocado corteza.
-
-Dejó de ser limpia en ese instante.
-
-Enderecé el soporte deformado mientras una ráfaga empujaba la lluvia de lado. Las membranas se habían tensado un segundo antes.
-
-Sujeté la lámina contra la cápsula, esperé a que el viento pasara y aseguré los tres puntos de apoyo.
-
-La inclinación volvió a funcionar.
-
-El agua ya no tocaba la raíz.
-
-Eso no deshacía el contacto anterior.
+Acababa de perderla.
 
 ---
 
-Enjuagué la lámina con varios volúmenes de lluvia, descartando los primeros. La lluvia empezó a debilitarse antes de que terminara.
+Salí con abrazaderas, cinta y un paño.
 
-Cuando regresé, la recirculación tardó lo habitual.
+No necesitaba alejarme de la cápsula, pero el viento no parecía interesado en esa diferencia.
 
-El filtro había acumulado poco comparado con una visita a la bóveda.
+Las membranas transparentes se tensaron.
 
-Poco no era cero.
+Me agaché.
 
-La lluvia siguió casi una hora y el colector volvió a producir un hilo separado de la corteza.
+La ráfaga golpeó de lado y la lámina intentó abrirse como una vela.
 
-No guardé los primeros volúmenes.
+La sujeté contra el casco de la cápsula hasta que pasó.
 
-Una fracción posterior pasó a una bolsa distinta de la reserva terrestre.
+—Otra vez no.
 
-La filtré y traté térmicamente en una cantidad pequeña.
+Enderecé el soporte deformado y reforcé los tres puntos.
 
-Acidez corregible.
+La inclinación volvió a separar el agua de la raíz.
 
-Sin metal reconocido por encima de alarma inmediata.
+Eso solucionaba el siguiente minuto.
 
-Señal orgánica baja después del filtrado.
+No borraba el anterior.
 
-Tras el calor, por debajo del nivel de clasificación fiable.
+La cara limpia había tocado Elyndran.
+
+Desde ese instante dejó de ser limpia.
+
+---
+
+Dejé que la lluvia enjuagara la lámina y tiré los primeros volúmenes.
+
+Luego más.
+
+El agua desaparecía por el borde mientras yo miraba cómo una reserva potencial se perdía en la niebla.
+
+Cada litro dolía más de lo razonable.
+
+No porque supiera que podía beberlo.
+
+Porque sabía cuánto costaba conseguir algo que quizá algún día pudiera necesitar.
+
+La lluvia empezó a aflojar.
+
+—Claro.
+
+Esperé hasta que el recorrido volvió a ser simple: cielo, lámina, recipiente.
+
+Sin raíz en medio.
+
+Recogí una fracción pequeña y regresé.
+
+La recirculación hizo su trabajo mientras yo mantenía el casco puesto en la zona de entrada.
+
+No convertí aquello en una tarde de análisis.
+
+Filtré una cantidad mínima, la traté con calor y busqué solo una respuesta útil.
 
 El resultado se parecía al de la primera lluvia tratada.
 
 La historia de recogida, no.
 
-Aquella lámina había tocado la raíz.
+Eso bastaba.
 
-Guardé el volumen como **reserva experimental**.
+Separé la bolsa de la reserva terrestre.
+
+**Experimental.**
 
 No bebí.
 
-El agua terrestre siguió siendo la fuente principal.
-
 ---
 
-Al anochecer la lluvia cesó.
+Al anochecer la tormenta había pasado.
 
-La cámara mostró las tres abrazaderas firmes y una gota tardía recorriendo la cara interior hasta caer en el recipiente sin tocar corteza.
+En la cámara exterior, una gota descendió por la cara interior del colector y cayó en el recipiente sin tocar corteza.
 
-Eso era todo lo que podía afirmar.
+Las tres abrazaderas aguantaban.
 
-Abrí una de las nueve raciones completas y comí la mitad fría.
+La reparación funcionaba.
 
-Guardé la otra mitad.
+La confianza no había vuelto con ella.
 
-Quedaban ocho raciones completas y una mitad segura.
+Abrí una ración y comí solo la mitad.
 
-La próxima lluvia encontraría el colector preparado.
+La otra quedó sellada.
 
-La reserva experimental quedó separada.
+Miré la bolsa experimental y después el agua terrestre.
 
-No era agua ganada todavía.
+Dos recipientes transparentes.
 
-Era una posibilidad que no pensaba confundir con sed.
+Dos historias distintas.
+
+Eso era lo que empezaba a pesar en Elyndran: no solo cuánto recurso tenía, sino cuánto trabajo costaba mantenerlo separado de todo lo que no entendía.
+
+La siguiente salida no sería para conseguir más agua.
+
+El colector podía esperar otra lluvia.
+
+Yo necesitaba volver bajo la plataforma antes de que comida, filtro y rodilla empezaran a decidir por mí hasta dónde podía llegar.
