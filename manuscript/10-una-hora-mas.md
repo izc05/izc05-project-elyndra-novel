@@ -1,136 +1,66 @@
-# Capítulo X — Una hora más
+# Capítulo V — La órbita vacía
 
-A la mañana siguiente seguía bien.
+La lluvia tratada me compró una hora.
 
-Sin fiebre. Sin picor. Sin nada que el equipo pudiera reconocer como reacción aguda a la lluvia tratada.
+No seguridad. No confianza.
 
-Diez mililitros no convertían el agua de Elyndran en segura.
+Una hora.
 
-Pero sí convertían una bolsa de ciento ochenta y seis gramos en tiempo.
+Guardé la pequeña bolsa aparte, cargué un solo recipiente de agua terrestre y salí antes de que pudiera convencerme de que aquello era demasiado pronto.
 
-La guardé aparte, cargué un solo recipiente de agua terrestre y cerré el armario.
-
-El hueco que dejaba el segundo recipiente parecía más grande de lo que era.
-
-Una hora más lejos de la cápsula.
-
-Eso era todo.
-
-Y era muchísimo.
-
----
-
-Tomé la horizontal en la bifurcación.
-
-La estructura de tres brazos apareció entre la niebla y la dejé atrás. Sus cavidades retenían agua nueva después de la lluvia. No me detuve.
-
-En la siguiente división bajé.
-
-La raíz se hundía bajo otra mayor hasta formar un corredor bajo techo. La niebla me llegaba a las rodillas y la corteza, aunque parecía seca, escondía una película de agua que devolvía destellos bajo la linterna.
-
-Avancé con una mano cerca de las fibras superiores.
+Tomé la horizontal, dejé atrás la estructura de tres brazos y bajé por la división que había marcado el día anterior. La raíz se hundía bajo otra mayor hasta formar un corredor donde la niebla me llegaba a las rodillas.
 
 Entonces apareció la primera línea recta.
 
-Me detuve.
+Una banda oscura atravesaba la cara inferior de la raíz, encajada bajo la corteza. La seguí sin tocarla.
 
-Era una banda oscura, de casi medio metro de ancho, encajada en la cara inferior de la raíz. Una serie de surcos la cruzaba de lado a lado. La corteza había crecido sobre los bordes como si intentara tragársela.
-
-No la toqué.
-
-La seguí.
-
-La niebla se abrió unos metros por delante.
-
-Y levanté la cabeza.
+La niebla se abrió.
 
 La plataforma estaba encima de mí.
 
----
-
-Desde arriba me había parecido una superficie.
+Desde arriba parecía una superficie.
 
 Desde abajo tenía profundidad.
 
-Capas.
+Capas. Nervaduras. Huecos.
 
-Nervaduras.
+El material oscuro desaparecía bajo crecimiento vivo y reaparecía metros después. Algunas líneas terminaban de golpe; otras se hundían en la raíz como si ambas cosas llevaran demasiado tiempo compartiendo el mismo espacio.
 
-Huecos.
+Me reí una vez dentro del casco.
 
-La trama oscura atravesaba la corteza y las fibras sin un límite limpio. Algunas nervaduras desaparecían dentro de la raíz y volvían a salir metros después. Otras terminaban de golpe. En ciertos puntos faltaba material donde esperaba continuidad; en otros, crecimiento vivo ocupaba espacios que parecían demasiado regulares.
-
-Me acerqué hasta tener que echar la cabeza hacia atrás para abarcar solo una parte.
-
-La banda que había seguido se dividía bajo mis botas. Un tramo ascendía hacia aquella trama. El otro se perdía bajo corteza nueva.
-
-Sentí el impulso absurdo de reír.
-
-Llevaba días mirando aquello desde el lado equivocado.
-
-Saqué la cámara.
-
-A lo lejos sonó el tono agudo.
-
-Me quedé inmóvil, esperando una vibración bajo las botas.
-
-No llegó.
-
-Después sonó el grave.
-
-Tampoco.
-
-Bien.
-
-Por una vez, dos misterios podían seguir siendo dos misterios.
-
-Di un paso lateral para buscar otro ángulo.
-
-Y el mundo se me fue de debajo.
+Llevaba días mirándolo desde el lado equivocado.
 
 ---
 
+Busqué otro ángulo.
+
 La bota izquierda encontró agua donde mis ojos habían visto corteza.
 
-El pie salió disparado hacia delante. La mochila tiró de mí hacia atrás y la rodilla derecha se plegó con un latigazo de dolor.
+El pie salió disparado. La mochila tiró de mí hacia atrás y la rodilla derecha se plegó con un latigazo.
 
 Clavé la herramienta entre dos fibras.
 
 Aguantó.
 
-Durante unos segundos no hice otra cosa que respirar pegado a la raíz, con la niebla moviéndose debajo y la mano cerrada alrededor del mango.
+Me quedé pegado a la raíz, respirando demasiado fuerte mientras la niebla se movía debajo.
 
-Probé la rodilla.
+Probé la pierna.
 
-Dolía, pero cargaba peso.
+Dolía. Sostenía peso.
 
-Entonces algo golpeó mi costado.
+Entonces noté algo golpeando mi costado.
 
-La bolsa de lluvia colgaba vacía del bolsillo.
+La bolsa de lluvia estaba abierta por una esquina.
 
-Una esquina se había abierto al engancharse durante el resbalón. Debajo de mí, la película oscura brillaba donde había caído el agua.
+Mi hora extra goteaba sobre la corteza.
 
-Ciento ochenta y seis gramos.
+—Fantástico.
 
-Mi hora extra.
+La guardé vacía.
 
-Se había ido en segundos.
+Ya no tenía margen para seguir explorando, pero antes de subir miré una vez más la cara inferior.
 
-Guardé la bolsa rota.
-
-La rodilla volvió a protestar cuando me incorporé.
-
-Ya no tenía margen para hacerme el valiente.
-
-Di media vuelta.
-
----
-
-Antes de subir miré una vez más hacia la cara inferior de la plataforma.
-
-Tres nervaduras oscuras entraban bajo la corteza. Sobre el crecimiento que las envolvía habían aparecido pequeñas membranas transparentes iguales a las de otras raíces.
-
-Y entonces vi lo que antes se me había escapado.
+Tres nervaduras oscuras entraban bajo la corteza. Sobre el crecimiento que las envolvía había pequeñas membranas transparentes.
 
 No crecían sobre el material oscuro.
 
@@ -140,20 +70,134 @@ La diferencia era pequeña.
 
 La pregunta no.
 
-La niebla cerró el hueco poco a poco hasta borrar la plataforma por completo.
-
-Regresé por el mismo camino.
-
-En la bifurcación bebí agua terrestre y palpé el bolsillo vacío por pura costumbre.
-
-Había salido para comprarme una hora.
-
-Volvía antes de tiempo, con una rodilla dolorida, una bolsa rota y una imagen nueva del lugar que llevaba días persiguiendo.
+Regresé sabiendo dos cosas: cómo volver allí y que la plataforma era mucho más profunda de lo que había parecido desde arriba.
 
 La hora se había perdido.
 
 La ruta no.
 
-Ahora sabía por dónde volver.
+---
 
-Y, sobre todo, sabía desde dónde mirar.
+La siguiente oportunidad no estaba debajo de una raíz.
+
+Estaba encima de todas.
+
+Si Aster conservaba algo parecido a la órbita prevista, una ventana aproximada cruzaría mi cielo durante el siguiente ciclo de luz.
+
+No tenía una órbita fiable. Tenía restos suficientes para justificar una subida a la terraza y no muchos más.
+
+Fui.
+
+Crucé la bóveda sin detenerme. Los filamentos blancos se apartaron ante la linterna y las placas cobrizas dejaron gotas sobre mis hombros. La terraza apareció detrás de la última curva.
+
+Por primera vez desde la caída tuve una franja amplia de cielo delante.
+
+Fijé el receptor al antebrazo.
+
+Estática.
+
+Abrí el canal de Aster.
+
+Más estática.
+
+Recordé el tráfico de fondo antes de la separación: voces pisándose, alguien protestando por una lista, ruido humano que entonces me había parecido molesto.
+
+Habría dado bastante más que una hora por escucharlo otra vez.
+
+Transmití.
+
+—Aster, cápsula de superficie. Responde.
+
+Nada.
+
+Repetí dos veces.
+
+Después apagué el transmisor y miré.
+
+---
+
+La ventana empezó vacía.
+
+Un punto brillante apareció entre dos nubes y el corazón me dio un golpe antes de que comprobara que no se movía.
+
+Seguí buscando.
+
+El viento llegó a ráfagas. Las membranas de la terraza se tensaban antes de cada una, pero apenas las miraba.
+
+Entonces algo blanco cruzó la abertura.
+
+Me puse de pie demasiado rápido.
+
+La rodilla protestó.
+
+—Vamos.
+
+La línea atravesó el cielo durante menos de dos segundos y desapareció detrás de las nubes.
+
+Sin portadora.
+
+Sin reaparición.
+
+La trayectoria tampoco encajaba con una órbita baja compatible con Aster.
+
+Esperé de todos modos.
+
+Cinco minutos.
+
+Diez.
+
+Más de lo que tenía sentido.
+
+El cielo siguió vacío.
+
+Guardé el receptor.
+
+El gesto pesó más que el aparato.
+
+Aster podía estar lejos, dañada, fuera de la órbita prevista o en cualquier lugar que mis cálculos no alcanzaran.
+
+Ninguna de esas posibilidades me decía dónde poner el pie siguiente.
+
+Entonces la niebla se abrió sobre la ruta horizontal.
+
+A lo lejos apareció otra vez la geometría regular: un tramo recto, un ángulo, otra línea hundida entre raíces.
+
+Sentí una rabia absurda.
+
+—Tú sí.
+
+El cielo podía esconderme una nave entera.
+
+Aquello seguía ahí cada vez que la niebla cedía.
+
+No sabía qué era.
+
+Pero podía volver.
+
+---
+
+Empecé a bajar.
+
+A mitad de la bóveda, los filamentos blancos se inclinaron hacia la pared vegetal antes de que llegara la lluvia. La primera gota golpeó el visor cuando ya estaba cruzando.
+
+No me detuve a decidir qué habían detectado.
+
+Aprendí la consecuencia y seguí.
+
+La cápsula apareció entre la lluvia con el colector trabajando sobre la raíz. La baliza lanzó otra llamada automática.
+
+Sin respuesta.
+
+Dejé una sola línea en el registro:
+
+**PASO ORBITAL PREVISTO: NO CONFIRMADO.**
+
+Después miré el mapa.
+
+El acceso inferior a la plataforma ya tenía ruta.
+
+La región horizontal seguía esperando.
+
+Aster no me había dado una dirección.
+
+Elyndran sí.
