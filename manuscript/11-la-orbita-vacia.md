@@ -1,22 +1,18 @@
 # Capítulo XI — La órbita vacía
 
-La bolsa reparada volvió a cerrar.
+La bolsa reparada aguantó toda la noche.
 
-La llené a medias con agua terrestre, la dejé colgada sobre el banco y esperé una gota.
+Eso me compraba una salida.
 
-No cayó ninguna.
+El paso de Aster, si seguía donde debía, cruzaría mi cielo poco después de la mitad del ciclo de luz.
 
-La vacié.
+No tenía una órbita fiable. Tenía restos: vector anterior a la entrada, periodo previsto, una rotación planetaria reconstruida y mi posición aproximada después de caer donde nadie había planeado caer.
 
-El paso de Aster, si seguía en la órbita prevista, ocurriría poco después de la mitad del ciclo de luz.
+Podía equivocarme por minutos.
 
-Había calculado una ventana con datos anteriores a la entrada: vector, periodo orbital, rotación estimada de Elyndran y una posición de la cápsula reconstruida durante la caída.
+Podía equivocarme por medio planeta.
 
-Cada cifra arrastraba error.
-
-Juntas podían convertir una predicción en una forma elaborada de mirar el cielo.
-
-Aun así salí.
+Aun así guardé el receptor, cerré el casco y salí.
 
 No hacia abajo.
 
@@ -24,71 +20,97 @@ Hacia la terraza de la ruta ascendente.
 
 ---
 
-El camino conocido pasó deprisa.
+Crucé el camino conocido sin detenerme.
 
-La cortina blanca se apartó de la linterna. Las placas cobrizas conservaban humedad en las juntas. Una pequeña depresión con seis líneas finas apareció en el barro y la dejé atrás.
+La cortina de filamentos se abrió ante la luz. Las placas cobrizas retenían agua en las juntas. Junto a una columna verde vi una depresión pequeña atravesada por seis líneas finas.
 
-Ya sabía que había animales allí.
+La habría fotografiado el primer día.
 
-No toda marca merecía convertirse en expediente.
+Esta vez seguí.
 
-En la terraza, el cielo ocupaba casi un tercio del horizonte.
+Aster tenía una ventana.
 
-Me senté con la pierna derecha extendida y abrí el receptor.
+La terraza apareció detrás de la última curva y, por primera vez desde la caída, tuve suficiente cielo delante para sentir que no estaba encerrado dentro del planeta.
 
-Estática.
+Me senté con la pierna derecha extendida, fijé el receptor al antebrazo y levanté la vista.
 
-Banda de emergencia.
+Nubes.
+
+Una franja azul grisácea.
+
+Más nubes.
+
+Abrí la banda de emergencia.
 
 Estática.
 
 Canal de Aster.
 
-Nada.
+Estática.
 
-No transmití todavía.
+Esperé unos segundos con el pulgar sobre transmisión.
 
-Escuché.
+Recordé el sonido del enlace antes de separarnos: tráfico de fondo, voces pisándose, alguien quejándose de una lista mal cerrada. Ruido humano. Entonces me había molestado.
 
-Varias elevaciones breves desaparecieron al intentar fijarlas. Una coincidió con una ráfaga. Otra con el movimiento del hombro. Una tercera no volvió.
+Habría dado media reserva de agua por escucharlo otra vez.
 
-No guardé ninguna como señal.
-
-A siete minutos de la ventana emití tres llamadas breves.
+A siete minutos de la ventana transmití.
 
 —Aster, cápsula de superficie. Responde.
 
-Estática.
+Silencio convertido en estática.
 
-Apagué el transmisor.
+Repetí dos veces más y apagué el transmisor.
 
-La baliza de la cápsula llevaba días diciendo lo mismo con más potencia.
+La baliza de la cápsula llevaba días gritando con más potencia.
+
+Ahora me tocaba mirar.
 
 ---
 
-La ventana empezó sin acontecimiento.
+La ventana empezó sin nada.
 
-Miré al sur, donde el cálculo situaba la entrada de Aster en el cielo visible.
+Busqué al sur, donde el cálculo situaba la entrada de Aster en el cielo visible.
 
-Nada.
+Un punto brillante apareció entre dos nubes.
 
-Un punto brillante apareció entre nubes. Con aumento resultó inmóvil.
+El pulso se me aceleró antes de ampliar la imagen.
 
-No era Aster.
+El punto no se movía.
 
-Pasaron cinco minutos.
+Lo dejé atrás.
+
+Cinco minutos.
 
 Nueve.
 
 Doce.
 
-Sin portadora estable.
+Barrí el cielo con aumento mínimo para no perder campo. El viento llegaba por ráfagas cortas y las membranas de la terraza se tensaban antes de cada una. Empecé a distinguirlas por el sonido sin apartar la vista del horizonte.
 
-A los dieciséis, una línea blanca cruzó la abertura durante menos de dos segundos.
+A los dieciséis minutos algo blanco atravesó la abertura.
 
-No parpadeó. No cambió de dirección. No tuvo radio asociada.
+Me puse de pie demasiado rápido.
 
-El visor calculó velocidad angular y descartó una trayectoria orbital baja compatible con Aster.
+La rodilla protestó.
+
+—Vamos.
+
+La línea cruzó el cielo durante menos de dos segundos y desapareció detrás de una masa de nubes.
+
+Sin parpadeo.
+
+Sin cambio visible de dirección.
+
+Sin portadora.
+
+El visor tardó un instante en devolver la trayectoria angular.
+
+No encajaba con una órbita baja compatible con Aster.
+
+Me quedé inmóvil, esperando que reapareciera.
+
+No lo hizo.
 
 Guardé el registro.
 
@@ -98,21 +120,25 @@ Como una línea blanca.
 
 La ventana terminó.
 
-Seguí mirando diez minutos más.
+Seguí allí diez minutos más.
 
-El cielo no dio ninguna respuesta.
+Cada vez que una nube se abría levantaba la cabeza.
 
-Aster podía haber perdido la órbita prevista. Podía estar detrás de las nubes. Dañada. Más lejos. Más abajo.
-
-No elegí ninguna posibilidad.
-
-La ausencia no era una posición.
+Cada vez encontraba el mismo cielo vacío.
 
 ---
 
-Antes de regresar miré el horizonte.
+Guardé el receptor.
 
-La geometría regular observada en la distancia apareció entre dos bancos de niebla.
+El gesto pesó más de lo que debía.
+
+Aster podía estar fuera de la órbita prevista, dañada, oculta o demasiado lejos para alcanzarme.
+
+Pero ninguna de esas posibilidades me servía para decidir dónde poner el pie siguiente.
+
+Entonces la niebla se abrió sobre la ruta horizontal.
+
+La geometría regular apareció a lo lejos entre raíces.
 
 Un tramo recto.
 
@@ -120,40 +146,60 @@ Un ángulo.
 
 Otro tramo.
 
-No había venido por ella.
+No había subido por ella.
 
-Pero había una diferencia incómoda entre aquella forma y el cielo.
+Sin embargo seguía allí.
 
-La forma seguía allí cada vez que la niebla permitía verla.
+El cielo podía esconderme una nave entera.
 
-Aster, no.
+Aquella forma, cada vez que la niebla cedía, volvía a ocupar el mismo lugar.
 
-No significaba que la estructura fuera más importante.
+Sentí una punzada de rabia absurda.
 
-Solo que podía volver a ella.
+—Tú sí.
+
+La frase quedó dentro del casco.
+
+No sabía qué era aquella estructura.
+
+Pero podía volver a ella.
+
+Y, por ahora, eso era más de lo que podía hacer con Aster.
 
 Emprendí el descenso.
 
-A mitad de la bóveda los filamentos blancos cambiaron de posición antes de que empezara a llover. Se inclinaron hacia la pared vegetal y abrieron el paso sin que moviera la linterna.
+---
 
-La primera gota golpeó el casco poco después.
+A mitad de la bóveda, los filamentos blancos cambiaron antes de que llegara la lluvia.
 
-No escribí *predicción*.
+No reaccionaron a mi linterna.
 
-Podían responder a humedad, presión, electricidad o a algo que todavía no medía.
+Se inclinaron hacia la pared vegetal y dejaron libre el centro del paso.
 
-Crucé antes de que el agua aumentara.
+Me detuve.
 
-En la cápsula, la baliza seguía transmitiendo sin respuesta.
+La primera gota golpeó el visor.
 
-Guardé el registro con una sola conclusión defendible:
+Luego otra.
+
+Después diez a la vez.
+
+Crucé antes de que la corteza se volviera una trampa.
+
+No necesitaba decidir si los filamentos habían anticipado humedad, presión, electricidad o algo más. Necesitaba recordar que, cuando se apartaban así, convenía moverse.
+
+Llegué a la cápsula con la lluvia creciendo detrás.
+
+La baliza lanzó otra llamada automática.
+
+Sin respuesta.
+
+En el registro dejé una sola línea:
 
 **PASO ORBITAL PREVISTO: NO CONFIRMADO.**
 
-Fuera, la lluvia empezó a llenar el colector.
+Fuera, el colector empezó a llenarse.
 
-Cambié el recipiente antes de que rebosara.
+Cambié el recipiente antes de que rebosara y miré una vez hacia la niebla que ocultaba la ruta horizontal.
 
-La baliza emitió otra llamada automática mientras trabajaba.
-
-No levanté la cabeza.
+Si el cielo no iba a darme una dirección, tendría que seguir buscándola aquí abajo.
