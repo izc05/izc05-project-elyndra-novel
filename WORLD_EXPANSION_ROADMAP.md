@@ -40,28 +40,9 @@ La expansión debe preservar la identidad ya establecida:
 
 **Estado: COMPLETA V1 — `KNOWN_WORLD_MAP.md`**
 
-Crear un mapa lógico tridimensional del sector ya explorado.
-
-Entidades mínimas:
-
-- cápsula;
-- bifurcación principal;
-- ruta descendente;
-- ruta horizontal;
-- ruta ascendente;
-- discos de agua;
-- bóveda;
-- estructura de tres brazos;
-- plataforma;
-- terraza/mirador;
-- rutas alternativas creadas tras cambios de geometría;
-- `NODO EXTERIOR 1` y expansión de XXV;
-- región abierta de cascadas;
-- ruptura provisional del límite exterior.
+Se ha construido un mapa lógico tridimensional del sector ya explorado con nodos, rutas, estados de acceso, límites físicos, estabilidad y fronteras del conocimiento.
 
 Resultado: `KNOWN_WORLD_MAP.md`.
-
-El mapa V1 registra además estados de acceso (recorrido / observado / límite), estabilidad de rutas y fronteras del conocimiento, para evitar convertir observaciones lejanas en conexiones no demostradas.
 
 ---
 
@@ -83,8 +64,6 @@ Capas de trabajo:
 - I3 — niveles oscuros profundos (**RESERVA / MISTERIO**);
 - I4 — profundidad deliberadamente no modelada (**MISTERIO**).
 
-El documento separa además el transporte vertical provisional de agua, aire y materia orgánica, y prohíbe convertir el dato local de temperatura inferior en un gradiente global no demostrado.
-
 Resultado: `PLANETARY_LAYERS.md`.
 
 ---
@@ -93,7 +72,7 @@ Resultado: `PLANETARY_LAYERS.md`.
 
 **Estado: COMPLETA V1 — `ECOLOGY_NETWORK.md`**
 
-La primera red funcional ya conecta energía, agua, partículas, biomasa, reciclaje y movimiento entre alturas sin cerrar prematuramente taxonomías.
+La primera red funcional conecta energía, agua, partículas, biomasa, reciclaje y movimiento entre alturas sin cerrar prematuramente taxonomías.
 
 Principios fijados:
 
@@ -106,8 +85,6 @@ Principios fijados:
 - planeadores, flora suspendida y bioluminiscencia profunda permanecen en RESERVA;
 - microorganismos vivos e inteligencia ecológica global permanecen como MISTERIO, no hechos.
 
-Se ha añadido una cadena ecológica de trabajo y una matriz por capas para que regiones futuras nazcan de flujos coherentes.
-
 Resultado: `ECOLOGY_NETWORK.md`.
 
 `FAUNA.md` y `FLORA.md` se posponen deliberadamente hasta estabilizar clima y regiones.
@@ -115,6 +92,8 @@ Resultado: `ECOLOGY_NETWORK.md`.
 ---
 
 # FASE 4 — CLIMA Y CICLOS
+
+**Estado: PENDIENTE — `CLIMATE.md`**
 
 Definir un clima que modifique rutas y supervivencia.
 
@@ -129,35 +108,47 @@ Investigar por diseño:
 - ciclos de luz;
 - comportamiento de raíces frente al clima.
 
+Se mantiene pendiente porque la primera versión regional ya puede apoyarse en procesos canónicos y reservas climáticas sin cerrar aún ciclos globales.
+
 Resultado esperado: `CLIMATE.md`.
 
 ---
 
 # FASE 5 — GEOGRAFÍA A GRAN ESCALA
 
-**Estado: SIGUIENTE BLOQUE DEL PRIMER PAQUETE — `REGIONS.md`**
+**Estado: COMPLETA V1 — `REGIONS.md`**
 
-El planeta debe ser mayor que el mapa del protagonista.
+La primera geografía regional ya convierte capas y flujos en sistemas espaciales que cambian decisiones antes que estética.
 
-Definir regiones visibles o inferibles a distancia antes de visitarlas.
+Regiones de trabajo:
 
-Posibles reservas de diseño:
+- R0 — sector de la cápsula (**CANON + DISEÑO derivado**);
+- R1 — corredores de cascadas (**DISEÑO fuerte + canon parcial**);
+- R2 — campos de raíces entrelazadas (**DISEÑO**);
+- R3 — bóvedas de captación (**DISEÑO + canon parcial**);
+- R4 — cinturones de niebla persistente (**DISEÑO fuerte**);
+- R5 — corredores de tormenta (**RESERVA**);
+- R6 — redes inferiores de retención (**DISEÑO + canon parcial**);
+- R7 — bosques invertidos (**RESERVA**);
+- R8 — exposición fría superior (**RESERVA**);
+- R9 — dominio de geometrías regulares (**MISTERIO + contención de diseño**);
+- R10 — profundidades sin luz directa (**RESERVA / MISTERIO**).
 
-- región de cascadas;
-- cinturón de tormentas;
-- campos de raíces entrelazadas;
-- bóvedas suspendidas;
-- capa fría superior;
-- niveles inferiores sin luz directa;
-- regiones dominadas por estructuras regulares.
+Principios fijados:
 
-Cada región deberá distinguirse primero por sistema físico/ecológico y solo después por fauna espectacular.
+- una región es un régimen espacial, no una frontera política o continente;
+- una región puede atravesar varias capas;
+- las fronteras pueden ser graduales, abruptas, móviles, biológicas u ocultas;
+- ninguna región nueva se valida sin motor físico, flujo de agua, comportamiento del aire, coste humano y conexión ecológica;
+- el paisaje espectacular aparece después de que cambien las reglas locales.
 
-Resultado esperado: `REGIONS.md`.
+Resultado: `REGIONS.md`.
 
 ---
 
 # FASE 6 — ESTRUCTURAS Y PASADO
+
+**Estado: PENDIENTE — `STRUCTURES_AND_ANOMALIES.md`**
 
 Separar siempre observación de interpretación.
 
@@ -179,6 +170,8 @@ Resultado esperado: `STRUCTURES_AND_ANOMALIES.md`.
 
 # FASE 7 — HISTORIA PROFUNDA
 
+**Estado: PENDIENTE — `DEEP_HISTORY.md`**
+
 Crear primero una historia interna para el equipo creativo y decidir después cuánto llega al lector.
 
 Preguntas:
@@ -196,6 +189,8 @@ Resultado esperado: `DEEP_HISTORY.md`.
 
 # FASE 8 — EL MISTERIO DE LOS 37 SEGUNDOS
 
+**Estado: SIGUIENTE BLOQUE DEL PRIMER PAQUETE — `MYSTERY_37S.md`**
+
 Mantener varias explicaciones compatibles mientras el manuscrito no cierre el fenómeno.
 
 Para cada aparición futura:
@@ -205,17 +200,31 @@ Para cada aparición futura:
 - evitar repetición idéntica;
 - conectar gradualmente el fenómeno con otras partes del mundo solo cuando exista evidencia.
 
-Resultado esperado: `MYSTERY_37S.md` con secciones HECHO / HIPÓTESIS / DESCARTADO / RESERVA.
+El documento deberá distinguir:
+
+- HECHOS;
+- HIPÓTESIS compatibles;
+- hipótesis debilitadas o descartadas;
+- pruebas futuras posibles;
+- límites que ninguna explicación puede violar;
+- RESERVA narrativa.
+
+No se elegirá una respuesta definitiva en esta fase.
+
+Resultado esperado: `MYSTERY_37S.md`.
 
 ---
 
 # FASE 9 — INTEGRACIÓN CON EL JUEGO
+
+**Estado: PENDIENTE**
 
 Traducir mundo narrativo a diseño jugable sin reducirlo a una cuadrícula plana.
 
 Cada localización debe poder definir:
 
 - altura/capa;
+- región dominante;
 - accesos;
 - coste de aire/filtro;
 - agua;
@@ -247,6 +256,9 @@ Resultado esperado: puente entre la novela y `project-elyndra`.
 13. Una señal útil al protagonista debe tener primero una función propia dentro del ecosistema.
 14. Una especie nueva necesita nicho, flujos y relaciones antes de recibir nombre definitivo.
 15. Primero cambia el sistema; después aparece la criatura.
+16. Una región debe existir por procesos persistentes, no por estética.
+17. Las regiones pueden atravesar capas y sus fronteras pueden moverse.
+18. Una observación regular nunca autoriza por sí sola una interpretación tecnológica.
 
 ---
 
@@ -257,7 +269,7 @@ Orden de ejecución:
 1. `KNOWN_WORLD_MAP.md` — **COMPLETO V1**
 2. `PLANETARY_LAYERS.md` — **COMPLETO V1**
 3. `ECOLOGY_NETWORK.md` — **COMPLETO V1**
-4. `REGIONS.md` — **SIGUIENTE**
-5. `MYSTERY_37S.md`
+4. `REGIONS.md` — **COMPLETO V1**
+5. `MYSTERY_37S.md` — **SIGUIENTE**
 
 Hasta terminar este bloque, no se fijarán nombres definitivos para nuevas especies o regiones salvo necesidad narrativa real.
