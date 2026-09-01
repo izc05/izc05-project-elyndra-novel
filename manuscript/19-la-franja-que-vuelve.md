@@ -1,151 +1,205 @@
-# Capítulo XIX — La franja que vuelve
+# Capítulo X — Antes de la llamada
 
-La marca del armario no se había movido.
+La franja clara había empezado a desaparecer.
 
-Las raciones, sí.
+No del todo.
 
-Comí media barra fría mientras abría la fotografía de la placa cobriza observada en XIII.
+Lo suficiente.
 
-Borde roto.
+Volví a la misma placa cobriza de la bóveda con una fotografía antigua en la cámara y nada más que lo imprescindible. El filtro empezó a cargar antes de llegar; la rodilla protestó después.
 
-Nervadura diagonal.
+Encontré el borde roto. La nervadura diagonal. Las dos manchas de humedad.
 
-Dos manchas de humedad.
+Y la franja.
 
-Y, en el reverso, la franja clara donde la criatura había retirado película oscura.
+Seguía allí, pero los márgenes oscuros habían avanzado sobre parte del recorrido que la criatura de seis apoyos había dejado limpio.
 
-La había marcado.
+Me agaché.
 
-No había vuelto.
+—Así que vuelves.
 
-Hasta ese día.
+Cambié el ángulo de la linterna. Parte de la diferencia desapareció con el brillo.
 
----
+Parte no.
 
-Dejé el analizador y los recipientes de muestra en la cápsula.
+En tres tramos, la película ocupaba superficie que antes estaba despejada.
 
-Llevé cámara, regla, linterna y agua terrestre.
+No sabía si había crecido, resbalado desde los bordes o llegado de otra parte.
 
-Nada más.
+No necesitaba saberlo todavía.
 
-La bóveda volvió a cargar el filtro con mayor rapidez. Las partículas aparecieron cuando crucé la linterna de lado.
+La relación era suficiente: la criatura retiraba algo que después podía volver a cubrir la placa.
 
-No me detuve.
+Una pequeña ecología funcionando sin mí.
 
-Busqué el borde roto.
+La rodilla se endureció al incorporarme.
 
-La tercera placa era la correcta.
+No esperé a que apareciera el animal.
 
-Misma nervadura.
-
-Misma geometría.
-
-Una de las manchas casi seca.
-
-Pasé la luz por debajo.
-
-La franja seguía allí.
-
-Pero no igual.
+Regresé.
 
 ---
 
-En la imagen antigua, el recorrido claro atravesaba casi toda la película.
+A la mañana siguiente la pierna decidió por mí.
 
-Ahora los márgenes habían vuelto a oscurecerse.
+No salí.
 
-Milímetros en algunos tramos.
+Me quedé dentro de la cápsula con la rodilla extendida y el receptor de emergencia abierto en una pantalla secundaria. La baliza transmitió a su hora.
 
-Más en otros.
+Sin respuesta.
 
-El centro seguía claro, sobre todo cerca del punto donde había empezado el contacto de la criatura.
+Desplacé el registro unos minutos hacia atrás mientras comía media ración fría.
 
-Repetí el encuadre hasta alinear borde y nervadura. Acerqué la regla sin tocar la superficie.
+Una elevación rompía el ruido de fondo.
 
-En un extremo la franja mantenía casi el ancho antiguo.
+Volví atrás.
 
-En el otro, el material oscuro ocupaba ambos lados y dejaba una línea clara de menos de la mitad.
+Tres fragmentos.
 
-Podía ser crecimiento.
+El primero corto. El segundo más ancho. El tercero casi deshecho.
 
-Desplazamiento desde los bordes.
+Marqué el inicio.
 
-Depósito.
+Treinta y siete segundos antes de la transmisión.
 
-Una diferencia de humedad.
+Sentí el estómago cerrarse antes de abrir la captura dañada de la entrada.
 
-Cambié el ángulo de la linterna y la apariencia varió lo suficiente para recordarme que no todas las diferencias eran físicas.
+**37**
 
-No corté nada.
+La cerré enseguida.
 
-No gasté reactivo.
+No quería una respuesta bonita.
 
-Fotografié.
+Quería una explicación que sobreviviera a una prueba.
+
+Empecé por la cápsula.
+
+El transmisor no figuraba activo cuando aparecieron los fragmentos. Su autodiagnóstico normal empezaba unos doce segundos antes de emitir. El registro de corriente tampoco mostraba el escalón de una transmisión.
+
+Receptor, controlador y batería compartían una referencia temporal suficientemente cercana como para no regalarme una explicación fácil.
+
+Eso tampoco descartaba un error común.
+
+Todo estaba dentro de la misma carcasa golpeada, húmeda y reparada demasiadas veces.
+
+Esperé la siguiente llamada.
+
+Treinta y siete segundos antes: ruido.
+
+Doce segundos antes: autodiagnóstico.
+
+Emisión.
+
+Nada.
+
+Un ciclo más.
+
+Nada otra vez.
+
+La anomalía no quería repetirse solo porque yo la mirara.
 
 ---
 
-Esperé veintisiete minutos sin que apareciera ninguna criatura.
+Al día siguiente la rodilla aceptaba mejor el peso.
 
-El filtro siguió cargándose y la rodilla empezó a endurecerse.
+Volví a quedarme dentro.
 
-En el regreso vi otra placa con tres líneas claras muy juntas.
+Necesitaba una prueba que pudiera fallar.
 
-No tenía imagen anterior de ese punto.
+La baliza transmitía según una hora conocida por el controlador. Si aquello salía de una fuga interna, del reloj compartido o del bus de alimentación, mover la llamada podía mover también el fenómeno.
 
-La fotografié y seguí.
+Desplacé la siguiente transmisión siete minutos y catorce segundos.
 
-Una observación sin comparación no podía demostrar cambio.
+No cambié mensaje, frecuencia ni potencia.
+
+Solo la hora.
+
+Me senté frente al receptor.
+
+Ruido.
+
+Un minuto.
+
+Cincuenta segundos.
+
+Cuarenta.
+
+A treinta y ocho, la línea se levantó.
+
+Un fragmento.
+
+Luego otro.
+
+Después un tercero apenas visible.
+
+La baliza seguía en espera.
+
+El autodiagnóstico aún no había comenzado.
+
+La recepción terminó.
+
+Doce segundos antes de la nueva hora, el sistema inició su secuencia normal.
+
+La baliza transmitió.
+
+Sin respuesta.
+
+No respiré bien hasta mirar los dos tiempos juntos.
+
+**−36,91 s**
+
+La nueva forma de onda se parecía a la anterior sin ser una copia limpia.
+
+Eso era peor.
+
+Si hubiera sido idéntica, habría tenido algo concreto que perseguir. Si hubiera sido distinta, quizá habría podido llamarlo coincidencia.
+
+Se quedó justo en medio.
+
+Abrí el esquema eléctrico.
+
+Receptor y controlador compartían referencia temporal.
+
+También parte de la alimentación antes de separarse.
+
+El controlador conocía la nueva hora.
+
+La explicación interna seguía viva.
+
+Y tenía que seguir viva.
+
+Devolví la baliza a su programación habitual.
+
+En la siguiente llamada, treinta y siete segundos antes solo hubo ruido.
+
+Autodiagnóstico.
+
+Emisión.
+
+Nada.
 
 ---
 
-Dentro de la cápsula alineé las fotografías por el borde roto, la nervadura y las manchas de humedad.
+Por la tarde una membrana exterior se tensó en la cámara.
 
-Solo tres segmentos permitían una comparación razonable.
+Mi cuerpo cambió de postura antes de que llegara la ráfaga, aunque yo estuviera sentado dentro.
 
-En esos tres, la película oscura ocupaba superficie que antes estaba despejada.
+Me hizo sonreír.
 
-En otros puntos, el ángulo o la humedad bastaban para explicar la diferencia.
+Había cosas de Elyndran que empezaba a aprender con el cuerpo.
 
-Separé ambos grupos.
+Otras seguían negándose incluso cuando las encerraba entre relojes.
 
-Escribí:
+Preparé el traje para el día siguiente y dejé el receptor grabando.
 
-**COBERTURA OSCURA PARCIALMENTE RESTABLECIDA ENTRE REGISTROS.**
+La placa de la bóveda podía volver a oscurecerse.
 
-**MECANISMO NO DETERMINADO.**
+La señal podía volver a aparecer.
 
-No escribí *crecimiento*.
+Ninguna de las dos cosas significaba todavía lo que yo quería que significara.
 
-Abrí el análisis de XIII.
+Pero una de ellas ocurría sobre una raíz que podía alcanzar.
 
-Cadenas orgánicas complejas.
+La otra acababa de adelantarse por segunda vez a una llamada que yo mismo había movido.
 
-Compuestos nitrogenados.
-
-Compatibilidad humana no determinada.
-
-Nada nuevo.
-
-Lo cerré.
-
-La película había vuelto a ocupar parte de un espacio.
-
-No sabía cómo.
-
-Ni si lo haría otra vez.
-
-Antes de cenar preparé una referencia con los tres puntos comparables y la dejé junto al mapa.
-
-Fuera, un golpe profundo llegó desde niveles inferiores.
-
-Solo uno.
-
-Esperé el segundo.
-
-No llegó.
-
-Comí la otra mitad de la ración mirando la fotografía.
-
-La pregunta seguía allí.
-
-Ahora ocupaba menos texto y más tiempo.
+Eso bastaba para seguir.
