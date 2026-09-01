@@ -1,15 +1,22 @@
-# Capítulo V — La ruta que sube — Brief visual TOP
+# Capítulo III — La ruta que sube — Brief visual FAST CUT
 
 Canon visual subordinado a `CONTINUITY.md`, `ELYNDRAN_WORLD_BIBLE_V1.md` y al manuscrito bloqueado.
 
-## A — Entrada en la bóveda viva
-
-Plano general cinematográfico del protagonista entrando desde la ruta ascendente en una gran bóveda vegetal suspendida sobre raíces negras mojadas. La lluvia queda atrás y por encima; columnas verdes arqueadas cruzan el espacio, placas cobrizas aparecen entre ellas y la profundidad se pierde en penumbra húmeda. El protagonista debe verse pequeño frente a la escala, casco cerrado y traje EVA coherente. La escena debe sugerir que el aire aquí cuesta más sin mostrar HUD ni texto. No revelar todavía la criatura ni la terraza.
+## A — Bóveda viva
+Plano general cinematográfico del protagonista entrando en la ruta ascendente bajo una bóveda vegetal suspendida. Columnas verdes, placas cobrizas, filamentos blancos y humedad densa; la lluvia queda fuera. El protagonista debe verse pequeño, con casco cerrado y traje EVA coherente. La escena transmite belleza y coste ambiental sin HUD ni texto.
 
 ## I1 — Seis apoyos
+Escena cercana dentro de la bóveda: criatura pequeña de cuerpo bajo, seis apoyos finos y placas cobrizas dorsales, parcialmente camuflada contra la corteza. Una estructura tubular alcanza una gota en un surco. El protagonista observa agachado, sin contacto de piel y sin convertir al animal en mascota o amenaza.
 
-Escena cercana, tensa y curiosa dentro de la bóveda. El protagonista agachado observa una criatura pequeña de cuerpo bajo con seis apoyos finos y placas cobrizas dorsales que la camuflan contra la corteza. Una estructura tubular corta alcanza una gota atrapada en un surco. Alrededor, filamentos blancos y películas translúcidas muestran un ecosistema húmedo y extraño. La criatura no debe parecer mascota ni depredador; comportamiento ambiguo y plausible. Casco cerrado, sin contacto directo de piel.
+## I2 — El vacío y la línea oscura
+Después de conectar visualmente la ruta ascendente con la región horizontal, mostrar al protagonista en el extremo roto de la raíz horizontal. Delante hay un vacío real e infranqueable hacia la raíz opuesta y las formas verticales parcialmente ocultas por niebla. Bajo la raíz opuesta, una apertura revela una línea oscura integrada que sale, curva y vuelve a entrar en la corteza. No presentarla como cable, tubería ni tecnología confirmada. La escena debe unir escala, frustración y misterio.
 
-## I2 — La terraza y la región común
-
-Plano amplio desde la terraza abierta tras la bóveda. El protagonista junto al borde contempla capas de raíces gigantes, nubes inferiores, manchas de vegetación y una tormenta gris acercándose desde otra región. A través de una apertura de niebla, muy lejos, aparecen líneas rectas y ángulos oscuros que recuerdan a las formas vistas desde la ruta horizontal. Debe sentirse como el instante en que dos zonas del mapa se conectan mentalmente, no como revelación de ciudad o tecnología. Las membranas bajo la terraza están tensas por el cambio de viento. Fotorealismo cinematográfico, monumental, sin texto ni interfaces.
+## Continuidad obligatoria
+- mismo protagonista y mismo traje EVA;
+- casco cerrado en exterior;
+- sin suelo visible;
+- filamentos blancos responden a luz, sin explicación añadida;
+- criatura de seis apoyos pequeña y no agresiva en lo observado;
+- formas regulares y línea oscura siguen ambiguas;
+- la plataforma no es edificio, ciudad, templo ni máquina confirmada;
+- fotorealismo cinematográfico plausible, sin texto generado.
